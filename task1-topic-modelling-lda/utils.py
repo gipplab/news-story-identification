@@ -25,14 +25,17 @@ import random
 spacy.load('en_core_web_sm')
 parser = English()
 
-nltk.download('wordnet')
+# nltk.download('wordnet')
 
 wnLemmatizer = WordNetLemmatizer()
 
-nltk.download('stopwords')
+# nltk.download('stopwords')
 en_stop = set(nltk.corpus.stopwords.words('english'))
 
 parser = English()
+
+DATA_FOLDER = 'polusa_balanced'
+OUTPUT_FOLDER = 'polusa_balanced'
 
 def read_data(file_name, nrows=None):
     if isinstance(file_name, list):
@@ -73,14 +76,14 @@ def lemmatize_1(word, wn):
 def lemmatize_2(word, lemmatizer):
     return lemmatizer.lemmatize(word)
 
-def preprocess(sentence, stop_words, parser, wordnet):
+def preprocess(sentence):
     tokens = tokenize(sentence, parser)
     tokens = [token for token in tokens if len(token) > 4]
-    tokens = [token for token in tokens if token not in stop_words]
-    tokens = [lemmatize_1(token, wordnet) for token in tokens]
+    tokens = [token for token in tokens if token not in en_stop]
+    tokens = [lemmatize_1(token, wn) for token in tokens]
     return tokens
 
-def save_model(model, file_name='Task1_LDA.gensim'):
+def save_model(model, filename='Task1_LDA.gensim'):
     model.save(filename)
     print(f'Model is saved `{filename}`')
 
@@ -124,7 +127,7 @@ def pipeline(save=True):
     documents = extract_document_body(data)
 
     # Step 3 - preprocessing
-    text_data = [preprocess(body, en_stop, parser, wn) for body in documents]
+    text_data = [preprocess(body) for body in documents]
 
     # Step 4 - build dictionary
     dictionary = corpora.Dictionary(text_data)
