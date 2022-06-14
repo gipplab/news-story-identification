@@ -1,0 +1,1 @@
+python task1_optimize.py --num-topics 100 --chunk-size 10000 --passes 0 --out-dir polusa_balanced --data-dir polusa_balanced
