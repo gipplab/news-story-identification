@@ -13,10 +13,12 @@ class Dictionary():
         dict.save(self.dictfilename)
         print(f'Dictionary saved into file {self.dictfilename}')
 
-    def build(self, data_dir=DATA_FOLDER, out_dir=OUTPUT_FOLDER):
+    def build(self, data_dir=DATA_FOLDER, out_dir=OUTPUT_FOLDER, save=True, filename='Task1_dictionary_full.gensim'):
         print(f'Start building dictionary')
+        self.dictfilename = filename
         data = DataGenerator(data_dir)
         dictionary = corpora.Dictionary(data)
         print(f'Dictionary built finished! {len(dictionary)} words mapped')
-        self.save(dictionary, filename=f'./output/{out_dir}/Task1_dictionary_full.gensim')
+        if save:
+            self.save(dictionary, filename=f'./output/{out_dir}/{self.dictfilename}')
         return dictionary
