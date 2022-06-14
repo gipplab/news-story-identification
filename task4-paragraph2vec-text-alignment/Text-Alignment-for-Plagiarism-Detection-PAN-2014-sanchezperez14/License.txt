@@ -1,0 +1,20 @@
+The system is described in the following paper(s):
+
+    Miguel Sanchez-Perez, Grigori Sidorov, Alexander Gelbukh. 
+    The Winning Approach to Text Alignment for Text Reuse Detection at PAN 2014. 
+    In: L. Cappellato, N. Ferro, M. Halvey, W. Kraaij (eds.). 
+    Notebook for PAN at CLEF 2014. 
+    CLEF 2014. CLEF2014 Working Notes. Sheffield, UK, September 15-18, 2014. 
+    CEUR Workshop Proceedings, ISSN 1613-0073, Vol. 1180, CEUR-WS.org, 2014, pp. 1004–1011.
+    
+    (This paper can be also mistakenly indexed as “A Winning Approach to Text Alignment for Text Reuse Detection at PAN 2014”.)
+
+    http://ceur-ws.org/Vol-1180/CLEF2014wn-Pan-SanchezPerezEt2014.pdf
+    http://www.gelbukh.com/plagiarism-detection/PAN-2014/A%20Winning%20Approach%20to%20Text%20Alignment%20for%20Text%20Reuse%20Detection%20at%20PAN%202014.pdf
+
+License: free for non-commercial academic purposes. 
+Any publication that benefited from these data or software must state the origin of the data and software and cite the abovementioned paper(s). 
+We will be grateful to you if you let us know of the use of the data or software and of citing our papers. 
+Any derived work should specify the original source and its authors and contain this license, including the publication references mentioned above. 
+If you modify this corpus or software, correct errors in it, or add annotation/functionality to it, we will be grateful if you send us the new version, to be available from this site. 
+See also individual license files or comments in the specific files, if any.
