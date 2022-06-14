@@ -6,3 +6,4 @@ task1-topic-modelling-lda/custom_log_ratio_measure.py.bak
 /task2-narrow-event-detection-giveme5w1h/data/
 /task2-narrow-event-detection-giveme5w1h/training/examples/datasets/
 
+*.bak
