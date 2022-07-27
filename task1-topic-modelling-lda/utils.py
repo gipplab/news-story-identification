@@ -1,3 +1,6 @@
+from os import listdir
+from os.path import isfile, join
+
 # Pandas
 import pandas as pd
 
@@ -51,6 +54,10 @@ def extract_document_body(data):
     bodys = [row['body'] for index, row in data.iterrows()]
     return bodys
 
+def extract_dataframe_content(dataframe, column):
+    content = [row[column] for index, row in dataframe.iterrows()]
+    return content
+
 def tokenize(text, parser):
     lda_tokens = []
     tokens = parser(text)
@@ -76,10 +83,21 @@ def lemmatize_1(word, wn):
 def lemmatize_2(word, lemmatizer):
     return lemmatizer.lemmatize(word)
 
-def preprocess(sentence):
+"""
+    Last update:
+        changed function name from `preprocess` into `process_text`
+"""
+def process_text(sentence):
+    # Tokenize
     tokens = tokenize(sentence, parser)
+
+    # Remove short words
     tokens = [token for token in tokens if len(token) > 4]
+
+    # Remove stop words
     tokens = [token for token in tokens if token not in en_stop]
+
+    # Lemmatize
     tokens = [lemmatize_1(token, wn) for token in tokens]
     return tokens
 
@@ -127,7 +145,7 @@ def pipeline(save=True):
     documents = extract_document_body(data)
 
     # Step 3 - preprocessing
-    text_data = [preprocess(body) for body in documents]
+    text_data = [process_text(body) for body in documents]
 
     # Step 4 - build dictionary
     dictionary = corpora.Dictionary(text_data)
@@ -144,3 +162,20 @@ def pipeline(save=True):
         save_model(model)
 
     return model
+
+
+def list_files(folder):
+    files = [f for f in listdir(folder) if isfile(join(folder, f))]
+    return files
+
+
+def pickle_save(object, folder, file_name):
+    with open(f'{join(folder, file_name)}', 'wb') as f:
+        pickle.dump(object, f, protocol=pickle.HIGHEST_PROTOCOL)
+    f.close()
+
+def pickle_load(folder, file_name):
+    with open(f'{join(folder, file_name)}', 'rb') as f:
+        object = pickle.load(f)
+    f.close()
+    return object

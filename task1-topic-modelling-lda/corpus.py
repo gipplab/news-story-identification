@@ -1,7 +1,7 @@
 from gensim import corpora
 from data_generator import DataGenerator
 import pandas as pd
-from utils import preprocess, DATA_FOLDER, OUTPUT_FOLDER
+from utils import process_text, DATA_FOLDER, OUTPUT_FOLDER
 
 class Corpus:
 
@@ -21,11 +21,11 @@ class Corpus:
 
     def __iter__(self):
         for f in self.files:
-            print(f'Building corpus from ./data/{self.data_dir}/{f}')
-            for df in pd.read_csv(f'./data/{self.data_dir}/{f}', sep=',', iterator=True, chunksize=10000):
+            print(f'Building corpus from {self.data_dir}{f}')
+            for df in pd.read_csv(f'{self.data_dir}{f}', sep=',', iterator=True, chunksize=10000):
                 for index, row in df.iterrows():
-                    content = preprocess(row['body'])
+                    content = process_text(row['body'])
                     if index > 0 and index % 10000 == 0:
                         print(f'{index} corpuses built... ')
                     yield self.dictionary.doc2bow(content)
-            print(f'Done with ./data/{self.data_dir}/{f}')
+            # print(f'Done with {self.data_dir}{f}')

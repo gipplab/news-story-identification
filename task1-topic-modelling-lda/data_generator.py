@@ -1,5 +1,5 @@
 import pandas as pd
-from utils import preprocess, DATA_FOLDER, OUTPUT_FOLDER
+from utils import process_text, DATA_FOLDER, OUTPUT_FOLDER
 
 class DataGenerator():
     def __init__(self, data_dir=DATA_FOLDER):
@@ -15,11 +15,11 @@ class DataGenerator():
 
     def __iter__(self):
         for f in self.files:
-            print(f'Reading documents from ./data/{self.data_dir}/{f}')
-            for df in pd.read_csv(f'./data/{self.data_dir}/{f}', sep=',', iterator=True, chunksize=10000):
+            print(f'Reading documents from {self.data_dir}{f}')
+            for df in pd.read_csv(f'{self.data_dir}{f}', sep=',', iterator=True, chunksize=10000):
                 for index, row in df.iterrows():
-                    content = preprocess(row['body'])
+                    content = process_text(row['body'])
                     if index > 0 and index % 10000 == 0:
                         print(f'{index} documents read... ')
                     yield content
-            print(f'Done with ./data/{self.data_dir}/{f}')
+            # print(f'Done with {self.data_dir}{f}')
