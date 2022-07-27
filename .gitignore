@@ -1,14 +1,16 @@
 /data
 
 /task1-topic-modelling-lda/data/
-task1-topic-modelling-lda/custom_log_ratio_measure.py.bak
-/task4-paragraph2vec-text-alignment/data/
+/task1-topic-modelling-lda/output/
+/task3-source-retrieval/input/
+/task3-source-retrieval/output/
 /task2-narrow-event-detection-giveme5w1h/data/
+/task2-narrow-event-detection-giveme5w1h/output/
 /task2-narrow-event-detection-giveme5w1h/training/examples/datasets/
 /task2-narrow-event-detection-giveme5w1h/training/__pycache__/
 /task2-narrow-event-detection-giveme5w1h/training/result/
 /task2-narrow-event-detection-giveme5w1h/training/queue_caches/
-
+/task4-paragraph2vec-text-alignment/data/
 
 *.bak
 *.pyc
@@ -17,3 +19,4 @@ task1-topic-modelling-lda/custom_log_ratio_measure.py.bak
 *.Lnk
 *~
 *.pkl
+*.ipynb
