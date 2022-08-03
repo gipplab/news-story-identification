@@ -1,0 +1,968 @@
+{
+    "topic_id": "3",
+    "keywords": [
+        "korea",
+        "north",
+        "korean",
+        "kim",
+        "nuclear",
+        "south",
+        "jong",
+        "pyongyang",
+        "moon",
+        "un"
+    ],
+    "num_of_clusters": 2,
+    "score": 1.027016851881934,
+    "clusters": {
+        "0": [
+            [
+                "4494057",
+                {
+                    "who": "Korea",
+                    "what": "is ready to mass produce a new medium-range missile",
+                    "when": "undefined",
+                    "where": "North Korea"
+                }
+            ],
+            [
+                "4537465",
+                {
+                    "who": "two B-1B bombers and two F-35 fighters",
+                    "what": "participated in training",
+                    "when": "undefined",
+                    "where": "North Korea"
+                }
+            ],
+            [
+                "1101589",
+                {
+                    "who": "North Korea",
+                    "what": "tested its most powerful intercontinental ballistic missile",
+                    "when": "December 6 , 2017",
+                    "where": "North Korea"
+                }
+            ],
+            [
+                "4533847",
+                {
+                    "who": "all options",
+                    "what": "are on the table \" in terms",
+                    "when": "undefined",
+                    "where": "North Korea"
+                }
+            ],
+            [
+                "1876188",
+                {
+                    "who": "LONDON ( Reuters ) - Prime Minister Theresa May",
+                    "what": "is \u201c outraged \u201d by North Korea \u2019s will keep pressing China",
+                    "when": "September 13 , 2017",
+                    "where": "North Korea"
+                }
+            ],
+            [
+                "113875224",
+                {
+                    "who": "The U.S.",
+                    "what": "is beefing up its presence",
+                    "when": "undefined",
+                    "where": "North Korea"
+                }
+            ],
+            [
+                "115938049",
+                {
+                    "who": "North Korea",
+                    "what": "to cancel a high-level meeting",
+                    "when": "undefined",
+                    "where": "North Korea"
+                }
+            ],
+            [
+                "4461707",
+                {
+                    "who": "The launch",
+                    "what": "occurred around 4:30 p.m. local time , the South \u2019s",
+                    "when": "undefined",
+                    "where": "East Sea"
+                }
+            ],
+            [
+                "52899899",
+                {
+                    "who": "the U.S. and South Korea",
+                    "what": "refuse to ban their use",
+                    "when": "undefined",
+                    "where": "South Korea"
+                }
+            ],
+            [
+                "4474151",
+                {
+                    "who": "North Korea",
+                    "what": "fired multiple unidentified projectiles",
+                    "when": "undefined",
+                    "where": "North Korea"
+                }
+            ],
+            [
+                "18041219",
+                {
+                    "who": "Korea",
+                    "what": "will fire missiles",
+                    "when": "undefined",
+                    "where": "US"
+                }
+            ]
+        ],
+        "1": [
+            [
+                "116937164",
+                {
+                    "who": "Properties",
+                    "what": "was taking steps",
+                    "when": "undefined",
+                    "where": "North Korea"
+                }
+            ],
+            [
+                "4828439",
+                {
+                    "who": "One book",
+                    "what": "smuggled out of North Korea encapsulates both",
+                    "when": "May 2014",
+                    "where": "North Korea"
+                }
+            ],
+            [
+                "116015051",
+                {
+                    "who": "Kim Hak-song",
+                    "what": "had been detained on charges , making him",
+                    "when": "October 23 , 2016",
+                    "where": "North Korea"
+                }
+            ],
+            [
+                "2730481",
+                {
+                    "who": "North Korea",
+                    "what": "is pursuing a dual strategy",
+                    "when": "April 11 , 2017",
+                    "where": "North Korea"
+                }
+            ],
+            [
+                "2700623",
+                {
+                    "who": "REUTERS/Kim Hong-Ji SEOUL Jason Lim , a 36-year-old South Korean engineer living in Washington D.C. ,",
+                    "what": "thinks it",
+                    "when": "May 3 , 2017",
+                    "where": "Korea"
+                }
+            ],
+            [
+                "55229127",
+                {
+                    "who": "Kim Jong Nam",
+                    "what": "was attacked",
+                    "when": "June 4 , 2010",
+                    "where": "Pyongyang"
+                }
+            ],
+            [
+                "4862211",
+                {
+                    "who": "Kim Jong Nam",
+                    "what": "was attacked",
+                    "when": "undefined",
+                    "where": "Kuala Lumpur International Airport"
+                }
+            ],
+            [
+                "4740899",
+                {
+                    "who": "South Korea",
+                    "what": "has repeatedly shrugged it",
+                    "when": "19 July 1965",
+                    "where": "South Korea"
+                }
+            ],
+            [
+                "52891305",
+                {
+                    "who": "Malaysia",
+                    "what": "Agrees To Release Kim Jong Nam 's Enlarge this image toggle caption Vincent Thian/AP Vincent Thian/AP",
+                    "when": "undefined",
+                    "where": "Malaysia"
+                }
+            ],
+            [
+                "115975269",
+                {
+                    "who": "Car users in Pyongyang",
+                    "what": "were scrambling Friday",
+                    "when": "undefined",
+                    "where": "Pyongyang"
+                }
+            ],
+            [
+                "115883658",
+                {
+                    "who": "U.S. Secretary of State Rex Tillerson",
+                    "what": "signaled a tougher strategy",
+                    "when": "undefined",
+                    "where": "Beijing"
+                }
+            ],
+            [
+                "3390909",
+                {
+                    "who": "he",
+                    "what": "may be languishing in a jail cell but he",
+                    "when": "February 2013",
+                    "where": "United States"
+                }
+            ],
+            [
+                "4297565",
+                {
+                    "who": "Yoo-ra",
+                    "what": "became much less enthusiastic about the idea after they",
+                    "when": "undefined",
+                    "where": "South Korea"
+                }
+            ],
+            [
+                "4760909",
+                {
+                    "who": "complicated the North Korea dilemma",
+                    "what": "is",
+                    "when": "April 6 , 2017",
+                    "where": "North Korea"
+                }
+            ],
+            [
+                "4060636",
+                {
+                    "who": "Xi",
+                    "what": "tries to win over Mr. Moon",
+                    "when": "undefined",
+                    "where": "China"
+                }
+            ],
+            [
+                "116909817",
+                {
+                    "who": "The move against Samsung Electronics Vice Chairman Lee Jae-yong on Monday",
+                    "what": "is part of an investigation into a massive political corruption scandal that has shaken South Korea 's political and business elites",
+                    "when": "undefined",
+                    "where": "South Korea"
+                }
+            ],
+            [
+                "38932864",
+                {
+                    "who": "company",
+                    "what": "has also shone new light",
+                    "when": "August 2016",
+                    "where": "South Korea"
+                }
+            ],
+            [
+                "59512238",
+                {
+                    "who": "South Korea and China",
+                    "what": "announced Tuesday",
+                    "when": "undefined",
+                    "where": "China"
+                }
+            ],
+            [
+                "115967492",
+                {
+                    "who": "the sound of a voice",
+                    "what": "emerges",
+                    "when": "undefined",
+                    "where": "Korea"
+                }
+            ],
+            [
+                "4221546",
+                {
+                    "who": "North Korean leader Kim Jong Un",
+                    "what": "made a \" wise and well",
+                    "when": "Aug. 16 , 2017",
+                    "where": "North Korea"
+                }
+            ],
+            [
+                "4027715",
+                {
+                    "who": "Unilever",
+                    "what": "is moving away from mayonnaise and toward makeup",
+                    "when": "undefined",
+                    "where": "South Korea"
+                }
+            ],
+            [
+                "55413872",
+                {
+                    "who": "undefined",
+                    "what": "undefined",
+                    "when": "undefined",
+                    "where": "U.S. , Germany"
+                }
+            ],
+            [
+                "3841543",
+                {
+                    "who": "Retailers in the United States and other countries",
+                    "what": "have intentionally limited their exposure",
+                    "when": "undefined",
+                    "where": "North Korea"
+                }
+            ],
+            [
+                "3909526",
+                {
+                    "who": "the leaders of North Korea",
+                    "what": "are completely irrational , which has led them",
+                    "when": "undefined",
+                    "where": "North Korea"
+                }
+            ],
+            [
+                "3951471",
+                {
+                    "who": "North Korea",
+                    "what": "warned a United Nations committee",
+                    "when": "undefined",
+                    "where": "U.S."
+                }
+            ],
+            [
+                "4593929",
+                {
+                    "who": "North Korea",
+                    "what": "has n't reacted yet to newly announced U.S. travel restrictions",
+                    "when": "undefined",
+                    "where": "U.S."
+                }
+            ],
+            [
+                "1910029",
+                {
+                    "who": "Taiwan",
+                    "what": "has suspended refined oil and LNG exports",
+                    "when": "October 30 , 2015",
+                    "where": "Taiwan"
+                }
+            ],
+            [
+                "39158997",
+                {
+                    "who": "the war of words over North Korea",
+                    "what": "escalates",
+                    "when": "undefined",
+                    "where": "North Korea"
+                }
+            ],
+            [
+                "79063002",
+                {
+                    "who": "U.S. Ambassador to the United Nations Nikki Haley",
+                    "what": "speaks to Chinese Ambassador to the United Nations Liu Jieyi , left , before a Security Council vote",
+                    "when": "undefined",
+                    "where": "North Korea"
+                }
+            ],
+            [
+                "59489988",
+                {
+                    "who": "South Korea",
+                    "what": "would not seek to have nuclear weapons",
+                    "when": "undefined",
+                    "where": "North Korea"
+                }
+            ],
+            [
+                "4505404",
+                {
+                    "who": "Morozov",
+                    "what": "could reach the U.S. West Coast",
+                    "when": "undefined",
+                    "where": "U.S. West Coast"
+                }
+            ],
+            [
+                "5027075",
+                {
+                    "who": "Haley",
+                    "what": "spoke at an emergency meeting",
+                    "when": "undefined",
+                    "where": "US"
+                }
+            ],
+            [
+                "79089808",
+                {
+                    "who": "Released crewmen of the USS Pueblo",
+                    "what": "are escorted by MPs upon their arrival",
+                    "when": "Dec. 23 , 1968",
+                    "where": "North Korea"
+                }
+            ],
+            [
+                "38918867",
+                {
+                    "who": "Russia",
+                    "what": "had earlier announced an agreement to help North Korea",
+                    "when": "26 June 1950",
+                    "where": "Korea"
+                }
+            ],
+            [
+                "55207309",
+                {
+                    "who": "Thermal images of North Korea 's main nuclear site",
+                    "what": "show Pyongyang , a U.S. think tank",
+                    "when": "June 27 , 2008",
+                    "where": "North Korea"
+                }
+            ],
+            [
+                "3914643",
+                {
+                    "who": "a world leader",
+                    "what": "should n\u2019t hurl schoolyard insults",
+                    "when": "September 19 , 2017",
+                    "where": "United States"
+                }
+            ],
+            [
+                "59550800",
+                {
+                    "who": "North Korea",
+                    "what": "tested an intercontinental ballistic missile",
+                    "when": "undefined",
+                    "where": "North Korea"
+                }
+            ],
+            [
+                "52863225",
+                {
+                    "who": "New North Korea Sanctions",
+                    "what": "Enlarge this image toggle caption Bebeto Matthews/AP Bebeto Matthews/AP The United Nations Security Council",
+                    "when": "undefined",
+                    "where": "North Korea"
+                }
+            ],
+            [
+                "4727976",
+                {
+                    "who": "Macron",
+                    "what": "warned that Iran",
+                    "when": "undefined",
+                    "where": "Iran"
+                }
+            ],
+            [
+                "55118885",
+                {
+                    "who": "President Trump on Thursday",
+                    "what": "announced plans for new sanctions against North Korea",
+                    "when": "undefined",
+                    "where": "North Korea"
+                }
+            ],
+            [
+                "4588570",
+                {
+                    "who": "North Korea",
+                    "what": "exported coal in the six-month period ending in early August in violation of U.N. sanctions",
+                    "when": "December 2016",
+                    "where": "North Korea"
+                }
+            ],
+            [
+                "4381292",
+                {
+                    "who": "President Trump on Sunday",
+                    "what": "sounded a war",
+                    "when": "December 2011",
+                    "where": "U.S."
+                }
+            ],
+            [
+                "113706824",
+                {
+                    "who": "Getty Images President Trump",
+                    "what": "has been on relatively good behavior during this visit",
+                    "when": "undefined",
+                    "where": "North Korea"
+                }
+            ],
+            [
+                "5057694",
+                {
+                    "who": "Moon Jae-in",
+                    "what": "ca n't be accused of lacking ambition",
+                    "when": "December 1950",
+                    "where": "US"
+                }
+            ],
+            [
+                "4607587",
+                {
+                    "who": "North Korean leader Kim Jong Un on Saturday",
+                    "what": "invited South Korean President Moon Jae-in",
+                    "when": "undefined",
+                    "where": "Seoul"
+                }
+            ],
+            [
+                "4839753",
+                {
+                    "who": "North Korea",
+                    "what": "destroyed at least three nuclear tunnels",
+                    "when": "September 2017",
+                    "where": "North Korea"
+                }
+            ],
+            [
+                "55232914",
+                {
+                    "who": "news",
+                    "what": "alerts and special reports",
+                    "when": "undefined",
+                    "where": "North Korea"
+                }
+            ],
+            [
+                "115913574",
+                {
+                    "who": "North Korea",
+                    "what": "expressed a willingness to abandon its nuclear program only if its safety , South Korea",
+                    "when": "October 2007",
+                    "where": "North Korea"
+                }
+            ],
+            [
+                "4025211",
+                {
+                    "who": "President Trump",
+                    "what": "has notified Kim Jong-un",
+                    "when": "undefined",
+                    "where": "WASHINGTON"
+                }
+            ],
+            [
+                "115973541",
+                {
+                    "who": "man",
+                    "what": "was stressed and had no one",
+                    "when": "undefined",
+                    "where": "North Korea"
+                }
+            ],
+            [
+                "4083561",
+                {
+                    "who": "The North Korea",
+                    "what": "tweet near the end seemed most distressing to some",
+                    "when": "undefined",
+                    "where": "North Korea"
+                }
+            ],
+            [
+                "55477651",
+                {
+                    "who": "U.S. President Donald Trump",
+                    "what": "has said he",
+                    "when": "undefined",
+                    "where": "U.S."
+                }
+            ],
+            [
+                "55422246",
+                {
+                    "who": "his country",
+                    "what": "seeks to meet North Korean officials",
+                    "when": "undefined",
+                    "where": "Panmunjom"
+                }
+            ],
+            [
+                "4554677",
+                {
+                    "who": "the 34-year-old North Korean leader",
+                    "what": "brought a group",
+                    "when": "undefined",
+                    "where": "North Korea"
+                }
+            ],
+            [
+                "38895645",
+                {
+                    "who": "Donald Trump",
+                    "what": "will take a hardline position",
+                    "when": "undefined",
+                    "where": "US"
+                }
+            ],
+            [
+                "55300496",
+                {
+                    "who": "he",
+                    "what": "would have preferred to see the U.S. work",
+                    "when": "undefined",
+                    "where": "China"
+                }
+            ],
+            [
+                "55431129",
+                {
+                    "who": "President Donald Trump",
+                    "what": "has said he",
+                    "when": "undefined",
+                    "where": "North Korea"
+                }
+            ],
+            [
+                "4099244",
+                {
+                    "who": "a letter from Kim about summit President Trump",
+                    "what": "is expecting North Korean officials",
+                    "when": "undefined",
+                    "where": "Washington , D.C."
+                }
+            ],
+            [
+                "4752191",
+                {
+                    "who": "North Korea",
+                    "what": "has a complex nuclear program",
+                    "when": "undefined",
+                    "where": "North Korea"
+                }
+            ],
+            [
+                "4211732",
+                {
+                    "who": "President Donald Trump and North Korean Leader Kim Jong Un",
+                    "what": "will meet by May this year",
+                    "when": "Jan. 23 , 1968",
+                    "where": "North Korea"
+                }
+            ],
+            [
+                "55430954",
+                {
+                    "who": "President Trump",
+                    "what": "plans to sit down with Kim Jong Un",
+                    "when": "undefined",
+                    "where": "North Korea"
+                }
+            ],
+            [
+                "4293600",
+                {
+                    "who": "The South Korean government",
+                    "what": "is debating a proposal to bill South Korean taxpayers",
+                    "when": "undefined",
+                    "where": "North Korea"
+                }
+            ],
+            [
+                "18505161",
+                {
+                    "who": "Kim Yong-nam",
+                    "what": "will be the most senior official",
+                    "when": "undefined",
+                    "where": "South Korea"
+                }
+            ],
+            [
+                "115991587",
+                {
+                    "who": "KIM DONG CHUL Kim , a South Korean-born U.S. citizen ,",
+                    "what": "is the longest-serving detainee",
+                    "when": "Oct. 2 , 2015",
+                    "where": "North Korea"
+                }
+            ],
+            [
+                "55434849",
+                {
+                    "who": "the two allies",
+                    "what": "have cleared away a stumbling block",
+                    "when": "undefined",
+                    "where": "Washington and Seoul"
+                }
+            ],
+            [
+                "3907384",
+                {
+                    "who": "North Korean leader Kim Jong-un",
+                    "what": "asserted , \" The entire area",
+                    "when": "undefined",
+                    "where": "US"
+                }
+            ],
+            [
+                "18297122",
+                {
+                    "who": "Image copyright Reuters North Korea",
+                    "what": "has conducted six nuclear tests and every time",
+                    "when": "3 September 2017",
+                    "where": "North Korea"
+                }
+            ],
+            [
+                "4475440",
+                {
+                    "who": "The two Koreas",
+                    "what": "completed withdrawing troops and firearms",
+                    "when": "undefined",
+                    "where": "South Korea"
+                }
+            ],
+            [
+                "115994409",
+                {
+                    "who": "North Korea",
+                    "what": "has expelled a Japanese tourist",
+                    "when": "undefined",
+                    "where": "North Korea"
+                }
+            ],
+            [
+                "4108585",
+                {
+                    "who": "North Korea",
+                    "what": "remains one of the most repressive societies in the world",
+                    "when": "November 1 , 2018",
+                    "where": "North Korea"
+                }
+            ],
+            [
+                "4352618",
+                {
+                    "who": "Korea",
+                    "what": "took the step",
+                    "when": "August 24 , 2018",
+                    "where": "North Korea"
+                }
+            ],
+            [
+                "17970223",
+                {
+                    "who": "The office",
+                    "what": "was opened with great fanfare",
+                    "when": "undefined",
+                    "where": "Koreas"
+                }
+            ],
+            [
+                "55250333",
+                {
+                    "who": "news",
+                    "what": "alerts and special reports",
+                    "when": "undefined",
+                    "where": "Pyongyang"
+                }
+            ],
+            [
+                "113841183",
+                {
+                    "who": "South Korean President Moon Jae-in and North Korean leader Kim Jong Un",
+                    "what": "announced a sweeping set",
+                    "when": "undefined",
+                    "where": "PYONGYANG , North Korea"
+                }
+            ],
+            [
+                "18312525",
+                {
+                    "who": "Trump",
+                    "what": "expects a second summit",
+                    "when": "undefined",
+                    "where": "North"
+                }
+            ],
+            [
+                "55176274",
+                {
+                    "who": "Kim",
+                    "what": "is willing to deal",
+                    "when": "undefined",
+                    "where": "North Korea"
+                }
+            ],
+            [
+                "55104237",
+                {
+                    "who": "North Korea",
+                    "what": "to rein in its nuclear ambitions",
+                    "when": "undefined",
+                    "where": "Singapore"
+                }
+            ],
+            [
+                "55244424",
+                {
+                    "who": "Trump",
+                    "what": "be met in kind , South Korean officials",
+                    "when": "September 6 , 2018",
+                    "where": "North Korea"
+                }
+            ],
+            [
+                "52929487",
+                {
+                    "who": "Kim Jong Un",
+                    "what": "Goes To China Enlarge this image toggle caption Ng Han Guan/AP Ng Han Guan/AP North Korean leader Kim Jong Un",
+                    "when": "undefined",
+                    "where": "China"
+                }
+            ],
+            [
+                "52870924",
+                {
+                    "who": "undefined",
+                    "what": "undefined",
+                    "when": "undefined",
+                    "where": "North Korea"
+                }
+            ],
+            [
+                "55276795",
+                {
+                    "who": "North Korean official Kim Yong Chol",
+                    "what": "reappears after purge report",
+                    "when": "undefined",
+                    "where": "U.S."
+                }
+            ],
+            [
+                "18161425",
+                {
+                    "who": "my",
+                    "what": "will be leaving Japan",
+                    "when": "undefined",
+                    "where": "North Korea"
+                }
+            ],
+            [
+                "55175250",
+                {
+                    "who": "undefined",
+                    "what": "undefined",
+                    "when": "undefined",
+                    "where": "North Korea"
+                }
+            ],
+            [
+                "115920689",
+                {
+                    "who": "Pompeo",
+                    "what": "believes there",
+                    "when": "May 4 , 2019",
+                    "where": "North Korea"
+                }
+            ],
+            [
+                "4455858",
+                {
+                    "who": "Kim",
+                    "what": "is under far more pressure",
+                    "when": "undefined",
+                    "where": "North Korea"
+                }
+            ],
+            [
+                "55264827",
+                {
+                    "who": "South Korea \u2019s military code",
+                    "what": "does not comply with the international human rights obligations",
+                    "when": "undefined",
+                    "where": "South Korea"
+                }
+            ],
+            [
+                "18113123",
+                {
+                    "who": "Haley",
+                    "what": "is \" prepared to use the full range",
+                    "when": "undefined",
+                    "where": "North Korea : US"
+                }
+            ],
+            [
+                "4003359",
+                {
+                    "who": "Residents of Nenoksa , the village closest to the incident ,",
+                    "what": "were told to leave on a special train that would be sent to their community reported on Tuesday",
+                    "when": "undefined",
+                    "where": "Severodvinsk"
+                }
+            ],
+            [
+                "17981036",
+                {
+                    "who": "North Korea",
+                    "what": "has fired multiple unidentified projectiles",
+                    "when": "undefined",
+                    "where": "North Korea"
+                }
+            ],
+            [
+                "2839624",
+                {
+                    "who": "SEOUL ( Reuters ) - South Korea on Thursday",
+                    "what": "held off a plan to drop Japan",
+                    "when": "undefined",
+                    "where": "South Korea"
+                }
+            ],
+            [
+                "4190507",
+                {
+                    "who": "CLOSE President Donald Trump",
+                    "what": "recounted the moment",
+                    "when": "August 7 , 2019",
+                    "where": "US"
+                }
+            ],
+            [
+                "38979281",
+                {
+                    "who": "North Korea",
+                    "what": "fired two unidentified projectiles",
+                    "when": "undefined",
+                    "where": "US"
+                }
+            ],
+            [
+                "3883282",
+                {
+                    "who": "North Korean leader Kim Jong Un",
+                    "what": "inspected a massive new submarine",
+                    "when": "July 23 , 2019",
+                    "where": "North Korea"
+                }
+            ],
+            [
+                "17826454",
+                {
+                    "who": "undefined",
+                    "what": "undefined",
+                    "when": "undefined",
+                    "where": "New Jersey"
+                }
+            ]
+        ]
+    }
+}

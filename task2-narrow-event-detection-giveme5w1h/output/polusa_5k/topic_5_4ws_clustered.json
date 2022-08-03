@@ -1,0 +1,761 @@
+{
+    "topic_id": "5",
+    "keywords": [
+        "facebook",
+        "users",
+        "data",
+        "google",
+        "privacy",
+        "zuckerberg",
+        "company",
+        "to",
+        "that",
+        "it"
+    ],
+    "num_of_clusters": 2,
+    "score": 1.0232041696742145,
+    "clusters": {
+        "0": [
+            [
+                "116918323",
+                {
+                    "who": "Mark Zuckerberg",
+                    "what": "spent the first 13 years",
+                    "when": "undefined",
+                    "where": "Atlantic , the U.K."
+                }
+            ],
+            [
+                "116910791",
+                {
+                    "who": "Anas Modamani",
+                    "what": "could n't believe his luck",
+                    "when": "August 2015",
+                    "where": "Germany"
+                }
+            ],
+            [
+                "116909432",
+                {
+                    "who": "Twitter",
+                    "what": "has long been criticized for being a breeding ground",
+                    "when": "undefined",
+                    "where": "undefined"
+                }
+            ],
+            [
+                "3964863",
+                {
+                    "who": "a user",
+                    "what": "clicks on the screen",
+                    "when": "undefined",
+                    "where": "Blockchain"
+                }
+            ],
+            [
+                "3292453",
+                {
+                    "who": "The days of Twitter Inc",
+                    "what": "limiting messages to 140 characters",
+                    "when": "September 27 , 2013",
+                    "where": "U.S."
+                }
+            ],
+            [
+                "4776692",
+                {
+                    "who": "world",
+                    "what": "unfolds",
+                    "when": "undefined",
+                    "where": "undefined"
+                }
+            ],
+            [
+                "55208699",
+                {
+                    "who": "fake news about the shooter 's political leanings and his religion",
+                    "what": "gained traction",
+                    "when": "undefined",
+                    "where": "undefined"
+                }
+            ],
+            [
+                "3936987",
+                {
+                    "who": "you",
+                    "what": "to continue reading",
+                    "when": "undefined",
+                    "where": "undefined"
+                }
+            ],
+            [
+                "4273917",
+                {
+                    "who": "YouTube",
+                    "what": "means",
+                    "when": "February , 2014",
+                    "where": "USA"
+                }
+            ],
+            [
+                "39186637",
+                {
+                    "who": "Facebook",
+                    "what": "is facing a class action lawsuit",
+                    "when": "undefined",
+                    "where": "US"
+                }
+            ],
+            [
+                "115954388",
+                {
+                    "who": "Twitter",
+                    "what": "made money for the first time in its nearly 12-year history",
+                    "when": "undefined",
+                    "where": "Zuckerberg"
+                }
+            ],
+            [
+                "39044135",
+                {
+                    "who": "Jason Calacanis , an early investor in Uber ,",
+                    "what": "spearheads a contest to find a service",
+                    "when": "undefined",
+                    "where": "Silicon Valley"
+                }
+            ],
+            [
+                "115913118",
+                {
+                    "who": "Trump",
+                    "what": "convenes task force",
+                    "when": "undefined",
+                    "where": "NEW YORK"
+                }
+            ],
+            [
+                "116915755",
+                {
+                    "who": "Zuckerberg",
+                    "what": "would welcome more regulation",
+                    "when": "undefined",
+                    "where": "US"
+                }
+            ],
+            [
+                "3969918",
+                {
+                    "who": "Facebook CEO Mark Zuckerberg",
+                    "what": "scheduled to testify in front this week",
+                    "when": "undefined",
+                    "where": "U.S. Capitol"
+                }
+            ],
+            [
+                "4654414",
+                {
+                    "who": "100 cutouts of Zuckerberg",
+                    "what": "wearing a t-shirt",
+                    "when": "undefined",
+                    "where": "Avaaz"
+                }
+            ],
+            [
+                "18380722",
+                {
+                    "who": "Bosworth",
+                    "what": "was intended to be provocative A Facebook executive 's",
+                    "when": "18 June 2016",
+                    "where": "Washington"
+                }
+            ],
+            [
+                "55171788",
+                {
+                    "who": "Facebook",
+                    "what": "was spun off into a separate application",
+                    "when": "undefined",
+                    "where": "undefined"
+                }
+            ],
+            [
+                "113900922",
+                {
+                    "who": "House Democrats ' release of more than 3,500 Russian-backed Facebook ads on Thursday",
+                    "what": "is refocusing attention",
+                    "when": "undefined",
+                    "where": "Russia"
+                }
+            ],
+            [
+                "116017287",
+                {
+                    "who": "Facebook CEO Mark Zuckerberg",
+                    "what": "plans to testify before Congress about the company 's , according to a person",
+                    "when": "undefined",
+                    "where": "undefined"
+                }
+            ],
+            [
+                "59589106",
+                {
+                    "who": "Twitter CEO Jack Dorsey",
+                    "what": "is asking for help",
+                    "when": "undefined",
+                    "where": "Florida"
+                }
+            ],
+            [
+                "52918311",
+                {
+                    "who": "Facebook",
+                    "what": "might make up possible abuses",
+                    "when": "undefined",
+                    "where": "Europe"
+                }
+            ],
+            [
+                "4701918",
+                {
+                    "who": "Facebook",
+                    "what": "is suspending Cambridge Analytica",
+                    "when": "undefined",
+                    "where": "Washington"
+                }
+            ],
+            [
+                "55205148",
+                {
+                    "who": "Instagram",
+                    "what": "is ready for its close up",
+                    "when": "undefined",
+                    "where": "SAN FRANCISCO"
+                }
+            ],
+            [
+                "115893467",
+                {
+                    "who": "Google",
+                    "what": "wants to know where you",
+                    "when": "undefined",
+                    "where": "Princeton"
+                }
+            ],
+            [
+                "116909574",
+                {
+                    "who": "Instagram",
+                    "what": "hopes to lure more college students",
+                    "when": "undefined",
+                    "where": "US"
+                }
+            ],
+            [
+                "115852304",
+                {
+                    "who": "Facebook",
+                    "what": "has identified and banned more accounts engaged in misleading political behavior ahead of the U.S. midterm elections",
+                    "when": "undefined",
+                    "where": "U.S."
+                }
+            ],
+            [
+                "52921371",
+                {
+                    "who": "YouTube",
+                    "what": "Has n't Done Enough",
+                    "when": "undefined",
+                    "where": "Boston Marathon"
+                }
+            ],
+            [
+                "131728036",
+                {
+                    "who": "Google employees",
+                    "what": "walk off the job on Nov. 1 to protest the company \u2019s",
+                    "when": "undefined",
+                    "where": "Michigan"
+                }
+            ],
+            [
+                "4256650",
+                {
+                    "who": "The company",
+                    "what": "reported 335 million monthly active users",
+                    "when": "undefined",
+                    "where": "Follow USA"
+                }
+            ],
+            [
+                "18534469",
+                {
+                    "who": "Google",
+                    "what": "have taken steps",
+                    "when": "undefined",
+                    "where": "undefined"
+                }
+            ],
+            [
+                "55220979",
+                {
+                    "who": "news",
+                    "what": "alerts and special reports",
+                    "when": "beginning in September 2017",
+                    "where": "undefined"
+                }
+            ],
+            [
+                "4079009",
+                {
+                    "who": "Mr. Systrom and Mr. Krieger",
+                    "what": "gave no indication",
+                    "when": "undefined",
+                    "where": "United States"
+                }
+            ],
+            [
+                "4483844",
+                {
+                    "who": "Facebook",
+                    "what": "told a user",
+                    "when": "undefined",
+                    "where": "Facebook"
+                }
+            ],
+            [
+                "17996775",
+                {
+                    "who": "Mr Bezos",
+                    "what": "accused AMI of trying to blackmail him over intimate photos",
+                    "when": "undefined",
+                    "where": "US"
+                }
+            ],
+            [
+                "55234517",
+                {
+                    "who": "the company",
+                    "what": "would limit outside access",
+                    "when": "undefined",
+                    "where": "Silicon Valley"
+                }
+            ],
+            [
+                "55183167",
+                {
+                    "who": "the social network",
+                    "what": "had used its enormous trove",
+                    "when": "undefined",
+                    "where": "undefined"
+                }
+            ],
+            [
+                "55202817",
+                {
+                    "who": "news",
+                    "what": "alerts and special reports",
+                    "when": "undefined",
+                    "where": "North America"
+                }
+            ],
+            [
+                "115857911",
+                {
+                    "who": "Facebook",
+                    "what": "admitted on Thursday that it",
+                    "when": "May 2016",
+                    "where": "Europe"
+                }
+            ],
+            [
+                "55213160",
+                {
+                    "who": "Jan. 29 , 2019 , 7:15 PM GMT By Jason Abbruzzese and David Ingram Grant Thompson , a 14-year-old high school student in Tucson , Arizona ,",
+                    "what": "wanted to chat with friends and play some \" Fortnite \"",
+                    "when": "August 2016",
+                    "where": "Tucson , Arizona"
+                }
+            ],
+            [
+                "4025774",
+                {
+                    "who": "law",
+                    "what": "followed an improbable campaign",
+                    "when": "undefined",
+                    "where": "California"
+                }
+            ],
+            [
+                "55226887",
+                {
+                    "who": "April 9 , 2019 , 1:02 PM GMT By Michael Cappetta and David Ingram Facebook",
+                    "what": "announced changes to how it handles the profiles of users who have died , including using artificial intelligence to help keep the profiles of deceased people from showing up in places that might cause distress",
+                    "when": "undefined",
+                    "where": "undefined"
+                }
+            ],
+            [
+                "113886129",
+                {
+                    "who": "The May 28 hearing in Ottawa",
+                    "what": "is the second gathering",
+                    "when": "undefined",
+                    "where": "Ottawa"
+                }
+            ],
+            [
+                "2444927",
+                {
+                    "who": "An illuminated Google logo",
+                    "what": "is seen inside an office building",
+                    "when": "September 5 , 2018",
+                    "where": "U.S."
+                }
+            ],
+            [
+                "55208088",
+                {
+                    "who": "Facebook CEO Mark Zuckerberg",
+                    "what": "announced a renewed focus",
+                    "when": "undefined",
+                    "where": "undefined"
+                }
+            ],
+            [
+                "55196773",
+                {
+                    "who": "YouTube",
+                    "what": "reached a settlement",
+                    "when": "undefined",
+                    "where": "U.S."
+                }
+            ],
+            [
+                "4578858",
+                {
+                    "who": "sextortion scams",
+                    "what": "are back on the radar , according to Internet security firm",
+                    "when": "February 2019",
+                    "where": "Bitcoin"
+                }
+            ],
+            [
+                "5013847",
+                {
+                    "who": "The government of Chad",
+                    "what": "has lifted restrictions",
+                    "when": "March 2018",
+                    "where": "Chad"
+                }
+            ],
+            [
+                "115936226",
+                {
+                    "who": "the company",
+                    "what": "deceived its users",
+                    "when": "undefined",
+                    "where": "U.S."
+                }
+            ],
+            [
+                "115955149",
+                {
+                    "who": "FaceApp",
+                    "what": "is using your photos",
+                    "when": "undefined",
+                    "where": "Russia"
+                }
+            ]
+        ],
+        "1": [
+            [
+                "4312084",
+                {
+                    "who": "we",
+                    "what": "do n\u2019t allow on Facebook",
+                    "when": "October 2016",
+                    "where": "Chicago"
+                }
+            ],
+            [
+                "55461106",
+                {
+                    "who": "the company",
+                    "what": "lodged against the EU",
+                    "when": "undefined",
+                    "where": "Europe"
+                }
+            ],
+            [
+                "55447542",
+                {
+                    "who": "companies",
+                    "what": "deleted the material",
+                    "when": "undefined",
+                    "where": "Las Vegas"
+                }
+            ],
+            [
+                "113708458",
+                {
+                    "who": "something",
+                    "what": "was actually , well , challenging",
+                    "when": "undefined",
+                    "where": "undefined"
+                }
+            ],
+            [
+                "4479733",
+                {
+                    "who": "officials",
+                    "what": "'re at risk for being stuck on slow Internet for longer than expected",
+                    "when": "undefined",
+                    "where": "Pennsylvania"
+                }
+            ],
+            [
+                "39083181",
+                {
+                    "who": "Facebook",
+                    "what": "is \u2018 watching closely \u2019",
+                    "when": "undefined",
+                    "where": "Charlottesville"
+                }
+            ],
+            [
+                "115947742",
+                {
+                    "who": "Federal Communications Commission Chairman Ajit Pai",
+                    "what": "is following through on his pledge to repeal 2015 regulations",
+                    "when": "undefined",
+                    "where": "undefined"
+                }
+            ],
+            [
+                "113710574",
+                {
+                    "who": "OkCupid",
+                    "what": "was banning him",
+                    "when": "undefined",
+                    "where": "Mississippi"
+                }
+            ],
+            [
+                "116016131",
+                {
+                    "who": "we",
+                    "what": "face a number",
+                    "when": "August 2017",
+                    "where": "U.S."
+                }
+            ],
+            [
+                "3943444",
+                {
+                    "who": "Facebook",
+                    "what": "enabled a shadowy British firm",
+                    "when": "June 2015",
+                    "where": "U.S."
+                }
+            ],
+            [
+                "4313968",
+                {
+                    "who": "Trump 2020 campaign manager Brad Parscale , together with the Republican National Committee ( RNC )",
+                    "what": "has sent a letter",
+                    "when": "May 24 , 2018",
+                    "where": "Northern California"
+                }
+            ],
+            [
+                "38911530",
+                {
+                    "who": "companies around the world",
+                    "what": "are being forced to notify their users",
+                    "when": "25 May 2018",
+                    "where": "undefined"
+                }
+            ],
+            [
+                "131733590",
+                {
+                    "who": "Twitter",
+                    "what": "is announcing on Tuesday that it",
+                    "when": "March 1 , 2018",
+                    "where": "undefined"
+                }
+            ],
+            [
+                "131726294",
+                {
+                    "who": "The Justice Department",
+                    "what": "filed a motion",
+                    "when": "undefined",
+                    "where": "San Bernardino"
+                }
+            ],
+            [
+                "4007148",
+                {
+                    "who": "Mr. Khanna",
+                    "what": "noted that this requirement \u2014 consumers",
+                    "when": "undefined",
+                    "where": "Europe"
+                }
+            ],
+            [
+                "4352058",
+                {
+                    "who": "A former Facebook content",
+                    "what": "censor claims",
+                    "when": "undefined",
+                    "where": "US"
+                }
+            ],
+            [
+                "39121244",
+                {
+                    "who": "founder of the internet Tim Berners-Lee",
+                    "what": "has launched a global campaign to save the web",
+                    "when": "May 2019",
+                    "where": "EU"
+                }
+            ],
+            [
+                "1433023",
+                {
+                    "who": "YouTube",
+                    "what": "is taking further steps",
+                    "when": "undefined",
+                    "where": "undefined"
+                }
+            ],
+            [
+                "18399230",
+                {
+                    "who": "The exposed data",
+                    "what": "was gathered from visitors to Facebook pages for a Mexican digital publisher Detailed information",
+                    "when": "September 2018",
+                    "where": "Amazon"
+                }
+            ],
+            [
+                "59568236",
+                {
+                    "who": "Google",
+                    "what": "has been fined nearly $ 57 million",
+                    "when": "undefined",
+                    "where": "U.S."
+                }
+            ],
+            [
+                "131718800",
+                {
+                    "who": "a person",
+                    "what": "looked like",
+                    "when": "May 26 , 2019",
+                    "where": "Cloudflare"
+                }
+            ],
+            [
+                "4329258",
+                {
+                    "who": "Both Google and Mozilla",
+                    "what": "have banned Gab \u2019s",
+                    "when": "April 11 , 2019",
+                    "where": "Mozilla"
+                }
+            ],
+            [
+                "4352644",
+                {
+                    "who": "concerns about the project",
+                    "what": "are addressed",
+                    "when": "undefined",
+                    "where": "Libra"
+                }
+            ],
+            [
+                "38964069",
+                {
+                    "who": "Facebook",
+                    "what": "has agreed to a sweeping settlement",
+                    "when": "March 2018",
+                    "where": "undefined"
+                }
+            ],
+            [
+                "4340464",
+                {
+                    "who": "Tech giant Facebook",
+                    "what": "is reportedly facing billions",
+                    "when": "undefined",
+                    "where": "Illinois"
+                }
+            ],
+            [
+                "55081820",
+                {
+                    "who": "Facebook Inc.",
+                    "what": "is still adding users , showing that the size and power",
+                    "when": "undefined",
+                    "where": "U.S."
+                }
+            ],
+            [
+                "38915378",
+                {
+                    "who": "Sir Lynton Crosby",
+                    "what": "could be called to give evidence",
+                    "when": "undefined",
+                    "where": "Crosby"
+                }
+            ],
+            [
+                "4355633",
+                {
+                    "who": "Facebook",
+                    "what": "removed an event page",
+                    "when": "undefined",
+                    "where": "Nevada"
+                }
+            ],
+            [
+                "18058808",
+                {
+                    "who": "Journalists",
+                    "what": "operate under strict press laws over their coverage",
+                    "when": "undefined",
+                    "where": "Kirundi"
+                }
+            ],
+            [
+                "4003268",
+                {
+                    "who": "Jeffrey Epstein",
+                    "what": "was reportedly put on suicide watch yesterday",
+                    "when": "undefined",
+                    "where": "New York"
+                }
+            ],
+            [
+                "131723831",
+                {
+                    "who": "a Wikipedia administrator with the username Fram",
+                    "what": "was banned by the Wikimedia Foundation the English encyclopedia",
+                    "when": "undefined",
+                    "where": "New America"
+                }
+            ],
+            [
+                "113847797",
+                {
+                    "who": "Facebook",
+                    "what": "launches Mideast office",
+                    "when": "undefined",
+                    "where": "Middle East and North Africa"
+                }
+            ]
+        ]
+    }
+}

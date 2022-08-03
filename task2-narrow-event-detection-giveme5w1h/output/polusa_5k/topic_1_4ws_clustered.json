@@ -1,0 +1,1544 @@
+{
+    "topic_id": "1",
+    "keywords": [
+        "brexit",
+        "eu",
+        "labour",
+        "johnson",
+        "deal",
+        "uk",
+        "party",
+        "the",
+        "britain",
+        "may"
+    ],
+    "num_of_clusters": 2,
+    "score": 1.0161409646043345,
+    "clusters": {
+        "0": [
+            [
+                "3282978",
+                {
+                    "who": "the European Union 's 27 leaders",
+                    "what": "plan to declare in Rome next week",
+                    "when": "undefined",
+                    "where": "Europe"
+                }
+            ],
+            [
+                "2605906",
+                {
+                    "who": "Community",
+                    "what": "exits the European Union",
+                    "when": "undefined",
+                    "where": "Britain"
+                }
+            ],
+            [
+                "1905723",
+                {
+                    "who": "Britain",
+                    "what": "will maintain duty-free access",
+                    "when": "December 9 , 2016",
+                    "where": "Britain"
+                }
+            ],
+            [
+                "2137254",
+                {
+                    "who": "Britain",
+                    "what": "would be taking a \" crazy step backwards \"",
+                    "when": "undefined",
+                    "where": "London to the Netherlands"
+                }
+            ],
+            [
+                "18412365",
+                {
+                    "who": "Image copyright Northern Rail Image caption Northern Rail services",
+                    "what": "operate across the North East",
+                    "when": "undefined",
+                    "where": "North East , North West"
+                }
+            ],
+            [
+                "116009617",
+                {
+                    "who": "a video",
+                    "what": "posted there",
+                    "when": "undefined",
+                    "where": "U.K."
+                }
+            ],
+            [
+                "17918623",
+                {
+                    "who": "Image copyright Getty Images Image caption RMT members",
+                    "what": "plan to walk out on Friday and Monday on Southern and Arriva Rail North The RMT is calling for talks",
+                    "when": "undefined",
+                    "where": "Aslef"
+                }
+            ],
+            [
+                "18144668",
+                {
+                    "who": "the UK 's reputation",
+                    "what": "damaged unless proper contingencies",
+                    "when": "January 2019",
+                    "where": "UK"
+                }
+            ],
+            [
+                "18231845",
+                {
+                    "who": "Lord Adonis",
+                    "what": "has told the BBC",
+                    "when": "undefined",
+                    "where": "Brexit"
+                }
+            ],
+            [
+                "18054453",
+                {
+                    "who": "The building",
+                    "what": "has announced",
+                    "when": "the end of March 2018",
+                    "where": "Belfast"
+                }
+            ],
+            [
+                "17957216",
+                {
+                    "who": "The Daily Telegraph",
+                    "what": "has the two stories",
+                    "when": "undefined",
+                    "where": "undefined"
+                }
+            ],
+            [
+                "17954363",
+                {
+                    "who": "former UKIP leader Nigel Farage",
+                    "what": "has claimed",
+                    "when": "March 2019",
+                    "where": "UK"
+                }
+            ],
+            [
+                "18160859",
+                {
+                    "who": "Michel Barnier in Brussels",
+                    "what": "has told the EU 's",
+                    "when": "undefined",
+                    "where": "UK"
+                }
+            ],
+            [
+                "18369705",
+                {
+                    "who": "Theresa May",
+                    "what": "has indicated she",
+                    "when": "undefined",
+                    "where": "UK"
+                }
+            ],
+            [
+                "18398846",
+                {
+                    "who": "Image caption #LondonUnited",
+                    "what": "is being projected in four places",
+                    "when": "22 March 2017",
+                    "where": "London"
+                }
+            ],
+            [
+                "18531380",
+                {
+                    "who": "Labour",
+                    "what": "broke the law",
+                    "when": "undefined",
+                    "where": "East Midlands"
+                }
+            ],
+            [
+                "18348184",
+                {
+                    "who": "Westminster",
+                    "what": "has refused to engage with us \"",
+                    "when": "undefined",
+                    "where": "UK"
+                }
+            ],
+            [
+                "18493987",
+                {
+                    "who": "Image copyright UK Parliament Image caption Conservative Stone MP Sir Bill Cash",
+                    "what": "told a Westminster Hall debate",
+                    "when": "undefined",
+                    "where": "London to Birmingham"
+                }
+            ],
+            [
+                "18538028",
+                {
+                    "who": "the IFS",
+                    "what": "warned",
+                    "when": "undefined",
+                    "where": "UK"
+                }
+            ],
+            [
+                "18462597",
+                {
+                    "who": "Video Welsh Tory backbench MP David Davies",
+                    "what": "denies the party",
+                    "when": "undefined",
+                    "where": "undefined"
+                }
+            ],
+            [
+                "18178890",
+                {
+                    "who": "The government 's Border Delivery Group ( BDG )",
+                    "what": "only began detailed planning work",
+                    "when": "June 2016",
+                    "where": "UK"
+                }
+            ],
+            [
+                "116910377",
+                {
+                    "who": "Business",
+                    "what": "is worried enough about Britain",
+                    "when": "June 2016",
+                    "where": "United Kingdom"
+                }
+            ],
+            [
+                "17820775",
+                {
+                    "who": "Woody Johnson",
+                    "what": "told Radio 4 's",
+                    "when": "undefined",
+                    "where": "US"
+                }
+            ],
+            [
+                "4404175",
+                {
+                    "who": "Brexit Secretary David Davis",
+                    "what": "told May in a letter that the government 's proposals for future trade ties with the bloc \" will leave us in at best a weak negotiating position",
+                    "when": "March 29 , 2019",
+                    "where": "Britain"
+                }
+            ],
+            [
+                "18476957",
+                {
+                    "who": "rebellion",
+                    "what": "quotes a cabinet minister",
+                    "when": "undefined",
+                    "where": "undefined"
+                }
+            ],
+            [
+                "18139210",
+                {
+                    "who": "Image caption Leo Varadkar",
+                    "what": "was speaking after a cabinet meeting",
+                    "when": "January 2021",
+                    "where": "UK"
+                }
+            ],
+            [
+                "18010356",
+                {
+                    "who": "Video Nigel Farage",
+                    "what": "has said he",
+                    "when": "undefined",
+                    "where": "South East England"
+                }
+            ],
+            [
+                "18371090",
+                {
+                    "who": "Video Theresa May 's Brexit withdrawal plans",
+                    "what": "have been rejected for a second time",
+                    "when": "undefined",
+                    "where": "undefined"
+                }
+            ],
+            [
+                "18030092",
+                {
+                    "who": "Image copyright Reuters Chancellor Philip Hammond",
+                    "what": "is to warn prospective Conservative leadership contenders",
+                    "when": "undefined",
+                    "where": "UK"
+                }
+            ],
+            [
+                "18518132",
+                {
+                    "who": "Kuenssberg",
+                    "what": "would do if they",
+                    "when": "undefined",
+                    "where": "Brussels"
+                }
+            ],
+            [
+                "18286332",
+                {
+                    "who": "Some parts of the Welsh public sector",
+                    "what": "have only made limited plans",
+                    "when": "undefined",
+                    "where": "Wales"
+                }
+            ],
+            [
+                "4642756",
+                {
+                    "who": "Britain",
+                    "what": "had been due to leave the EU",
+                    "when": "undefined",
+                    "where": "Britain"
+                }
+            ],
+            [
+                "18456275",
+                {
+                    "who": "Gauke",
+                    "what": "hoped a deal",
+                    "when": "undefined",
+                    "where": "UK"
+                }
+            ],
+            [
+                "55219090",
+                {
+                    "who": "undefined",
+                    "what": "undefined",
+                    "when": "May 19 , 2019",
+                    "where": "Vienna , Austria"
+                }
+            ],
+            [
+                "17830893",
+                {
+                    "who": "undefined",
+                    "what": "undefined",
+                    "when": "undefined",
+                    "where": "undefined"
+                }
+            ],
+            [
+                "18192756",
+                {
+                    "who": "Video Jeremy Corbyn",
+                    "what": "has urged the leaders",
+                    "when": "undefined",
+                    "where": "Europe"
+                }
+            ],
+            [
+                "18483347",
+                {
+                    "who": "Labour",
+                    "what": "are proposing to stop no deal",
+                    "when": "undefined",
+                    "where": "UK"
+                }
+            ],
+            [
+                "18128909",
+                {
+                    "who": "Johnson 's new-look cabinet",
+                    "what": "to meet for first time Image copyright",
+                    "when": "undefined",
+                    "where": "England"
+                }
+            ],
+            [
+                "18303791",
+                {
+                    "who": "the EU",
+                    "what": "needs to change its stance , given it",
+                    "when": "undefined",
+                    "where": "US"
+                }
+            ],
+            [
+                "18139182",
+                {
+                    "who": "The government",
+                    "what": "asked the Queen",
+                    "when": "undefined",
+                    "where": "UK"
+                }
+            ],
+            [
+                "18068337",
+                {
+                    "who": "Unite",
+                    "what": "had approved a new deal",
+                    "when": "undefined",
+                    "where": "Edinburgh"
+                }
+            ]
+        ],
+        "1": [
+            [
+                "38945556",
+                {
+                    "who": "Marine Le Pen",
+                    "what": "has managed to secure the French presidency",
+                    "when": "7 May 2017",
+                    "where": "Ireland"
+                }
+            ],
+            [
+                "39069157",
+                {
+                    "who": "the train line project",
+                    "what": "is vital",
+                    "when": "undefined",
+                    "where": "London"
+                }
+            ],
+            [
+                "38903264",
+                {
+                    "who": "all our EU citizens",
+                    "what": "resident here , welcoming them",
+                    "when": "undefined",
+                    "where": "EU"
+                }
+            ],
+            [
+                "55158242",
+                {
+                    "who": "President Trump",
+                    "what": "tweeted : \u201c Whatever the United States and the U. K.",
+                    "when": "undefined",
+                    "where": "London"
+                }
+            ],
+            [
+                "38983825",
+                {
+                    "who": "DUP",
+                    "what": "add another name",
+                    "when": "undefined",
+                    "where": "Northern Ireland"
+                }
+            ],
+            [
+                "38962049",
+                {
+                    "who": "just days before Theresa May",
+                    "what": "begins the process",
+                    "when": "undefined",
+                    "where": "London"
+                }
+            ],
+            [
+                "39062190",
+                {
+                    "who": "Brexit negotiations",
+                    "what": "will be extremely complex",
+                    "when": "undefined",
+                    "where": "Norway"
+                }
+            ],
+            [
+                "38907083",
+                {
+                    "who": "they",
+                    "what": "were anomalies , but caught in some dystopian drama",
+                    "when": "undefined",
+                    "where": "UK"
+                }
+            ],
+            [
+                "39017640",
+                {
+                    "who": "we",
+                    "what": "look at key indicators to see what effect the Brexit process",
+                    "when": "23 June 2016",
+                    "where": "UK"
+                }
+            ],
+            [
+                "55428750",
+                {
+                    "who": "the bloc",
+                    "what": "can turn its new standing",
+                    "when": "undefined",
+                    "where": "EU"
+                }
+            ],
+            [
+                "38900200",
+                {
+                    "who": "the EU door",
+                    "what": "marked \u201c exit \u201d",
+                    "when": "undefined",
+                    "where": "Britain"
+                }
+            ],
+            [
+                "38994670",
+                {
+                    "who": "Jean-Claude Juncker",
+                    "what": "had prevaricated when he",
+                    "when": "undefined",
+                    "where": "UK"
+                }
+            ],
+            [
+                "38899250",
+                {
+                    "who": "EU",
+                    "what": "condemns May \u2019s",
+                    "when": "23 June 23 2016",
+                    "where": "UK"
+                }
+            ],
+            [
+                "39030101",
+                {
+                    "who": "Nicola Sturgeon",
+                    "what": "has challenged Scottish voters",
+                    "when": "undefined",
+                    "where": "UK"
+                }
+            ],
+            [
+                "38935936",
+                {
+                    "who": "Anna Soubry , the pro-EU Conservative MP for Broxtowe in Nottinghamshire ,",
+                    "what": "frequently resembles a magnificent galleon",
+                    "when": "undefined",
+                    "where": "Loughborough"
+                }
+            ],
+            [
+                "55433675",
+                {
+                    "who": "big U.K.-based clearing houses",
+                    "what": "should decamp within the bloc",
+                    "when": "undefined",
+                    "where": "FRANKFURT"
+                }
+            ],
+            [
+                "39025901",
+                {
+                    "who": "Felicity Lawrence",
+                    "what": "has reported on some , from corporate power \u2013 especially in the food system",
+                    "when": "undefined",
+                    "where": "UK"
+                }
+            ],
+            [
+                "39172603",
+                {
+                    "who": "the Labour leader",
+                    "what": "happened to be in the country",
+                    "when": "undefined",
+                    "where": "Brexit"
+                }
+            ],
+            [
+                "2465368",
+                {
+                    "who": "Britain",
+                    "what": "would quit the European Union \u2019s",
+                    "when": "The 1998 Good Friday",
+                    "where": "Northern Ireland"
+                }
+            ],
+            [
+                "38911402",
+                {
+                    "who": "May",
+                    "what": "glanced at the words",
+                    "when": "undefined",
+                    "where": "Britain"
+                }
+            ],
+            [
+                "55416742",
+                {
+                    "who": "the important decisions about Brexit",
+                    "what": "will be made",
+                    "when": "undefined",
+                    "where": "Brexit"
+                }
+            ],
+            [
+                "17844801",
+                {
+                    "who": "undefined",
+                    "what": "undefined",
+                    "when": "undefined",
+                    "where": "England and Wales"
+                }
+            ],
+            [
+                "4019713",
+                {
+                    "who": "a change in the seat for the European Parliament",
+                    "what": "would be a very concrete way",
+                    "when": "undefined",
+                    "where": "Strasbourg"
+                }
+            ],
+            [
+                "38994117",
+                {
+                    "who": "MPs",
+                    "what": "retreat this week",
+                    "when": "undefined",
+                    "where": "London"
+                }
+            ],
+            [
+                "39086041",
+                {
+                    "who": "EU",
+                    "what": "approach the talks",
+                    "when": "March 2019",
+                    "where": "UK"
+                }
+            ],
+            [
+                "39005223",
+                {
+                    "who": "Jeremy Corbyn",
+                    "what": "to make Labour",
+                    "when": "undefined",
+                    "where": "EU"
+                }
+            ],
+            [
+                "39024028",
+                {
+                    "who": "Chris Grayling",
+                    "what": "angered business in the region",
+                    "when": "undefined",
+                    "where": "Leeds"
+                }
+            ],
+            [
+                "55462363",
+                {
+                    "who": "The slowdown in the rate of inflation from the near-four-year high the previous month",
+                    "what": "will be welcomed by the U.K. \u2019s",
+                    "when": "undefined",
+                    "where": "LONDON"
+                }
+            ],
+            [
+                "39139405",
+                {
+                    "who": "the ghostly voice of Margaret Thatcher in 1980",
+                    "what": "turn if you",
+                    "when": "undefined",
+                    "where": "Britain"
+                }
+            ],
+            [
+                "17917943",
+                {
+                    "who": "The UK",
+                    "what": "hoped that by autumn we",
+                    "when": "undefined",
+                    "where": "UK"
+                }
+            ],
+            [
+                "39142494",
+                {
+                    "who": "concrete clear \u2019 proposals during meeting with ministers at No 10 Theresa May",
+                    "what": "was told to commit to a Brexit divorce settlement within a fortnight or face a collapse , according to European business leaders at a confrontational Downing Street summit on Monday",
+                    "when": "undefined",
+                    "where": "UK"
+                }
+            ],
+            [
+                "39083557",
+                {
+                    "who": "the people",
+                    "what": "perish",
+                    "when": "undefined",
+                    "where": "Britain"
+                }
+            ],
+            [
+                "39024330",
+                {
+                    "who": "Boris Johnson",
+                    "what": "makes a fool",
+                    "when": "undefined",
+                    "where": "Britain"
+                }
+            ],
+            [
+                "39040029",
+                {
+                    "who": "The boss of Goldman Sachs",
+                    "what": "has waded in to the debate by issuing a another veiled threat",
+                    "when": "June 2016",
+                    "where": "London"
+                }
+            ],
+            [
+                "38912669",
+                {
+                    "who": "building firm",
+                    "what": "ends dividend and warns on profit The chief executive",
+                    "when": "undefined",
+                    "where": "Middle East"
+                }
+            ],
+            [
+                "38897095",
+                {
+                    "who": "Markle",
+                    "what": "will be expected to channel her campaigning zeal",
+                    "when": "undefined",
+                    "where": "US"
+                }
+            ],
+            [
+                "39029276",
+                {
+                    "who": "bus",
+                    "what": "\u2019s a good idea",
+                    "when": "undefined",
+                    "where": "London"
+                }
+            ],
+            [
+                "38927135",
+                {
+                    "who": "policy",
+                    "what": "has enjoyed greater private access",
+                    "when": "undefined",
+                    "where": "UK"
+                }
+            ],
+            [
+                "39048972",
+                {
+                    "who": "the new post-Brexit green watchdog",
+                    "what": "would lack the power to take the government",
+                    "when": "undefined",
+                    "where": "Britain"
+                }
+            ],
+            [
+                "18127023",
+                {
+                    "who": "Today",
+                    "what": "need to get in touch",
+                    "when": "undefined",
+                    "where": "London Road"
+                }
+            ],
+            [
+                "38922324",
+                {
+                    "who": "A former aide to Margaret Thatcher , several Labour MPs and pro-EU campaigners from across Britain",
+                    "what": "took part in the demonstration",
+                    "when": "undefined",
+                    "where": "Britain"
+                }
+            ],
+            [
+                "3015664",
+                {
+                    "who": "spokesman",
+                    "what": "told reporters",
+                    "when": "undefined",
+                    "where": "LONDON"
+                }
+            ],
+            [
+                "4283887",
+                {
+                    "who": "the UK",
+                    "what": "could break free of the bloc , in less , without a trade deal",
+                    "when": "January 2 , 2018",
+                    "where": "UK"
+                }
+            ],
+            [
+                "4825610",
+                {
+                    "who": "Sally Kohn",
+                    "what": "is a CNN political commentator",
+                    "when": "undefined",
+                    "where": "UK"
+                }
+            ],
+            [
+                "39083246",
+                {
+                    "who": "progressive folk and Michael Gove",
+                    "what": "was one of straightforward loathing",
+                    "when": "undefined",
+                    "where": "UK"
+                }
+            ],
+            [
+                "38893744",
+                {
+                    "who": "us",
+                    "what": "voted leave , remain or neither",
+                    "when": "undefined",
+                    "where": "Europe"
+                }
+            ],
+            [
+                "1909659",
+                {
+                    "who": "May",
+                    "what": "believed a Brexit deal",
+                    "when": "October 17 , 2018",
+                    "where": "BRUSSELS"
+                }
+            ],
+            [
+                "38966398",
+                {
+                    "who": "Norway",
+                    "what": "belongs to",
+                    "when": "undefined",
+                    "where": "Norway"
+                }
+            ],
+            [
+                "39161536",
+                {
+                    "who": "Brexit",
+                    "what": "won a competition",
+                    "when": "undefined",
+                    "where": "UK"
+                }
+            ],
+            [
+                "38963977",
+                {
+                    "who": "the Electoral Commission",
+                    "what": "confirmed it",
+                    "when": "November 2015",
+                    "where": "EU"
+                }
+            ],
+            [
+                "39120467",
+                {
+                    "who": "people",
+                    "what": "are the type",
+                    "when": "undefined",
+                    "where": "England"
+                }
+            ],
+            [
+                "39161227",
+                {
+                    "who": "the company",
+                    "what": "has said",
+                    "when": "undefined",
+                    "where": "UK"
+                }
+            ],
+            [
+                "1222257",
+                {
+                    "who": "Brexit",
+                    "what": "was already having an impact",
+                    "when": "November 24 , 2018",
+                    "where": "Britain"
+                }
+            ],
+            [
+                "38900440",
+                {
+                    "who": "passengers",
+                    "what": "are not likely to see an improvement",
+                    "when": "May 2019",
+                    "where": "England"
+                }
+            ],
+            [
+                "18481303",
+                {
+                    "who": "British voters",
+                    "what": "are split on whether they",
+                    "when": "undefined",
+                    "where": "undefined"
+                }
+            ],
+            [
+                "39068740",
+                {
+                    "who": "Brexit",
+                    "what": "was doing an impression",
+                    "when": "undefined",
+                    "where": "UK"
+                }
+            ],
+            [
+                "1877149",
+                {
+                    "who": "LONDON ( Reuters ) - Prime Minister Theresa May",
+                    "what": "will tell parliament but will repeat her opposition",
+                    "when": "October 18 , 2018",
+                    "where": "Britain"
+                }
+            ],
+            [
+                "2110073",
+                {
+                    "who": "We",
+                    "what": "need to prepare ourselves",
+                    "when": "undefined",
+                    "where": "Britain"
+                }
+            ],
+            [
+                "39113110",
+                {
+                    "who": "the UK \u2019s energy system",
+                    "what": "is set to become dramatically more dependent on the EU just as Britain",
+                    "when": "undefined",
+                    "where": "UK"
+                }
+            ],
+            [
+                "39128102",
+                {
+                    "who": "the UK",
+                    "what": "was being given too soft a deal",
+                    "when": "undefined",
+                    "where": "UK"
+                }
+            ],
+            [
+                "52864613",
+                {
+                    "who": "the U.K.",
+                    "what": "leaves the EU",
+                    "when": "undefined",
+                    "where": "Brussels"
+                }
+            ],
+            [
+                "18200474",
+                {
+                    "who": "Baldwin",
+                    "what": "told Today",
+                    "when": "undefined",
+                    "where": "Brexit"
+                }
+            ],
+            [
+                "18003718",
+                {
+                    "who": "A big part of the tense negotiations with the EU",
+                    "what": "has centred on the issues",
+                    "when": "undefined",
+                    "where": "Brexit"
+                }
+            ],
+            [
+                "1234414",
+                {
+                    "who": "European Council President Donald Tusk",
+                    "what": "raised the idea",
+                    "when": "June 29 , 2018",
+                    "where": "Brexit"
+                }
+            ],
+            [
+                "4042886",
+                {
+                    "who": "the Republic of Ireland",
+                    "what": "would have to \u201c focus on crisis management",
+                    "when": "undefined",
+                    "where": "Ireland"
+                }
+            ],
+            [
+                "3682080",
+                {
+                    "who": "Foreign Secretary Boris Johnson",
+                    "what": "decided to walk from his job just hours did the same",
+                    "when": "July 3 , 2018",
+                    "where": "Britain"
+                }
+            ],
+            [
+                "39022343",
+                {
+                    "who": "Minority governments in the UK",
+                    "what": "are constitutionally familiar",
+                    "when": "undefined",
+                    "where": "Britain"
+                }
+            ],
+            [
+                "3996042",
+                {
+                    "who": "Parliament",
+                    "what": "wrestles with what to do about the open border after Brexit",
+                    "when": "undefined",
+                    "where": "Northern Ireland"
+                }
+            ],
+            [
+                "38896219",
+                {
+                    "who": "Britain",
+                    "what": "leaves the EU",
+                    "when": "June 2016",
+                    "where": "UK"
+                }
+            ],
+            [
+                "39092881",
+                {
+                    "who": "EU students",
+                    "what": "going to English universities",
+                    "when": "undefined",
+                    "where": "UK"
+                }
+            ],
+            [
+                "38953430",
+                {
+                    "who": "Fox",
+                    "what": "told BBC One \u2019s",
+                    "when": "undefined",
+                    "where": "Brussels"
+                }
+            ],
+            [
+                "4294215",
+                {
+                    "who": "Britain",
+                    "what": "took part in European Parliament elections",
+                    "when": "April 5 , 2019",
+                    "where": "EU"
+                }
+            ],
+            [
+                "38942352",
+                {
+                    "who": "her",
+                    "what": "openly ponders how long she , Theresa May",
+                    "when": "undefined",
+                    "where": "Brexit"
+                }
+            ],
+            [
+                "55435764",
+                {
+                    "who": "Europeans",
+                    "what": "are growing antsy that their recent economic boom",
+                    "when": "undefined",
+                    "where": "undefined"
+                }
+            ],
+            [
+                "17993348",
+                {
+                    "who": "a no-deal Brexit",
+                    "what": "to be taken off the table and for industry",
+                    "when": "undefined",
+                    "where": "Brexit"
+                }
+            ],
+            [
+                "1379959",
+                {
+                    "who": "Food and Rural Affairs Michael Gove",
+                    "what": "is seen outside Downing Street",
+                    "when": "March 11 , 2019",
+                    "where": "Britain"
+                }
+            ],
+            [
+                "38994876",
+                {
+                    "who": "local government and police",
+                    "what": "were being forced to divert their time",
+                    "when": "undefined",
+                    "where": "UK"
+                }
+            ],
+            [
+                "3998323",
+                {
+                    "who": "Britain",
+                    "what": "faces on March 29 if there",
+                    "when": "undefined",
+                    "where": "Britain"
+                }
+            ],
+            [
+                "3989717",
+                {
+                    "who": "the leaders",
+                    "what": "decided that Britain \u2019s",
+                    "when": "undefined",
+                    "where": "Britain"
+                }
+            ],
+            [
+                "18204138",
+                {
+                    "who": "Sobel",
+                    "what": "called on David Lidington",
+                    "when": "undefined",
+                    "where": "EU"
+                }
+            ],
+            [
+                "1779805",
+                {
+                    "who": "British Prime Minister Theresa May",
+                    "what": "speaks after tellers",
+                    "when": "March 12 , 2019",
+                    "where": "London , Britain"
+                }
+            ],
+            [
+                "2084246",
+                {
+                    "who": "Britain 's Prime Minister Theresa May",
+                    "what": "speaks in Parliament , following the vote",
+                    "when": "March 13 , 2019",
+                    "where": "LONDON"
+                }
+            ],
+            [
+                "4327540",
+                {
+                    "who": "Prime Minister Theresa May",
+                    "what": "has paved the way",
+                    "when": "February 26 , 2019",
+                    "where": "EU"
+                }
+            ],
+            [
+                "39173224",
+                {
+                    "who": "holders of British licences",
+                    "what": "would need to swap them",
+                    "when": "29 March 2019",
+                    "where": "UK"
+                }
+            ],
+            [
+                "4075899",
+                {
+                    "who": "Trump",
+                    "what": "\u2019s got what it",
+                    "when": "undefined",
+                    "where": "Britain"
+                }
+            ],
+            [
+                "39142487",
+                {
+                    "who": "Theresa May",
+                    "what": "jumps on the Eurostar once more in a last-ditch attempt to resuscitate her Brexit deal",
+                    "when": "undefined",
+                    "where": "Brussels"
+                }
+            ],
+            [
+                "39088118",
+                {
+                    "who": "they",
+                    "what": "could miss out For many students , a jaunt",
+                    "when": "undefined",
+                    "where": "UK"
+                }
+            ],
+            [
+                "17860388",
+                {
+                    "who": "Theresa May",
+                    "what": "will make her case",
+                    "when": "undefined",
+                    "where": "undefined"
+                }
+            ],
+            [
+                "38917958",
+                {
+                    "who": "The chancellor Philip Hammond and the environment secretary Michael Gove",
+                    "what": "will be joining David Lidington",
+                    "when": "undefined",
+                    "where": "UK"
+                }
+            ],
+            [
+                "38895210",
+                {
+                    "who": "The British economy",
+                    "what": "staged an unexpected fightback",
+                    "when": "December 2016",
+                    "where": "UK"
+                }
+            ],
+            [
+                "2071148",
+                {
+                    "who": "Jeremy Hunt , a leadership candidate for Britain 's Conservative Party ,",
+                    "what": "speaks during a hustings event",
+                    "when": "June 22 , 2019",
+                    "where": "European Union"
+                }
+            ],
+            [
+                "38928360",
+                {
+                    "who": "The Electoral Commission",
+                    "what": "believed it",
+                    "when": "August 2018",
+                    "where": "Northern Ireland"
+                }
+            ],
+            [
+                "4339628",
+                {
+                    "who": "Theresa May",
+                    "what": "could survive the palace coup",
+                    "when": "March 24 , 2019",
+                    "where": "Chequers"
+                }
+            ],
+            [
+                "18468613",
+                {
+                    "who": "Media playback",
+                    "what": "is unsupported on your device - again",
+                    "when": "undefined",
+                    "where": "UK"
+                }
+            ],
+            [
+                "2854974",
+                {
+                    "who": "BELFAST ( Reuters ) - Trade unions in Belfast",
+                    "what": "expressed shock on Thursday",
+                    "when": "undefined",
+                    "where": "Northern Ireland"
+                }
+            ],
+            [
+                "39184589",
+                {
+                    "who": "May",
+                    "what": "believed the British people",
+                    "when": "February 2003",
+                    "where": "Brexit"
+                }
+            ],
+            [
+                "113838348",
+                {
+                    "who": "Parliament",
+                    "what": "will hold a so-called \" Meaningful Vote \"",
+                    "when": "undefined",
+                    "where": "Britain"
+                }
+            ],
+            [
+                "4308796",
+                {
+                    "who": "Mr Johnson",
+                    "what": "pledged to take the United Kingdom",
+                    "when": "July 18 , 2019",
+                    "where": "United Kingdom"
+                }
+            ],
+            [
+                "39042768",
+                {
+                    "who": "Johnson",
+                    "what": "was for Brexit",
+                    "when": "undefined",
+                    "where": "US"
+                }
+            ],
+            [
+                "39150170",
+                {
+                    "who": "We",
+                    "what": "saw this all too clearly in 2016",
+                    "when": "May 2016",
+                    "where": "UK"
+                }
+            ],
+            [
+                "39137387",
+                {
+                    "who": "Boris Johnson",
+                    "what": "has no policies",
+                    "when": "undefined",
+                    "where": "Scotland and Northern Ireland"
+                }
+            ],
+            [
+                "38910081",
+                {
+                    "who": "The historian AJP Taylor",
+                    "what": "argued that Europe",
+                    "when": "undefined",
+                    "where": "Brexit"
+                }
+            ],
+            [
+                "38920729",
+                {
+                    "who": "Tusk",
+                    "what": "reiterates UK",
+                    "when": "undefined",
+                    "where": "Biarritz"
+                }
+            ],
+            [
+                "4478868",
+                {
+                    "who": "the government",
+                    "what": "has set aside this year",
+                    "when": "undefined",
+                    "where": "UK"
+                }
+            ],
+            [
+                "1323229",
+                {
+                    "who": "Agriculture Minister Didier Guillaume",
+                    "what": "told CNews",
+                    "when": "undefined",
+                    "where": "France"
+                }
+            ],
+            [
+                "4338920",
+                {
+                    "who": "Sen. Tom Cotton ( R-OK ) and 44 other Republican senators on Saturday",
+                    "what": "sent a letter",
+                    "when": "undefined",
+                    "where": "Britain"
+                }
+            ],
+            [
+                "38974006",
+                {
+                    "who": "Johnson",
+                    "what": "gave the UK \u2019s",
+                    "when": "undefined",
+                    "where": "UK"
+                }
+            ],
+            [
+                "39151333",
+                {
+                    "who": "The passing of Theresa May and the ascension of Boris Johnson",
+                    "what": "may have appeared to the casual observer as a colourful but nevertheless essentially conventional piece",
+                    "when": "24 July 2019",
+                    "where": "Britain"
+                }
+            ],
+            [
+                "38962204",
+                {
+                    "who": "Corbyn",
+                    "what": "is rejecting it",
+                    "when": "undefined",
+                    "where": "EU"
+                }
+            ],
+            [
+                "38895123",
+                {
+                    "who": "Hunt",
+                    "what": "was speaking after meeting Boris Johnson",
+                    "when": "undefined",
+                    "where": "US"
+                }
+            ],
+            [
+                "38968106",
+                {
+                    "who": "Johnson",
+                    "what": "were heavily criticised by a European",
+                    "when": "undefined",
+                    "where": "UK"
+                }
+            ],
+            [
+                "38925380",
+                {
+                    "who": "the backstop",
+                    "what": "could be replaced by some form to prevent a hard Irish border",
+                    "when": "undefined",
+                    "where": "UK"
+                }
+            ],
+            [
+                "18331916",
+                {
+                    "who": "Senate",
+                    "what": "need a legal basis",
+                    "when": "Wednesday 7 August 2019",
+                    "where": "UK"
+                }
+            ],
+            [
+                "39008320",
+                {
+                    "who": "irreconcilable differences with Boris Johnson over Brexit and pressures of motherhood Ruth Davidson",
+                    "what": "is expected to quit as leader because of her irreconcilable differences",
+                    "when": "undefined",
+                    "where": "Brexit"
+                }
+            ],
+            [
+                "17920489",
+                {
+                    "who": "The Irish government",
+                    "what": "will oppose an EU proposal",
+                    "when": "undefined",
+                    "where": "Brexit"
+                }
+            ],
+            [
+                "4946725",
+                {
+                    "who": "Leader of the House of Commons Jacob Rees-Mogg",
+                    "what": "arrives at 10 Downing Street on July 25 Boris Johnson 's for leader",
+                    "when": "undefined",
+                    "where": "undefined"
+                }
+            ],
+            [
+                "18274148",
+                {
+                    "who": "Video Boris Johnson",
+                    "what": "gave his first speech",
+                    "when": "undefined",
+                    "where": "undefined"
+                }
+            ],
+            [
+                "4289409",
+                {
+                    "who": "Brexit Party leader Nigel Farage",
+                    "what": "has said that patriots",
+                    "when": "June 30 , 2019",
+                    "where": "United Kingdom"
+                }
+            ],
+            [
+                "39113901",
+                {
+                    "who": "Johnson",
+                    "what": "suspends parliament",
+                    "when": "undefined",
+                    "where": "Northern Ireland"
+                }
+            ],
+            [
+                "39114231",
+                {
+                    "who": "the Conservatives",
+                    "what": "battling to prevent their Commons majority",
+                    "when": "Thursday 1 August 2019",
+                    "where": "US"
+                }
+            ],
+            [
+                "38917689",
+                {
+                    "who": "Britain",
+                    "what": "is not a rightwing country",
+                    "when": "undefined",
+                    "where": "Britain"
+                }
+            ],
+            [
+                "1681432",
+                {
+                    "who": "MANCHESTER , England ( Reuters ) - Boris Johnson and Jeremy Hunt ,",
+                    "what": "rivals to become Britain \u2019s , clashed over who could be most trusted on Brexit in a sometimes bad-natured television debate before one",
+                    "when": "July 9 , 2019",
+                    "where": "Britain"
+                }
+            ],
+            [
+                "4018412",
+                {
+                    "who": "Johnson",
+                    "what": "would hasten talks",
+                    "when": "undefined",
+                    "where": "Brexit"
+                }
+            ],
+            [
+                "1172573",
+                {
+                    "who": "An anti-Brexit protester",
+                    "what": "holds a placard",
+                    "when": "August 29 , 2019",
+                    "where": "U.S."
+                }
+            ],
+            [
+                "39110051",
+                {
+                    "who": "Jeremy Corbyn",
+                    "what": "has written to MPs",
+                    "when": "undefined",
+                    "where": "Brexit"
+                }
+            ],
+            [
+                "4314191",
+                {
+                    "who": "Prime Minister Boris Johnson",
+                    "what": "is planning for a \u201c people versus politicians \u201d",
+                    "when": "August 3 , 2019",
+                    "where": "Brexit"
+                }
+            ],
+            [
+                "4318787",
+                {
+                    "who": "Tory Party leadership frontrunner Boris Johnson",
+                    "what": "refused to commit to lowering net migration",
+                    "when": "June 5 , 2016",
+                    "where": "UK"
+                }
+            ],
+            [
+                "131734874",
+                {
+                    "who": "New Conservative Party leader and incoming Prime Minister Boris Johnson",
+                    "what": "arrives at the Conservative Party headquarters on Tuesday",
+                    "when": "undefined",
+                    "where": "London"
+                }
+            ]
+        ]
+    }
+}
