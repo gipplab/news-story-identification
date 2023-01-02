@@ -1,1 +1,0 @@
-python .\task4_paragraph2vec.py .\data\pan14-text-alignment-test-corpus3-2014-05-14\pairs .\data\pan14-text-alignment-test-corpus3-2014-05-14\src\ .\data\pan14-text-alignment-test-corpus3-2014-05-14\susp\ .\data\pan14-text-alignment-test-corpus3-2014-05-14\output_paragraph2vec\

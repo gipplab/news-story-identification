@@ -1,9 +1,0 @@
-Gridsearch's parameters: {'cv': None, 'error_score': nan, 'estimator__batch_size': 128, 'estimator__doc_topic_prior': None, 'estimator__evaluate_every': -1, 'estimator__learning_decay': 0.7, 'estimator__learning_method': 'batch', 'estimator__learning_offset': 10.0, 'estimator__max_doc_update_iter': 100, 'estimator__max_iter': 10, 'estimator__mean_change_tol': 0.001, 'estimator__n_components': 10, 'estimator__n_jobs': None, 'estimator__perp_tol': 0.1, 'estimator__random_state': None, 'estimator__topic_word_prior': None, 'estimator__total_samples': 1000000.0, 'estimator__verbose': 0, 'estimator': LatentDirichletAllocation(), 'n_jobs': None, 'param_grid': {'n_components': [5, 10, 15, 20], 'learning_decay': [0.5, 0.7, 0.9], 'learning_method': ['online']}, 'pre_dispatch': '2*n_jobs', 'refit': True, 'return_train_score': False, 'scoring': None, 'verbose': 3}
-=== Best Model's Params: {'learning_decay': 0.5, 'learning_method': 'online', 'n_components': 5}
-=== Best Log Likelihood Score: -1682429.9501029528
-=== Model Perplexity: 1869.8355082064784
-=== Component's weights: 
- [[ 0.42  0.51  0.38  0.59  0.26]
- [-0.05  0.77 -0.6  -0.22 -0.05]]
-=== Perc of Variance Explained: 
- [0.01 0.31]

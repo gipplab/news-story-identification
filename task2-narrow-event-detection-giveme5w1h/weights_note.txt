@@ -1,8 +1,0 @@
-			WEIGHTS SHAPE			GENERATOR
-HOW			weights = (i, j, k, l)		Method
-WHO/WHAT		weights = (i, j, k)		Action
-WHEN			weights = (j, k, 0.3, l, m)	Environment WHEN
-WHERE			weights = (i, j, l, m)		Environment WHERE
-WHY			weights = (i, j, k, l)		Cause
-
-COMBINED SCORING	weights = (i,)
