@@ -11,7 +11,10 @@
 /deprecatedtask2-narrow-event-detection-giveme5w1h/training/result/
 /deprecatedtask2-narrow-event-detection-giveme5w1h/training/queue_caches/
 /deprecatedtask4-paragraph2vec-text-alignment/data/
-
+/.idea
+/.vscode
+/.ipynb_checkpoints
+/__pycache__
 *.bak
 *.pyc
 *.model
@@ -20,3 +23,6 @@
 *~
 *.pkl
 *.ipynb
+*.pdf
+*.doc
+*.png
