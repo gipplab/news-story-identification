@@ -81,7 +81,7 @@ def analyze_polarity(df, features_collection, polarity_classifier, folder=None):
                     'transform_flow': f'from `{org_label}` to `{reused_label}`, it should be `{pred["label"]}`'                    
                 })
                                                
-            results_folder = folder if folder != None else f'./{FOLDER}/polarity_analysis' 
+            results_folder = folder if folder != None else f'./{FOLDER}/by_source_selection' 
             Path(results_folder).mkdir(parents=True, exist_ok=True)
             results_filename = f"./{results_folder}/by_source_selection_{DATASET}_articles_{org['id']}_{reused['id']}_{datetime.now().strftime('%Y-%m-%d_%H-%M-%S')}.json"    
             io.write_json(results_filename, results)
@@ -104,7 +104,8 @@ if __name__ == "__main__":
             print(f'File {file} does not have features extracted. Skipped')
             continue
         classifier = pipeline("text-classification", model="./model/checkpoint-225")
-        analyze_polarity(df, features, classifier, f'./{FOLDER}/{file.split("/")[1]}/')
+        # analyze_polarity(df, features, classifier, f'./{FOLDER}/{file.split("/")[1]}/')
+        analyze_polarity(df, features, classifier)
 
     if consts.openShell:
         openShell()

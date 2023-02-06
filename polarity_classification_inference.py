@@ -1,12 +1,16 @@
-import pandas as pd
-import numpy as np
-import evaluate
-import torch
 import code
-import consts
 from os.path import join
-from transformers import AutoTokenizer, DataCollatorWithPadding
-from transformers import AutoModelForSequenceClassification, TrainingArguments, Trainer
+
+import evaluate
+import numpy as np
+import pandas as pd
+import torch
+from transformers import (AutoModelForSequenceClassification, AutoTokenizer,
+                          DataCollatorWithPadding, Trainer, TrainingArguments)
+
+import consts
+import datasets
+
 
 def read_data(folder, files):
     li = []
@@ -84,9 +88,9 @@ if __name__ == "__main__":
     df_train, df_val, df_test = np.split(df.sample(frac=1, random_state=42), [int(.6 * len(df)), int(.8 * len(df))])
     print(f'Train size: {len(df_train)}\nValidation size: {len(df_val)}\nTest size: {len(df_test)}')
 
-    ds_train_tokenized = datasets__.Dataset.from_pandas(df_train).map(preprocess_function, batched=True)
-    ds_val_tokenized = datasets__.Dataset.from_pandas(df_val).map(preprocess_function, batched=True)
-    ds_test_tokenized = datasets__.Dataset.from_pandas(df_test).map(preprocess_function, batched=True)
+    ds_train_tokenized = datasets.Dataset.from_pandas(df_train).map(preprocess_function, batched=True)
+    ds_val_tokenized = datasets.Dataset.from_pandas(df_val).map(preprocess_function, batched=True)
+    ds_test_tokenized = datasets.Dataset.from_pandas(df_test).map(preprocess_function, batched=True)
 
     openShell = True
 
@@ -108,10 +112,10 @@ if __name__ == "__main__":
     print(results)
 
     # Confusion matrix
-    import pandas as pd
-    import numpy as np
-    import seaborn as sns
     import matplotlib.pyplot as plt
+    import numpy as np
+    import pandas as pd
+    import seaborn as sns
     from sklearn.metrics import confusion_matrix
 
     eval_label = [model.config.id2label[i] for i in eval]

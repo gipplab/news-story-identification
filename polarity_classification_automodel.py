@@ -1,11 +1,14 @@
-import pandas as pd
-import numpy as np
-import evaluate
 import code
-import datasets
 from os.path import join
-from transformers import AutoTokenizer, DataCollatorWithPadding
-from transformers import AutoModelForSequenceClassification, TrainingArguments, Trainer
+
+import evaluate
+import numpy as np
+import pandas as pd
+from transformers import (AutoModelForSequenceClassification, AutoTokenizer,
+                          DataCollatorWithPadding, Trainer, TrainingArguments)
+
+import datasets
+
 
 def read_data(folder, files):
     li = []
@@ -161,10 +164,10 @@ if __name__ == "__main__":
         print(f'Results: {results}')
 
         # Confusion matrix
-        import pandas as pd
-        import numpy as np
-        import seaborn as sns
         import matplotlib.pyplot as plt
+        import numpy as np
+        import pandas as pd
+        import seaborn as sns
         from sklearn.metrics import confusion_matrix
 
         eval_label = [model.config.id2label[i] for i in eval]

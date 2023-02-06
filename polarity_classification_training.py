@@ -1,11 +1,14 @@
-import pandas as pd
-import numpy as np
-import evaluate
 import code
-import datasets
 from os.path import join
-from transformers import AutoTokenizer, DataCollatorWithPadding
-from transformers import AutoModelForSequenceClassification, TrainingArguments, Trainer
+
+import evaluate
+import numpy as np
+import pandas as pd
+from transformers import (AutoModelForSequenceClassification, AutoTokenizer,
+                          DataCollatorWithPadding, Trainer, TrainingArguments)
+
+import datasets
+
 
 def read_data(folder, files):
     li = []
@@ -120,44 +123,6 @@ if __name__ == "__main__":
         )
 
         trainer.train()    
-
-    # if inference:
-    #     # from transformers import AutoTokenizer
-    #     import torch
-
-    #     model = AutoModelForSequenceClassification.from_pretrained("./model/checkpoint-6750")
-    #     with torch.no_grad():
-    #         eval = []
-    #         pred = []
-    #         for i, row in df_test.iterrows():
-    #             text = row['text']
-    #             inputs = tokenizer(text, return_tensors="pt", truncation=True, padding=True, add_special_tokens=True)
-
-    #             logits = model(**inputs).logits
-    #             predicted_class_id = logits.argmax().item()
-    #             eval.append(row['label'])
-    #             pred.append(predicted_class_id)
-
-    #     results = manual_metrics((eval, pred))
-    #     print(results)
-
-    #     # Confusion matrix
-    #     import pandas as pd
-    #     import numpy as np
-    #     import seaborn as sns
-    #     import matplotlib.pyplot as plt
-    #     from sklearn.metrics import confusion_matrix
-
-    #     eval_label = [model.config.id2label[i] for i in eval]
-    #     pred_label = [model.config.id2label[i] for i in pred]
-    #     cm = confusion_matrix(eval_label, pred_label)
-    #     cm_df = pd.DataFrame(cm, index = ['LEFT','CENTER','RIGHT'], columns = ['LEFT','CENTER','RIGHT'])
-    #     plt.figure(figsize=(5,4))
-    #     sns.heatmap(cm_df, annot=True, fmt='d')
-    #     plt.title('Confusion Matrix - Polarity detection training')
-    #     plt.ylabel('Truths')
-    #     plt.xlabel('Predictions')
-    #     plt.show()
 
     if openShell:
         code.interact(local=locals())
