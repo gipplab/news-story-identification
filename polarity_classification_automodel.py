@@ -10,8 +10,8 @@ from transformers import AutoModelForSequenceClassification, TrainingArguments, 
 def read_data(folder, files):
     li = []
     for filename in files:
-        print(f'=== Reading {filename}')
-        df = pd.read_csv(join(folder, filename), index_col=None, header=0)
+        print(f'=== Reading {join(folder, filename)}')
+        df = pd.read_csv(join(folder, filename), index_col=None, header=0, encoding='ISO-8859-1')
         li.append(df)
 
     df = pd.concat(li, axis=0, ignore_index=True)
@@ -29,21 +29,29 @@ def compute_metrics(eval_pred):
     predictions, labels = eval_pred
     predictions = np.argmax(predictions, axis=1)
     accuracy = evaluate.load("accuracy").compute(predictions=predictions, references=labels)
-    precision = evaluate.load("precision").compute(predictions=predictions, references=labels, average='micro')
-    recall = evaluate.load("recall").compute(predictions=predictions, references=labels, average='micro')
-    f1 = evaluate.load("f1").compute(predictions=predictions, references=labels, average='micro')
+    precision_mi = evaluate.load("precision").compute(predictions=predictions, references=labels, average='micro')
+    recall_mi = evaluate.load("recall").compute(predictions=predictions, references=labels, average='micro')
+    f1_mi = evaluate.load("f1").compute(predictions=predictions, references=labels, average='micro')
 
-    return {**accuracy, **precision, **recall, **f1}
+    precision_ma = evaluate.load("precision").compute(predictions=predictions, references=labels, average='macro')
+    recall_ma = evaluate.load("recall").compute(predictions=predictions, references=labels, average='macro')
+    f1_ma = evaluate.load("f1").compute(predictions=predictions, references=labels, average='macro')
+
+    return {**accuracy, **precision_mi, **recall_mi, **f1_mi, **precision_ma, **recall_ma, **f1_ma}
 
 def manual_metrics(eval_pred):
     predictions, labels = eval_pred
 
     accuracy = evaluate.load("accuracy").compute(predictions=predictions, references=labels)
-    precision = evaluate.load("precision").compute(predictions=predictions, references=labels, average='micro')
-    recall = evaluate.load("recall").compute(predictions=predictions, references=labels, average='micro')
-    f1 = evaluate.load("f1").compute(predictions=predictions, references=labels, average='micro')
+    precision_mi = evaluate.load("precision").compute(predictions=predictions, references=labels, average='micro')
+    recall_mi = evaluate.load("recall").compute(predictions=predictions, references=labels, average='micro')
+    f1_mi = evaluate.load("f1").compute(predictions=predictions, references=labels, average='micro')
 
-    return {**accuracy, **precision, **recall, **f1}
+    precision_ma = evaluate.load("precision").compute(predictions=predictions, references=labels, average='macro')
+    recall_ma = evaluate.load("recall").compute(predictions=predictions, references=labels, average='macro')
+    f1_ma = evaluate.load("f1").compute(predictions=predictions, references=labels, average='macro')
+
+    return {**accuracy, **precision_mi, **recall_mi, **f1_mi, **precision_ma, **recall_ma, **f1_ma,}
 tokenizer = AutoTokenizer.from_pretrained("distilbert-base-uncased")
 
 if __name__ == "__main__":
@@ -56,8 +64,6 @@ if __name__ == "__main__":
             'FOLDER': './data/polusa_polarity_balanced_90k',
             'FILES': ['data.csv']
         },
-
-        
         '432k': {    
             'FOLDER': './data/polusa_polarity_balanced_432k',
             'FILES': ['data.csv']
@@ -67,14 +73,24 @@ if __name__ == "__main__":
             'FILES':  ['2017_1.csv', '2017_2.csv', '2018_1.csv', '2018_2.csv', '2019_1.csv', '2019_2.csv']
         }
     }
-
     POLUSA_VERSION = '90k'
     FOLDER = POLUSA[POLUSA_VERSION]['FOLDER']
     FILES = POLUSA[POLUSA_VERSION]['FILES']
 
+    # GROUNDNEWS = {
+    #     'Full': {
+    #         'FOLDER': './data/ground.news',
+    #         'FILES': ['0/data.csv', '1/data.csv', '2/data.csv', '3/data.csv', '4/data.csv']
+    #     }
+    # }
+    # GROUNDNEWS_VERSION = 'Full'
+    # FOLDER = GROUNDNEWS[GROUNDNEWS_VERSION]['FOLDER']
+    # FILES = GROUNDNEWS[GROUNDNEWS_VERSION]['FILES']
+
     df = read_data(FOLDER, FILES)
-    df = df.drop(df[df.label == 'UNDEFINED'].index)
-    df = df.drop(['id', 'date_publish', 'outlet', 'headline', 'lead', 'authors', 'domain', 'url'], axis=1)
+    df = df.dropna()
+    df = df.drop(df[df.label == 'UNDEFINED'].index, errors='ignore')
+    df = df.drop(['id', 'date_publish', 'outlet', 'headline', 'lead', 'authors', 'domain', 'url'], axis=1, errors='ignore')
     df.label[df.label=='LEFT'] = 0
     df.label[df.label=='CENTER'] = 1
     df.label[df.label=='RIGHT'] = 2
@@ -84,10 +100,10 @@ if __name__ == "__main__":
     print(f'Train size: {len(df_train)}\nValidation size: {len(df_val)}\nTest size: {len(df_test)}')
 
     ds_train_tokenized = datasets.Dataset.from_pandas(df_train).map(preprocess_function, batched=True)
-    ds_val_tokenized = datasets.Dataset.from_pandas(df_val).map(preprocess_function, batched=True)
+    ds_eval_tokenized = datasets.Dataset.from_pandas(df_val).map(preprocess_function, batched=True)
     ds_test_tokenized = datasets.Dataset.from_pandas(df_test).map(preprocess_function, batched=True)
 
-    trainning = True
+    trainning = False
     inference = True
     openShell = True
 
@@ -116,7 +132,7 @@ if __name__ == "__main__":
             model=model,
             args=training_args,
             train_dataset=ds_train_tokenized,
-            eval_dataset=ds_val_tokenized,
+            eval_dataset=ds_eval_tokenized,
             tokenizer=tokenizer,
             data_collator=data_collator,
             compute_metrics=compute_metrics,
@@ -128,7 +144,7 @@ if __name__ == "__main__":
         # from transformers import AutoTokenizer
         import torch
 
-        model = AutoModelForSequenceClassification.from_pretrained("./model/checkpoint-6750")
+        model = AutoModelForSequenceClassification.from_pretrained("./model/checkpoint-5138")
         with torch.no_grad():
             eval = []
             pred = []
@@ -142,7 +158,7 @@ if __name__ == "__main__":
                 pred.append(predicted_class_id)
 
         results = manual_metrics((eval, pred))
-        print(results)
+        print(f'Results: {results}')
 
         # Confusion matrix
         import pandas as pd
@@ -154,12 +170,51 @@ if __name__ == "__main__":
         eval_label = [model.config.id2label[i] for i in eval]
         pred_label = [model.config.id2label[i] for i in pred]
         cm = confusion_matrix(eval_label, pred_label)
+        left_left = 0
+        left_center = 0
+        left_right = 0
+        center_left = 0
+        center_center = 0
+        center_right = 0
+        right_left = 0
+        right_center = 0
+        right_right = 0
+        for i in range(len(eval_label)):
+            # print(f'Truth: {eval_label[i]}, Pred: {pred_label[i]}')
+            if eval_label[i] == 'LEFT' and pred_label[i] == 'LEFT':
+                left_left = left_left + 1
+            if eval_label[i] == 'LEFT' and pred_label[i] == 'CENTER':
+                left_center = left_center + 1
+            if eval_label[i] == 'LEFT' and pred_label[i] == 'RIGHT':
+                left_right = left_right + 1
+            if eval_label[i] == 'CENTER' and pred_label[i] == 'LEFT':
+                center_left = center_left + 1
+            if eval_label[i] == 'CENTER' and pred_label[i] == 'CENTER':
+                center_center = center_center + 1
+            if eval_label[i] == 'CENTER' and pred_label[i] == 'RIGHT':
+                center_right = center_right + 1
+            if eval_label[i] == 'RIGHT' and pred_label[i] == 'LEFT':
+                right_left = right_left + 1
+            if eval_label[i] == 'RIGHT' and pred_label[i] == 'CENTER':
+                right_center = right_center + 1
+            if eval_label[i] == 'RIGHT' and pred_label[i] == 'RIGHT':
+                right_right = right_right + 1
+        print(cm)
+        print('LEFT-LEFT', left_left)
+        print('LEFT-CENTER', left_center)
+        print('LEFT-RIGHT', left_right)
+        print('CENTER-LEFT', center_left)
+        print('CENTER-CENTER', center_center)
+        print('CENTER-RIGHT', center_right)
+        print('RIGHT-LEFT', right_left)
+        print('RIGHT-CENTER', right_center)
+        print('RIGHT-RIGHT', right_right)
         cm_df = pd.DataFrame(cm, index = ['LEFT','CENTER','RIGHT'], columns = ['LEFT','CENTER','RIGHT'])
         plt.figure(figsize=(5,4))
         sns.heatmap(cm_df, annot=True, fmt='d')
         plt.title('Confusion Matrix - Polarity detection training')
-        plt.ylabel('Truths')
-        plt.xlabel('Predictions')
+        plt.ylabel('Predictions')
+        plt.xlabel('Truths')
         plt.show()
 
     if openShell:

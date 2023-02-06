@@ -7,8 +7,8 @@ import numpy as np
 import matplotlib as mpl
 import matplotlib.pyplot as plt
 from sentence_transformers import SentenceTransformer, util
-
-from datasets import dataset
+import matplotlib.cm
+from consts import dataset
 from modules.preprocessing.io import write_json
 
 
@@ -113,7 +113,7 @@ def build_features(sentences_1, sentences_2):
 
 def start(df, buildFeature=True):
     
-    articles = [(row['text'], row['id'], row['datetime']) for i, row in df.iterrows()]
+    articles = [(row['text'], row['id'], row['datetime'], row['label']) for i, row in df.iterrows()]
     results = []
     for i in range(len(articles) - 1):
         for j in range(i + 1, len(articles)):      
@@ -123,11 +123,15 @@ def start(df, buildFeature=True):
             res = {
                 'article_1_id': articles[i][1],
                 'article_1_publish_date': articles[i][2],
+                'article_1_label': articles[i][3],
+                'article_1_paragraph_length': len(sentences_1),
+                'article_1_sentences': sentences_1,
                 'article_2_id': articles[j][1],
                 'article_2_publish_date': articles[j][2],
-                'article_1_paragraph_length': len(sentences_1),
+                'article_2_label': articles[j][3],
+                'article_2_sentences': sentences_2,
                 'article_2_paragraph_length': len(sentences_2),
-                'time': datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+                'feature_built_at': datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
             }
             if buildFeature:
                 features = build_features(sentences_1, sentences_2)
@@ -153,17 +157,18 @@ if __name__ == "__main__":
     FILES = dataset[DATASET][DATASET_VERSION]['FILES']
 
     if inference:
-        for file in FILES:
+        for i, file in enumerate(FILES):
             data = read_data(FOLDER, [file], encoding='ISO-8859-1')
             data = data.dropna() 
 
             # model_name = 'all-MiniLM-L6-v2'    
-            model_name = 'training_OnlineConstrativeLoss-2022-12-28_23-06-03'   # Pretrained 'stsb-distilbert-base', fined-tune with QuoraQA dataset
+            # model_name = './model/training_OnlineConstrativeLoss-2022-12-28_23-06-03'   # Pretrained 'stsb-distilbert-base', fined-tune with QuoraQA dataset
+            model_name = 'paraphrase-multilingual-MiniLM-L12-v2'
             min_sentence_length = 10
-            model = SentenceTransformer(f'./model/{model_name}')
+            model = SentenceTransformer(model_name)
             cosine_threshold = 0.6    
 
-            results_filename = f"./model/TnferenceParaphrase_{model_name}_{DATASET}_{datetime.now().strftime('%Y-%m-%d_%H-%M-%S')}_results.json"    
+            results_filename = f"./model/features_{model_name}_{DATASET}_{datetime.now().strftime('%Y-%m-%d_%H-%M-%S')}_results.json"    
             results = start(data)
             write_json(results_filename, results['results'])
 

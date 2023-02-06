@@ -1,5 +1,7 @@
 /data
 /model
+/modelBAK
+/put_deprecated_things_here
 /deprecatedtask1-topic-modelling-lda/data/
 /deprecatedtask1-topic-modelling-lda/output/
 /deprecatedtask3-source-retrieval/input/
@@ -25,4 +27,7 @@
 *.ipynb
 *.pdf
 *.doc
+*.docx
 *.png
+*.pptx
+*.txt
