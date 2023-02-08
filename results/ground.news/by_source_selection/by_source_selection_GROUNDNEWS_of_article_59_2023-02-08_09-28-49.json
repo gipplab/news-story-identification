@@ -1,0 +1,443 @@
+{
+    "reused_id": 59,
+    "reused_datetime": "9/12/2022 03:38:51",
+    "reused_label": "RIGHT",
+    "potential_sources": [
+        {
+            "source_id": 58,
+            "source_datetime": "9/12/2022 02:18:58",
+            "source_label": "RIGHT",
+            "details": [
+                {
+                    "source_text": "(Bloomberg) -- Russia may cut its oil production in response to the G-7 cap on the price of its crude, President Vladimir Putin said.",
+                    "source_label_from_outlet": "RIGHT",
+                    "reused_text": "As the President noted, the price cap for Russian oil introduced by Western countries will eventually affect the entire world market\r\nBISHKEK, December 9.",
+                    "reused_label_from_outlet": "RIGHT",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.8664119243621826
+                    },
+                    "transform_flow": "from `RIGHT` to `RIGHT`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "(Bloomberg) \u00ef\u00bf\u00bd Russia may cut its oil production in response to the G-7 cap on the price of its crude, President Vladimir Putin said.",
+                    "source_label_from_outlet": "RIGHT",
+                    "reused_text": "As the President noted, the price cap for Russian oil introduced by Western countries will eventually affect the entire world market\r\nBISHKEK, December 9.",
+                    "reused_label_from_outlet": "RIGHT",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.8664119243621826
+                    },
+                    "transform_flow": "from `RIGHT` to `RIGHT`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "\u00ef\u00bf\u00bdI have already said that we simply won\u00ef\u00bf\u00bdt sell oil to those countries\u00ef\u00bf\u00bd that participate in a price cap.",
+                    "source_label_from_outlet": "RIGHT",
+                    "reused_text": "As the President noted, the price cap for Russian oil introduced by Western countries will eventually affect the entire world market\r\nBISHKEK, December 9.",
+                    "reused_label_from_outlet": "RIGHT",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.8664119243621826
+                    },
+                    "transform_flow": "from `RIGHT` to `RIGHT`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "Advertisement 3\r\nArticle content\r\nThere are still enormous unanswered questions that will shape the impact of the measures on the oil market, including the depth of non-European insurance markets, the appetite of some tanker owners to participate in trade with Russia, and exactly how effective enforcement of the cap can be.",
+                    "source_label_from_outlet": "RIGHT",
+                    "reused_text": "As the President noted, the price cap for Russian oil introduced by Western countries will eventually affect the entire world market\r\nBISHKEK, December 9.",
+                    "reused_label_from_outlet": "RIGHT",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.8664119243621826
+                    },
+                    "transform_flow": "from `RIGHT` to `RIGHT`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "\u00ef\u00bf\u00bdAny supply disruption not hurts their partners, but also really hurts their pocketbooks.\u00ef\u00bf\u00bd\r\n\r\nProduction, Revenue\r\n\r\nRussia has said the effects of the price cap on oil production will be limited.",
+                    "source_label_from_outlet": "RIGHT",
+                    "reused_text": "As the President noted, the price cap for Russian oil introduced by Western countries will eventually affect the entire world market\r\nBISHKEK, December 9.",
+                    "reused_label_from_outlet": "RIGHT",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.8664119243621826
+                    },
+                    "transform_flow": "from `RIGHT` to `RIGHT`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "Advertisement 4\r\nArticle content\r\nIn April, two months into the invasion of Ukraine, Russia pumped an average of around 10.05 million barrels a day, down from 11.08 million a day in February, according to industry data seen by Bloomberg.",
+                    "source_label_from_outlet": "RIGHT",
+                    "reused_text": "As the President noted, the price cap for Russian oil introduced by Western countries will eventually affect the entire world market\r\nBISHKEK, December 9.",
+                    "reused_label_from_outlet": "RIGHT",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.8664119243621826
+                    },
+                    "transform_flow": "from `RIGHT` to `RIGHT`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "Read: Oil Price Cap Is No Game-changer for Putin\u00ef\u00bf\u00bds Wartime Budget\r\n\r\nThe price cap won\u00ef\u00bf\u00bdt have any negative consequences on Russia\u00ef\u00bf\u00bds revenue as the $60 a barrel threshold introduced by western countries \u00ef\u00bf\u00bdcorresponds to the prices at which we sell today,\u00ef\u00bf\u00bd Putin said.",
+                    "source_label_from_outlet": "RIGHT",
+                    "reused_text": "As the President noted, the price cap for Russian oil introduced by Western countries will eventually affect the entire world market\r\nBISHKEK, December 9.",
+                    "reused_label_from_outlet": "RIGHT",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.8664119243621826
+                    },
+                    "transform_flow": "from `RIGHT` to `RIGHT`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "\u00ef\u00bf\u00bdWe already sell at about these prices, so don\u00ef\u00bf\u00bdt worry about the budget.\u00ef\u00bf\u00bd\r\n\r\nRussia\u00ef\u00bf\u00bds flagship Urals crude that\u00ef\u00bf\u00bds exported from the Baltic port of Primorsk was assessed at $41.59 a barrel on Thursday, according to data from Argus Media, whose figures the Russian government has used to calculate export duties.",
+                    "source_label_from_outlet": "RIGHT",
+                    "reused_text": "As the President noted, the price cap for Russian oil introduced by Western countries will eventually affect the entire world market\r\nBISHKEK, December 9.",
+                    "reused_label_from_outlet": "RIGHT",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.8664119243621826
+                    },
+                    "transform_flow": "from `RIGHT` to `RIGHT`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "(Bloomberg) -- Russia may cut its oil production in response to the G-7 cap on the price of its crude, President Vladimir Putin said.",
+                    "source_label_from_outlet": "RIGHT",
+                    "reused_text": "The efforts to cap oil prices will not harm Russia, President Vladimir Putin told reporters on Friday.",
+                    "reused_label_from_outlet": "RIGHT",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.5992613434791565
+                    },
+                    "transform_flow": "from `RIGHT` to `RIGHT`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "(Bloomberg) \u00ef\u00bf\u00bd Russia may cut its oil production in response to the G-7 cap on the price of its crude, President Vladimir Putin said.",
+                    "source_label_from_outlet": "RIGHT",
+                    "reused_text": "The efforts to cap oil prices will not harm Russia, President Vladimir Putin told reporters on Friday.",
+                    "reused_label_from_outlet": "RIGHT",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.5992613434791565
+                    },
+                    "transform_flow": "from `RIGHT` to `RIGHT`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "\u00ef\u00bf\u00bdAny supply disruption not hurts their partners, but also really hurts their pocketbooks.\u00ef\u00bf\u00bd\r\n\r\nProduction, Revenue\r\n\r\nRussia has said the effects of the price cap on oil production will be limited.",
+                    "source_label_from_outlet": "RIGHT",
+                    "reused_text": "The efforts to cap oil prices will not harm Russia, President Vladimir Putin told reporters on Friday.",
+                    "reused_label_from_outlet": "RIGHT",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.5992613434791565
+                    },
+                    "transform_flow": "from `RIGHT` to `RIGHT`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "Read: Oil Price Cap Is No Game-changer for Putin\u00ef\u00bf\u00bds Wartime Budget\r\n\r\nThe price cap won\u00ef\u00bf\u00bdt have any negative consequences on Russia\u00ef\u00bf\u00bds revenue as the $60 a barrel threshold introduced by western countries \u00ef\u00bf\u00bdcorresponds to the prices at which we sell today,\u00ef\u00bf\u00bd Putin said.",
+                    "source_label_from_outlet": "RIGHT",
+                    "reused_text": "The efforts to cap oil prices will not harm Russia, President Vladimir Putin told reporters on Friday.",
+                    "reused_label_from_outlet": "RIGHT",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.5992613434791565
+                    },
+                    "transform_flow": "from `RIGHT` to `RIGHT`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "\u00ef\u00bf\u00bdI have already said that we simply won\u00ef\u00bf\u00bdt sell oil to those countries\u00ef\u00bf\u00bd that participate in a price cap.",
+                    "source_label_from_outlet": "RIGHT",
+                    "reused_text": "\"The proposed cap corresponds to the prices at which we sell [oil] today.",
+                    "reused_label_from_outlet": "RIGHT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.853156566619873
+                    },
+                    "transform_flow": "from `RIGHT` to `RIGHT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Advertisement 3\r\nArticle content\r\nThere are still enormous unanswered questions that will shape the impact of the measures on the oil market, including the depth of non-European insurance markets, the appetite of some tanker owners to participate in trade with Russia, and exactly how effective enforcement of the cap can be.",
+                    "source_label_from_outlet": "RIGHT",
+                    "reused_text": "\"The proposed cap corresponds to the prices at which we sell [oil] today.",
+                    "reused_label_from_outlet": "RIGHT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.853156566619873
+                    },
+                    "transform_flow": "from `RIGHT` to `RIGHT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Read: Oil Price Cap Is No Game-changer for Putin\u00ef\u00bf\u00bds Wartime Budget\r\n\r\nThe price cap won\u00ef\u00bf\u00bdt have any negative consequences on Russia\u00ef\u00bf\u00bds revenue as the $60 a barrel threshold introduced by western countries \u00ef\u00bf\u00bdcorresponds to the prices at which we sell today,\u00ef\u00bf\u00bd Putin said.",
+                    "source_label_from_outlet": "RIGHT",
+                    "reused_text": "\"The proposed cap corresponds to the prices at which we sell [oil] today.",
+                    "reused_label_from_outlet": "RIGHT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.853156566619873
+                    },
+                    "transform_flow": "from `RIGHT` to `RIGHT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "\u00ef\u00bf\u00bdI\u00ef\u00bf\u00bdm not saying now that this is a decision, but if necessary we\u00ef\u00bf\u00bdll think about possible production cuts,\u00ef\u00bf\u00bd Putin said.",
+                    "source_label_from_outlet": "RIGHT",
+                    "reused_text": "Therefore, we will not have losses under any circumstances,\" Putin said.",
+                    "reused_label_from_outlet": "RIGHT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.6797785758972168
+                    },
+                    "transform_flow": "from `RIGHT` to `RIGHT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "(Bloomberg) -- Russia may cut its oil production in response to the G-7 cap on the price of its crude, President Vladimir Putin said.",
+                    "source_label_from_outlet": "RIGHT",
+                    "reused_text": "As the President noted, the price cap for Russian oil introduced by Western countries will eventually affect the entire world market.",
+                    "reused_label_from_outlet": "RIGHT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.6460812091827393
+                    },
+                    "transform_flow": "from `RIGHT` to `RIGHT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "\u00ef\u00bf\u00bdI have already said that we simply won\u00ef\u00bf\u00bdt sell oil to those countries\u00ef\u00bf\u00bd that participate in a price cap.",
+                    "source_label_from_outlet": "RIGHT",
+                    "reused_text": "As the President noted, the price cap for Russian oil introduced by Western countries will eventually affect the entire world market.",
+                    "reused_label_from_outlet": "RIGHT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.6460812091827393
+                    },
+                    "transform_flow": "from `RIGHT` to `RIGHT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Advertisement 3\r\nArticle content\r\nThere are still enormous unanswered questions that will shape the impact of the measures on the oil market, including the depth of non-European insurance markets, the appetite of some tanker owners to participate in trade with Russia, and exactly how effective enforcement of the cap can be.",
+                    "source_label_from_outlet": "RIGHT",
+                    "reused_text": "As the President noted, the price cap for Russian oil introduced by Western countries will eventually affect the entire world market.",
+                    "reused_label_from_outlet": "RIGHT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.6460812091827393
+                    },
+                    "transform_flow": "from `RIGHT` to `RIGHT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "\u00ef\u00bf\u00bdAny supply disruption not hurts their partners, but also really hurts their pocketbooks.\u00ef\u00bf\u00bd\r\n\r\nProduction, Revenue\r\n\r\nRussia has said the effects of the price cap on oil production will be limited.",
+                    "source_label_from_outlet": "RIGHT",
+                    "reused_text": "As the President noted, the price cap for Russian oil introduced by Western countries will eventually affect the entire world market.",
+                    "reused_label_from_outlet": "RIGHT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.6460812091827393
+                    },
+                    "transform_flow": "from `RIGHT` to `RIGHT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Read: Oil Price Cap Is No Game-changer for Putin\u00ef\u00bf\u00bds Wartime Budget\r\n\r\nThe price cap won\u00ef\u00bf\u00bdt have any negative consequences on Russia\u00ef\u00bf\u00bds revenue as the $60 a barrel threshold introduced by western countries \u00ef\u00bf\u00bdcorresponds to the prices at which we sell today,\u00ef\u00bf\u00bd Putin said.",
+                    "source_label_from_outlet": "RIGHT",
+                    "reused_text": "As the President noted, the price cap for Russian oil introduced by Western countries will eventually affect the entire world market.",
+                    "reused_label_from_outlet": "RIGHT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.6460812091827393
+                    },
+                    "transform_flow": "from `RIGHT` to `RIGHT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "\u00ef\u00bf\u00bdAny supply disruption not hurts their partners, but also really hurts their pocketbooks.\u00ef\u00bf\u00bd\r\n\r\nProduction, Revenue\r\n\r\nRussia has said the effects of the price cap on oil production will be limited.",
+                    "source_label_from_outlet": "RIGHT",
+                    "reused_text": "If we listen only to consumers, then this investment will shrink to zero and at some stage this will lead to a catastrophic surge in prices and to the collapse of world energy,\" Putin said.",
+                    "reused_label_from_outlet": "RIGHT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7749634981155396
+                    },
+                    "transform_flow": "from `RIGHT` to `RIGHT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Read: Oil Price Cap Is No Game-changer for Putin\u00ef\u00bf\u00bds Wartime Budget\r\n\r\nThe price cap won\u00ef\u00bf\u00bdt have any negative consequences on Russia\u00ef\u00bf\u00bds revenue as the $60 a barrel threshold introduced by western countries \u00ef\u00bf\u00bdcorresponds to the prices at which we sell today,\u00ef\u00bf\u00bd Putin said.",
+                    "source_label_from_outlet": "RIGHT",
+                    "reused_text": "If we listen only to consumers, then this investment will shrink to zero and at some stage this will lead to a catastrophic surge in prices and to the collapse of world energy,\" Putin said.",
+                    "reused_label_from_outlet": "RIGHT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7749634981155396
+                    },
+                    "transform_flow": "from `RIGHT` to `RIGHT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "A decision on Moscow\u00ef\u00bf\u00bds response will be announced in a presidential decree within the next several days, Putin told reporters in comments broadcast on state Rossiya 24 TV, providing no further details.",
+                    "source_label_from_outlet": "RIGHT",
+                    "reused_text": "According to the Russian leader, \"this is a stupid proposal, ill-conceived and uncalculated.\"",
+                    "reused_label_from_outlet": "RIGHT",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.48152244091033936
+                    },
+                    "transform_flow": "from `RIGHT` to `RIGHT`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "\u00ef\u00bf\u00bdI\u00ef\u00bf\u00bdm not saying now that this is a decision, but if necessary we\u00ef\u00bf\u00bdll think about possible production cuts,\u00ef\u00bf\u00bd Putin said.",
+                    "source_label_from_outlet": "RIGHT",
+                    "reused_text": "According to the Russian leader, \"this is a stupid proposal, ill-conceived and uncalculated.\"",
+                    "reused_label_from_outlet": "RIGHT",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.48152244091033936
+                    },
+                    "transform_flow": "from `RIGHT` to `RIGHT`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "\u00ef\u00bf\u00bdWhatever Russia does there are no good options,\u00ef\u00bf\u00bd Ben Harris, assistant secretary for economic policy at the US Treasury, said earlier this week.",
+                    "source_label_from_outlet": "RIGHT",
+                    "reused_text": "According to the Russian leader, \"this is a stupid proposal, ill-conceived and uncalculated.\"",
+                    "reused_label_from_outlet": "RIGHT",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.48152244091033936
+                    },
+                    "transform_flow": "from `RIGHT` to `RIGHT`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "Read: Oil Price Cap Is No Game-changer for Putin\u00ef\u00bf\u00bds Wartime Budget\r\n\r\nThe price cap won\u00ef\u00bf\u00bdt have any negative consequences on Russia\u00ef\u00bf\u00bds revenue as the $60 a barrel threshold introduced by western countries \u00ef\u00bf\u00bdcorresponds to the prices at which we sell today,\u00ef\u00bf\u00bd Putin said.",
+                    "source_label_from_outlet": "RIGHT",
+                    "reused_text": "He called the introduction of a price cap a harmful decision for world energy markets.",
+                    "reused_label_from_outlet": "RIGHT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.8202812075614929
+                    },
+                    "transform_flow": "from `RIGHT` to `RIGHT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "(Bloomberg) -- Russia may cut its oil production in response to the G-7 cap on the price of its crude, President Vladimir Putin said.",
+                    "source_label_from_outlet": "RIGHT",
+                    "reused_text": "At the same time, Putin dismissed the possibility that the price cap would cause problems for the Russian budget.",
+                    "reused_label_from_outlet": "RIGHT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.6856465935707092
+                    },
+                    "transform_flow": "from `RIGHT` to `RIGHT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "(Bloomberg) \u00ef\u00bf\u00bd Russia may cut its oil production in response to the G-7 cap on the price of its crude, President Vladimir Putin said.",
+                    "source_label_from_outlet": "RIGHT",
+                    "reused_text": "At the same time, Putin dismissed the possibility that the price cap would cause problems for the Russian budget.",
+                    "reused_label_from_outlet": "RIGHT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.6856465935707092
+                    },
+                    "transform_flow": "from `RIGHT` to `RIGHT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "\u00ef\u00bf\u00bdI\u00ef\u00bf\u00bdm not saying now that this is a decision, but if necessary we\u00ef\u00bf\u00bdll think about possible production cuts,\u00ef\u00bf\u00bd Putin said.",
+                    "source_label_from_outlet": "RIGHT",
+                    "reused_text": "At the same time, Putin dismissed the possibility that the price cap would cause problems for the Russian budget.",
+                    "reused_label_from_outlet": "RIGHT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.6856465935707092
+                    },
+                    "transform_flow": "from `RIGHT` to `RIGHT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "\u00ef\u00bf\u00bdWhatever Russia does there are no good options,\u00ef\u00bf\u00bd Ben Harris, assistant secretary for economic policy at the US Treasury, said earlier this week.",
+                    "source_label_from_outlet": "RIGHT",
+                    "reused_text": "At the same time, Putin dismissed the possibility that the price cap would cause problems for the Russian budget.",
+                    "reused_label_from_outlet": "RIGHT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.6856465935707092
+                    },
+                    "transform_flow": "from `RIGHT` to `RIGHT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "\u00ef\u00bf\u00bdAny supply disruption not hurts their partners, but also really hurts their pocketbooks.\u00ef\u00bf\u00bd\r\n\r\nProduction, Revenue\r\n\r\nRussia has said the effects of the price cap on oil production will be limited.",
+                    "source_label_from_outlet": "RIGHT",
+                    "reused_text": "At the same time, Putin dismissed the possibility that the price cap would cause problems for the Russian budget.",
+                    "reused_label_from_outlet": "RIGHT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.6856465935707092
+                    },
+                    "transform_flow": "from `RIGHT` to `RIGHT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Read: Oil Price Cap Is No Game-changer for Putin\u00ef\u00bf\u00bds Wartime Budget\r\n\r\nThe price cap won\u00ef\u00bf\u00bdt have any negative consequences on Russia\u00ef\u00bf\u00bds revenue as the $60 a barrel threshold introduced by western countries \u00ef\u00bf\u00bdcorresponds to the prices at which we sell today,\u00ef\u00bf\u00bd Putin said.",
+                    "source_label_from_outlet": "RIGHT",
+                    "reused_text": "At the same time, Putin dismissed the possibility that the price cap would cause problems for the Russian budget.",
+                    "reused_label_from_outlet": "RIGHT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.6856465935707092
+                    },
+                    "transform_flow": "from `RIGHT` to `RIGHT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "\u00ef\u00bf\u00bdI have already said that we simply won\u00ef\u00bf\u00bdt sell oil to those countries\u00ef\u00bf\u00bd that participate in a price cap.",
+                    "source_label_from_outlet": "RIGHT",
+                    "reused_text": "\"We are selling [oil] at these prices anyway now.",
+                    "reused_label_from_outlet": "RIGHT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.8780335783958435
+                    },
+                    "transform_flow": "from `RIGHT` to `RIGHT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Read: Oil Price Cap Is No Game-changer for Putin\u00ef\u00bf\u00bds Wartime Budget\r\n\r\nThe price cap won\u00ef\u00bf\u00bdt have any negative consequences on Russia\u00ef\u00bf\u00bds revenue as the $60 a barrel threshold introduced by western countries \u00ef\u00bf\u00bdcorresponds to the prices at which we sell today,\u00ef\u00bf\u00bd Putin said.",
+                    "source_label_from_outlet": "RIGHT",
+                    "reused_text": "\"We are selling [oil] at these prices anyway now.",
+                    "reused_label_from_outlet": "RIGHT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.8780335783958435
+                    },
+                    "transform_flow": "from `RIGHT` to `RIGHT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "\u00ef\u00bf\u00bdWe already sell at about these prices, so don\u00ef\u00bf\u00bdt worry about the budget.\u00ef\u00bf\u00bd\r\n\r\nRussia\u00ef\u00bf\u00bds flagship Urals crude that\u00ef\u00bf\u00bds exported from the Baltic port of Primorsk was assessed at $41.59 a barrel on Thursday, according to data from Argus Media, whose figures the Russian government has used to calculate export duties.",
+                    "source_label_from_outlet": "RIGHT",
+                    "reused_text": "\"We are selling [oil] at these prices anyway now.",
+                    "reused_label_from_outlet": "RIGHT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.8780335783958435
+                    },
+                    "transform_flow": "from `RIGHT` to `RIGHT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "A decision on Moscow\u00ef\u00bf\u00bds response will be announced in a presidential decree within the next several days, Putin told reporters in comments broadcast on state Rossiya 24 TV, providing no further details.",
+                    "source_label_from_outlet": "RIGHT",
+                    "reused_text": "Hit those who offer such solutions,\" Putin said.",
+                    "reused_label_from_outlet": "RIGHT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7071912884712219
+                    },
+                    "transform_flow": "from `RIGHT` to `RIGHT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "\u00ef\u00bf\u00bdI\u00ef\u00bf\u00bdm not saying now that this is a decision, but if necessary we\u00ef\u00bf\u00bdll think about possible production cuts,\u00ef\u00bf\u00bd Putin said.",
+                    "source_label_from_outlet": "RIGHT",
+                    "reused_text": "Hit those who offer such solutions,\" Putin said.",
+                    "reused_label_from_outlet": "RIGHT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7071912884712219
+                    },
+                    "transform_flow": "from `RIGHT` to `RIGHT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "\u00ef\u00bf\u00bdWhatever Russia does there are no good options,\u00ef\u00bf\u00bd Ben Harris, assistant secretary for economic policy at the US Treasury, said earlier this week.",
+                    "source_label_from_outlet": "RIGHT",
+                    "reused_text": "Hit those who offer such solutions,\" Putin said.",
+                    "reused_label_from_outlet": "RIGHT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7071912884712219
+                    },
+                    "transform_flow": "from `RIGHT` to `RIGHT`, it should be `LEFT`"
+                }
+            ]
+        }
+    ]
+}

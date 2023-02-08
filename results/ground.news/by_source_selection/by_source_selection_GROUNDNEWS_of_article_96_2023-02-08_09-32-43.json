@@ -1,0 +1,1141 @@
+{
+    "reused_id": 96,
+    "reused_datetime": "8/12/2022 02:51:05",
+    "reused_label": "CENTER",
+    "potential_sources": [
+        {
+            "source_id": 69,
+            "source_datetime": "8/12/2022 00:32:36",
+            "source_label": "CENTER",
+            "details": [
+                {
+                    "source_text": "Luis Enrique was sacked as Spain coach on Thursday after the team's elimination in the last-16 at the World Cup with the country's under-21 manager Luis de la Fuente named as his replacement by the Spanish football federation (RFEF).",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Spain were beaten on penalties by Morocco after a goalless draw on Tuesday in an upset result after failing to turn their dominance in the game into a victory \r\nDOHA - Spain coach Luis Enrique has left his job after the country's elimination in the last-16 at the World Cup, the Spanish football federation said on Twitter on Thursday.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.6013422012329102
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "Spain were beaten on penalties by Morocco after a goalless draw on Tuesday in an upset result after failing to turn their dominance into a victory.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Spain were beaten on penalties by Morocco after a goalless draw on Tuesday in an upset result after failing to turn their dominance in the game into a victory \r\nDOHA - Spain coach Luis Enrique has left his job after the country's elimination in the last-16 at the World Cup, the Spanish football federation said on Twitter on Thursday.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.6013422012329102
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "Spain were beaten on penalties by Morocco after a goalless draw on Tuesday in an upset result after failing to turn their dominance into a victory.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Spain were beaten on penalties by Morocco after a goalless draw on Tuesday in an upset result after failing to turn their dominance in the game into a victory.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.5498783588409424
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "The 52-year-old said after the Morocco match that he was to blame for the defeat.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "The 52-year-old coach said after the match that he was to blame for the defeat.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.8930634260177612
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Luis Enrique was sacked as Spain coach on Thursday after the team's elimination in the last-16 at the World Cup with the country's under-21 manager Luis de la Fuente named as his replacement by the Spanish football federation (RFEF).",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Enrique, who was first appointed Spain coach in 2018, had a contract until the end of the year.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7169186472892761
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "\"The RFEF has chosen Luis de la Fuente as the new (Spain) coach,\" RFEF said in a statement.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Enrique, who was first appointed Spain coach in 2018, had a contract until the end of the year.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7169186472892761
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "\"The ... RFEF has delivered to the president a report in which it determined that a new project should start for the Spain national team, with the aim of continuing the growth achieved in recent years thanks to the work carried out by Luis Enrique (and the staff).",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Enrique, who was first appointed Spain coach in 2018, had a contract until the end of the year.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7169186472892761
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "\"Both the RFEF president Luis Rubiales and sports director, Jose Francisco Molina have informed Luis Enrique of the decision.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Enrique, who was first appointed Spain coach in 2018, had a contract until the end of the year.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7169186472892761
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "The RFEF would like to thank Luis Enrique and his entire coaching staff for the work done in the last few years.\"",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Enrique, who was first appointed Spain coach in 2018, had a contract until the end of the year.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7169186472892761
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Luis Enrique, who was first appointed Spain coach in 2018, had a contract until the end of the year.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Enrique, who was first appointed Spain coach in 2018, had a contract until the end of the year.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7169186472892761
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                }
+            ]
+        },
+        {
+            "source_id": 74,
+            "source_datetime": "6/12/2022 05:19:31",
+            "source_label": "CENTER",
+            "details": [
+                {
+                    "source_text": "DOHA, QATAR - Luis Enrique was replaced by Luis de la Fuente as Spain's coach on Thursday, two days after the national team was eliminated in the round of 16 at the World Cup.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Spain were beaten on penalties by Morocco after a goalless draw on Tuesday in an upset result after failing to turn their dominance in the game into a victory \r\nDOHA - Spain coach Luis Enrique has left his job after the country's elimination in the last-16 at the World Cup, the Spanish football federation said on Twitter on Thursday.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.6013422012329102
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "Spain lost to Morocco 3-0 in a penalty shootout after a scoreless draw in regular and extra time.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Spain were beaten on penalties by Morocco after a goalless draw on Tuesday in an upset result after failing to turn their dominance in the game into a victory \r\nDOHA - Spain coach Luis Enrique has left his job after the country's elimination in the last-16 at the World Cup, the Spanish football federation said on Twitter on Thursday.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.6013422012329102
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "Spain got off to a good start in Qatar, routing Costa Rica 7-0, but La Roja couldn't win again in its last three matches.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Spain were beaten on penalties by Morocco after a goalless draw on Tuesday in an upset result after failing to turn their dominance in the game into a victory \r\nDOHA - Spain coach Luis Enrique has left his job after the country's elimination in the last-16 at the World Cup, the Spanish football federation said on Twitter on Thursday.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.6013422012329102
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "He helped Spain reach the last four of the Nations League twice, including this season and last year, when it lost the final to France.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Spain were beaten on penalties by Morocco after a goalless draw on Tuesday in an upset result after failing to turn their dominance in the game into a victory \r\nDOHA - Spain coach Luis Enrique has left his job after the country's elimination in the last-16 at the World Cup, the Spanish football federation said on Twitter on Thursday.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.6013422012329102
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "He also led Spain to the semifinals of the European Championship last year, losing to Italy in a penalty shootout.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Spain were beaten on penalties by Morocco after a goalless draw on Tuesday in an upset result after failing to turn their dominance in the game into a victory \r\nDOHA - Spain coach Luis Enrique has left his job after the country's elimination in the last-16 at the World Cup, the Spanish football federation said on Twitter on Thursday.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.6013422012329102
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "The team's elimination in Qatar raised more questions about whether Spain should start overhauling its soccer philosophy and get rid of the \"tiki-taka\" ball-possession style that has not produced results recently.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Spain were beaten on penalties by Morocco after a goalless draw on Tuesday in an upset result after failing to turn their dominance in the game into a victory \r\nDOHA - Spain coach Luis Enrique has left his job after the country's elimination in the last-16 at the World Cup, the Spanish football federation said on Twitter on Thursday.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.6013422012329102
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "Spain lost to Morocco 3-0 in a penalty shootout after a scoreless draw in regular and extra time.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Spain were beaten on penalties by Morocco after a goalless draw on Tuesday in an upset result after failing to turn their dominance in the game into a victory.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.5498783588409424
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Spain got off to a good start in Qatar, routing Costa Rica 7-0, but La Roja couldn't win again in its last three matches.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Spain were beaten on penalties by Morocco after a goalless draw on Tuesday in an upset result after failing to turn their dominance in the game into a victory.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.5498783588409424
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "He also led Spain to the semifinals of the European Championship last year, losing to Italy in a penalty shootout.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Spain were beaten on penalties by Morocco after a goalless draw on Tuesday in an upset result after failing to turn their dominance in the game into a victory.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.5498783588409424
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "\"I'm sorry I wasn't able to help more,\" the outgoing coach said in a statement posted on Twitter and Instagram.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "The 52-year-old coach said after the match that he was to blame for the defeat.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.8930634260177612
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "DOHA, QATAR - Luis Enrique was replaced by Luis de la Fuente as Spain's coach on Thursday, two days after the national team was eliminated in the round of 16 at the World Cup.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Enrique, who was first appointed Spain coach in 2018, had a contract until the end of the year.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7169186472892761
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "The Spanish soccer federation thanked Luis Enrique, but said it was time to \"start a new project\" to keep the growth achieved by the coach in recent years.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Enrique, who was first appointed Spain coach in 2018, had a contract until the end of the year.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7169186472892761
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Luis Enrique said he was thankful to his players while he was in charge, as well as to federation president Luis Rubiales.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Enrique, who was first appointed Spain coach in 2018, had a contract until the end of the year.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7169186472892761
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Other candidates who had been considered besides De la Fuente, who was Spain's under-21 coach, included former Belgium manager Roberto Martinez and former Athletic Bilbao coach Marcelino Garcia Toral.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Enrique, who was first appointed Spain coach in 2018, had a contract until the end of the year.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7169186472892761
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Luis Enrique took over the national team in 2018 to start revamping the squad after its elimination in the round of 16 of the World Cup in Russia.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Enrique, who was first appointed Spain coach in 2018, had a contract until the end of the year.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7169186472892761
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Luis Enrique's contract ended after the World Cup.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Enrique, who was first appointed Spain coach in 2018, had a contract until the end of the year.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7169186472892761
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "The 52-year-old Luis Enrique, not long ago seen as one of the most uptight coaches in soccer, had opened up at the World Cup, doing streaming sessions, going on bicycle rides and talking frankly about controversial issues.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Enrique, who was first appointed Spain coach in 2018, had a contract until the end of the year.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7169186472892761
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Luis Enrique had said he wasn't planning to relinquish the \"tiki-taka\" if he remained as coach, and De la Fuente also is likely to keep it alive.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Enrique, who was first appointed Spain coach in 2018, had a contract until the end of the year.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7169186472892761
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                }
+            ]
+        },
+        {
+            "source_id": 77,
+            "source_datetime": "8/12/2022 00:43:33",
+            "source_label": "LEFT",
+            "details": [
+                {
+                    "source_text": "Luis Enrique has left his role as coach of Spain's national team after the country crashed out of the World Cup by losing on penalties to Morocco.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "Spain were beaten on penalties by Morocco after a goalless draw on Tuesday in an upset result after failing to turn their dominance in the game into a victory \r\nDOHA - Spain coach Luis Enrique has left his job after the country's elimination in the last-16 at the World Cup, the Spanish football federation said on Twitter on Thursday.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.6013422012329102
+                    },
+                    "transform_flow": "from `LEFT` to `CENTER`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "Spain's shock exit in Qatar followed a goalless draw in the last 16 match which saw Enrique's young side struggle to break down a stubborn Moroccan defence, before a disastrous shootout in which they failed to score, going down 3-0.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "Spain were beaten on penalties by Morocco after a goalless draw on Tuesday in an upset result after failing to turn their dominance in the game into a victory \r\nDOHA - Spain coach Luis Enrique has left his job after the country's elimination in the last-16 at the World Cup, the Spanish football federation said on Twitter on Thursday.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.6013422012329102
+                    },
+                    "transform_flow": "from `LEFT` to `CENTER`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "The federation pointed out that under Enrique, Spain had reached the final four of the UEFA Nations League twice out of three attempts \u00ef\u00bf\u00bd last year they lost in the final to France \u00ef\u00bf\u00bd and the semi-finals of Euro 2020, when they lost to the eventual winners Italy on penalties.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "Spain were beaten on penalties by Morocco after a goalless draw on Tuesday in an upset result after failing to turn their dominance in the game into a victory \r\nDOHA - Spain coach Luis Enrique has left his job after the country's elimination in the last-16 at the World Cup, the Spanish football federation said on Twitter on Thursday.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.6013422012329102
+                    },
+                    "transform_flow": "from `LEFT` to `CENTER`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "Spain's shock exit in Qatar followed a goalless draw in the last 16 match which saw Enrique's young side struggle to break down a stubborn Moroccan defence, before a disastrous shootout in which they failed to score, going down 3-0.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "Spain were beaten on penalties by Morocco after a goalless draw on Tuesday in an upset result after failing to turn their dominance in the game into a victory.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.5498783588409424
+                    },
+                    "transform_flow": "from `LEFT` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "The federation pointed out that under Enrique, Spain had reached the final four of the UEFA Nations League twice out of three attempts \u00ef\u00bf\u00bd last year they lost in the final to France \u00ef\u00bf\u00bd and the semi-finals of Euro 2020, when they lost to the eventual winners Italy on penalties.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "Spain were beaten on penalties by Morocco after a goalless draw on Tuesday in an upset result after failing to turn their dominance in the game into a victory.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.5498783588409424
+                    },
+                    "transform_flow": "from `LEFT` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Luis Enrique has left his role as coach of Spain's national team after the country crashed out of the World Cup by losing on penalties to Morocco.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "Enrique, who was first appointed Spain coach in 2018, had a contract until the end of the year.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7169186472892761
+                    },
+                    "transform_flow": "from `LEFT` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "He will be succeeded by the manager of Spain's under-21 team, Luis de la Fuente.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "Enrique, who was first appointed Spain coach in 2018, had a contract until the end of the year.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7169186472892761
+                    },
+                    "transform_flow": "from `LEFT` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "The Spanish Football Federation (RFEF) said in a statement that it \"would like to thank Luis Enrique and all his coaching staff for their work at the head of the senior national team over the last few years\".",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "Enrique, who was first appointed Spain coach in 2018, had a contract until the end of the year.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7169186472892761
+                    },
+                    "transform_flow": "from `LEFT` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "\"The RFEF sports management has sent the president a report in which it is determined that a new project for the Spanish national football team should be started, with the aim of continuing the growth achieved in recent years thanks to the work carried out by Luis Enrique and his collaborators,\" it added.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "Enrique, who was first appointed Spain coach in 2018, had a contract until the end of the year.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7169186472892761
+                    },
+                    "transform_flow": "from `LEFT` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Imposing \"his own stamp and through a defined style\", the federation said the coach had \"placed his faith in young talent and has given hope for the future of the Spanish national team\".",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "Enrique, who was first appointed Spain coach in 2018, had a contract until the end of the year.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7169186472892761
+                    },
+                    "transform_flow": "from `LEFT` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Luis Enrique took over the national team after the 2018 World Cup in Russia, revamping the squad after the team's elimination in the round of 16.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "Enrique, who was first appointed Spain coach in 2018, had a contract until the end of the year.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7169186472892761
+                    },
+                    "transform_flow": "from `LEFT` to `CENTER`, it should be `LEFT`"
+                }
+            ]
+        },
+        {
+            "source_id": 81,
+            "source_datetime": "8/12/2022 00:06:43",
+            "source_label": "LEFT",
+            "details": [
+                {
+                    "source_text": "Spain sacked coach Luis Enrique on Thursday after the 2010 champions were dumped out of the World Cup by Morocco at the last-16 stage, quickly naming his replacement as under-21s boss Luis de la Fuente.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "Spain were beaten on penalties by Morocco after a goalless draw on Tuesday in an upset result after failing to turn their dominance in the game into a victory \r\nDOHA - Spain coach Luis Enrique has left his job after the country's elimination in the last-16 at the World Cup, the Spanish football federation said on Twitter on Thursday.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.6013422012329102
+                    },
+                    "transform_flow": "from `LEFT` to `CENTER`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "Spain started their campaign in Qatar in style by hammering Costa Rica 7-0 and qualified for the knockout phase despite a shock 2-1 defeat to Japan.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "Spain were beaten on penalties by Morocco after a goalless draw on Tuesday in an upset result after failing to turn their dominance in the game into a victory \r\nDOHA - Spain coach Luis Enrique has left his job after the country's elimination in the last-16 at the World Cup, the Spanish football federation said on Twitter on Thursday.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.6013422012329102
+                    },
+                    "transform_flow": "from `LEFT` to `CENTER`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "Spain last lifted a major trophy a decade ago at Euro 2012, while they have not won a single knockout game at the Word Cup since triumphing in South Africa in 2010.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "Spain were beaten on penalties by Morocco after a goalless draw on Tuesday in an upset result after failing to turn their dominance in the game into a victory \r\nDOHA - Spain coach Luis Enrique has left his job after the country's elimination in the last-16 at the World Cup, the Spanish football federation said on Twitter on Thursday.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.6013422012329102
+                    },
+                    "transform_flow": "from `LEFT` to `CENTER`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "Luis Enrique took over in 2018 after Spain's disappointing showing at the World Cup in Russia, and led La Roja to the semi-finals of Euro 2020, where they were also beaten on penalties, by Italy.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "Spain were beaten on penalties by Morocco after a goalless draw on Tuesday in an upset result after failing to turn their dominance in the game into a victory \r\nDOHA - Spain coach Luis Enrique has left his job after the country's elimination in the last-16 at the World Cup, the Spanish football federation said on Twitter on Thursday.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.6013422012329102
+                    },
+                    "transform_flow": "from `LEFT` to `CENTER`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "Spain sacked coach Luis Enrique on Thursday after the 2010 champions were dumped out of the World Cup by Morocco at the last-16 stage, quickly naming his replacement as under-21s boss Luis de la Fuente.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "Spain were beaten on penalties by Morocco after a goalless draw on Tuesday in an upset result after failing to turn their dominance in the game into a victory.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.5498783588409424
+                    },
+                    "transform_flow": "from `LEFT` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Spain started their campaign in Qatar in style by hammering Costa Rica 7-0 and qualified for the knockout phase despite a shock 2-1 defeat to Japan.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "Spain were beaten on penalties by Morocco after a goalless draw on Tuesday in an upset result after failing to turn their dominance in the game into a victory.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.5498783588409424
+                    },
+                    "transform_flow": "from `LEFT` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Spain last lifted a major trophy a decade ago at Euro 2012, while they have not won a single knockout game at the Word Cup since triumphing in South Africa in 2010.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "Spain were beaten on penalties by Morocco after a goalless draw on Tuesday in an upset result after failing to turn their dominance in the game into a victory.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.5498783588409424
+                    },
+                    "transform_flow": "from `LEFT` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Luis Enrique took over in 2018 after Spain's disappointing showing at the World Cup in Russia, and led La Roja to the semi-finals of Euro 2020, where they were also beaten on penalties, by Italy.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "Spain were beaten on penalties by Morocco after a goalless draw on Tuesday in an upset result after failing to turn their dominance in the game into a victory.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.5498783588409424
+                    },
+                    "transform_flow": "from `LEFT` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Spain sacked coach Luis Enrique on Thursday after the 2010 champions were dumped out of the World Cup by Morocco at the last-16 stage, quickly naming his replacement as under-21s boss Luis de la Fuente.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "Enrique, who was first appointed Spain coach in 2018, had a contract until the end of the year.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7169186472892761
+                    },
+                    "transform_flow": "from `LEFT` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "They said they wanted to thank Luis Enrique and his staff for their work, but had decided to start a \"new project\".",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "Enrique, who was first appointed Spain coach in 2018, had a contract until the end of the year.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7169186472892761
+                    },
+                    "transform_flow": "from `LEFT` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Luis Enrique had said he wanted to stay on as coach after the defeat to Morocco on Tuesday.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "Enrique, who was first appointed Spain coach in 2018, had a contract until the end of the year.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7169186472892761
+                    },
+                    "transform_flow": "from `LEFT` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Luis Enrique took over in 2018 after Spain's disappointing showing at the World Cup in Russia, and led La Roja to the semi-finals of Euro 2020, where they were also beaten on penalties, by Italy.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "Enrique, who was first appointed Spain coach in 2018, had a contract until the end of the year.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7169186472892761
+                    },
+                    "transform_flow": "from `LEFT` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "His time as Spain coach was characterised by a firm commitment to maintaining possession.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "Enrique, who was first appointed Spain coach in 2018, had a contract until the end of the year.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7169186472892761
+                    },
+                    "transform_flow": "from `LEFT` to `CENTER`, it should be `LEFT`"
+                }
+            ]
+        },
+        {
+            "source_id": 89,
+            "source_datetime": "8/12/2022 01:53:32",
+            "source_label": "LEFT",
+            "details": [
+                {
+                    "source_text": "Spain were beaten on penalties by Morocco after a goalless draw on Tuesday in an upset result after failing to turn their dominance in the game into a victory.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "Spain were beaten on penalties by Morocco after a goalless draw on Tuesday in an upset result after failing to turn their dominance in the game into a victory \r\nDOHA - Spain coach Luis Enrique has left his job after the country's elimination in the last-16 at the World Cup, the Spanish football federation said on Twitter on Thursday.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.6013422012329102
+                    },
+                    "transform_flow": "from `LEFT` to `CENTER`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "Spain were beaten on penalties by Morocco after a goalless draw on Tuesday in an upset result after failing to turn their dominance in the game into a victory.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "Spain were beaten on penalties by Morocco after a goalless draw on Tuesday in an upset result after failing to turn their dominance in the game into a victory \r\nDOHA - Spain coach Luis Enrique has left his job after the country's elimination in the last-16 at the World Cup, the Spanish football federation said on Twitter on Thursday.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.6013422012329102
+                    },
+                    "transform_flow": "from `LEFT` to `CENTER`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "Spain were beaten on penalties by Morocco after a goalless draw on Tuesday in an upset result after failing to turn their dominance in the game into a victory.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "Spain were beaten on penalties by Morocco after a goalless draw on Tuesday in an upset result after failing to turn their dominance in the game into a victory.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.5498783588409424
+                    },
+                    "transform_flow": "from `LEFT` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Spain were beaten on penalties by Morocco after a goalless draw on Tuesday in an upset result after failing to turn their dominance in the game into a victory.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "Spain were beaten on penalties by Morocco after a goalless draw on Tuesday in an upset result after failing to turn their dominance in the game into a victory.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.5498783588409424
+                    },
+                    "transform_flow": "from `LEFT` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "The 52-year-old coach said after the match that he was to blame for the defeat.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "The 52-year-old coach said after the match that he was to blame for the defeat.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.8930634260177612
+                    },
+                    "transform_flow": "from `LEFT` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Spain coach Luis Enrique has left his job after the country's elimination in the last-16 at the World Cup, the Spanish football federation said on Twitter on Thursday.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "Enrique, who was first appointed Spain coach in 2018, had a contract until the end of the year.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7169186472892761
+                    },
+                    "transform_flow": "from `LEFT` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Enrique, who was first appointed Spain coach in 2018, had a contract until the end of the year.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "Enrique, who was first appointed Spain coach in 2018, had a contract until the end of the year.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7169186472892761
+                    },
+                    "transform_flow": "from `LEFT` to `CENTER`, it should be `LEFT`"
+                }
+            ]
+        },
+        {
+            "source_id": 102,
+            "source_datetime": "6/12/2022 16:08:55",
+            "source_label": "CENTER",
+            "details": [
+                {
+                    "source_text": "DOHA: Luis Enrique was sacked as Spain coach on Thursday after the team's elimination in the last-16 at the World Cup with the country's under-21 manager Luis de la Fuente named as his replacement by the Spanish football federation (RFEF).",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Spain were beaten on penalties by Morocco after a goalless draw on Tuesday in an upset result after failing to turn their dominance in the game into a victory \r\nDOHA - Spain coach Luis Enrique has left his job after the country's elimination in the last-16 at the World Cup, the Spanish football federation said on Twitter on Thursday.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.6013422012329102
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "Spain were beaten on penalties by Morocco after a goalless draw on Tuesday in an upset result after failing to turn their dominance into a victory.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Spain were beaten on penalties by Morocco after a goalless draw on Tuesday in an upset result after failing to turn their dominance in the game into a victory \r\nDOHA - Spain coach Luis Enrique has left his job after the country's elimination in the last-16 at the World Cup, the Spanish football federation said on Twitter on Thursday.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.6013422012329102
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "Spain were beaten on penalties by Morocco after a goalless draw on Tuesday in an upset result after failing to turn their dominance into a victory.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Spain were beaten on penalties by Morocco after a goalless draw on Tuesday in an upset result after failing to turn their dominance in the game into a victory.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.5498783588409424
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "The 52-year-old said after the Morocco match that he was to blame for the defeat.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "The 52-year-old coach said after the match that he was to blame for the defeat.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.8930634260177612
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "DOHA: Luis Enrique was sacked as Spain coach on Thursday after the team's elimination in the last-16 at the World Cup with the country's under-21 manager Luis de la Fuente named as his replacement by the Spanish football federation (RFEF).",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Enrique, who was first appointed Spain coach in 2018, had a contract until the end of the year.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7169186472892761
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "\"The RFEF has chosen Luis de la Fuente as the new (Spain) coach,\" RFEF said in a statement.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Enrique, who was first appointed Spain coach in 2018, had a contract until the end of the year.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7169186472892761
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "\"The ... RFEF has delivered to the president a report in which it determined that a new project should start for the Spain national team, with the aim of continuing the growth achieved in recent years thanks to the work carried out by Luis Enrique (and the staff).",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Enrique, who was first appointed Spain coach in 2018, had a contract until the end of the year.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7169186472892761
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "\"Both the RFEF president Luis Rubiales and sports director, Jose Francisco Molina have informed Luis Enrique of the decision.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Enrique, who was first appointed Spain coach in 2018, had a contract until the end of the year.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7169186472892761
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "The RFEF would like to thank Luis Enrique and his entire coaching staff for the work done in the last few years.\"",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Enrique, who was first appointed Spain coach in 2018, had a contract until the end of the year.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7169186472892761
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Luis Enrique, who was first appointed Spain coach in 2018, had a contract until the end of the year.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Enrique, who was first appointed Spain coach in 2018, had a contract until the end of the year.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7169186472892761
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                }
+            ]
+        },
+        {
+            "source_id": 104,
+            "source_datetime": "18/2/2022 06:27:13",
+            "source_label": "CENTER",
+            "details": [
+                {
+                    "source_text": "Spain lost to Morocco 3-0 in a penalty shootout after a scoreless draw in regular and extra time.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Spain were beaten on penalties by Morocco after a goalless draw on Tuesday in an upset result after failing to turn their dominance in the game into a victory \r\nDOHA - Spain coach Luis Enrique has left his job after the country's elimination in the last-16 at the World Cup, the Spanish football federation said on Twitter on Thursday.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.6013422012329102
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "Spain got off to a good start in Qatar, routing Costa Rica 7-0, but La Roja couldn't win again in its last three matches.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Spain were beaten on penalties by Morocco after a goalless draw on Tuesday in an upset result after failing to turn their dominance in the game into a victory \r\nDOHA - Spain coach Luis Enrique has left his job after the country's elimination in the last-16 at the World Cup, the Spanish football federation said on Twitter on Thursday.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.6013422012329102
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "He helped Spain reach the last four of the Nations League twice, including this season and last year, when it lost the final to France.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Spain were beaten on penalties by Morocco after a goalless draw on Tuesday in an upset result after failing to turn their dominance in the game into a victory \r\nDOHA - Spain coach Luis Enrique has left his job after the country's elimination in the last-16 at the World Cup, the Spanish football federation said on Twitter on Thursday.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.6013422012329102
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "He also led Spain to the semifinals of the European Championship last year, losing to Italy in a penalty shootout.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Spain were beaten on penalties by Morocco after a goalless draw on Tuesday in an upset result after failing to turn their dominance in the game into a victory \r\nDOHA - Spain coach Luis Enrique has left his job after the country's elimination in the last-16 at the World Cup, the Spanish football federation said on Twitter on Thursday.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.6013422012329102
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "The team\u00ef\u00bf\u00bds elimination in Qatar raised more questions about whether Spain should start overhauling its soccer philosophy and get rid of the \u00ef\u00bf\u00bdtiki-taka\u00ef\u00bf\u00bd ball-possession style that has not produced results recently.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Spain were beaten on penalties by Morocco after a goalless draw on Tuesday in an upset result after failing to turn their dominance in the game into a victory \r\nDOHA - Spain coach Luis Enrique has left his job after the country's elimination in the last-16 at the World Cup, the Spanish football federation said on Twitter on Thursday.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.6013422012329102
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "Spain lost to Morocco 3-0 in a penalty shootout after a scoreless draw in regular and extra time.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Spain were beaten on penalties by Morocco after a goalless draw on Tuesday in an upset result after failing to turn their dominance in the game into a victory.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.5498783588409424
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Spain got off to a good start in Qatar, routing Costa Rica 7-0, but La Roja couldn't win again in its last three matches.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Spain were beaten on penalties by Morocco after a goalless draw on Tuesday in an upset result after failing to turn their dominance in the game into a victory.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.5498783588409424
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "He also led Spain to the semifinals of the European Championship last year, losing to Italy in a penalty shootout.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Spain were beaten on penalties by Morocco after a goalless draw on Tuesday in an upset result after failing to turn their dominance in the game into a victory.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.5498783588409424
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "DOHA, Qatar (AP) \u00ef\u00bf\u00bd Luis Enrique was replaced by Luis de la Fuente as Spain's coach on Thursday, two days after the national team was eliminated in the round of 16 at the World Cup .",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Enrique, who was first appointed Spain coach in 2018, had a contract until the end of the year.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7169186472892761
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Spain's head coach Luis Enrique, center, talks to his players after the penalty shootout at the World Cup round of 16 soccer match between Morocco and Spain, at the Education City Stadium in Al Rayyan, Qatar, Tuesday, Dec. 6, 2022.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Enrique, who was first appointed Spain coach in 2018, had a contract until the end of the year.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7169186472892761
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "(AP Photo/Luca Bruno)\r\nDOHA, Qatar (AP) \u00ef\u00bf\u00bd Luis Enrique was replaced by Luis de la Fuente as Spain's coach on Thursday, two days after the national team was eliminated in the round of 16 at the World Cup.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Enrique, who was first appointed Spain coach in 2018, had a contract until the end of the year.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7169186472892761
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "The Spanish soccer federation thanked Luis Enrique, but said it was time to \u00ef\u00bf\u00bdstart a new project\u00ef\u00bf\u00bd to keep the growth achieved by the coach in recent years.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Enrique, who was first appointed Spain coach in 2018, had a contract until the end of the year.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7169186472892761
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Luis Enrique said he was thankful to his players while he was in charge, as well as to federation president Luis Rubiales.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Enrique, who was first appointed Spain coach in 2018, had a contract until the end of the year.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7169186472892761
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Luis Enrique took over the national team in 2018 to start revamping the squad after its elimination in the round of 16 of the World Cup in Russia.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Enrique, who was first appointed Spain coach in 2018, had a contract until the end of the year.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7169186472892761
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Luis Enrique\u00ef\u00bf\u00bds contract ended after the World Cup.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Enrique, who was first appointed Spain coach in 2018, had a contract until the end of the year.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7169186472892761
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "The 52-year-old Luis Enrique, not long ago seen as one of the most uptight coaches in soccer, had opened up at the World Cup, doing streaming sessions, going on bicycle rides and talking frankly about controversial issues.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Enrique, who was first appointed Spain coach in 2018, had a contract until the end of the year.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7169186472892761
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Luis Enrique had said he wasn't planning to relinquish the \u00ef\u00bf\u00bdtiki-taka\u00ef\u00bf\u00bd if he remained as coach, and De la Fuente also is likely to keep it alive.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Enrique, who was first appointed Spain coach in 2018, had a contract until the end of the year.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7169186472892761
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                }
+            ]
+        },
+        {
+            "source_id": 107,
+            "source_datetime": "8/12/2022 00:35:12",
+            "source_label": "RIGHT",
+            "details": [
+                {
+                    "source_text": "Following Spain's humiliating elimination from the 2022 Qatar World Cup at the hands of stubborn Morocco in the round of 16 earlier this week, La Roja's gaffer Luis Enrique was shown the exit on Thursday.",
+                    "source_label_from_outlet": "RIGHT",
+                    "reused_text": "Spain were beaten on penalties by Morocco after a goalless draw on Tuesday in an upset result after failing to turn their dominance in the game into a victory \r\nDOHA - Spain coach Luis Enrique has left his job after the country's elimination in the last-16 at the World Cup, the Spanish football federation said on Twitter on Thursday.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.6013422012329102
+                    },
+                    "transform_flow": "from `RIGHT` to `CENTER`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "Spain were beaten on penalties by Morocco after a goalless draw on Tuesday in an upsetting result after failing to turn their dominance in the game into a victory.",
+                    "source_label_from_outlet": "RIGHT",
+                    "reused_text": "Spain were beaten on penalties by Morocco after a goalless draw on Tuesday in an upset result after failing to turn their dominance in the game into a victory \r\nDOHA - Spain coach Luis Enrique has left his job after the country's elimination in the last-16 at the World Cup, the Spanish football federation said on Twitter on Thursday.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.6013422012329102
+                    },
+                    "transform_flow": "from `RIGHT` to `CENTER`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "Spain's loss to Morocco was their third straight tournament exit on penalties, having also suffered defeat by that method against hosts Russia in the 2018 World Cup last 16.",
+                    "source_label_from_outlet": "RIGHT",
+                    "reused_text": "Spain were beaten on penalties by Morocco after a goalless draw on Tuesday in an upset result after failing to turn their dominance in the game into a victory \r\nDOHA - Spain coach Luis Enrique has left his job after the country's elimination in the last-16 at the World Cup, the Spanish football federation said on Twitter on Thursday.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.6013422012329102
+                    },
+                    "transform_flow": "from `RIGHT` to `CENTER`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "Spain's failure to score a single penalty in Tuesday's shootout made them just the second team to do so in World Cup history, after Switzerland against Ukraine in 2006.",
+                    "source_label_from_outlet": "RIGHT",
+                    "reused_text": "Spain were beaten on penalties by Morocco after a goalless draw on Tuesday in an upset result after failing to turn their dominance in the game into a victory \r\nDOHA - Spain coach Luis Enrique has left his job after the country's elimination in the last-16 at the World Cup, the Spanish football federation said on Twitter on Thursday.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.6013422012329102
+                    },
+                    "transform_flow": "from `RIGHT` to `CENTER`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "Spain were beaten on penalties by Morocco after a goalless draw on Tuesday in an upsetting result after failing to turn their dominance in the game into a victory.",
+                    "source_label_from_outlet": "RIGHT",
+                    "reused_text": "Spain were beaten on penalties by Morocco after a goalless draw on Tuesday in an upset result after failing to turn their dominance in the game into a victory.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.5498783588409424
+                    },
+                    "transform_flow": "from `RIGHT` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Spain's loss to Morocco was their third straight tournament exit on penalties, having also suffered defeat by that method against hosts Russia in the 2018 World Cup last 16.",
+                    "source_label_from_outlet": "RIGHT",
+                    "reused_text": "Spain were beaten on penalties by Morocco after a goalless draw on Tuesday in an upset result after failing to turn their dominance in the game into a victory.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.5498783588409424
+                    },
+                    "transform_flow": "from `RIGHT` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Spain's failure to score a single penalty in Tuesday's shootout made them just the second team to do so in World Cup history, after Switzerland against Ukraine in 2006.",
+                    "source_label_from_outlet": "RIGHT",
+                    "reused_text": "Spain were beaten on penalties by Morocco after a goalless draw on Tuesday in an upset result after failing to turn their dominance in the game into a victory.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.5498783588409424
+                    },
+                    "transform_flow": "from `RIGHT` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "After the game, the 52-year-old coach admitted that he was to blame for the defeat as his youthful and vibrant team was nothing short of potential and quality.",
+                    "source_label_from_outlet": "RIGHT",
+                    "reused_text": "The 52-year-old coach said after the match that he was to blame for the defeat.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.8930634260177612
+                    },
+                    "transform_flow": "from `RIGHT` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Former Barcelona boss Luis Enrique was first appointed Spain coach in 2018, bar a four-month period in 2019 when he stepped aside due to the illness and subsequent death of his young daughter.",
+                    "source_label_from_outlet": "RIGHT",
+                    "reused_text": "Enrique, who was first appointed Spain coach in 2018, had a contract until the end of the year.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7169186472892761
+                    },
+                    "transform_flow": "from `RIGHT` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "According to a statement from the Royal Spanish Football Federation, \"Both the president, Luis Rubiales, and the sporting director, Jose Francisco Molina, have informed the coach of their decision.\"",
+                    "source_label_from_outlet": "RIGHT",
+                    "reused_text": "Enrique, who was first appointed Spain coach in 2018, had a contract until the end of the year.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7169186472892761
+                    },
+                    "transform_flow": "from `RIGHT` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "\"The RFEF would like to thank Luis Enrique and his entire coaching staff at the helm of the absolute national team in recent years,\" the statement read.",
+                    "source_label_from_outlet": "RIGHT",
+                    "reused_text": "Enrique, who was first appointed Spain coach in 2018, had a contract until the end of the year.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7169186472892761
+                    },
+                    "transform_flow": "from `RIGHT` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "The Spanish FA has announced that Luis Enrique would be replaced by Jose Luis de la Fuente as Spain's coach.",
+                    "source_label_from_outlet": "RIGHT",
+                    "reused_text": "Enrique, who was first appointed Spain coach in 2018, had a contract until the end of the year.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7169186472892761
+                    },
+                    "transform_flow": "from `RIGHT` to `CENTER`, it should be `LEFT`"
+                }
+            ]
+        }
+    ]
+}

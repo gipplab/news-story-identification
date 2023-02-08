@@ -1,0 +1,1231 @@
+{
+    "reused_id": 2,
+    "reused_datetime": "9/12/2022 10:50:03",
+    "reused_label": "LEFT",
+    "potential_sources": [
+        {
+            "source_id": 1,
+            "source_datetime": "9/12/2022 01:32:12",
+            "source_label": "CENTER",
+            "details": [
+                {
+                    "source_text": "\u00ef\u00bf\u00bdRussia refused to release Paul Whelan alongside Brittney Griner unless a former colonel from Russia\u00ef\u00bf\u00bds domestic spy organization currently in German custody was also released as part of any prisoner swap, even as the US offered up the names of several other Russian prisoners in US custody that they would be willing to trade,\u00ef\u00bf\u00bd CNN reports.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "(CNN) \u00ef\u00bf\u00bd Russia refused to release Paul Whelan alongside Brittney Griner unless a former colonel from Russia\u00ef\u00bf\u00bds domestic spy organization currently in German custody was also released as part of any prisoner swap, US officials told CNN, even as the US offered up the names of several other Russian prisoners in US custody that they would be willing to trade.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.5950868725776672
+                    },
+                    "transform_flow": "from `CENTER` to `LEFT`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "\u00ef\u00bf\u00bdThe US was unable to deliver on the request for the ex-colonel, Vadim Krasikov, because he is serving out a life sentence for murder in Germany.\u00ef\u00bf\u00bd",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "(CNN) \u00ef\u00bf\u00bd Russia refused to release Paul Whelan alongside Brittney Griner unless a former colonel from Russia\u00ef\u00bf\u00bds domestic spy organization currently in German custody was also released as part of any prisoner swap, US officials told CNN, even as the US offered up the names of several other Russian prisoners in US custody that they would be willing to trade.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.5950868725776672
+                    },
+                    "transform_flow": "from `CENTER` to `LEFT`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "\u00ef\u00bf\u00bdRussia refused to release Paul Whelan alongside Brittney Griner unless a former colonel from Russia\u00ef\u00bf\u00bds domestic spy organization currently in German custody was also released as part of any prisoner swap, even as the US offered up the names of several other Russian prisoners in US custody that they would be willing to trade,\u00ef\u00bf\u00bd CNN reports.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "The US was unable to deliver on the request for the ex-colonel, Vadim Krasikov, because he is serving out a life sentence for murder in Germany.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.8297910094261169
+                    },
+                    "transform_flow": "from `CENTER` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "\u00ef\u00bf\u00bdThe US was unable to deliver on the request for the ex-colonel, Vadim Krasikov, because he is serving out a life sentence for murder in Germany.\u00ef\u00bf\u00bd",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "The US was unable to deliver on the request for the ex-colonel, Vadim Krasikov, because he is serving out a life sentence for murder in Germany.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.8297910094261169
+                    },
+                    "transform_flow": "from `CENTER` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "\u00ef\u00bf\u00bdRussia refused to release Paul Whelan alongside Brittney Griner unless a former colonel from Russia\u00ef\u00bf\u00bds domestic spy organization currently in German custody was also released as part of any prisoner swap, even as the US offered up the names of several other Russian prisoners in US custody that they would be willing to trade,\u00ef\u00bf\u00bd CNN reports.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "CNN first reported exclusively in August that the Russians had requested that Krasikov be released along with Viktor Bout, a Russian arms dealer who was serving a 25-year sentence in the US, in exchange for Whelan and Griner.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "RIGHT",
+                        "score": 0.536933183670044
+                    },
+                    "transform_flow": "from `CENTER` to `LEFT`, it should be `RIGHT`"
+                },
+                {
+                    "source_text": "\u00ef\u00bf\u00bdThe US was unable to deliver on the request for the ex-colonel, Vadim Krasikov, because he is serving out a life sentence for murder in Germany.\u00ef\u00bf\u00bd",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "CNN first reported exclusively in August that the Russians had requested that Krasikov be released along with Viktor Bout, a Russian arms dealer who was serving a 25-year sentence in the US, in exchange for Whelan and Griner.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "RIGHT",
+                        "score": 0.536933183670044
+                    },
+                    "transform_flow": "from `CENTER` to `LEFT`, it should be `RIGHT`"
+                },
+                {
+                    "source_text": "\u00ef\u00bf\u00bdThe US was unable to deliver on the request for the ex-colonel, Vadim Krasikov, because he is serving out a life sentence for murder in Germany.\u00ef\u00bf\u00bd",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "US officials made quiet inquiries to the Germans about whether they might be willing to include Krasikov in the trade, a senior German government source told CNN earlier this year.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.4625925123691559
+                    },
+                    "transform_flow": "from `CENTER` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "\u00ef\u00bf\u00bdRussia refused to release Paul Whelan alongside Brittney Griner unless a former colonel from Russia\u00ef\u00bf\u00bds domestic spy organization currently in German custody was also released as part of any prisoner swap, even as the US offered up the names of several other Russian prisoners in US custody that they would be willing to trade,\u00ef\u00bf\u00bd CNN reports.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "But ultimately, the US was not able to secure Krasikov\u00ef\u00bf\u00bds release.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.811223566532135
+                    },
+                    "transform_flow": "from `CENTER` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "\u00ef\u00bf\u00bdThe US was unable to deliver on the request for the ex-colonel, Vadim Krasikov, because he is serving out a life sentence for murder in Germany.\u00ef\u00bf\u00bd",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "But ultimately, the US was not able to secure Krasikov\u00ef\u00bf\u00bds release.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.811223566532135
+                    },
+                    "transform_flow": "from `CENTER` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "\u00ef\u00bf\u00bdThe US was unable to deliver on the request for the ex-colonel, Vadim Krasikov, because he is serving out a life sentence for murder in Germany.\u00ef\u00bf\u00bd",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "The German government was not willing to seriously consider including Krasikov \u00ef\u00bf\u00bdwho assassinated a Georgian citizen in broad daylight in Berlin in 2019 \u00ef\u00bf\u00bd in a potential trade, the German source said.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7345976233482361
+                    },
+                    "transform_flow": "from `CENTER` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "\u00ef\u00bf\u00bdRussia refused to release Paul Whelan alongside Brittney Griner unless a former colonel from Russia\u00ef\u00bf\u00bds domestic spy organization currently in German custody was also released as part of any prisoner swap, even as the US offered up the names of several other Russian prisoners in US custody that they would be willing to trade,\u00ef\u00bf\u00bd CNN reports.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "The US made several other offers to the Russians, sources said, to try to get them to agree to include Whelan in the swap.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.8991555571556091
+                    },
+                    "transform_flow": "from `CENTER` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "\u00ef\u00bf\u00bdRussia refused to release Paul Whelan alongside Brittney Griner unless a former colonel from Russia\u00ef\u00bf\u00bds domestic spy organization currently in German custody was also released as part of any prisoner swap, even as the US offered up the names of several other Russian prisoners in US custody that they would be willing to trade,\u00ef\u00bf\u00bd CNN reports.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Fr\u00ef\u00bf\u00bdd\u00ef\u00bf\u00bdric B\u00ef\u00bf\u00bdlot, a lawyer who represented Vinnik in France before his extradition to the US, told CNN on Friday that he was not aware of any current discussions between Moscow and Washington over including Vinnik in a potential prisoner swap.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7782537937164307
+                    },
+                    "transform_flow": "from `CENTER` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "\u00ef\u00bf\u00bdRussia refused to release Paul Whelan alongside Brittney Griner unless a former colonel from Russia\u00ef\u00bf\u00bds domestic spy organization currently in German custody was also released as part of any prisoner swap, even as the US offered up the names of several other Russian prisoners in US custody that they would be willing to trade,\u00ef\u00bf\u00bd CNN reports.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "But ultimately, the Russians indicated they would only be willing to trade someone they considered to be a spy \u00ef\u00bf\u00bd Whelan, who was convicted on espionage charges in 2019 \u00ef\u00bf\u00bd for one of Russia\u00ef\u00bf\u00bds own spies: Krasikov.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.9550418257713318
+                    },
+                    "transform_flow": "from `CENTER` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "\u00ef\u00bf\u00bdRussia refused to release Paul Whelan alongside Brittney Griner unless a former colonel from Russia\u00ef\u00bf\u00bds domestic spy organization currently in German custody was also released as part of any prisoner swap, even as the US offered up the names of several other Russian prisoners in US custody that they would be willing to trade,\u00ef\u00bf\u00bd CNN reports.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "A senior Biden administration official acknowledged to CNN on Thursday night that the Russian side had repeatedly demanded someone not even in US custody, even as the US made a number of different proposals.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.5324105620384216
+                    },
+                    "transform_flow": "from `CENTER` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "\u00ef\u00bf\u00bdRussia refused to release Paul Whelan alongside Brittney Griner unless a former colonel from Russia\u00ef\u00bf\u00bds domestic spy organization currently in German custody was also released as part of any prisoner swap, even as the US offered up the names of several other Russian prisoners in US custody that they would be willing to trade,\u00ef\u00bf\u00bd CNN reports.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "In the end, the Russians kept asking for the same thing that the US could simply not deliver on, the official said\r\n\r\n\u00ef\u00bf\u00bdWe have shown an openness to talk about that which is actually available to us and gotten only in response a demand for something not available to us,\u00ef\u00bf\u00bd the official said, reiterating that the Russians refused what had been offered to secure the release of Whelan.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.9652022123336792
+                    },
+                    "transform_flow": "from `CENTER` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "\u00ef\u00bf\u00bdThe US was unable to deliver on the request for the ex-colonel, Vadim Krasikov, because he is serving out a life sentence for murder in Germany.\u00ef\u00bf\u00bd",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "In the end, the Russians kept asking for the same thing that the US could simply not deliver on, the official said\r\n\r\n\u00ef\u00bf\u00bdWe have shown an openness to talk about that which is actually available to us and gotten only in response a demand for something not available to us,\u00ef\u00bf\u00bd the official said, reiterating that the Russians refused what had been offered to secure the release of Whelan.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.9652022123336792
+                    },
+                    "transform_flow": "from `CENTER` to `LEFT`, it should be `LEFT`"
+                }
+            ]
+        },
+        {
+            "source_id": 6,
+            "source_datetime": "9/12/2022 04:33:22",
+            "source_label": "LEFT",
+            "details": [
+                {
+                    "source_text": " \r\nRussia refused to release Paul Whelan alongside Brittney Griner unless a former colonel from Russia\u00ef\u00bf\u00bds domestic spy organization currently in German custody was also released as part of any prisoner swap, US officials told CNN, even as the US offered up the names of several other Russian prisoners in US custody that they would be willing to trade.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "(CNN) \u00ef\u00bf\u00bd Russia refused to release Paul Whelan alongside Brittney Griner unless a former colonel from Russia\u00ef\u00bf\u00bds domestic spy organization currently in German custody was also released as part of any prisoner swap, US officials told CNN, even as the US offered up the names of several other Russian prisoners in US custody that they would be willing to trade.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.5950868725776672
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "The US was unable to deliver on the request for the ex-colonel, Vadim Krasikov, because he is serving out a life sentence for murder in Germany.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "(CNN) \u00ef\u00bf\u00bd Russia refused to release Paul Whelan alongside Brittney Griner unless a former colonel from Russia\u00ef\u00bf\u00bds domestic spy organization currently in German custody was also released as part of any prisoner swap, US officials told CNN, even as the US offered up the names of several other Russian prisoners in US custody that they would be willing to trade.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.5950868725776672
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "CNN first reported exclusively in August that the Russians had requested that Krasikov be released along with Viktor Bout, a Russian arms dealer who was serving a 25-year sentence in the US, in exchange for Whelan and Griner.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "(CNN) \u00ef\u00bf\u00bd Russia refused to release Paul Whelan alongside Brittney Griner unless a former colonel from Russia\u00ef\u00bf\u00bds domestic spy organization currently in German custody was also released as part of any prisoner swap, US officials told CNN, even as the US offered up the names of several other Russian prisoners in US custody that they would be willing to trade.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.5950868725776672
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "But ultimately, the US was not able to secure Krasikov\u00ef\u00bf\u00bds release.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "(CNN) \u00ef\u00bf\u00bd Russia refused to release Paul Whelan alongside Brittney Griner unless a former colonel from Russia\u00ef\u00bf\u00bds domestic spy organization currently in German custody was also released as part of any prisoner swap, US officials told CNN, even as the US offered up the names of several other Russian prisoners in US custody that they would be willing to trade.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.5950868725776672
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "The US made several other offers to the Russians, sources said, to try to get them to agree to include Whelan in the swap.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "(CNN) \u00ef\u00bf\u00bd Russia refused to release Paul Whelan alongside Brittney Griner unless a former colonel from Russia\u00ef\u00bf\u00bds domestic spy organization currently in German custody was also released as part of any prisoner swap, US officials told CNN, even as the US offered up the names of several other Russian prisoners in US custody that they would be willing to trade.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.5950868725776672
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "Fr\u00ef\u00bf\u00bdd\u00ef\u00bf\u00bdric B\u00ef\u00bf\u00bdlot, a lawyer who represented Vinnik in France before his extradition to the US, told CNN on Friday that he was not aware of any current discussions between Moscow and Washington over including Vinnik in a potential prisoner swap.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "(CNN) \u00ef\u00bf\u00bd Russia refused to release Paul Whelan alongside Brittney Griner unless a former colonel from Russia\u00ef\u00bf\u00bds domestic spy organization currently in German custody was also released as part of any prisoner swap, US officials told CNN, even as the US offered up the names of several other Russian prisoners in US custody that they would be willing to trade.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.5950868725776672
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "But ultimately, the Russians indicated they would only be willing to trade someone they considered to be a spy \u00ef\u00bf\u00bd Whelan, who was convicted on espionage charges in 2019 \u00ef\u00bf\u00bd for one of Russia\u00ef\u00bf\u00bds own spies: Krasikov.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "(CNN) \u00ef\u00bf\u00bd Russia refused to release Paul Whelan alongside Brittney Griner unless a former colonel from Russia\u00ef\u00bf\u00bds domestic spy organization currently in German custody was also released as part of any prisoner swap, US officials told CNN, even as the US offered up the names of several other Russian prisoners in US custody that they would be willing to trade.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.5950868725776672
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "Paul Whelan, a former US Marine accused of spying and arrested in Russia stands inside a defendants' cage during a hearing at a court in Moscow on August 23, 2019.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "(CNN) \u00ef\u00bf\u00bd Russia refused to release Paul Whelan alongside Brittney Griner unless a former colonel from Russia\u00ef\u00bf\u00bds domestic spy organization currently in German custody was also released as part of any prisoner swap, US officials told CNN, even as the US offered up the names of several other Russian prisoners in US custody that they would be willing to trade.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.5950868725776672
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "(Photo by Kirill KUDRYAVTSEV / AFP)        (Photo credit should read KIRILL KUDRYAVTSEV/AFP via Getty Images)\r\nWhelan talks will continue because Russians have 'things they want,' US official says\r\nThe National Security Council declined to comment.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "(CNN) \u00ef\u00bf\u00bd Russia refused to release Paul Whelan alongside Brittney Griner unless a former colonel from Russia\u00ef\u00bf\u00bds domestic spy organization currently in German custody was also released as part of any prisoner swap, US officials told CNN, even as the US offered up the names of several other Russian prisoners in US custody that they would be willing to trade.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.5950868725776672
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "A senior Biden administration official acknowledged to CNN on Thursday night that the Russian side had repeatedly demanded someone not even in US custody, even as the US made a number of different proposals.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "(CNN) \u00ef\u00bf\u00bd Russia refused to release Paul Whelan alongside Brittney Griner unless a former colonel from Russia\u00ef\u00bf\u00bds domestic spy organization currently in German custody was also released as part of any prisoner swap, US officials told CNN, even as the US offered up the names of several other Russian prisoners in US custody that they would be willing to trade.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.5950868725776672
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "In the end, the Russians kept asking for the same thing that the US could simply not deliver on, the official said\r\n\r\n\u00ef\u00bf\u00bdWe have shown an openness to talk about that which is actually available to us and gotten only in response a demand for something not available to us,\u00ef\u00bf\u00bd the official said, reiterating that the Russians refused what had been offered to secure the release of Whelan.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "(CNN) \u00ef\u00bf\u00bd Russia refused to release Paul Whelan alongside Brittney Griner unless a former colonel from Russia\u00ef\u00bf\u00bds domestic spy organization currently in German custody was also released as part of any prisoner swap, US officials told CNN, even as the US offered up the names of several other Russian prisoners in US custody that they would be willing to trade.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.5950868725776672
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `CENTER`"
+                },
+                {
+                    "source_text": " \r\nRussia refused to release Paul Whelan alongside Brittney Griner unless a former colonel from Russia\u00ef\u00bf\u00bds domestic spy organization currently in German custody was also released as part of any prisoner swap, US officials told CNN, even as the US offered up the names of several other Russian prisoners in US custody that they would be willing to trade.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "The US was unable to deliver on the request for the ex-colonel, Vadim Krasikov, because he is serving out a life sentence for murder in Germany.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.8297910094261169
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "The US was unable to deliver on the request for the ex-colonel, Vadim Krasikov, because he is serving out a life sentence for murder in Germany.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "The US was unable to deliver on the request for the ex-colonel, Vadim Krasikov, because he is serving out a life sentence for murder in Germany.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.8297910094261169
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "CNN first reported exclusively in August that the Russians had requested that Krasikov be released along with Viktor Bout, a Russian arms dealer who was serving a 25-year sentence in the US, in exchange for Whelan and Griner.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "The US was unable to deliver on the request for the ex-colonel, Vadim Krasikov, because he is serving out a life sentence for murder in Germany.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.8297910094261169
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "US officials made quiet inquiries to the Germans about whether they might be willing to include Krasikov in the trade, a senior German government source told CNN earlier this year.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "The US was unable to deliver on the request for the ex-colonel, Vadim Krasikov, because he is serving out a life sentence for murder in Germany.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.8297910094261169
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "But ultimately, the US was not able to secure Krasikov\u00ef\u00bf\u00bds release.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "The US was unable to deliver on the request for the ex-colonel, Vadim Krasikov, because he is serving out a life sentence for murder in Germany.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.8297910094261169
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "The German government was not willing to seriously consider including Krasikov \u00ef\u00bf\u00bdwho assassinated a Georgian citizen in broad daylight in Berlin in 2019 \u00ef\u00bf\u00bd in a potential trade, the German source said.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "The US was unable to deliver on the request for the ex-colonel, Vadim Krasikov, because he is serving out a life sentence for murder in Germany.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.8297910094261169
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "In the end, the Russians kept asking for the same thing that the US could simply not deliver on, the official said\r\n\r\n\u00ef\u00bf\u00bdWe have shown an openness to talk about that which is actually available to us and gotten only in response a demand for something not available to us,\u00ef\u00bf\u00bd the official said, reiterating that the Russians refused what had been offered to secure the release of Whelan.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "The US was unable to deliver on the request for the ex-colonel, Vadim Krasikov, because he is serving out a life sentence for murder in Germany.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.8297910094261169
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": " \r\nRussia refused to release Paul Whelan alongside Brittney Griner unless a former colonel from Russia\u00ef\u00bf\u00bds domestic spy organization currently in German custody was also released as part of any prisoner swap, US officials told CNN, even as the US offered up the names of several other Russian prisoners in US custody that they would be willing to trade.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "CNN first reported exclusively in August that the Russians had requested that Krasikov be released along with Viktor Bout, a Russian arms dealer who was serving a 25-year sentence in the US, in exchange for Whelan and Griner.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "RIGHT",
+                        "score": 0.536933183670044
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `RIGHT`"
+                },
+                {
+                    "source_text": "The US was unable to deliver on the request for the ex-colonel, Vadim Krasikov, because he is serving out a life sentence for murder in Germany.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "CNN first reported exclusively in August that the Russians had requested that Krasikov be released along with Viktor Bout, a Russian arms dealer who was serving a 25-year sentence in the US, in exchange for Whelan and Griner.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "RIGHT",
+                        "score": 0.536933183670044
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `RIGHT`"
+                },
+                {
+                    "source_text": "CNN first reported exclusively in August that the Russians had requested that Krasikov be released along with Viktor Bout, a Russian arms dealer who was serving a 25-year sentence in the US, in exchange for Whelan and Griner.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "CNN first reported exclusively in August that the Russians had requested that Krasikov be released along with Viktor Bout, a Russian arms dealer who was serving a 25-year sentence in the US, in exchange for Whelan and Griner.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "RIGHT",
+                        "score": 0.536933183670044
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `RIGHT`"
+                },
+                {
+                    "source_text": "But ultimately, the US was not able to secure Krasikov\u00ef\u00bf\u00bds release.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "CNN first reported exclusively in August that the Russians had requested that Krasikov be released along with Viktor Bout, a Russian arms dealer who was serving a 25-year sentence in the US, in exchange for Whelan and Griner.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "RIGHT",
+                        "score": 0.536933183670044
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `RIGHT`"
+                },
+                {
+                    "source_text": "The US made several other offers to the Russians, sources said, to try to get them to agree to include Whelan in the swap.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "CNN first reported exclusively in August that the Russians had requested that Krasikov be released along with Viktor Bout, a Russian arms dealer who was serving a 25-year sentence in the US, in exchange for Whelan and Griner.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "RIGHT",
+                        "score": 0.536933183670044
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `RIGHT`"
+                },
+                {
+                    "source_text": "Among the names floated by the US was Alexander Vinnik, a Russian national extradited to the US in August on allegations of money laundering, hacking and extortion.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "CNN first reported exclusively in August that the Russians had requested that Krasikov be released along with Viktor Bout, a Russian arms dealer who was serving a 25-year sentence in the US, in exchange for Whelan and Griner.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "RIGHT",
+                        "score": 0.536933183670044
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `RIGHT`"
+                },
+                {
+                    "source_text": "But ultimately, the Russians indicated they would only be willing to trade someone they considered to be a spy \u00ef\u00bf\u00bd Whelan, who was convicted on espionage charges in 2019 \u00ef\u00bf\u00bd for one of Russia\u00ef\u00bf\u00bds own spies: Krasikov.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "CNN first reported exclusively in August that the Russians had requested that Krasikov be released along with Viktor Bout, a Russian arms dealer who was serving a 25-year sentence in the US, in exchange for Whelan and Griner.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "RIGHT",
+                        "score": 0.536933183670044
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `RIGHT`"
+                },
+                {
+                    "source_text": "In the end, the Russians kept asking for the same thing that the US could simply not deliver on, the official said\r\n\r\n\u00ef\u00bf\u00bdWe have shown an openness to talk about that which is actually available to us and gotten only in response a demand for something not available to us,\u00ef\u00bf\u00bd the official said, reiterating that the Russians refused what had been offered to secure the release of Whelan.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "CNN first reported exclusively in August that the Russians had requested that Krasikov be released along with Viktor Bout, a Russian arms dealer who was serving a 25-year sentence in the US, in exchange for Whelan and Griner.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "RIGHT",
+                        "score": 0.536933183670044
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `RIGHT`"
+                },
+                {
+                    "source_text": "The US was unable to deliver on the request for the ex-colonel, Vadim Krasikov, because he is serving out a life sentence for murder in Germany.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "US officials made quiet inquiries to the Germans about whether they might be willing to include Krasikov in the trade, a senior German government source told CNN earlier this year.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.4625925123691559
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "US officials made quiet inquiries to the Germans about whether they might be willing to include Krasikov in the trade, a senior German government source told CNN earlier this year.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "US officials made quiet inquiries to the Germans about whether they might be willing to include Krasikov in the trade, a senior German government source told CNN earlier this year.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.4625925123691559
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "The German government was not willing to seriously consider including Krasikov \u00ef\u00bf\u00bdwho assassinated a Georgian citizen in broad daylight in Berlin in 2019 \u00ef\u00bf\u00bd in a potential trade, the German source said.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "US officials made quiet inquiries to the Germans about whether they might be willing to include Krasikov in the trade, a senior German government source told CNN earlier this year.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.4625925123691559
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "The US made several other offers to the Russians, sources said, to try to get them to agree to include Whelan in the swap.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "US officials made quiet inquiries to the Germans about whether they might be willing to include Krasikov in the trade, a senior German government source told CNN earlier this year.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.4625925123691559
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "In the end, the Russians kept asking for the same thing that the US could simply not deliver on, the official said\r\n\r\n\u00ef\u00bf\u00bdWe have shown an openness to talk about that which is actually available to us and gotten only in response a demand for something not available to us,\u00ef\u00bf\u00bd the official said, reiterating that the Russians refused what had been offered to secure the release of Whelan.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "US officials made quiet inquiries to the Germans about whether they might be willing to include Krasikov in the trade, a senior German government source told CNN earlier this year.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.4625925123691559
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": " \r\nRussia refused to release Paul Whelan alongside Brittney Griner unless a former colonel from Russia\u00ef\u00bf\u00bds domestic spy organization currently in German custody was also released as part of any prisoner swap, US officials told CNN, even as the US offered up the names of several other Russian prisoners in US custody that they would be willing to trade.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "But ultimately, the US was not able to secure Krasikov\u00ef\u00bf\u00bds release.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.811223566532135
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "The US was unable to deliver on the request for the ex-colonel, Vadim Krasikov, because he is serving out a life sentence for murder in Germany.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "But ultimately, the US was not able to secure Krasikov\u00ef\u00bf\u00bds release.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.811223566532135
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "CNN first reported exclusively in August that the Russians had requested that Krasikov be released along with Viktor Bout, a Russian arms dealer who was serving a 25-year sentence in the US, in exchange for Whelan and Griner.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "But ultimately, the US was not able to secure Krasikov\u00ef\u00bf\u00bds release.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.811223566532135
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "But ultimately, the US was not able to secure Krasikov\u00ef\u00bf\u00bds release.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "But ultimately, the US was not able to secure Krasikov\u00ef\u00bf\u00bds release.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.811223566532135
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "In the end, the Russians kept asking for the same thing that the US could simply not deliver on, the official said\r\n\r\n\u00ef\u00bf\u00bdWe have shown an openness to talk about that which is actually available to us and gotten only in response a demand for something not available to us,\u00ef\u00bf\u00bd the official said, reiterating that the Russians refused what had been offered to secure the release of Whelan.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "But ultimately, the US was not able to secure Krasikov\u00ef\u00bf\u00bds release.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.811223566532135
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "The US was unable to deliver on the request for the ex-colonel, Vadim Krasikov, because he is serving out a life sentence for murder in Germany.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "The German government was not willing to seriously consider including Krasikov \u00ef\u00bf\u00bdwho assassinated a Georgian citizen in broad daylight in Berlin in 2019 \u00ef\u00bf\u00bd in a potential trade, the German source said.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7345976233482361
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "US officials made quiet inquiries to the Germans about whether they might be willing to include Krasikov in the trade, a senior German government source told CNN earlier this year.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "The German government was not willing to seriously consider including Krasikov \u00ef\u00bf\u00bdwho assassinated a Georgian citizen in broad daylight in Berlin in 2019 \u00ef\u00bf\u00bd in a potential trade, the German source said.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7345976233482361
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "The German government was not willing to seriously consider including Krasikov \u00ef\u00bf\u00bdwho assassinated a Georgian citizen in broad daylight in Berlin in 2019 \u00ef\u00bf\u00bd in a potential trade, the German source said.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "The German government was not willing to seriously consider including Krasikov \u00ef\u00bf\u00bdwho assassinated a Georgian citizen in broad daylight in Berlin in 2019 \u00ef\u00bf\u00bd in a potential trade, the German source said.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7345976233482361
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": " \r\nRussia refused to release Paul Whelan alongside Brittney Griner unless a former colonel from Russia\u00ef\u00bf\u00bds domestic spy organization currently in German custody was also released as part of any prisoner swap, US officials told CNN, even as the US offered up the names of several other Russian prisoners in US custody that they would be willing to trade.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "The US made several other offers to the Russians, sources said, to try to get them to agree to include Whelan in the swap.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.8991555571556091
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "CNN first reported exclusively in August that the Russians had requested that Krasikov be released along with Viktor Bout, a Russian arms dealer who was serving a 25-year sentence in the US, in exchange for Whelan and Griner.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "The US made several other offers to the Russians, sources said, to try to get them to agree to include Whelan in the swap.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.8991555571556091
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "US officials made quiet inquiries to the Germans about whether they might be willing to include Krasikov in the trade, a senior German government source told CNN earlier this year.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "The US made several other offers to the Russians, sources said, to try to get them to agree to include Whelan in the swap.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.8991555571556091
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "The US made several other offers to the Russians, sources said, to try to get them to agree to include Whelan in the swap.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "The US made several other offers to the Russians, sources said, to try to get them to agree to include Whelan in the swap.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.8991555571556091
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "But ultimately, the Russians indicated they would only be willing to trade someone they considered to be a spy \u00ef\u00bf\u00bd Whelan, who was convicted on espionage charges in 2019 \u00ef\u00bf\u00bd for one of Russia\u00ef\u00bf\u00bds own spies: Krasikov.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "The US made several other offers to the Russians, sources said, to try to get them to agree to include Whelan in the swap.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.8991555571556091
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "(Photo by Kirill KUDRYAVTSEV / AFP)        (Photo credit should read KIRILL KUDRYAVTSEV/AFP via Getty Images)\r\nWhelan talks will continue because Russians have 'things they want,' US official says\r\nThe National Security Council declined to comment.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "The US made several other offers to the Russians, sources said, to try to get them to agree to include Whelan in the swap.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.8991555571556091
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "A senior Biden administration official acknowledged to CNN on Thursday night that the Russian side had repeatedly demanded someone not even in US custody, even as the US made a number of different proposals.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "The US made several other offers to the Russians, sources said, to try to get them to agree to include Whelan in the swap.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.8991555571556091
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "In the end, the Russians kept asking for the same thing that the US could simply not deliver on, the official said\r\n\r\n\u00ef\u00bf\u00bdWe have shown an openness to talk about that which is actually available to us and gotten only in response a demand for something not available to us,\u00ef\u00bf\u00bd the official said, reiterating that the Russians refused what had been offered to secure the release of Whelan.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "The US made several other offers to the Russians, sources said, to try to get them to agree to include Whelan in the swap.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.8991555571556091
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "CNN first reported exclusively in August that the Russians had requested that Krasikov be released along with Viktor Bout, a Russian arms dealer who was serving a 25-year sentence in the US, in exchange for Whelan and Griner.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "Among the names floated by the US was Alexander Vinnik, a Russian national extradited to the US in August on allegations of money laundering, hacking and extortion.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7141208648681641
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Among the names floated by the US was Alexander Vinnik, a Russian national extradited to the US in August on allegations of money laundering, hacking and extortion.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "Among the names floated by the US was Alexander Vinnik, a Russian national extradited to the US in August on allegations of money laundering, hacking and extortion.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7141208648681641
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Fr\u00ef\u00bf\u00bdd\u00ef\u00bf\u00bdric B\u00ef\u00bf\u00bdlot, a lawyer who represented Vinnik in France before his extradition to the US, told CNN on Friday that he was not aware of any current discussions between Moscow and Washington over including Vinnik in a potential prisoner swap.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "Among the names floated by the US was Alexander Vinnik, a Russian national extradited to the US in August on allegations of money laundering, hacking and extortion.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7141208648681641
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Since Vinnik\u00ef\u00bf\u00bds extradition to the US in August, B\u00ef\u00bf\u00bdlot has appealed directly to Russian Foreign Minister Sergey Lavrov to help secure Vinnik\u00ef\u00bf\u00bds release from US custody.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "Among the names floated by the US was Alexander Vinnik, a Russian national extradited to the US in August on allegations of money laundering, hacking and extortion.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7141208648681641
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "But ultimately, the Russians indicated they would only be willing to trade someone they considered to be a spy \u00ef\u00bf\u00bd Whelan, who was convicted on espionage charges in 2019 \u00ef\u00bf\u00bd for one of Russia\u00ef\u00bf\u00bds own spies: Krasikov.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "Among the names floated by the US was Alexander Vinnik, a Russian national extradited to the US in August on allegations of money laundering, hacking and extortion.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7141208648681641
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "The US also offered to trade Roman Seleznev, a convicted Russian cyber-criminal currently serving a 14-year sentence in the US, sources said.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "The US also offered to trade Roman Seleznev, a convicted Russian cyber-criminal currently serving a 14-year sentence in the US, sources said.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.5281907320022583
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "A lawyer for Seleznev did not immediately respond to a request for comment.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "A lawyer for Seleznev did not immediately respond to a request for comment.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7758352160453796
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": " \r\nRussia refused to release Paul Whelan alongside Brittney Griner unless a former colonel from Russia\u00ef\u00bf\u00bds domestic spy organization currently in German custody was also released as part of any prisoner swap, US officials told CNN, even as the US offered up the names of several other Russian prisoners in US custody that they would be willing to trade.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "Fr\u00ef\u00bf\u00bdd\u00ef\u00bf\u00bdric B\u00ef\u00bf\u00bdlot, a lawyer who represented Vinnik in France before his extradition to the US, told CNN on Friday that he was not aware of any current discussions between Moscow and Washington over including Vinnik in a potential prisoner swap.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7782537937164307
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Among the names floated by the US was Alexander Vinnik, a Russian national extradited to the US in August on allegations of money laundering, hacking and extortion.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "Fr\u00ef\u00bf\u00bdd\u00ef\u00bf\u00bdric B\u00ef\u00bf\u00bdlot, a lawyer who represented Vinnik in France before his extradition to the US, told CNN on Friday that he was not aware of any current discussions between Moscow and Washington over including Vinnik in a potential prisoner swap.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7782537937164307
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Fr\u00ef\u00bf\u00bdd\u00ef\u00bf\u00bdric B\u00ef\u00bf\u00bdlot, a lawyer who represented Vinnik in France before his extradition to the US, told CNN on Friday that he was not aware of any current discussions between Moscow and Washington over including Vinnik in a potential prisoner swap.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "Fr\u00ef\u00bf\u00bdd\u00ef\u00bf\u00bdric B\u00ef\u00bf\u00bdlot, a lawyer who represented Vinnik in France before his extradition to the US, told CNN on Friday that he was not aware of any current discussions between Moscow and Washington over including Vinnik in a potential prisoner swap.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7782537937164307
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "But B\u00ef\u00bf\u00bdlot said he could see Vinnik being part of prisoner swap negotiations in the future.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "Fr\u00ef\u00bf\u00bdd\u00ef\u00bf\u00bdric B\u00ef\u00bf\u00bdlot, a lawyer who represented Vinnik in France before his extradition to the US, told CNN on Friday that he was not aware of any current discussions between Moscow and Washington over including Vinnik in a potential prisoner swap.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7782537937164307
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Since Vinnik\u00ef\u00bf\u00bds extradition to the US in August, B\u00ef\u00bf\u00bdlot has appealed directly to Russian Foreign Minister Sergey Lavrov to help secure Vinnik\u00ef\u00bf\u00bds release from US custody.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "Fr\u00ef\u00bf\u00bdd\u00ef\u00bf\u00bdric B\u00ef\u00bf\u00bdlot, a lawyer who represented Vinnik in France before his extradition to the US, told CNN on Friday that he was not aware of any current discussions between Moscow and Washington over including Vinnik in a potential prisoner swap.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7782537937164307
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "(Photo by Kirill KUDRYAVTSEV / AFP)        (Photo credit should read KIRILL KUDRYAVTSEV/AFP via Getty Images)\r\nWhelan talks will continue because Russians have 'things they want,' US official says\r\nThe National Security Council declined to comment.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "Fr\u00ef\u00bf\u00bdd\u00ef\u00bf\u00bdric B\u00ef\u00bf\u00bdlot, a lawyer who represented Vinnik in France before his extradition to the US, told CNN on Friday that he was not aware of any current discussions between Moscow and Washington over including Vinnik in a potential prisoner swap.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7782537937164307
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Fr\u00ef\u00bf\u00bdd\u00ef\u00bf\u00bdric B\u00ef\u00bf\u00bdlot, a lawyer who represented Vinnik in France before his extradition to the US, told CNN on Friday that he was not aware of any current discussions between Moscow and Washington over including Vinnik in a potential prisoner swap.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "But B\u00ef\u00bf\u00bdlot said he could see Vinnik being part of prisoner swap negotiations in the future.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.9207656979560852
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "But B\u00ef\u00bf\u00bdlot said he could see Vinnik being part of prisoner swap negotiations in the future.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "But B\u00ef\u00bf\u00bdlot said he could see Vinnik being part of prisoner swap negotiations in the future.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.9207656979560852
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "\u00ef\u00bf\u00bdThey [Vinnik and Whelan] make part of the possible \u00ef\u00bf\u00bdcandidates\u00ef\u00bf\u00bd for the next swap,\u00ef\u00bf\u00bd B\u00ef\u00bf\u00bdlot said in a text message to CNN.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "But B\u00ef\u00bf\u00bdlot said he could see Vinnik being part of prisoner swap negotiations in the future.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.9207656979560852
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Since Vinnik\u00ef\u00bf\u00bds extradition to the US in August, B\u00ef\u00bf\u00bdlot has appealed directly to Russian Foreign Minister Sergey Lavrov to help secure Vinnik\u00ef\u00bf\u00bds release from US custody.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "But B\u00ef\u00bf\u00bdlot said he could see Vinnik being part of prisoner swap negotiations in the future.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.9207656979560852
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "But B\u00ef\u00bf\u00bdlot said he could see Vinnik being part of prisoner swap negotiations in the future.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "\u00ef\u00bf\u00bdThey [Vinnik and Whelan] make part of the possible \u00ef\u00bf\u00bdcandidates\u00ef\u00bf\u00bd for the next swap,\u00ef\u00bf\u00bd B\u00ef\u00bf\u00bdlot said in a text message to CNN.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.8393017649650574
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "\u00ef\u00bf\u00bdThey [Vinnik and Whelan] make part of the possible \u00ef\u00bf\u00bdcandidates\u00ef\u00bf\u00bd for the next swap,\u00ef\u00bf\u00bd B\u00ef\u00bf\u00bdlot said in a text message to CNN.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "\u00ef\u00bf\u00bdThey [Vinnik and Whelan] make part of the possible \u00ef\u00bf\u00bdcandidates\u00ef\u00bf\u00bd for the next swap,\u00ef\u00bf\u00bd B\u00ef\u00bf\u00bdlot said in a text message to CNN.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.8393017649650574
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Among the names floated by the US was Alexander Vinnik, a Russian national extradited to the US in August on allegations of money laundering, hacking and extortion.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "Since Vinnik\u00ef\u00bf\u00bds extradition to the US in August, B\u00ef\u00bf\u00bdlot has appealed directly to Russian Foreign Minister Sergey Lavrov to help secure Vinnik\u00ef\u00bf\u00bds release from US custody.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7751783728599548
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Fr\u00ef\u00bf\u00bdd\u00ef\u00bf\u00bdric B\u00ef\u00bf\u00bdlot, a lawyer who represented Vinnik in France before his extradition to the US, told CNN on Friday that he was not aware of any current discussions between Moscow and Washington over including Vinnik in a potential prisoner swap.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "Since Vinnik\u00ef\u00bf\u00bds extradition to the US in August, B\u00ef\u00bf\u00bdlot has appealed directly to Russian Foreign Minister Sergey Lavrov to help secure Vinnik\u00ef\u00bf\u00bds release from US custody.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7751783728599548
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "But B\u00ef\u00bf\u00bdlot said he could see Vinnik being part of prisoner swap negotiations in the future.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "Since Vinnik\u00ef\u00bf\u00bds extradition to the US in August, B\u00ef\u00bf\u00bdlot has appealed directly to Russian Foreign Minister Sergey Lavrov to help secure Vinnik\u00ef\u00bf\u00bds release from US custody.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7751783728599548
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Since Vinnik\u00ef\u00bf\u00bds extradition to the US in August, B\u00ef\u00bf\u00bdlot has appealed directly to Russian Foreign Minister Sergey Lavrov to help secure Vinnik\u00ef\u00bf\u00bds release from US custody.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "Since Vinnik\u00ef\u00bf\u00bds extradition to the US in August, B\u00ef\u00bf\u00bdlot has appealed directly to Russian Foreign Minister Sergey Lavrov to help secure Vinnik\u00ef\u00bf\u00bds release from US custody.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7751783728599548
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": " \r\nRussia refused to release Paul Whelan alongside Brittney Griner unless a former colonel from Russia\u00ef\u00bf\u00bds domestic spy organization currently in German custody was also released as part of any prisoner swap, US officials told CNN, even as the US offered up the names of several other Russian prisoners in US custody that they would be willing to trade.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "But ultimately, the Russians indicated they would only be willing to trade someone they considered to be a spy \u00ef\u00bf\u00bd Whelan, who was convicted on espionage charges in 2019 \u00ef\u00bf\u00bd for one of Russia\u00ef\u00bf\u00bds own spies: Krasikov.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.9550418257713318
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "CNN first reported exclusively in August that the Russians had requested that Krasikov be released along with Viktor Bout, a Russian arms dealer who was serving a 25-year sentence in the US, in exchange for Whelan and Griner.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "But ultimately, the Russians indicated they would only be willing to trade someone they considered to be a spy \u00ef\u00bf\u00bd Whelan, who was convicted on espionage charges in 2019 \u00ef\u00bf\u00bd for one of Russia\u00ef\u00bf\u00bds own spies: Krasikov.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.9550418257713318
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "The US made several other offers to the Russians, sources said, to try to get them to agree to include Whelan in the swap.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "But ultimately, the Russians indicated they would only be willing to trade someone they considered to be a spy \u00ef\u00bf\u00bd Whelan, who was convicted on espionage charges in 2019 \u00ef\u00bf\u00bd for one of Russia\u00ef\u00bf\u00bds own spies: Krasikov.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.9550418257713318
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Among the names floated by the US was Alexander Vinnik, a Russian national extradited to the US in August on allegations of money laundering, hacking and extortion.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "But ultimately, the Russians indicated they would only be willing to trade someone they considered to be a spy \u00ef\u00bf\u00bd Whelan, who was convicted on espionage charges in 2019 \u00ef\u00bf\u00bd for one of Russia\u00ef\u00bf\u00bds own spies: Krasikov.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.9550418257713318
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "But ultimately, the Russians indicated they would only be willing to trade someone they considered to be a spy \u00ef\u00bf\u00bd Whelan, who was convicted on espionage charges in 2019 \u00ef\u00bf\u00bd for one of Russia\u00ef\u00bf\u00bds own spies: Krasikov.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "But ultimately, the Russians indicated they would only be willing to trade someone they considered to be a spy \u00ef\u00bf\u00bd Whelan, who was convicted on espionage charges in 2019 \u00ef\u00bf\u00bd for one of Russia\u00ef\u00bf\u00bds own spies: Krasikov.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.9550418257713318
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "(Photo by Kirill KUDRYAVTSEV / AFP)        (Photo credit should read KIRILL KUDRYAVTSEV/AFP via Getty Images)\r\nWhelan talks will continue because Russians have 'things they want,' US official says\r\nThe National Security Council declined to comment.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "But ultimately, the Russians indicated they would only be willing to trade someone they considered to be a spy \u00ef\u00bf\u00bd Whelan, who was convicted on espionage charges in 2019 \u00ef\u00bf\u00bd for one of Russia\u00ef\u00bf\u00bds own spies: Krasikov.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.9550418257713318
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "A senior Biden administration official acknowledged to CNN on Thursday night that the Russian side had repeatedly demanded someone not even in US custody, even as the US made a number of different proposals.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "But ultimately, the Russians indicated they would only be willing to trade someone they considered to be a spy \u00ef\u00bf\u00bd Whelan, who was convicted on espionage charges in 2019 \u00ef\u00bf\u00bd for one of Russia\u00ef\u00bf\u00bds own spies: Krasikov.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.9550418257713318
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "In the end, the Russians kept asking for the same thing that the US could simply not deliver on, the official said\r\n\r\n\u00ef\u00bf\u00bdWe have shown an openness to talk about that which is actually available to us and gotten only in response a demand for something not available to us,\u00ef\u00bf\u00bd the official said, reiterating that the Russians refused what had been offered to secure the release of Whelan.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "But ultimately, the Russians indicated they would only be willing to trade someone they considered to be a spy \u00ef\u00bf\u00bd Whelan, who was convicted on espionage charges in 2019 \u00ef\u00bf\u00bd for one of Russia\u00ef\u00bf\u00bds own spies: Krasikov.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.9550418257713318
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": " \r\nRussia refused to release Paul Whelan alongside Brittney Griner unless a former colonel from Russia\u00ef\u00bf\u00bds domestic spy organization currently in German custody was also released as part of any prisoner swap, US officials told CNN, even as the US offered up the names of several other Russian prisoners in US custody that they would be willing to trade.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "A senior Biden administration official acknowledged to CNN on Thursday night that the Russian side had repeatedly demanded someone not even in US custody, even as the US made a number of different proposals.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.5324105620384216
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "The US made several other offers to the Russians, sources said, to try to get them to agree to include Whelan in the swap.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "A senior Biden administration official acknowledged to CNN on Thursday night that the Russian side had repeatedly demanded someone not even in US custody, even as the US made a number of different proposals.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.5324105620384216
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "But ultimately, the Russians indicated they would only be willing to trade someone they considered to be a spy \u00ef\u00bf\u00bd Whelan, who was convicted on espionage charges in 2019 \u00ef\u00bf\u00bd for one of Russia\u00ef\u00bf\u00bds own spies: Krasikov.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "A senior Biden administration official acknowledged to CNN on Thursday night that the Russian side had repeatedly demanded someone not even in US custody, even as the US made a number of different proposals.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.5324105620384216
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "(Photo by Kirill KUDRYAVTSEV / AFP)        (Photo credit should read KIRILL KUDRYAVTSEV/AFP via Getty Images)\r\nWhelan talks will continue because Russians have 'things they want,' US official says\r\nThe National Security Council declined to comment.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "A senior Biden administration official acknowledged to CNN on Thursday night that the Russian side had repeatedly demanded someone not even in US custody, even as the US made a number of different proposals.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.5324105620384216
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "A senior Biden administration official acknowledged to CNN on Thursday night that the Russian side had repeatedly demanded someone not even in US custody, even as the US made a number of different proposals.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "A senior Biden administration official acknowledged to CNN on Thursday night that the Russian side had repeatedly demanded someone not even in US custody, even as the US made a number of different proposals.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.5324105620384216
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "In the end, the Russians kept asking for the same thing that the US could simply not deliver on, the official said\r\n\r\n\u00ef\u00bf\u00bdWe have shown an openness to talk about that which is actually available to us and gotten only in response a demand for something not available to us,\u00ef\u00bf\u00bd the official said, reiterating that the Russians refused what had been offered to secure the release of Whelan.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "A senior Biden administration official acknowledged to CNN on Thursday night that the Russian side had repeatedly demanded someone not even in US custody, even as the US made a number of different proposals.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.5324105620384216
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": " \r\nRussia refused to release Paul Whelan alongside Brittney Griner unless a former colonel from Russia\u00ef\u00bf\u00bds domestic spy organization currently in German custody was also released as part of any prisoner swap, US officials told CNN, even as the US offered up the names of several other Russian prisoners in US custody that they would be willing to trade.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "In the end, the Russians kept asking for the same thing that the US could simply not deliver on, the official said\r\n\r\n\u00ef\u00bf\u00bdWe have shown an openness to talk about that which is actually available to us and gotten only in response a demand for something not available to us,\u00ef\u00bf\u00bd the official said, reiterating that the Russians refused what had been offered to secure the release of Whelan.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.9652022123336792
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "The US was unable to deliver on the request for the ex-colonel, Vadim Krasikov, because he is serving out a life sentence for murder in Germany.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "In the end, the Russians kept asking for the same thing that the US could simply not deliver on, the official said\r\n\r\n\u00ef\u00bf\u00bdWe have shown an openness to talk about that which is actually available to us and gotten only in response a demand for something not available to us,\u00ef\u00bf\u00bd the official said, reiterating that the Russians refused what had been offered to secure the release of Whelan.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.9652022123336792
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "CNN first reported exclusively in August that the Russians had requested that Krasikov be released along with Viktor Bout, a Russian arms dealer who was serving a 25-year sentence in the US, in exchange for Whelan and Griner.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "In the end, the Russians kept asking for the same thing that the US could simply not deliver on, the official said\r\n\r\n\u00ef\u00bf\u00bdWe have shown an openness to talk about that which is actually available to us and gotten only in response a demand for something not available to us,\u00ef\u00bf\u00bd the official said, reiterating that the Russians refused what had been offered to secure the release of Whelan.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.9652022123336792
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "US officials made quiet inquiries to the Germans about whether they might be willing to include Krasikov in the trade, a senior German government source told CNN earlier this year.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "In the end, the Russians kept asking for the same thing that the US could simply not deliver on, the official said\r\n\r\n\u00ef\u00bf\u00bdWe have shown an openness to talk about that which is actually available to us and gotten only in response a demand for something not available to us,\u00ef\u00bf\u00bd the official said, reiterating that the Russians refused what had been offered to secure the release of Whelan.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.9652022123336792
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "But ultimately, the US was not able to secure Krasikov\u00ef\u00bf\u00bds release.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "In the end, the Russians kept asking for the same thing that the US could simply not deliver on, the official said\r\n\r\n\u00ef\u00bf\u00bdWe have shown an openness to talk about that which is actually available to us and gotten only in response a demand for something not available to us,\u00ef\u00bf\u00bd the official said, reiterating that the Russians refused what had been offered to secure the release of Whelan.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.9652022123336792
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "The US made several other offers to the Russians, sources said, to try to get them to agree to include Whelan in the swap.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "In the end, the Russians kept asking for the same thing that the US could simply not deliver on, the official said\r\n\r\n\u00ef\u00bf\u00bdWe have shown an openness to talk about that which is actually available to us and gotten only in response a demand for something not available to us,\u00ef\u00bf\u00bd the official said, reiterating that the Russians refused what had been offered to secure the release of Whelan.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.9652022123336792
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "But ultimately, the Russians indicated they would only be willing to trade someone they considered to be a spy \u00ef\u00bf\u00bd Whelan, who was convicted on espionage charges in 2019 \u00ef\u00bf\u00bd for one of Russia\u00ef\u00bf\u00bds own spies: Krasikov.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "In the end, the Russians kept asking for the same thing that the US could simply not deliver on, the official said\r\n\r\n\u00ef\u00bf\u00bdWe have shown an openness to talk about that which is actually available to us and gotten only in response a demand for something not available to us,\u00ef\u00bf\u00bd the official said, reiterating that the Russians refused what had been offered to secure the release of Whelan.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.9652022123336792
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "(Photo by Kirill KUDRYAVTSEV / AFP)        (Photo credit should read KIRILL KUDRYAVTSEV/AFP via Getty Images)\r\nWhelan talks will continue because Russians have 'things they want,' US official says\r\nThe National Security Council declined to comment.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "In the end, the Russians kept asking for the same thing that the US could simply not deliver on, the official said\r\n\r\n\u00ef\u00bf\u00bdWe have shown an openness to talk about that which is actually available to us and gotten only in response a demand for something not available to us,\u00ef\u00bf\u00bd the official said, reiterating that the Russians refused what had been offered to secure the release of Whelan.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.9652022123336792
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "A senior Biden administration official acknowledged to CNN on Thursday night that the Russian side had repeatedly demanded someone not even in US custody, even as the US made a number of different proposals.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "In the end, the Russians kept asking for the same thing that the US could simply not deliver on, the official said\r\n\r\n\u00ef\u00bf\u00bdWe have shown an openness to talk about that which is actually available to us and gotten only in response a demand for something not available to us,\u00ef\u00bf\u00bd the official said, reiterating that the Russians refused what had been offered to secure the release of Whelan.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.9652022123336792
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "In the end, the Russians kept asking for the same thing that the US could simply not deliver on, the official said\r\n\r\n\u00ef\u00bf\u00bdWe have shown an openness to talk about that which is actually available to us and gotten only in response a demand for something not available to us,\u00ef\u00bf\u00bd the official said, reiterating that the Russians refused what had been offered to secure the release of Whelan.",
+                    "source_label_from_outlet": "LEFT",
+                    "reused_text": "In the end, the Russians kept asking for the same thing that the US could simply not deliver on, the official said\r\n\r\n\u00ef\u00bf\u00bdWe have shown an openness to talk about that which is actually available to us and gotten only in response a demand for something not available to us,\u00ef\u00bf\u00bd the official said, reiterating that the Russians refused what had been offered to secure the release of Whelan.",
+                    "reused_label_from_outlet": "LEFT",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.9652022123336792
+                    },
+                    "transform_flow": "from `LEFT` to `LEFT`, it should be `LEFT`"
+                }
+            ]
+        }
+    ]
+}

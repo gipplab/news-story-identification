@@ -1,0 +1,563 @@
+{
+    "source_id": 56,
+    "source_datetime": "9/12/2022 19:51:07",
+    "source_label": "LEFT",
+    "commissions": [
+        {
+            "reused_id": 51,
+            "reused_datetime": "9/12/2022 20:57:49",
+            "reused_label": "RIGHT",
+            "details": [
+                {
+                    "reused_text": "President Vladimir Putin says Russia will refuse to sell oil to any country that imposes the West\u00ef\u00bf\u00bds \u00ef\u00bf\u00bdstupid\u00ef\u00bf\u00bd price cap on its oil.",
+                    "polarity_from_outlet": "RIGHT",
+                    "polarity_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.9592441320419312
+                    }
+                },
+                {
+                    "reused_text": "Moscow \u00ef\u00bf\u00bd Russia, the world\u00ef\u00bf\u00bds biggest exporter of energy, could cut oil production and will refuse to sell oil to any country that imposes the West\u00ef\u00bf\u00bds \u00ef\u00bf\u00bdstupid\u00ef\u00bf\u00bd price cap on Russian oil, President Vladimir Putin said on Friday.",
+                    "polarity_from_outlet": "RIGHT",
+                    "polarity_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.7157014608383179
+                    }
+                },
+                {
+                    "reused_text": "\u00ef\u00bf\u00bdWe will think, maybe, even about a possible, if necessary ... reduction in production.\u00ef\u00bf\u00bd\r\n\r\nPutin, who rules the world\u00ef\u00bf\u00bds second-largest oil exporter after Saudi Arabia and the largest gas exporter, said Russia had a production agreement with other members of the Opec+ oil producers\u00ef\u00bf\u00bd club, so such a drastic step was still only a possibility.",
+                    "polarity_from_outlet": "RIGHT",
+                    "polarity_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.9852550029754639
+                    }
+                },
+                {
+                    "reused_text": "Selling oil and gas to Europe has been one of the main sources of Russia\u00ef\u00bf\u00bds foreign currency earnings since Soviet geologists found oil and gas in the swamps of Siberia in the decades after World War 2.",
+                    "polarity_from_outlet": "RIGHT",
+                    "polarity_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.9832495450973511
+                    }
+                },
+                {
+                    "reused_text": "Putin dismissed the West\u00ef\u00bf\u00bds attempt to squeeze Russian finances, saying the $60 price cap corresponded to the price at which Russia was selling oil.",
+                    "polarity_from_outlet": "RIGHT",
+                    "polarity_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.9942982792854309
+                    }
+                },
+                {
+                    "reused_text": "\u00ef\u00bf\u00bdWe will think, maybe, even about a possible, if necessary ... reduction in production.\u00ef\u00bf\u00bd\r\n\r\nPutin, who rules the world\u00ef\u00bf\u00bds second-largest oil exporter after Saudi Arabia and the largest gas exporter, said Russia had a production agreement with other members of the Opec+ oil producers\u00ef\u00bf\u00bd club, so such a drastic step was still only a possibility.",
+                    "polarity_from_outlet": "RIGHT",
+                    "polarity_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.9852550029754639
+                    }
+                },
+                {
+                    "reused_text": "President Vladimir Putin says Russia will refuse to sell oil to any country that imposes the West\u00ef\u00bf\u00bds \u00ef\u00bf\u00bdstupid\u00ef\u00bf\u00bd price cap on its oil.",
+                    "polarity_from_outlet": "RIGHT",
+                    "polarity_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.9592441320419312
+                    }
+                },
+                {
+                    "reused_text": "Moscow \u00ef\u00bf\u00bd Russia, the world\u00ef\u00bf\u00bds biggest exporter of energy, could cut oil production and will refuse to sell oil to any country that imposes the West\u00ef\u00bf\u00bds \u00ef\u00bf\u00bdstupid\u00ef\u00bf\u00bd price cap on Russian oil, President Vladimir Putin said on Friday.",
+                    "polarity_from_outlet": "RIGHT",
+                    "polarity_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.7157014608383179
+                    }
+                },
+                {
+                    "reused_text": "\u00ef\u00bf\u00bdAs for our reaction, I have already said that we simply will not sell to those countries that make such decisions,\u00ef\u00bf\u00bd Putin told reporters in a news conference in the Kyrgyz capital, Bishkek.",
+                    "polarity_from_outlet": "RIGHT",
+                    "polarity_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.9927164912223816
+                    }
+                },
+                {
+                    "reused_text": "\u00ef\u00bf\u00bdWe will think, maybe, even about a possible, if necessary ... reduction in production.\u00ef\u00bf\u00bd\r\n\r\nPutin, who rules the world\u00ef\u00bf\u00bds second-largest oil exporter after Saudi Arabia and the largest gas exporter, said Russia had a production agreement with other members of the Opec+ oil producers\u00ef\u00bf\u00bd club, so such a drastic step was still only a possibility.",
+                    "polarity_from_outlet": "RIGHT",
+                    "polarity_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.9852550029754639
+                    }
+                },
+                {
+                    "reused_text": "Putin dismissed the West\u00ef\u00bf\u00bds attempt to squeeze Russian finances, saying the $60 price cap corresponded to the price at which Russia was selling oil.",
+                    "polarity_from_outlet": "RIGHT",
+                    "polarity_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.9942982792854309
+                    }
+                },
+                {
+                    "reused_text": "\u00ef\u00bf\u00bdIt all boils down to about this figure,\u00ef\u00bf\u00bd Putin said.",
+                    "polarity_from_outlet": "RIGHT",
+                    "polarity_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.9905445575714111
+                    }
+                },
+                {
+                    "reused_text": "The Kremlin chief cautioned that attempts by the West to impose a price cap would lead to the global collapse of the oil industry and then a catastrophic rise in prices.",
+                    "polarity_from_outlet": "RIGHT",
+                    "polarity_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.9281044602394104
+                    }
+                },
+                {
+                    "reused_text": "The Kremlin chief cautioned that attempts by the West to impose a price cap would lead to the global collapse of the oil industry and then a catastrophic rise in prices.",
+                    "polarity_from_outlet": "RIGHT",
+                    "polarity_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.9281044602394104
+                    }
+                },
+                {
+                    "reused_text": "\u00ef\u00bf\u00bdAll this will lead at some stage to a catastrophic surge in prices and to the collapse of the global energy sector.",
+                    "polarity_from_outlet": "RIGHT",
+                    "polarity_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.6862955093383789
+                    }
+                },
+                {
+                    "reused_text": "The Kremlin chief cautioned that attempts by the West to impose a price cap would lead to the global collapse of the oil industry and then a catastrophic rise in prices.",
+                    "polarity_from_outlet": "RIGHT",
+                    "polarity_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.9281044602394104
+                    }
+                },
+                {
+                    "reused_text": "Moscow \u00ef\u00bf\u00bd Russia, the world\u00ef\u00bf\u00bds biggest exporter of energy, could cut oil production and will refuse to sell oil to any country that imposes the West\u00ef\u00bf\u00bds \u00ef\u00bf\u00bdstupid\u00ef\u00bf\u00bd price cap on Russian oil, President Vladimir Putin said on Friday.",
+                    "polarity_from_outlet": "RIGHT",
+                    "polarity_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.7157014608383179
+                    }
+                },
+                {
+                    "reused_text": "The Group of Seven major powers, the EU and Australia last week agreed a $60 per barrel price cap on Russian seaborne crude oil after EU members overcame resistance from Poland.",
+                    "polarity_from_outlet": "RIGHT",
+                    "polarity_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.9953383207321167
+                    }
+                },
+                {
+                    "reused_text": "Putin dismissed the West\u00ef\u00bf\u00bds attempt to squeeze Russian finances, saying the $60 price cap corresponded to the price at which Russia was selling oil.",
+                    "polarity_from_outlet": "RIGHT",
+                    "polarity_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.9942982792854309
+                    }
+                },
+                {
+                    "reused_text": "President Vladimir Putin says Russia will refuse to sell oil to any country that imposes the West\u00ef\u00bf\u00bds \u00ef\u00bf\u00bdstupid\u00ef\u00bf\u00bd price cap on its oil.",
+                    "polarity_from_outlet": "RIGHT",
+                    "polarity_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.9592441320419312
+                    }
+                },
+                {
+                    "reused_text": "Moscow \u00ef\u00bf\u00bd Russia, the world\u00ef\u00bf\u00bds biggest exporter of energy, could cut oil production and will refuse to sell oil to any country that imposes the West\u00ef\u00bf\u00bds \u00ef\u00bf\u00bdstupid\u00ef\u00bf\u00bd price cap on Russian oil, President Vladimir Putin said on Friday.",
+                    "polarity_from_outlet": "RIGHT",
+                    "polarity_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.7157014608383179
+                    }
+                },
+                {
+                    "reused_text": "The Group of Seven major powers, the EU and Australia last week agreed a $60 per barrel price cap on Russian seaborne crude oil after EU members overcame resistance from Poland.",
+                    "polarity_from_outlet": "RIGHT",
+                    "polarity_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.9953383207321167
+                    }
+                },
+                {
+                    "reused_text": "\u00ef\u00bf\u00bdWe will think, maybe, even about a possible, if necessary ... reduction in production.\u00ef\u00bf\u00bd\r\n\r\nPutin, who rules the world\u00ef\u00bf\u00bds second-largest oil exporter after Saudi Arabia and the largest gas exporter, said Russia had a production agreement with other members of the Opec+ oil producers\u00ef\u00bf\u00bd club, so such a drastic step was still only a possibility.",
+                    "polarity_from_outlet": "RIGHT",
+                    "polarity_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.9852550029754639
+                    }
+                },
+                {
+                    "reused_text": "Selling oil and gas to Europe has been one of the main sources of Russia\u00ef\u00bf\u00bds foreign currency earnings since Soviet geologists found oil and gas in the swamps of Siberia in the decades after World War 2.",
+                    "polarity_from_outlet": "RIGHT",
+                    "polarity_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.9832495450973511
+                    }
+                },
+                {
+                    "reused_text": "Putin dismissed the West\u00ef\u00bf\u00bds attempt to squeeze Russian finances, saying the $60 price cap corresponded to the price at which Russia was selling oil.",
+                    "polarity_from_outlet": "RIGHT",
+                    "polarity_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.9942982792854309
+                    }
+                },
+                {
+                    "reused_text": "President Vladimir Putin says Russia will refuse to sell oil to any country that imposes the West\u00ef\u00bf\u00bds \u00ef\u00bf\u00bdstupid\u00ef\u00bf\u00bd price cap on its oil.",
+                    "polarity_from_outlet": "RIGHT",
+                    "polarity_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.9592441320419312
+                    }
+                },
+                {
+                    "reused_text": "Moscow \u00ef\u00bf\u00bd Russia, the world\u00ef\u00bf\u00bds biggest exporter of energy, could cut oil production and will refuse to sell oil to any country that imposes the West\u00ef\u00bf\u00bds \u00ef\u00bf\u00bdstupid\u00ef\u00bf\u00bd price cap on Russian oil, President Vladimir Putin said on Friday.",
+                    "polarity_from_outlet": "RIGHT",
+                    "polarity_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.7157014608383179
+                    }
+                },
+                {
+                    "reused_text": "\u00ef\u00bf\u00bdWe will think, maybe, even about a possible, if necessary ... reduction in production.\u00ef\u00bf\u00bd\r\n\r\nPutin, who rules the world\u00ef\u00bf\u00bds second-largest oil exporter after Saudi Arabia and the largest gas exporter, said Russia had a production agreement with other members of the Opec+ oil producers\u00ef\u00bf\u00bd club, so such a drastic step was still only a possibility.",
+                    "polarity_from_outlet": "RIGHT",
+                    "polarity_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.9852550029754639
+                    }
+                },
+                {
+                    "reused_text": "Selling oil and gas to Europe has been one of the main sources of Russia\u00ef\u00bf\u00bds foreign currency earnings since Soviet geologists found oil and gas in the swamps of Siberia in the decades after World War 2.",
+                    "polarity_from_outlet": "RIGHT",
+                    "polarity_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.9832495450973511
+                    }
+                },
+                {
+                    "reused_text": "Putin dismissed the West\u00ef\u00bf\u00bds attempt to squeeze Russian finances, saying the $60 price cap corresponded to the price at which Russia was selling oil.",
+                    "polarity_from_outlet": "RIGHT",
+                    "polarity_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.9942982792854309
+                    }
+                },
+                {
+                    "reused_text": "The Kremlin chief cautioned that attempts by the West to impose a price cap would lead to the global collapse of the oil industry and then a catastrophic rise in prices.",
+                    "polarity_from_outlet": "RIGHT",
+                    "polarity_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.9281044602394104
+                    }
+                },
+                {
+                    "reused_text": "\u00ef\u00bf\u00bdAll this will lead at some stage to a catastrophic surge in prices and to the collapse of the global energy sector.",
+                    "polarity_from_outlet": "RIGHT",
+                    "polarity_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.6862955093383789
+                    }
+                }
+            ],
+            "polarity_changes": {
+                "to_LEFT": 17,
+                "to_CENTER": 15,
+                "to_RIGHT": 0
+            }
+        },
+        {
+            "reused_id": 52,
+            "reused_datetime": "9/12/2022 22:16:39",
+            "reused_label": "CENTER",
+            "details": [
+                {
+                    "reused_text": "Russia will not sell oil to any country that imposes a price cap on its oil exports and is considering reducing its oil production, President Vladimir Putin says.",
+                    "polarity_from_outlet": "CENTER",
+                    "polarity_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.8184120655059814
+                    }
+                },
+                {
+                    "reused_text": "On Monday, the Group of Seven, European Union and Australia imposed a price limit on Russian oil of $60 per barrel in a move aimed at reducing Moscow\u00ef\u00bf\u00bds ability to finance its war in Ukraine.",
+                    "polarity_from_outlet": "CENTER",
+                    "polarity_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.9258933663368225
+                    }
+                },
+                {
+                    "reused_text": "Putin said Russia has no mandate to launch a preventive first nuclear strike, unlike the US, but Russia\u00ef\u00bf\u00bds advanced hypersonic weapons would ensure Russia could respond forcefully if it ever came under attack.",
+                    "polarity_from_outlet": "CENTER",
+                    "polarity_from_classifier": {
+                        "label": "RIGHT",
+                        "score": 0.47390952706336975
+                    }
+                },
+                {
+                    "reused_text": "Putin said Russia would likely have to reach a peace agreement regarding Ukraine in the future, but felt betrayed by the breakdown of the earlier Minsk agreements.",
+                    "polarity_from_outlet": "CENTER",
+                    "polarity_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.9963591694831848
+                    }
+                },
+                {
+                    "reused_text": "Putin said mediators Germany and France had betrayed Russia and were now pumping Kyiv with weapons.",
+                    "polarity_from_outlet": "CENTER",
+                    "polarity_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.997307300567627
+                    }
+                },
+                {
+                    "reused_text": "\u00ef\u00bf\u00bdWe will consider a possible reduction in production if necessary,\u00ef\u00bf\u00bd he added, calling the price cap a \u00ef\u00bf\u00bdstupid decision\u00ef\u00bf\u00bd that is \u00ef\u00bf\u00bdharmful to global energy markets\u00ef\u00bf\u00bd.",
+                    "polarity_from_outlet": "CENTER",
+                    "polarity_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.9941105246543884
+                    }
+                },
+                {
+                    "reused_text": "Russia will not sell oil to any country that imposes a price cap on its oil exports and is considering reducing its oil production, President Vladimir Putin says.",
+                    "polarity_from_outlet": "CENTER",
+                    "polarity_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.8184120655059814
+                    }
+                },
+                {
+                    "reused_text": "On Monday, the Group of Seven, European Union and Australia imposed a price limit on Russian oil of $60 per barrel in a move aimed at reducing Moscow\u00ef\u00bf\u00bds ability to finance its war in Ukraine.",
+                    "polarity_from_outlet": "CENTER",
+                    "polarity_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.9258933663368225
+                    }
+                },
+                {
+                    "reused_text": "\u00ef\u00bf\u00bdI have already said that we simply will not sell to those countries that make such decisions,\u00ef\u00bf\u00bd Putin said on Friday at a news conference held after a regional summit in Kyrgyzstan\u00ef\u00bf\u00bds capital, Bishkek.",
+                    "polarity_from_outlet": "CENTER",
+                    "polarity_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.9980249404907227
+                    }
+                },
+                {
+                    "reused_text": "Putin said Russia has no mandate to launch a preventive first nuclear strike, unlike the US, but Russia\u00ef\u00bf\u00bds advanced hypersonic weapons would ensure Russia could respond forcefully if it ever came under attack.",
+                    "polarity_from_outlet": "CENTER",
+                    "polarity_from_classifier": {
+                        "label": "RIGHT",
+                        "score": 0.47390952706336975
+                    }
+                },
+                {
+                    "reused_text": "On Monday, the Group of Seven, European Union and Australia imposed a price limit on Russian oil of $60 per barrel in a move aimed at reducing Moscow\u00ef\u00bf\u00bds ability to finance its war in Ukraine.",
+                    "polarity_from_outlet": "CENTER",
+                    "polarity_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.9258933663368225
+                    }
+                },
+                {
+                    "reused_text": "Russia will not sell oil to any country that imposes a price cap on its oil exports and is considering reducing its oil production, President Vladimir Putin says.",
+                    "polarity_from_outlet": "CENTER",
+                    "polarity_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.8184120655059814
+                    }
+                },
+                {
+                    "reused_text": "On Monday, the Group of Seven, European Union and Australia imposed a price limit on Russian oil of $60 per barrel in a move aimed at reducing Moscow\u00ef\u00bf\u00bds ability to finance its war in Ukraine.",
+                    "polarity_from_outlet": "CENTER",
+                    "polarity_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.9258933663368225
+                    }
+                },
+                {
+                    "reused_text": "Russia will not sell oil to any country that imposes a price cap on its oil exports and is considering reducing its oil production, President Vladimir Putin says.",
+                    "polarity_from_outlet": "CENTER",
+                    "polarity_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.8184120655059814
+                    }
+                },
+                {
+                    "reused_text": "On Monday, the Group of Seven, European Union and Australia imposed a price limit on Russian oil of $60 per barrel in a move aimed at reducing Moscow\u00ef\u00bf\u00bds ability to finance its war in Ukraine.",
+                    "polarity_from_outlet": "CENTER",
+                    "polarity_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.9258933663368225
+                    }
+                },
+                {
+                    "reused_text": "On Monday, the Group of Seven, European Union and Australia imposed a price limit on Russian oil of $60 per barrel in a move aimed at reducing Moscow\u00ef\u00bf\u00bds ability to finance its war in Ukraine.",
+                    "polarity_from_outlet": "CENTER",
+                    "polarity_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.9258933663368225
+                    }
+                }
+            ],
+            "polarity_changes": {
+                "to_LEFT": 8,
+                "to_CENTER": 6,
+                "to_RIGHT": 2
+            }
+        },
+        {
+            "reused_id": 60,
+            "reused_datetime": "9/12/2022 23:09:50",
+            "reused_label": "RIGHT",
+            "details": [
+                {
+                    "reused_text": "A decision on Moscow's response to EU price cap will be announced in a presidential decree within the next several days, says Putin\r\n\r\nRussia may cut its oil production in response to the G-7 cap on the price of its crude, President Vladimir Putin said.",
+                    "polarity_from_outlet": "RIGHT",
+                    "polarity_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.9886929392814636
+                    }
+                },
+                {
+                    "reused_text": "After months of planning and negotiations, the biggest tranche of international sanctions on Russian oil took effect on Monday.",
+                    "polarity_from_outlet": "RIGHT",
+                    "polarity_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.9950248599052429
+                    }
+                },
+                {
+                    "reused_text": "\u00ef\u00bf\u00bdI\u00ef\u00bf\u00bdm not saying now that this is a decision, but if necessary we\u00ef\u00bf\u00bdll think about possible production cuts,\u00ef\u00bf\u00bd Putin said.",
+                    "polarity_from_outlet": "RIGHT",
+                    "polarity_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.9950473308563232
+                    }
+                },
+                {
+                    "reused_text": "A decision on Moscow's response to EU price cap will be announced in a presidential decree within the next several days, says Putin\r\n\r\nRussia may cut its oil production in response to the G-7 cap on the price of its crude, President Vladimir Putin said.",
+                    "polarity_from_outlet": "RIGHT",
+                    "polarity_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.9886929392814636
+                    }
+                },
+                {
+                    "reused_text": "\u00ef\u00bf\u00bdI\u00ef\u00bf\u00bdm not saying now that this is a decision, but if necessary we\u00ef\u00bf\u00bdll think about possible production cuts,\u00ef\u00bf\u00bd Putin said.",
+                    "polarity_from_outlet": "RIGHT",
+                    "polarity_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.9950473308563232
+                    }
+                },
+                {
+                    "reused_text": "The price cap will not have any negative consequences on Russia\u00ef\u00bf\u00bds revenue as the $60 a barrel threshold introduced by western countries \u00ef\u00bf\u00bdcorresponds to the prices at which we sell today,\u00ef\u00bf\u00bd Putin said.",
+                    "polarity_from_outlet": "RIGHT",
+                    "polarity_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.989151120185852
+                    }
+                },
+                {
+                    "reused_text": "A decision on Moscow's response to EU price cap will be announced in a presidential decree within the next several days, says Putin\r\n\r\nRussia may cut its oil production in response to the G-7 cap on the price of its crude, President Vladimir Putin said.",
+                    "polarity_from_outlet": "RIGHT",
+                    "polarity_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.9886929392814636
+                    }
+                },
+                {
+                    "reused_text": "After months of planning and negotiations, the biggest tranche of international sanctions on Russian oil took effect on Monday.",
+                    "polarity_from_outlet": "RIGHT",
+                    "polarity_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.9950248599052429
+                    }
+                },
+                {
+                    "reused_text": "The European Union banned most seaborne imports of the country\u00ef\u00bf\u00bds crude oil, and the G-7 agreed that anyone wanting to access key services that the bloc provides \u00ef\u00bf\u00bd especially insurance \u00ef\u00bf\u00bd will have to pay less than $60 a barrel.",
+                    "polarity_from_outlet": "RIGHT",
+                    "polarity_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.9602231979370117
+                    }
+                },
+                {
+                    "reused_text": "A decision on Moscow's response to EU price cap will be announced in a presidential decree within the next several days, says Putin\r\n\r\nRussia may cut its oil production in response to the G-7 cap on the price of its crude, President Vladimir Putin said.",
+                    "polarity_from_outlet": "RIGHT",
+                    "polarity_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.9886929392814636
+                    }
+                },
+                {
+                    "reused_text": "\u00ef\u00bf\u00bdI have already said that we simply won\u00ef\u00bf\u00bdt sell oil to those countries\u00ef\u00bf\u00bd that participate in a price cap, he said.",
+                    "polarity_from_outlet": "RIGHT",
+                    "polarity_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.8991027474403381
+                    }
+                },
+                {
+                    "reused_text": "The European Union banned most seaborne imports of the country\u00ef\u00bf\u00bds crude oil, and the G-7 agreed that anyone wanting to access key services that the bloc provides \u00ef\u00bf\u00bd especially insurance \u00ef\u00bf\u00bd will have to pay less than $60 a barrel.",
+                    "polarity_from_outlet": "RIGHT",
+                    "polarity_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.9602231979370117
+                    }
+                },
+                {
+                    "reused_text": "There are still enormous unanswered questions that will shape the impact of the measures on the oil market, including the depth of non-European insurance markets, the appetite of some tanker owners to participate in trade with Russia, and exactly how effective enforcement of the cap can be.",
+                    "polarity_from_outlet": "RIGHT",
+                    "polarity_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.9941851496696472
+                    }
+                },
+                {
+                    "reused_text": "The price cap will not have any negative consequences on Russia\u00ef\u00bf\u00bds revenue as the $60 a barrel threshold introduced by western countries \u00ef\u00bf\u00bdcorresponds to the prices at which we sell today,\u00ef\u00bf\u00bd Putin said.",
+                    "polarity_from_outlet": "RIGHT",
+                    "polarity_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.989151120185852
+                    }
+                },
+                {
+                    "reused_text": "A decision on Moscow's response to EU price cap will be announced in a presidential decree within the next several days, says Putin\r\n\r\nRussia may cut its oil production in response to the G-7 cap on the price of its crude, President Vladimir Putin said.",
+                    "polarity_from_outlet": "RIGHT",
+                    "polarity_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.9886929392814636
+                    }
+                },
+                {
+                    "reused_text": "There are still enormous unanswered questions that will shape the impact of the measures on the oil market, including the depth of non-European insurance markets, the appetite of some tanker owners to participate in trade with Russia, and exactly how effective enforcement of the cap can be.",
+                    "polarity_from_outlet": "RIGHT",
+                    "polarity_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.9941851496696472
+                    }
+                },
+                {
+                    "reused_text": "A decision on Moscow's response to EU price cap will be announced in a presidential decree within the next several days, says Putin\r\n\r\nRussia may cut its oil production in response to the G-7 cap on the price of its crude, President Vladimir Putin said.",
+                    "polarity_from_outlet": "RIGHT",
+                    "polarity_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.9886929392814636
+                    }
+                }
+            ],
+            "polarity_changes": {
+                "to_LEFT": 9,
+                "to_CENTER": 8,
+                "to_RIGHT": 0
+            }
+        }
+    ]
+}

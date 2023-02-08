@@ -1,0 +1,1044 @@
+{
+    "reused_id": 102,
+    "reused_datetime": "6/12/2022 16:08:55",
+    "reused_label": "CENTER",
+    "potential_sources": [
+        {
+            "source_id": 74,
+            "source_datetime": "6/12/2022 05:19:31",
+            "source_label": "CENTER",
+            "details": [
+                {
+                    "source_text": "DOHA, QATAR - Luis Enrique was replaced by Luis de la Fuente as Spain's coach on Thursday, two days after the national team was eliminated in the round of 16 at the World Cup.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "DOHA: Luis Enrique was sacked as Spain coach on Thursday after the team's elimination in the last-16 at the World Cup with the country's under-21 manager Luis de la Fuente named as his replacement by the Spanish football federation (RFEF).",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.9713090062141418
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "Luis Enrique said he was thankful to his players while he was in charge, as well as to federation president Luis Rubiales.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "DOHA: Luis Enrique was sacked as Spain coach on Thursday after the team's elimination in the last-16 at the World Cup with the country's under-21 manager Luis de la Fuente named as his replacement by the Spanish football federation (RFEF).",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.9713090062141418
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "Other candidates who had been considered besides De la Fuente, who was Spain's under-21 coach, included former Belgium manager Roberto Martinez and former Athletic Bilbao coach Marcelino Garcia Toral.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "DOHA: Luis Enrique was sacked as Spain coach on Thursday after the team's elimination in the last-16 at the World Cup with the country's under-21 manager Luis de la Fuente named as his replacement by the Spanish football federation (RFEF).",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.9713090062141418
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "Luis Enrique took over the national team in 2018 to start revamping the squad after its elimination in the round of 16 of the World Cup in Russia.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "DOHA: Luis Enrique was sacked as Spain coach on Thursday after the team's elimination in the last-16 at the World Cup with the country's under-21 manager Luis de la Fuente named as his replacement by the Spanish football federation (RFEF).",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.9713090062141418
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "Luis Enrique's contract ended after the World Cup.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "DOHA: Luis Enrique was sacked as Spain coach on Thursday after the team's elimination in the last-16 at the World Cup with the country's under-21 manager Luis de la Fuente named as his replacement by the Spanish football federation (RFEF).",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.9713090062141418
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "The 52-year-old Luis Enrique, not long ago seen as one of the most uptight coaches in soccer, had opened up at the World Cup, doing streaming sessions, going on bicycle rides and talking frankly about controversial issues.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "DOHA: Luis Enrique was sacked as Spain coach on Thursday after the team's elimination in the last-16 at the World Cup with the country's under-21 manager Luis de la Fuente named as his replacement by the Spanish football federation (RFEF).",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.9713090062141418
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "The team's elimination in Qatar raised more questions about whether Spain should start overhauling its soccer philosophy and get rid of the \"tiki-taka\" ball-possession style that has not produced results recently.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "DOHA: Luis Enrique was sacked as Spain coach on Thursday after the team's elimination in the last-16 at the World Cup with the country's under-21 manager Luis de la Fuente named as his replacement by the Spanish football federation (RFEF).",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.9713090062141418
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "Luis Enrique had said he wasn't planning to relinquish the \"tiki-taka\" if he remained as coach, and De la Fuente also is likely to keep it alive.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "DOHA: Luis Enrique was sacked as Spain coach on Thursday after the team's elimination in the last-16 at the World Cup with the country's under-21 manager Luis de la Fuente named as his replacement by the Spanish football federation (RFEF).",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.9713090062141418
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "Spain lost to Morocco 3-0 in a penalty shootout after a scoreless draw in regular and extra time.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Spain were beaten on penalties by Morocco after a goalless draw on Tuesday in an upset result after failing to turn their dominance into a victory.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.4990255832672119
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Spain got off to a good start in Qatar, routing Costa Rica 7-0, but La Roja couldn't win again in its last three matches.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Spain were beaten on penalties by Morocco after a goalless draw on Tuesday in an upset result after failing to turn their dominance into a victory.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.4990255832672119
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "He also led Spain to the semifinals of the European Championship last year, losing to Italy in a penalty shootout.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Spain were beaten on penalties by Morocco after a goalless draw on Tuesday in an upset result after failing to turn their dominance into a victory.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.4990255832672119
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "DOHA, QATAR - Luis Enrique was replaced by Luis de la Fuente as Spain's coach on Thursday, two days after the national team was eliminated in the round of 16 at the World Cup.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "\"The RFEF has chosen Luis de la Fuente as the new (Spain) coach,\" RFEF said in a statement.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.4207168221473694
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "The Spanish soccer federation thanked Luis Enrique, but said it was time to \"start a new project\" to keep the growth achieved by the coach in recent years.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "\"The RFEF has chosen Luis de la Fuente as the new (Spain) coach,\" RFEF said in a statement.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.4207168221473694
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "The 61-year-old De la Fuente, a former left back with Sevilla and Athletic Bilbao, helped Spain's under-19 squad win the European Championship in 2015, and the under-21 team win Euro 2019.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "\"The RFEF has chosen Luis de la Fuente as the new (Spain) coach,\" RFEF said in a statement.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.4207168221473694
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "Other candidates who had been considered besides De la Fuente, who was Spain's under-21 coach, included former Belgium manager Roberto Martinez and former Athletic Bilbao coach Marcelino Garcia Toral.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "\"The RFEF has chosen Luis de la Fuente as the new (Spain) coach,\" RFEF said in a statement.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.4207168221473694
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "Luis Enrique had said he wasn't planning to relinquish the \"tiki-taka\" if he remained as coach, and De la Fuente also is likely to keep it alive.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "\"The RFEF has chosen Luis de la Fuente as the new (Spain) coach,\" RFEF said in a statement.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.4207168221473694
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "De la Fuente is expected to make his debut with the senior team when Spain resumes playing in qualifying for Euro 2024 in March next year.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "\"The RFEF has chosen Luis de la Fuente as the new (Spain) coach,\" RFEF said in a statement.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.4207168221473694
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "The Spanish soccer federation thanked Luis Enrique, but said it was time to \"start a new project\" to keep the growth achieved by the coach in recent years.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "\"The ... RFEF has delivered to the president a report in which it determined that a new project should start for the Spain national team, with the aim of continuing the growth achieved in recent years thanks to the work carried out by Luis Enrique (and the staff).",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.9010761380195618
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "DOHA, QATAR - Luis Enrique was replaced by Luis de la Fuente as Spain's coach on Thursday, two days after the national team was eliminated in the round of 16 at the World Cup.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "\"Both the RFEF president Luis Rubiales and sports director, Jose Francisco Molina have informed Luis Enrique of the decision.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7527358531951904
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "It said the change was made after a recommendation by its sporting officials.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "\"Both the RFEF president Luis Rubiales and sports director, Jose Francisco Molina have informed Luis Enrique of the decision.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7527358531951904
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Luis Enrique said he was thankful to his players while he was in charge, as well as to federation president Luis Rubiales.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "\"Both the RFEF president Luis Rubiales and sports director, Jose Francisco Molina have informed Luis Enrique of the decision.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7527358531951904
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "DOHA, QATAR - Luis Enrique was replaced by Luis de la Fuente as Spain's coach on Thursday, two days after the national team was eliminated in the round of 16 at the World Cup.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "The RFEF would like to thank Luis Enrique and his entire coaching staff for the work done in the last few years.\"",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.759739875793457
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "The Spanish soccer federation thanked Luis Enrique, but said it was time to \"start a new project\" to keep the growth achieved by the coach in recent years.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "The RFEF would like to thank Luis Enrique and his entire coaching staff for the work done in the last few years.\"",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.759739875793457
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Luis Enrique said he was thankful to his players while he was in charge, as well as to federation president Luis Rubiales.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "The RFEF would like to thank Luis Enrique and his entire coaching staff for the work done in the last few years.\"",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.759739875793457
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "He also thanked fans and called for their support to the new coach.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "The RFEF would like to thank Luis Enrique and his entire coaching staff for the work done in the last few years.\"",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.759739875793457
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Luis Enrique took over the national team in 2018 to start revamping the squad after its elimination in the round of 16 of the World Cup in Russia.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "The RFEF would like to thank Luis Enrique and his entire coaching staff for the work done in the last few years.\"",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.759739875793457
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "The 52-year-old Luis Enrique, not long ago seen as one of the most uptight coaches in soccer, had opened up at the World Cup, doing streaming sessions, going on bicycle rides and talking frankly about controversial issues.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "The RFEF would like to thank Luis Enrique and his entire coaching staff for the work done in the last few years.\"",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.759739875793457
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "DOHA, QATAR - Luis Enrique was replaced by Luis de la Fuente as Spain's coach on Thursday, two days after the national team was eliminated in the round of 16 at the World Cup.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Luis Enrique, who was first appointed Spain coach in 2018, had a contract until the end of the year.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.5026870369911194
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "The Spanish soccer federation thanked Luis Enrique, but said it was time to \"start a new project\" to keep the growth achieved by the coach in recent years.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Luis Enrique, who was first appointed Spain coach in 2018, had a contract until the end of the year.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.5026870369911194
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Luis Enrique said he was thankful to his players while he was in charge, as well as to federation president Luis Rubiales.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Luis Enrique, who was first appointed Spain coach in 2018, had a contract until the end of the year.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.5026870369911194
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Other candidates who had been considered besides De la Fuente, who was Spain's under-21 coach, included former Belgium manager Roberto Martinez and former Athletic Bilbao coach Marcelino Garcia Toral.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Luis Enrique, who was first appointed Spain coach in 2018, had a contract until the end of the year.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.5026870369911194
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Luis Enrique took over the national team in 2018 to start revamping the squad after its elimination in the round of 16 of the World Cup in Russia.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Luis Enrique, who was first appointed Spain coach in 2018, had a contract until the end of the year.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.5026870369911194
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Luis Enrique's contract ended after the World Cup.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Luis Enrique, who was first appointed Spain coach in 2018, had a contract until the end of the year.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.5026870369911194
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "The 52-year-old Luis Enrique, not long ago seen as one of the most uptight coaches in soccer, had opened up at the World Cup, doing streaming sessions, going on bicycle rides and talking frankly about controversial issues.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Luis Enrique, who was first appointed Spain coach in 2018, had a contract until the end of the year.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.5026870369911194
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Luis Enrique had said he wasn't planning to relinquish the \"tiki-taka\" if he remained as coach, and De la Fuente also is likely to keep it alive.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Luis Enrique, who was first appointed Spain coach in 2018, had a contract until the end of the year.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.5026870369911194
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "DOHA, QATAR - Luis Enrique was replaced by Luis de la Fuente as Spain's coach on Thursday, two days after the national team was eliminated in the round of 16 at the World Cup.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "De la Fuente, 61, joined the RFEF in 2013 as the under-15 manager having worked with players like Marco Asensio, goalkeeper Unai Simon, Eric Garcia, Pau Torres, Pedri, Carlos Soler and Dani Olmo when they were youngsters.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.8446571826934814
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "The 61-year-old De la Fuente, a former left back with Sevilla and Athletic Bilbao, helped Spain's under-19 squad win the European Championship in 2015, and the under-21 team win Euro 2019.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "De la Fuente, 61, joined the RFEF in 2013 as the under-15 manager having worked with players like Marco Asensio, goalkeeper Unai Simon, Eric Garcia, Pau Torres, Pedri, Carlos Soler and Dani Olmo when they were youngsters.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.8446571826934814
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "De la Fuente had coached the senior national team once, when youth players were used in a friendly against Lithuania because the main squad had to go into isolation because of the coronavirus.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "De la Fuente, 61, joined the RFEF in 2013 as the under-15 manager having worked with players like Marco Asensio, goalkeeper Unai Simon, Eric Garcia, Pau Torres, Pedri, Carlos Soler and Dani Olmo when they were youngsters.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.8446571826934814
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Other candidates who had been considered besides De la Fuente, who was Spain's under-21 coach, included former Belgium manager Roberto Martinez and former Athletic Bilbao coach Marcelino Garcia Toral.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "De la Fuente, 61, joined the RFEF in 2013 as the under-15 manager having worked with players like Marco Asensio, goalkeeper Unai Simon, Eric Garcia, Pau Torres, Pedri, Carlos Soler and Dani Olmo when they were youngsters.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.8446571826934814
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "De la Fuente is expected to make his debut with the senior team when Spain resumes playing in qualifying for Euro 2024 in March next year.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "De la Fuente, 61, joined the RFEF in 2013 as the under-15 manager having worked with players like Marco Asensio, goalkeeper Unai Simon, Eric Garcia, Pau Torres, Pedri, Carlos Soler and Dani Olmo when they were youngsters.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.8446571826934814
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                }
+            ]
+        },
+        {
+            "source_id": 104,
+            "source_datetime": "18/2/2022 06:27:13",
+            "source_label": "CENTER",
+            "details": [
+                {
+                    "source_text": "DOHA, Qatar (AP) \u00ef\u00bf\u00bd Luis Enrique was replaced by Luis de la Fuente as Spain's coach on Thursday, two days after the national team was eliminated in the round of 16 at the World Cup .",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "DOHA: Luis Enrique was sacked as Spain coach on Thursday after the team's elimination in the last-16 at the World Cup with the country's under-21 manager Luis de la Fuente named as his replacement by the Spanish football federation (RFEF).",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.9713090062141418
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "Spain's head coach Luis Enrique, center, talks to his players after the penalty shootout at the World Cup round of 16 soccer match between Morocco and Spain, at the Education City Stadium in Al Rayyan, Qatar, Tuesday, Dec. 6, 2022.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "DOHA: Luis Enrique was sacked as Spain coach on Thursday after the team's elimination in the last-16 at the World Cup with the country's under-21 manager Luis de la Fuente named as his replacement by the Spanish football federation (RFEF).",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.9713090062141418
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "(AP Photo/Luca Bruno)\r\nDOHA, Qatar (AP) \u00ef\u00bf\u00bd Luis Enrique was replaced by Luis de la Fuente as Spain's coach on Thursday, two days after the national team was eliminated in the round of 16 at the World Cup.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "DOHA: Luis Enrique was sacked as Spain coach on Thursday after the team's elimination in the last-16 at the World Cup with the country's under-21 manager Luis de la Fuente named as his replacement by the Spanish football federation (RFEF).",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.9713090062141418
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "The Spanish soccer federation thanked Luis Enrique, but said it was time to \u00ef\u00bf\u00bdstart a new project\u00ef\u00bf\u00bd to keep the growth achieved by the coach in recent years.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "DOHA: Luis Enrique was sacked as Spain coach on Thursday after the team's elimination in the last-16 at the World Cup with the country's under-21 manager Luis de la Fuente named as his replacement by the Spanish football federation (RFEF).",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.9713090062141418
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "Luis Enrique said he was thankful to his players while he was in charge, as well as to federation president Luis Rubiales.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "DOHA: Luis Enrique was sacked as Spain coach on Thursday after the team's elimination in the last-16 at the World Cup with the country's under-21 manager Luis de la Fuente named as his replacement by the Spanish football federation (RFEF).",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.9713090062141418
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "Other candidates who had been considered besides De la Fuente, who was Spain's under-21 coach, included former Belgium manager Roberto Mart\u00ef\u00bf\u00bdnez and former Athletic Bilbao coach Marcelino Garc\u00ef\u00bf\u00bda Toral.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "DOHA: Luis Enrique was sacked as Spain coach on Thursday after the team's elimination in the last-16 at the World Cup with the country's under-21 manager Luis de la Fuente named as his replacement by the Spanish football federation (RFEF).",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.9713090062141418
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "Luis Enrique took over the national team in 2018 to start revamping the squad after its elimination in the round of 16 of the World Cup in Russia.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "DOHA: Luis Enrique was sacked as Spain coach on Thursday after the team's elimination in the last-16 at the World Cup with the country's under-21 manager Luis de la Fuente named as his replacement by the Spanish football federation (RFEF).",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.9713090062141418
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "Luis Enrique\u00ef\u00bf\u00bds contract ended after the World Cup.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "DOHA: Luis Enrique was sacked as Spain coach on Thursday after the team's elimination in the last-16 at the World Cup with the country's under-21 manager Luis de la Fuente named as his replacement by the Spanish football federation (RFEF).",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.9713090062141418
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "The 52-year-old Luis Enrique, not long ago seen as one of the most uptight coaches in soccer, had opened up at the World Cup, doing streaming sessions, going on bicycle rides and talking frankly about controversial issues.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "DOHA: Luis Enrique was sacked as Spain coach on Thursday after the team's elimination in the last-16 at the World Cup with the country's under-21 manager Luis de la Fuente named as his replacement by the Spanish football federation (RFEF).",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.9713090062141418
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "The team\u00ef\u00bf\u00bds elimination in Qatar raised more questions about whether Spain should start overhauling its soccer philosophy and get rid of the \u00ef\u00bf\u00bdtiki-taka\u00ef\u00bf\u00bd ball-possession style that has not produced results recently.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "DOHA: Luis Enrique was sacked as Spain coach on Thursday after the team's elimination in the last-16 at the World Cup with the country's under-21 manager Luis de la Fuente named as his replacement by the Spanish football federation (RFEF).",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.9713090062141418
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "Luis Enrique had said he wasn't planning to relinquish the \u00ef\u00bf\u00bdtiki-taka\u00ef\u00bf\u00bd if he remained as coach, and De la Fuente also is likely to keep it alive.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "DOHA: Luis Enrique was sacked as Spain coach on Thursday after the team's elimination in the last-16 at the World Cup with the country's under-21 manager Luis de la Fuente named as his replacement by the Spanish football federation (RFEF).",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.9713090062141418
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "Spain lost to Morocco 3-0 in a penalty shootout after a scoreless draw in regular and extra time.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Spain were beaten on penalties by Morocco after a goalless draw on Tuesday in an upset result after failing to turn their dominance into a victory.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.4990255832672119
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Spain got off to a good start in Qatar, routing Costa Rica 7-0, but La Roja couldn't win again in its last three matches.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Spain were beaten on penalties by Morocco after a goalless draw on Tuesday in an upset result after failing to turn their dominance into a victory.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.4990255832672119
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "He also led Spain to the semifinals of the European Championship last year, losing to Italy in a penalty shootout.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Spain were beaten on penalties by Morocco after a goalless draw on Tuesday in an upset result after failing to turn their dominance into a victory.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.4990255832672119
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "DOHA, Qatar (AP) \u00ef\u00bf\u00bd Luis Enrique was replaced by Luis de la Fuente as Spain's coach on Thursday, two days after the national team was eliminated in the round of 16 at the World Cup .",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "\"The RFEF has chosen Luis de la Fuente as the new (Spain) coach,\" RFEF said in a statement.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.4207168221473694
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "(AP Photo/Luca Bruno)\r\nDOHA, Qatar (AP) \u00ef\u00bf\u00bd Luis Enrique was replaced by Luis de la Fuente as Spain's coach on Thursday, two days after the national team was eliminated in the round of 16 at the World Cup.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "\"The RFEF has chosen Luis de la Fuente as the new (Spain) coach,\" RFEF said in a statement.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.4207168221473694
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "The Spanish soccer federation thanked Luis Enrique, but said it was time to \u00ef\u00bf\u00bdstart a new project\u00ef\u00bf\u00bd to keep the growth achieved by the coach in recent years.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "\"The RFEF has chosen Luis de la Fuente as the new (Spain) coach,\" RFEF said in a statement.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.4207168221473694
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "\u00ef\u00bf\u00bdWhat the national team needs is support, in all its meaning, so Luis de la Fuente can achieve the goals.\u00ef\u00bf\u00bd\r\n\r\nThe 61-year-old De la Fuente, a former left back with Sevilla and Athletic Bilbao, helped Spain's under-19 squad win the European Championship in 2015, and the under-21 team win Euro 2019.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "\"The RFEF has chosen Luis de la Fuente as the new (Spain) coach,\" RFEF said in a statement.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.4207168221473694
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "Other candidates who had been considered besides De la Fuente, who was Spain's under-21 coach, included former Belgium manager Roberto Mart\u00ef\u00bf\u00bdnez and former Athletic Bilbao coach Marcelino Garc\u00ef\u00bf\u00bda Toral.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "\"The RFEF has chosen Luis de la Fuente as the new (Spain) coach,\" RFEF said in a statement.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.4207168221473694
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "Luis Enrique had said he wasn't planning to relinquish the \u00ef\u00bf\u00bdtiki-taka\u00ef\u00bf\u00bd if he remained as coach, and De la Fuente also is likely to keep it alive.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "\"The RFEF has chosen Luis de la Fuente as the new (Spain) coach,\" RFEF said in a statement.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.4207168221473694
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "De la Fuente is expected to make his debut with the senior team when Spain resumes playing in qualifying for Euro 2024 in March next year.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "\"The RFEF has chosen Luis de la Fuente as the new (Spain) coach,\" RFEF said in a statement.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "CENTER",
+                        "score": 0.4207168221473694
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `CENTER`"
+                },
+                {
+                    "source_text": "The Spanish soccer federation thanked Luis Enrique, but said it was time to \u00ef\u00bf\u00bdstart a new project\u00ef\u00bf\u00bd to keep the growth achieved by the coach in recent years.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "\"The ... RFEF has delivered to the president a report in which it determined that a new project should start for the Spain national team, with the aim of continuing the growth achieved in recent years thanks to the work carried out by Luis Enrique (and the staff).",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.9010761380195618
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "DOHA, Qatar (AP) \u00ef\u00bf\u00bd Luis Enrique was replaced by Luis de la Fuente as Spain's coach on Thursday, two days after the national team was eliminated in the round of 16 at the World Cup .",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "\"Both the RFEF president Luis Rubiales and sports director, Jose Francisco Molina have informed Luis Enrique of the decision.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7527358531951904
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Spain's head coach Luis Enrique, center, talks to his players after the penalty shootout at the World Cup round of 16 soccer match between Morocco and Spain, at the Education City Stadium in Al Rayyan, Qatar, Tuesday, Dec. 6, 2022.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "\"Both the RFEF president Luis Rubiales and sports director, Jose Francisco Molina have informed Luis Enrique of the decision.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7527358531951904
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "(AP Photo/Luca Bruno)\r\nDOHA, Qatar (AP) \u00ef\u00bf\u00bd Luis Enrique was replaced by Luis de la Fuente as Spain's coach on Thursday, two days after the national team was eliminated in the round of 16 at the World Cup.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "\"Both the RFEF president Luis Rubiales and sports director, Jose Francisco Molina have informed Luis Enrique of the decision.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7527358531951904
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "The Spanish soccer federation thanked Luis Enrique, but said it was time to \u00ef\u00bf\u00bdstart a new project\u00ef\u00bf\u00bd to keep the growth achieved by the coach in recent years.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "\"Both the RFEF president Luis Rubiales and sports director, Jose Francisco Molina have informed Luis Enrique of the decision.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7527358531951904
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "It said the change was made after a recommendation by its sporting officials.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "\"Both the RFEF president Luis Rubiales and sports director, Jose Francisco Molina have informed Luis Enrique of the decision.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7527358531951904
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Luis Enrique said he was thankful to his players while he was in charge, as well as to federation president Luis Rubiales.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "\"Both the RFEF president Luis Rubiales and sports director, Jose Francisco Molina have informed Luis Enrique of the decision.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7527358531951904
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "DOHA, Qatar (AP) \u00ef\u00bf\u00bd Luis Enrique was replaced by Luis de la Fuente as Spain's coach on Thursday, two days after the national team was eliminated in the round of 16 at the World Cup .",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "The RFEF would like to thank Luis Enrique and his entire coaching staff for the work done in the last few years.\"",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.759739875793457
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Spain's head coach Luis Enrique, center, talks to his players after the penalty shootout at the World Cup round of 16 soccer match between Morocco and Spain, at the Education City Stadium in Al Rayyan, Qatar, Tuesday, Dec. 6, 2022.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "The RFEF would like to thank Luis Enrique and his entire coaching staff for the work done in the last few years.\"",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.759739875793457
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "(AP Photo/Luca Bruno)\r\nDOHA, Qatar (AP) \u00ef\u00bf\u00bd Luis Enrique was replaced by Luis de la Fuente as Spain's coach on Thursday, two days after the national team was eliminated in the round of 16 at the World Cup.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "The RFEF would like to thank Luis Enrique and his entire coaching staff for the work done in the last few years.\"",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.759739875793457
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "The Spanish soccer federation thanked Luis Enrique, but said it was time to \u00ef\u00bf\u00bdstart a new project\u00ef\u00bf\u00bd to keep the growth achieved by the coach in recent years.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "The RFEF would like to thank Luis Enrique and his entire coaching staff for the work done in the last few years.\"",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.759739875793457
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Luis Enrique said he was thankful to his players while he was in charge, as well as to federation president Luis Rubiales.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "The RFEF would like to thank Luis Enrique and his entire coaching staff for the work done in the last few years.\"",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.759739875793457
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "\u00ef\u00bf\u00bdIt was very special to be part of this.\u00ef\u00bf\u00bd\r\n\r\nHe also thanked fans and called for their support to the new coach.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "The RFEF would like to thank Luis Enrique and his entire coaching staff for the work done in the last few years.\"",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.759739875793457
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Luis Enrique took over the national team in 2018 to start revamping the squad after its elimination in the round of 16 of the World Cup in Russia.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "The RFEF would like to thank Luis Enrique and his entire coaching staff for the work done in the last few years.\"",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.759739875793457
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "The 52-year-old Luis Enrique, not long ago seen as one of the most uptight coaches in soccer, had opened up at the World Cup, doing streaming sessions, going on bicycle rides and talking frankly about controversial issues.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "The RFEF would like to thank Luis Enrique and his entire coaching staff for the work done in the last few years.\"",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.759739875793457
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "DOHA, Qatar (AP) \u00ef\u00bf\u00bd Luis Enrique was replaced by Luis de la Fuente as Spain's coach on Thursday, two days after the national team was eliminated in the round of 16 at the World Cup .",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Luis Enrique, who was first appointed Spain coach in 2018, had a contract until the end of the year.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.5026870369911194
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Spain's head coach Luis Enrique, center, talks to his players after the penalty shootout at the World Cup round of 16 soccer match between Morocco and Spain, at the Education City Stadium in Al Rayyan, Qatar, Tuesday, Dec. 6, 2022.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Luis Enrique, who was first appointed Spain coach in 2018, had a contract until the end of the year.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.5026870369911194
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "(AP Photo/Luca Bruno)\r\nDOHA, Qatar (AP) \u00ef\u00bf\u00bd Luis Enrique was replaced by Luis de la Fuente as Spain's coach on Thursday, two days after the national team was eliminated in the round of 16 at the World Cup.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Luis Enrique, who was first appointed Spain coach in 2018, had a contract until the end of the year.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.5026870369911194
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "The Spanish soccer federation thanked Luis Enrique, but said it was time to \u00ef\u00bf\u00bdstart a new project\u00ef\u00bf\u00bd to keep the growth achieved by the coach in recent years.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Luis Enrique, who was first appointed Spain coach in 2018, had a contract until the end of the year.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.5026870369911194
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Luis Enrique said he was thankful to his players while he was in charge, as well as to federation president Luis Rubiales.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Luis Enrique, who was first appointed Spain coach in 2018, had a contract until the end of the year.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.5026870369911194
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Luis Enrique took over the national team in 2018 to start revamping the squad after its elimination in the round of 16 of the World Cup in Russia.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Luis Enrique, who was first appointed Spain coach in 2018, had a contract until the end of the year.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.5026870369911194
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Luis Enrique\u00ef\u00bf\u00bds contract ended after the World Cup.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Luis Enrique, who was first appointed Spain coach in 2018, had a contract until the end of the year.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.5026870369911194
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "The 52-year-old Luis Enrique, not long ago seen as one of the most uptight coaches in soccer, had opened up at the World Cup, doing streaming sessions, going on bicycle rides and talking frankly about controversial issues.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Luis Enrique, who was first appointed Spain coach in 2018, had a contract until the end of the year.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.5026870369911194
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Luis Enrique had said he wasn't planning to relinquish the \u00ef\u00bf\u00bdtiki-taka\u00ef\u00bf\u00bd if he remained as coach, and De la Fuente also is likely to keep it alive.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "Luis Enrique, who was first appointed Spain coach in 2018, had a contract until the end of the year.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.5026870369911194
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "DOHA, Qatar (AP) \u00ef\u00bf\u00bd Luis Enrique was replaced by Luis de la Fuente as Spain's coach on Thursday, two days after the national team was eliminated in the round of 16 at the World Cup .",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "He is the fourth manager to get sacked after their teams were eliminated at the World Cup in Qatar.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7687352895736694
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "(AP Photo/Luca Bruno)\r\nDOHA, Qatar (AP) \u00ef\u00bf\u00bd Luis Enrique was replaced by Luis de la Fuente as Spain's coach on Thursday, two days after the national team was eliminated in the round of 16 at the World Cup.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "He is the fourth manager to get sacked after their teams were eliminated at the World Cup in Qatar.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.7687352895736694
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "DOHA, Qatar (AP) \u00ef\u00bf\u00bd Luis Enrique was replaced by Luis de la Fuente as Spain's coach on Thursday, two days after the national team was eliminated in the round of 16 at the World Cup .",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "De la Fuente, 61, joined the RFEF in 2013 as the under-15 manager having worked with players like Marco Asensio, goalkeeper Unai Simon, Eric Garcia, Pau Torres, Pedri, Carlos Soler and Dani Olmo when they were youngsters.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.8446571826934814
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "(AP Photo/Luca Bruno)\r\nDOHA, Qatar (AP) \u00ef\u00bf\u00bd Luis Enrique was replaced by Luis de la Fuente as Spain's coach on Thursday, two days after the national team was eliminated in the round of 16 at the World Cup.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "De la Fuente, 61, joined the RFEF in 2013 as the under-15 manager having worked with players like Marco Asensio, goalkeeper Unai Simon, Eric Garcia, Pau Torres, Pedri, Carlos Soler and Dani Olmo when they were youngsters.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.8446571826934814
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "\u00ef\u00bf\u00bdWhat the national team needs is support, in all its meaning, so Luis de la Fuente can achieve the goals.\u00ef\u00bf\u00bd\r\n\r\nThe 61-year-old De la Fuente, a former left back with Sevilla and Athletic Bilbao, helped Spain's under-19 squad win the European Championship in 2015, and the under-21 team win Euro 2019.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "De la Fuente, 61, joined the RFEF in 2013 as the under-15 manager having worked with players like Marco Asensio, goalkeeper Unai Simon, Eric Garcia, Pau Torres, Pedri, Carlos Soler and Dani Olmo when they were youngsters.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.8446571826934814
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "De la Fuente had coached the senior national team once, when youth players were used in a friendly against Lithuania because the main squad had to go into isolation because of the coronavirus.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "De la Fuente, 61, joined the RFEF in 2013 as the under-15 manager having worked with players like Marco Asensio, goalkeeper Unai Simon, Eric Garcia, Pau Torres, Pedri, Carlos Soler and Dani Olmo when they were youngsters.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.8446571826934814
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "Other candidates who had been considered besides De la Fuente, who was Spain's under-21 coach, included former Belgium manager Roberto Mart\u00ef\u00bf\u00bdnez and former Athletic Bilbao coach Marcelino Garc\u00ef\u00bf\u00bda Toral.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "De la Fuente, 61, joined the RFEF in 2013 as the under-15 manager having worked with players like Marco Asensio, goalkeeper Unai Simon, Eric Garcia, Pau Torres, Pedri, Carlos Soler and Dani Olmo when they were youngsters.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.8446571826934814
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                },
+                {
+                    "source_text": "De la Fuente is expected to make his debut with the senior team when Spain resumes playing in qualifying for Euro 2024 in March next year.",
+                    "source_label_from_outlet": "CENTER",
+                    "reused_text": "De la Fuente, 61, joined the RFEF in 2013 as the under-15 manager having worked with players like Marco Asensio, goalkeeper Unai Simon, Eric Garcia, Pau Torres, Pedri, Carlos Soler and Dani Olmo when they were youngsters.",
+                    "reused_label_from_outlet": "CENTER",
+                    "reused_label_from_classifier": {
+                        "label": "LEFT",
+                        "score": 0.8446571826934814
+                    },
+                    "transform_flow": "from `CENTER` to `CENTER`, it should be `LEFT`"
+                }
+            ]
+        }
+    ]
+}
