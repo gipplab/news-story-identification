@@ -39,55 +39,79 @@ def find_highest_source_index(sim_scores, reused_index):
             highest_id = i
     return highest_id, highest
 
-def analyze_polarity(df, features_collection, polarity_classifier, folder=None):
-    df = df.sort_values(by='datetime', ascending=True)
-    
-    for i in range(len(df) -1):    
-        for j in range(i + 1, len(df)):        
-            org = df.iloc[i]                    # article_1_id
-            reused = df.iloc[j]                 # article_2_id
+def get_outlet_polarity(df, id):
+    for _, row in df.iterrows():
+        if int(row['id']) == id:
+            return row['label']
+    return None
 
-            if id_synced_with_feature(features_collection, org['id'], reused['id']) == False:
-                org, reused = reused, org
+def analyze_source_selection(df, features_collection, polarity_classifier, threshold=0.5, folder=None):
+    for _, row in df.iterrows():
+        id_1 = int(row['id'])
+        results = {
+            'reused_id': row['id'],
+            'reused_datetime': row['datetime'],
+            'reused_label': row['label'],
+            'potential_sources': []
+        }
+        for feature in features_collection:
+            if id_1 != int(feature['article_1_id']) and id_1 != int(feature['article_2_id']):
+                continue
+
+            datetime_1 = datetime.strptime(feature['article_1_publish_date'], '%d/%m/%Y %H:%M:%S')
+            datetime_2 = datetime.strptime(feature['article_2_publish_date'], '%d/%m/%Y %H:%M:%S')
+
+            reversed = False
+
+            if int(feature['article_1_id']) == id_1:        # article_1 = source, article_2 = reused
+                if datetime_2 > datetime_1:
+                    continue
+
+            if int(feature['article_2_id']) == id_1:        # article_1 = reused, article_2 = source
+                reversed = True
+                if datetime_2 < datetime_1:
+                    continue
             
-            feature = get_feature(features_collection, org['id'], reused['id'])
-            org_sentences = feature['article_1_sentences']
-            reused_sentences = feature['article_2_sentences']
-
             sim_scores = np.asarray(feature['features'])
-            print("Analyzing:", feature['description'])
-    
-            org_label = df.iloc[i]['label']
-            reused_label = df.iloc[j]['label']
-            results = copy(feature)
-            results['analysis'] = []
-            results['is_source'] = True # TODO - should be judge programmatically
-            results.pop('features', None)
 
-            for reused_index, p in enumerate(reused_sentences):
-                print(f'Sim_score shape {np.shape(sim_scores)}, i: {i}, reused_index: {reused_index}')
-                potential_org_id, highest_score = find_highest_source_index(sim_scores, reused_index)
-                pred = polarity_classifier(p)[0]
-                # print(f'Reused-{reused_index}: potential at {potential_org_id}')
-
-                results['analysis'].append({
-                    'original_sentence': org_sentences[potential_org_id],
-                    'original_sentence_assigned_polarity': org_label,
-                    'reused_sentence': p,
-                    'reused_sentence_assigned_polarity': reused_label,
-                    'sentence_similarity': highest_score,
-                    'reused_sentence_classified_polarity': pred['label'],
-                    'reused_sentence_classified_score': pred['score'],
-                    'transform_flow': f'from `{org_label}` to `{reused_label}`, it should be `{pred["label"]}`'                    
-                })
-                                               
-            results_folder = folder if folder != None else f'./{FOLDER}/by_source_selection' 
-            Path(results_folder).mkdir(parents=True, exist_ok=True)
-            results_filename = f"./{results_folder}/by_source_selection_{DATASET}_articles_{org['id']}_{reused['id']}_{datetime.now().strftime('%Y-%m-%d_%H-%M-%S')}.json"    
-            io.write_json(results_filename, results)
+            if not reversed:
+                reused = { 'id': feature['article_1_id'], 'datetime': feature['article_1_publish_date'], 'paragraphs_length': feature['article_1_paragraph_length'], 'sentences': feature['article_1_sentences'] }
+                source = { 'id': feature['article_2_id'], 'datetime': feature['article_2_publish_date'], 'paragraphs_length': feature['article_2_paragraph_length'], 'sentences': feature['article_2_sentences'] }
+            else:
+                sim_scores = sim_scores.transpose()
+                reused = { 'id': feature['article_2_id'], 'datetime': feature['article_2_publish_date'], 'paragraphs_length': feature['article_2_paragraph_length'], 'sentences': feature['article_2_sentences'] }
+                source = { 'id': feature['article_1_id'], 'datetime': feature['article_1_publish_date'], 'paragraphs_length': feature['article_1_paragraph_length'], 'sentences': feature['article_1_sentences'] }
             
-def by_source_selection():
-    pass
+            reused['label'] = get_outlet_polarity(df, reused['id'])
+            source['label'] = get_outlet_polarity(df, source['id'])
+
+            new_source = {
+                'source_id': source['id'],
+                'source_datetime': source['datetime'],
+                'source_label': source['label'],
+                'details': [],
+            }
+
+            # save to reused_id
+            for i in range(reused['paragraphs_length']):
+                classified_label = polarity_classifier(reused['sentences'][i])[0]
+                for j in range(source['paragraphs_length']):
+                    if sim_scores[i][j] < threshold:
+                        continue
+
+                    new_source['details'].append({
+                        'source_text': source['sentences'][j],
+                        'source_label_from_outlet': source['label'],
+                        'reused_text': reused['sentences'][i],
+                        'reused_label_from_outlet': reused['label'],
+                        'reused_label_from_classifier': classified_label,
+                        'transform_flow': f'from `{source["label"]}` to `{reused["label"]}`, it should be `{classified_label["label"]}`'  
+                    })
+            results['potential_sources'].append(new_source)
+        results_folder = folder if folder != None else f'./{FOLDER}/by_source_selection' 
+        Path(results_folder).mkdir(parents=True, exist_ok=True)
+        results_filename = f"./{results_folder}/by_source_selection_{DATASET}_of_article_{id_1}_{datetime.now().strftime('%Y-%m-%d_%H-%M-%S')}.json"    
+        io.write_json(results_filename, results)
 
 if __name__ == "__main__":
     DATASET = 'GROUNDNEWS'
@@ -105,7 +129,7 @@ if __name__ == "__main__":
             continue
         classifier = pipeline("text-classification", model="./model/checkpoint-225")
         # analyze_polarity(df, features, classifier, f'./{FOLDER}/{file.split("/")[1]}/')
-        analyze_polarity(df, features, classifier)
+        analyze_source_selection(df, features, classifier)
 
     if consts.openShell:
         openShell()
