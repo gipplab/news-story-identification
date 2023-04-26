@@ -20,3 +20,4 @@
 *.pptx
 *.txt
 /vis/node_modules
+/pics
