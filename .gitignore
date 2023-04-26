@@ -19,3 +19,4 @@
 *.png
 *.pptx
 *.txt
+/vis/node_modules

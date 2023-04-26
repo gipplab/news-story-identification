@@ -3,6 +3,7 @@ from os.path import join
 
 import nltk
 import pandas
+from win10toast import ToastNotifier
 
 from modules.preprocessing import io
 
@@ -43,3 +44,11 @@ def id_synced_with_feature(features, article_1_id, article_2_id):
 
 def openShell():
     code.interact(local=locals())
+
+def showToast(message):
+    toast = ToastNotifier()
+    toast.show_toast(
+        "Notification",
+        message,
+        duration = 10,
+    )

@@ -1,33 +1,34 @@
-from copy import copy
 from datetime import datetime
 from pathlib import Path
 
 import numpy as np
 from transformers import pipeline
+from win10toast import ToastNotifier
 
 import consts
 import functions as f
 from modules.preprocessing import io
 
-def get_outlet_polarity(df, id):
-    for _, row in df.iterrows():
-        if int(row['id']) == id:
-            return row['label']
-    return None
 
-def analyze_omission(df, features_collection, polarity_classifier, threshold=0.5, folder=None):
+#   'aic' is short for 'article in consideration'
+#   'ea' is short for 'earlier article'
+#
+#   paraphrase threshold: limitation to check if 2 paragraphs/sentences are plagirized
+#   reused_threshold: e.g 0.8, means more than 80% paragraphs/sentences from aic are paraphrased in ea
+#   omission_bias_threshold: e.g 0.5, means more than 50% of non-plagiarized paragraphs from ea are not slanted
+def analyze_omission(df, features_collection, polarity_classifier, paraphrase_threshold=0.75, omission_bias_threshold=0.5, reused_threshold=0.8, folder=None):
     for _, row in df.iterrows():
-        id_1 = int(row['id'])
-        results = {}
-        results = {
-            'this_article_id': row['id'],
-            'this_article_datetime': row['datetime'],
-            'this_article_label': row['label'],
-            'omissions': []
+        aic_id = int(row['id'])
+        results = {            
+            'article_id': row['id'],
+            'article_datetime': row['datetime'],
+            'article_label': row['label'],
+            'article_total_paragraphs': 0,
+            'earlier_articles': [],
         }
-        print("=== ", id_1)
-        for feature in features_collection:
-            if id_1 != int(feature['article_1_id']) and id_1 != int(feature['article_2_id']):
+        is_earliest = True
+        for feature in features_collection:            
+            if aic_id != int(feature['article_1_id']) and aic_id != int(feature['article_2_id']):
                 continue
 
             datetime_1 = datetime.strptime(feature['article_1_publish_date'], '%d/%m/%Y %H:%M:%S')
@@ -35,72 +36,119 @@ def analyze_omission(df, features_collection, polarity_classifier, threshold=0.5
 
             reversed = False
 
-            if int(feature['article_1_id']) == id_1:
+            # map to correct order from features
+            if int(feature['article_1_id']) == aic_id:
                 if datetime_2 > datetime_1:
                     continue
 
-            if int(feature['article_2_id']) == id_1:
+            if int(feature['article_2_id']) == aic_id:
                 reversed = True
                 if datetime_2 < datetime_1:
                     continue
-            
+
+            is_earliest = False
             sim_scores = np.asarray(feature['features'])
 
-            if not reversed:
-                source = { 'id': feature['article_2_id'], 'datetime': feature['article_2_publish_date'], 'paragraphs_length': feature['article_2_paragraph_length'], 'sentences': feature['article_2_sentences'] }
-                reused = { 'id': feature['article_1_id'], 'datetime': feature['article_1_publish_date'], 'paragraphs_length': feature['article_1_paragraph_length'], 'sentences': feature['article_1_sentences'] }
+            if reversed:
+                ea = { 'id': feature['article_1_id'], 'label': feature['article_1_label'], 'datetime': feature['article_1_publish_date'], 'paragraphs_length': feature['article_1_paragraph_length'], 'sentences': feature['article_1_sentences'] }
+                aic = { 'id': feature['article_2_id'], 'label': feature['article_2_label'], 'datetime': feature['article_2_publish_date'], 'paragraphs_length': feature['article_2_paragraph_length'], 'sentences': feature['article_2_sentences'] }
             else:
                 sim_scores = sim_scores.transpose()
-                source = { 'id': feature['article_1_id'], 'datetime': feature['article_1_publish_date'], 'paragraphs_length': feature['article_1_paragraph_length'], 'sentences': feature['article_1_sentences'] }
-                reused = { 'id': feature['article_2_id'], 'datetime': feature['article_2_publish_date'], 'paragraphs_length': feature['article_2_paragraph_length'], 'sentences': feature['article_2_sentences'] }
-            source['label'] = get_outlet_polarity(df, source['id'])
-            reused['label'] = get_outlet_polarity(df, reused['id'])
-            
-            new_omission = {
-                'source_id': source['id'],
-                'source_datetime': source['datetime'],
-                'source_label': source['label'],
-                'details': [],
-                'polarity_changes': {
-                    'to_LEFT': 0,
-                    'to_CENTER': 0,
-                    'to_RIGHT': 0
+                ea = { 'id': feature['article_2_id'], 'label': feature['article_2_label'], 'datetime': feature['article_2_publish_date'], 'paragraphs_length': feature['article_2_paragraph_length'], 'sentences': feature['article_2_sentences'] }
+                aic = { 'id': feature['article_1_id'], 'label': feature['article_1_label'], 'datetime': feature['article_1_publish_date'], 'paragraphs_length': feature['article_1_paragraph_length'], 'sentences': feature['article_1_sentences'] }
+            results['article_total_paragraphs'] = aic['paragraphs_length']
+            # print('aic:', aic['id'], aic['datetime'], aic['paragraphs_length'])
+            # print('ea:', ea['id'], ea['datetime'], ea['paragraphs_length'])
+            analyzed = {
+                'article_id': ea['id'],
+                'label': ea['label'],
+                'datetime': ea['datetime'],                
+                'total_paragraphs': ea['paragraphs_length'],
+                'total_reused_paragraphs': 0,    
+                'reused_ratio': 0,
+                'is_biased_by_source_selection': 'No',
+                'reused_paragraphs_label': {
+                    'LEFT': 0,
+                    'CENTER': 0,
+                    'RIGHT': 0
+                },
+                'reused_percentage': {
+                    'LEFT': 0,
+                    'CENTER': 0,
+                    'RIGHT': 0
+                },
+                'is_biased_by_omission': 'No',
+                'total_non-reused_paragraphs': 0,
+                'non-reused_paragraphs_label': {
+                    'LEFT': 0,
+                    'CENTER': 0,
+                    'RIGHT': 0
+                },                
+                'non-reused_percentage': {
+                    'LEFT': 0,
+                    'CENTER': 0,
+                    'RIGHT': 0
                 }
             }
 
-            for i in range(reused['paragraphs_length']):
-                for j in range(source['paragraphs_length']):
-                    # consider only sentences that are NOT reused
-                    if sim_scores[i][j] >= threshold:
-                        continue
-                    
-                    classified_label = polarity_classifier(source['sentences'][j])[0]
+            for i in range(ea['paragraphs_length']):
+                for j in range(aic['paragraphs_length']):
+                    classified_label = polarity_classifier(ea['sentences'][i])[0]
+                    # sim_scores[i][j] = similarity score between earlier_article's paragraph i-th and article_in_consideration's paragraph j-th
+                    # if sim_scores > threshold, that means aic has reused paragraph i-th in its paragraph j-th
+                    if sim_scores[i][j] > paraphrase_threshold:
+                        analyzed['total_reused_paragraphs'] += 1
+                        analyzed['reused_paragraphs_label'][classified_label["label"]] += 1
+                    else:
+                        analyzed['total_non-reused_paragraphs'] += 1
+                        analyzed['non-reused_paragraphs_label'][classified_label["label"]] += 1
+            if analyzed['total_reused_paragraphs'] > 0:
+                for label in consts.Labels:
+                    analyzed['reused_percentage'][label] = analyzed['reused_paragraphs_label'][label] / analyzed['total_reused_paragraphs']
 
-                    if classified_label['label'] == 'LEFT':
-                        new_omission['polarity_changes']['to_LEFT'] = new_omission['polarity_changes']['to_LEFT'] + 1
-                    if classified_label['label'] == 'CENTER':
-                        new_omission['polarity_changes']['to_CENTER'] = new_omission['polarity_changes']['to_CENTER'] + 1
-                    if classified_label['label'] == 'RIGHT':
-                        new_omission['polarity_changes']['to_RIGHT'] = new_omission['polarity_changes']['to_RIGHT'] + 1
+            if analyzed['total_non-reused_paragraphs'] > 0:
+                for label in consts.Labels:
+                    analyzed['non-reused_percentage'][label] = analyzed['non-reused_paragraphs_label'][label] / analyzed['total_non-reused_paragraphs']
 
-                    new_omission['details'].append({
-                        'reused_text': source['sentences'][j],
-                        'polarity_from_outlet': source['label'],
-                        'polarity_from_classifier': classified_label
-                    })
+            is_biased_by_source_selection = ''
+
+            analyzed['reused_ratio'] = round(analyzed['total_reused_paragraphs'] / results['article_total_paragraphs'], 2)
+
+            if analyzed['reused_ratio'] > reused_threshold: 
+                highest_percent = 0
+                highest_label = None      
+                for label in consts.Labels:
+                    if label != "CENTER":
+                        if analyzed['reused_percentage'][label] > highest_percent:
+                            highest_percent = analyzed['reused_percentage'][label]
+                            highest_label = label
+                if highest_label:
+                    is_biased_by_source_selection = f'Yes, to the {highest_label}. Percentage: {"{:0.2%}".format(highest_percent)}'
+                analyzed['is_biased_by_source_selection'] = is_biased_by_source_selection
+            if len(is_biased_by_source_selection) == 0:
+                analyzed['is_biased_by_source_selection'] = "No"
+            else:
+                # start checking bias by commission
+                is_biased_by_omission = "No"
+                if analyzed['non-reused_percentage']['CENTER'] > omission_bias_threshold:
+                    is_biased_by_omission = f'Yes, by more than {"{:0.2%}".format(analyzed["non-reused_percentage"]["CENTER"])}'
+                analyzed['is_biased_by_omission'] = is_biased_by_omission
             
-            results['omissions'].append(new_omission)
+            results['earlier_articles'].append(analyzed)
 
+        if is_earliest:
+            results['is_biased'] = 'This is the earliest article'
+            
         results_folder = folder if folder != None else f'./{FOLDER}/by_omission' 
         Path(results_folder).mkdir(parents=True, exist_ok=True)
-        results_filename = f"./{results_folder}/by_commission_{DATASET}_of_article_{reused['id']}_{datetime.now().strftime('%d-%m-%Y_%H-%M-%S')}.json"    
+        results_filename = f"./{results_folder}/by_omission_{DATASET}_of_article_{aic_id}_{datetime.now().strftime('%Y-%m-%d_%H-%M-%S')}.json"    
         io.write_json(results_filename, results)
 
 if __name__ == "__main__":
     DATASET = 'GROUNDNEWS'
     DATASET_VERSION = 'Full'
-    FOLDER = consts.dataset[DATASET]['Full']['FOLDER']
-    FILES = consts.dataset[DATASET]['Full']['FILES']
+    FOLDER = consts.dataset[DATASET][DATASET_VERSION]['FOLDER']
+    FILES = consts.dataset[DATASET][DATASET_VERSION]['FILES']
 
     for i, file in enumerate(FILES):
         df = f.read_data(FOLDER, [file])
@@ -110,9 +158,15 @@ if __name__ == "__main__":
         except Exception as e:
             print(e)
             continue
-        classifier = pipeline("text-classification", model="./model/checkpoint-5138")
-        analyze_omission(df=df, features_collection=features, polarity_classifier=classifier)
+        classifier = pipeline("text-classification", model=f'./model/{consts.polarity_classifier_path}')
+        analyze_omission(
+            df=df, 
+            features_collection=features, 
+            polarity_classifier=classifier, 
+            paraphrase_threshold=consts.paraphrase_threshold
+        )
 
     if consts.openShell:
+        f.showToast("Bias by omission - Main")
         f.openShell()
         

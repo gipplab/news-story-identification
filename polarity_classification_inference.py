@@ -44,9 +44,9 @@ def manual_metrics(eval_pred):
     predictions, labels = eval_pred
 
     accuracy = evaluate.load("accuracy").compute(predictions=predictions, references=labels)
-    precision = evaluate.load("precision").compute(predictions=predictions, references=labels, average='micro')
-    recall = evaluate.load("recall").compute(predictions=predictions, references=labels, average='micro')
-    f1 = evaluate.load("f1").compute(predictions=predictions, references=labels, average='micro')
+    precision = evaluate.load("precision").compute(predictions=predictions, references=labels, average='macro')
+    recall = evaluate.load("recall").compute(predictions=predictions, references=labels, average='macro')
+    f1 = evaluate.load("f1").compute(predictions=predictions, references=labels, average='macro')
 
     return {**accuracy, **precision, **recall, **f1}
 tokenizer = AutoTokenizer.from_pretrained("distilbert-base-uncased")
@@ -54,15 +54,17 @@ tokenizer = AutoTokenizer.from_pretrained("distilbert-base-uncased")
 if __name__ == "__main__":
     POLUSA = {
         '6k': {    
-            'FOLDER': './data/polusa_balanced_6k',
+            'FOLDER': './data/polusa_polarity_balanced_6k',
             'FILES': ['data.csv']
         },
         '90k': {    
             'FOLDER': './data/polusa_balanced_90k',
             'FILES': ['data.csv']
         },
-
-        
+        '300k': {
+            'FOLDER': './data/polusa_300k',
+            'FILES': ['data.csv']
+        },
         '432k': {    
             'FOLDER': './data/polusa_balanced_432k',
             'FILES': ['data.csv']
@@ -73,7 +75,7 @@ if __name__ == "__main__":
         }
     }
 
-    POLUSA_VERSION = '6k'
+    POLUSA_VERSION = '90k'
     FOLDER = POLUSA[POLUSA_VERSION]['FOLDER']
     FILES = POLUSA[POLUSA_VERSION]['FILES']
 
@@ -95,7 +97,7 @@ if __name__ == "__main__":
     openShell = True
 
 
-    model = AutoModelForSequenceClassification.from_pretrained("./model/checkpoint-6750")
+    model = AutoModelForSequenceClassification.from_pretrained("./model/checkpoint-11250")
     with torch.no_grad():
         eval = []
         pred = []

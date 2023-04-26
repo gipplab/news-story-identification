@@ -59,17 +59,22 @@ if __name__ == "__main__":
             'FOLDER': './data/polusa_balanced_90k',
             'FILES': ['data.csv']
         },
+        '300k': {
+            'FOLDER': './data/polusa_300k',
+            'FILES': ['data.csv']
+        },
         '432k': {    
             'FOLDER': './data/polusa_balanced_432k',
             'FILES': ['data.csv']
         },
+        
         'Full': {    
             'FOLDER': './data/polusa/polusa_balanced',
             'FILES':  ['2017_1.csv', '2017_2.csv', '2018_1.csv', '2018_2.csv', '2019_1.csv', '2019_2.csv']
         }
     }
 
-    POLUSA_VERSION = '6k'
+    POLUSA_VERSION = '300k'   # <-- choose version here
     FOLDER = POLUSA[POLUSA_VERSION]['FOLDER']
     FILES = POLUSA[POLUSA_VERSION]['FILES']
 
@@ -97,8 +102,9 @@ if __name__ == "__main__":
         id2label = {0: "LEFT", 1: "CENTER", 2: "RIGHT"}
         label2id = {"LEFT": 0, "CENTER": 1, "RIGHT": 2}
 
-        model = AutoModelForSequenceClassification.from_pretrained("distilbert-base-uncased", num_labels=3, id2label=id2label, label2id=label2id)
-        model = AutoModelForSequenceClassification.from_pretrained("./model/checkpoint-225", num_labels=3, id2label=id2label, label2id=label2id)
+        # model = AutoModelForSequenceClassification.from_pretrained("distilbert-base-uncased", num_labels=3, id2label=id2label, label2id=label2id)
+        model = AutoModelForSequenceClassification.from_pretrained("sentence-transformers/paraphrase-MiniLM-L6-v2", num_labels=3, id2label=id2label, label2id=label2id)
+        # model = AutoModelForSequenceClassification.from_pretrained("./model/checkpoint-5138", num_labels=3, id2label=id2label, label2id=label2id)
         training_args = TrainingArguments(
             output_dir="model",
             learning_rate=2e-5,

@@ -1,13 +1,15 @@
 from datetime import datetime
 from os.path import join
 
-import nltk
-import pandas as pd
-import numpy as np
 import matplotlib as mpl
 import matplotlib.pyplot as plt
+import nltk
+import numpy as np
+import pandas as pd
 from sentence_transformers import SentenceTransformer, util
-import matplotlib.cm
+
+import consts
+import functions as f
 from consts import dataset
 from modules.preprocessing.io import write_json
 
@@ -63,30 +65,35 @@ def build_chart(data, filename=''):
     # sort by publish date
     articles = sorted(articles, key=lambda e: e['publish_date'])
     
+    labels = [f'{a["id"]}' if i == 1 else '' for a in articles for i in range(1, a['length'] + 1)]
     chart_labels = [f'a{a["id"]}p{i}' for a in articles for i in range(1, a['length'] + 1)]
     d = len(chart_labels)
     chart_values = np.zeros((d, d), dtype=float)
-    # print(chart_labels)
     
     chart_values_dict = {}
     for d in data:
         features = d['features']
         for i in range(len(features)):
             for j in range(len(features[i])):              
-                key = f'a{d["article_1_id"]}p{i}_a{d["article_2_id"]}p{j}'
+                key = f'a{d["article_1_id"]}p{i}_a{d["article_2_id"]}p{j}'                
                 chart_values_dict[key] = features[i][j] if features[i][j] > 0 else 0
+                # chart_values_dict[key] = features[i][j]
     
     for i, labeli in enumerate(chart_labels):
         for j, labelj in enumerate(chart_labels):
-            if i < j:
-                key = f'{labeli}_{labelj}'
-                if key in chart_values_dict:
+            # if i < j:
+            key = f'{labeli}_{labelj}'
+            if key in chart_values_dict:
+                if i < j:
                     chart_values[j][i] = chart_values_dict[key]
+                else:
+                    chart_values[i][j] = chart_values_dict[key]
     fig, ax = plt.subplots()
     ax.matshow(chart_values,  cmap=mpl.colormaps['Oranges'], vmin=0)
-    ax.set(xticks=np.arange(len(chart_labels)), xticklabels=chart_labels,
-           yticks=np.arange(len(chart_labels)), yticklabels=chart_labels)
-    
+    ax.set(xticks=np.arange(len(labels)), xticklabels=labels,
+           yticks=np.arange(len(labels)), yticklabels=labels)
+    ax.set_xlabel('Article ids')
+    ax.set_ylabel('Article ids')
     # Legends
     heatmap = ax.pcolor(chart_values, cmap=mpl.colormaps['Oranges'])
     plt.colorbar(heatmap)
@@ -148,22 +155,20 @@ def start(df, buildFeature=True):
 
 #   Sample run
 if __name__ == "__main__":
-    inference = True
-    openShell = True
-    visualize = True
     DATASET = 'GROUNDNEWS'
     DATASET_VERSION = 'Full'
     FOLDER = dataset[DATASET][DATASET_VERSION]['FOLDER']
     FILES = dataset[DATASET][DATASET_VERSION]['FILES']
 
-    if inference:
+    if consts.inference:
         for i, file in enumerate(FILES):
             data = read_data(FOLDER, [file], encoding='ISO-8859-1')
             data = data.dropna() 
 
             # model_name = 'all-MiniLM-L6-v2'    
             # model_name = './model/training_OnlineConstrativeLoss-2022-12-28_23-06-03'   # Pretrained 'stsb-distilbert-base', fined-tune with QuoraQA dataset
-            model_name = 'paraphrase-multilingual-MiniLM-L12-v2'
+            # model_name = 'paraphrase-multilingual-MiniLM-L12-v2'
+            model_name = consts.paraphrase_identifier_modelname
             min_sentence_length = 10
             model = SentenceTransformer(model_name)
             cosine_threshold = 0.6    
@@ -172,11 +177,11 @@ if __name__ == "__main__":
             results = start(data)
             write_json(results_filename, results['results'])
 
-            if visualize:
+            if consts.visualize:
                 build_chart(results['results'], f'{results_filename}.png')
-    if openShell:
-        import code
-        code.interact(local=locals())
+    if consts.openShell:
+        f.showToast("Features built completed")
+        f.openShell()        
 
 
 
