@@ -1,0 +1,246 @@
+{
+    "article_id": 92,
+    "article_datetime": "8/12/2022 05:10:50",
+    "article_label": "LEFT",
+    "article_total_paragraphs": 26,
+    "biased_by_these_sources": [
+        74,
+        104
+    ],
+    "biased_labels": {
+        "LEFT": 0,
+        "CENTER": 2,
+        "RIGHT": 0
+    },
+    "is_biased": "No",
+    "earlier_articles": [
+        {
+            "article_id": 69,
+            "article_label": "CENTER",
+            "datetime": "8/12/2022 00:32:36",
+            "total_paragraphs": 10,
+            "total_reused_paragraphs": 3,
+            "reused_ratio": 0.12,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 3,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 1.0,
+                "RIGHT": 0.0
+            }
+        },
+        {
+            "article_id": 74,
+            "article_label": "CENTER",
+            "datetime": "6/12/2022 05:19:31",
+            "total_paragraphs": 27,
+            "total_reused_paragraphs": 28,
+            "reused_ratio": 1.08,
+            "is_biased_to": "Yes, to the CENTER. Percentage: 100.00%",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 28,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 1.0,
+                "RIGHT": 0.0
+            }
+        },
+        {
+            "article_id": 77,
+            "article_label": "LEFT",
+            "datetime": "8/12/2022 00:43:33",
+            "total_paragraphs": 11,
+            "total_reused_paragraphs": 8,
+            "reused_ratio": 0.31,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 8,
+                "CENTER": 0,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 1.0,
+                "CENTER": 0.0,
+                "RIGHT": 0.0
+            }
+        },
+        {
+            "article_id": 81,
+            "article_label": "LEFT",
+            "datetime": "8/12/2022 00:06:43",
+            "total_paragraphs": 17,
+            "total_reused_paragraphs": 4,
+            "reused_ratio": 0.15,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 4,
+                "CENTER": 0,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 1.0,
+                "CENTER": 0.0,
+                "RIGHT": 0.0
+            }
+        },
+        {
+            "article_id": 82,
+            "article_label": "RIGHT",
+            "datetime": "8/12/2022 04:09:58",
+            "total_paragraphs": 18,
+            "total_reused_paragraphs": 5,
+            "reused_ratio": 0.19,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 0,
+                "RIGHT": 5
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 0.0,
+                "RIGHT": 1.0
+            }
+        },
+        {
+            "article_id": 87,
+            "article_label": "LEFT",
+            "datetime": "8/12/2022 03:30:03",
+            "total_paragraphs": 11,
+            "total_reused_paragraphs": 4,
+            "reused_ratio": 0.15,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 4,
+                "CENTER": 0,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 1.0,
+                "CENTER": 0.0,
+                "RIGHT": 0.0
+            }
+        },
+        {
+            "article_id": 89,
+            "article_label": "LEFT",
+            "datetime": "8/12/2022 01:53:32",
+            "total_paragraphs": 5,
+            "total_reused_paragraphs": 0,
+            "reused_ratio": 0.0,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 0,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0,
+                "CENTER": 0,
+                "RIGHT": 0
+            }
+        },
+        {
+            "article_id": 96,
+            "article_label": "CENTER",
+            "datetime": "8/12/2022 02:51:05",
+            "total_paragraphs": 5,
+            "total_reused_paragraphs": 0,
+            "reused_ratio": 0.0,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 0,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0,
+                "CENTER": 0,
+                "RIGHT": 0
+            }
+        },
+        {
+            "article_id": 101,
+            "article_label": "LEFT",
+            "datetime": "8/12/2022 03:07:18",
+            "total_paragraphs": 19,
+            "total_reused_paragraphs": 2,
+            "reused_ratio": 0.08,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 2,
+                "CENTER": 0,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 1.0,
+                "CENTER": 0.0,
+                "RIGHT": 0.0
+            }
+        },
+        {
+            "article_id": 102,
+            "article_label": "CENTER",
+            "datetime": "6/12/2022 16:08:55",
+            "total_paragraphs": 10,
+            "total_reused_paragraphs": 3,
+            "reused_ratio": 0.12,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 3,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 1.0,
+                "RIGHT": 0.0
+            }
+        },
+        {
+            "article_id": 104,
+            "article_label": "CENTER",
+            "datetime": "18/2/2022 06:27:13",
+            "total_paragraphs": 28,
+            "total_reused_paragraphs": 29,
+            "reused_ratio": 1.12,
+            "is_biased_to": "Yes, to the CENTER. Percentage: 100.00%",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 29,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 1.0,
+                "RIGHT": 0.0
+            }
+        },
+        {
+            "article_id": 107,
+            "article_label": "RIGHT",
+            "datetime": "8/12/2022 00:35:12",
+            "total_paragraphs": 15,
+            "total_reused_paragraphs": 5,
+            "reused_ratio": 0.19,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 0,
+                "RIGHT": 5
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 0.0,
+                "RIGHT": 1.0
+            }
+        }
+    ]
+}

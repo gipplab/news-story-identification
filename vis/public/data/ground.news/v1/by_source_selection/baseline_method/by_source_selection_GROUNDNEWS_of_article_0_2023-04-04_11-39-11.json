@@ -1,0 +1,72 @@
+{
+    "article_id": 0,
+    "article_datetime": "9/12/2022 11:12",
+    "article_label": "CENTER",
+    "article_total_paragraphs": 13,
+    "biased_by_these_sources": [],
+    "biased_labels": {
+        "LEFT": 0,
+        "CENTER": 0,
+        "RIGHT": 0
+    },
+    "is_biased": "No",
+    "earlier_articles": [
+        {
+            "article_id": 1,
+            "article_label": "CENTER",
+            "datetime": "9/12/2022 01:32:12",
+            "total_paragraphs": 2,
+            "total_reused_paragraphs": 1,
+            "reused_ratio": 0.08,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 1,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 1.0,
+                "RIGHT": 0.0
+            }
+        },
+        {
+            "article_id": 2,
+            "article_label": "LEFT",
+            "datetime": "9/12/2022 10:50:03",
+            "total_paragraphs": 18,
+            "total_reused_paragraphs": 8,
+            "reused_ratio": 0.62,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 8,
+                "CENTER": 0,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 1.0,
+                "CENTER": 0.0,
+                "RIGHT": 0.0
+            }
+        },
+        {
+            "article_id": 6,
+            "article_label": "LEFT",
+            "datetime": "9/12/2022 04:33:22",
+            "total_paragraphs": 19,
+            "total_reused_paragraphs": 8,
+            "reused_ratio": 0.62,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 8,
+                "CENTER": 0,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 1.0,
+                "CENTER": 0.0,
+                "RIGHT": 0.0
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "article_id": 114,
+    "article_datetime": "26/03/2023 19:12:00",
+    "article_label": "RIGHT",
+    "article_total_paragraphs": 35,
+    "earlier_articles": [
+        {
+            "article_id": 116.0,
+            "label": "RIGHT",
+            "datetime": "26/03/2023 17:11:00",
+            "total_paragraphs": 7,
+            "total_reused_paragraphs": 5,
+            "reused_ratio": 0.14,
+            "is_biased_by_source_selection": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 1,
+                "CENTER": 4,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.2,
+                "CENTER": 0.8,
+                "RIGHT": 0.0
+            },
+            "is_biased_by_omission": "No",
+            "total_non-reused_paragraphs": 240,
+            "non-reused_paragraphs_label": {
+                "LEFT": 69,
+                "CENTER": 171,
+                "RIGHT": 0
+            },
+            "non-reused_percentage": {
+                "LEFT": 0.2875,
+                "CENTER": 0.7125,
+                "RIGHT": 0.0
+            }
+        }
+    ]
+}

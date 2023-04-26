@@ -1,0 +1,469 @@
+{
+    "article_id": 111,
+    "article_datetime": "27/03/2023 06:13:00",
+    "article_label": "RIGHT",
+    "article_total_paragraphs": 19,
+    "biased_by_these_sources": [],
+    "biased_labels": {
+        "LEFT": 0,
+        "CENTER": 0,
+        "RIGHT": 0
+    },
+    "is_biased": "No",
+    "earlier_articles": [
+        {
+            "article_id": 112,
+            "article_label": "RIGHT",
+            "datetime": "26/03/2023 19:15:00",
+            "total_paragraphs": 16,
+            "total_reused_paragraphs": 7,
+            "reused_ratio": 0.37,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 1,
+                "CENTER": 5,
+                "RIGHT": 1
+            },
+            "reused_percentage": {
+                "LEFT": 0.14285714285714285,
+                "CENTER": 0.7142857142857143,
+                "RIGHT": 0.14285714285714285
+            },
+            "reused_details": [
+                {
+                    "reused": "(Photo: Reuters) By Reuters: The North Atlantic Treaty Organisation (Nato) on Sunday criticised Russia for its \"dangerous and irresponsible\" nuclear rhetoric, a day after Russian President Vladimir Putin said Russia would station tactical nuclear weapons in Belarus.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6790222525596619
+                    },
+                    "reused_by_aic": [
+                        "NATO has criticised Russia's plans to base tactical nuclear weapons in Belarus as \"dangerous and irresponsible\" as Ukraine pushed for an emergency UN meeting to discuss the issue.",
+                        "The military alliance condemned the move after Russian President Vladimir Putin said Moscow plans to station the weapons in neighbouring Belarus.?",
+                        "In an interview, Putin argued that by deploying its tactical nuclear weapons in Belarus, Russia was following the lead of the United States, noting that the US has nuclear weapons based in Belgium, Germany, Greece, Italy, the Netherlands and Turkey.",
+                        "RUSSIA/UKRAINE CONFLICT While US downplayed the move, saying there are no indications Russia will use nuclear weapons?, NATO said Putin's remarks were misleading.",
+                        "Ukraine's government on Sunday called for an emergency meeting of the UN Security Council to \"counter the Kremlin's nuclear blackmail\" after Putin revealed plans to station tactical atomic weapons in Belarus."
+                    ]
+                },
+                {
+                    "reused": "\"Nato is vigilant, and we are closely monitoring the situation.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.652047872543335
+                    },
+                    "reused_by_aic": [
+                        "\"NATO is vigilant, and we are closely monitoring the situation."
+                    ]
+                },
+                {
+                    "reused": "We have not seen any changes in Russia's nuclear posture that would lead us to adjust our own,\" a Nato spokesperson said.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6502628326416016
+                    },
+                    "reused_by_aic": [
+                        "We have not seen any changes in Russia's nuclear posture that would lead us to adjust our own,\" said NATO spokesperson Oana Lungescu."
+                    ]
+                },
+                {
+                    "reused": "\"Russia's reference to Nato's nuclear sharing is totally misleading.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6186899542808533
+                    },
+                    "reused_by_aic": [
+                        "(Ostorozhno Novosti via AP)\n\"Russia's reference to NATO's nuclear sharing is totally misleading,\" Lungescu said, referring to Putin's claims that his move would merely mirror those of Western nations."
+                    ]
+                },
+                {
+                    "reused": "Nato allies act with full respect of their international commitments.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.538489043712616
+                    },
+                    "reused_by_aic": [
+                        "\"NATO allies act with full respect of their international commitments."
+                    ]
+                },
+                {
+                    "reused": "Russia has consistently broken its arms control commitments, most recently suspending its participation in the New START Treaty.\"",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6385266780853271
+                    },
+                    "reused_by_aic": [
+                        "Russia has consistently broken its arms control commitments, most recently suspending its participation in the New START Treaty,\" she said."
+                    ]
+                },
+                {
+                    "reused": "READ | Tensions on the rise at revered Kyiv monastery complex amid war, religious conflict Russia will station tactical nuclear weapons in neighbouring Belarus, President Vladimir Putin said on Saturday, marking the first time since the mid-1990s that Moscow will have based such arms outside the country.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.44567278027534485
+                    },
+                    "reused_by_aic": [
+                        "The military alliance condemned the move after Russian President Vladimir Putin said Moscow plans to station the weapons in neighbouring Belarus.?",
+                        "In an interview, Putin argued that by deploying its tactical nuclear weapons in Belarus, Russia was following the lead of the United States, noting that the US has nuclear weapons based in Belgium, Germany, Greece, Italy, the Netherlands and Turkey.",
+                        "Ukraine's government on Sunday called for an emergency meeting of the UN Security Council to \"counter the Kremlin's nuclear blackmail\" after Putin revealed plans to station tactical atomic weapons in Belarus."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 113,
+            "article_label": "RIGHT",
+            "datetime": "26/03/2023 21:00:00",
+            "total_paragraphs": 6,
+            "total_reused_paragraphs": 6,
+            "reused_ratio": 0.32,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 1,
+                "CENTER": 3,
+                "RIGHT": 2
+            },
+            "reused_percentage": {
+                "LEFT": 0.16666666666666666,
+                "CENTER": 0.5,
+                "RIGHT": 0.3333333333333333
+            },
+            "reused_details": [
+                {
+                    "reused": "BRUSSELS, March 26  Nato today criticised Russia for its dangerous and irresponsible nuclear rhetoric, a day after Russian President Vladimir Putin said Russia would station tactical nuclear weapons in Belarus.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5595322251319885
+                    },
+                    "reused_by_aic": [
+                        "NATO has criticised Russia's plans to base tactical nuclear weapons in Belarus as \"dangerous and irresponsible\" as Ukraine pushed for an emergency UN meeting to discuss the issue.",
+                        "The military alliance condemned the move after Russian President Vladimir Putin said Moscow plans to station the weapons in neighbouring Belarus.?",
+                        "In an interview, Putin argued that by deploying its tactical nuclear weapons in Belarus, Russia was following the lead of the United States, noting that the US has nuclear weapons based in Belgium, Germany, Greece, Italy, the Netherlands and Turkey.",
+                        "RUSSIA/UKRAINE CONFLICT While US downplayed the move, saying there are no indications Russia will use nuclear weapons?, NATO said Putin's remarks were misleading.",
+                        "Ukraine's government on Sunday called for an emergency meeting of the UN Security Council to \"counter the Kremlin's nuclear blackmail\" after Putin revealed plans to station tactical atomic weapons in Belarus."
+                    ]
+                },
+                {
+                    "reused": "Nato is vigilant, and we are closely monitoring the situation.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.3732854425907135
+                    },
+                    "reused_by_aic": [
+                        "\"NATO is vigilant, and we are closely monitoring the situation."
+                    ]
+                },
+                {
+                    "reused": "We have not seen any changes in Russia's nuclear posture that would lead us to adjust our own, a Nato spokesperson said.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5068961977958679
+                    },
+                    "reused_by_aic": [
+                        "We have not seen any changes in Russia's nuclear posture that would lead us to adjust our own,\" said NATO spokesperson Oana Lungescu."
+                    ]
+                },
+                {
+                    "reused": "Russia's reference to Nato's nuclear sharing is totally misleading.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6191481947898865
+                    },
+                    "reused_by_aic": [
+                        "(Ostorozhno Novosti via AP)\n\"Russia's reference to NATO's nuclear sharing is totally misleading,\" Lungescu said, referring to Putin's claims that his move would merely mirror those of Western nations."
+                    ]
+                },
+                {
+                    "reused": "Nato allies act with full respect of their international commitments.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.538489043712616
+                    },
+                    "reused_by_aic": [
+                        "\"NATO allies act with full respect of their international commitments."
+                    ]
+                },
+                {
+                    "reused": "Russia has consistently broken its arms control commitments, most recently suspending its participation in the New START Treaty.  Reuters",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.38079601526260376
+                    },
+                    "reused_by_aic": [
+                        "Russia has consistently broken its arms control commitments, most recently suspending its participation in the New START Treaty,\" she said."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 114,
+            "article_label": "RIGHT",
+            "datetime": "26/03/2023 19:12:00",
+            "total_paragraphs": 35,
+            "total_reused_paragraphs": 8,
+            "reused_ratio": 0.42,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 6,
+                "RIGHT": 2
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 0.75,
+                "RIGHT": 0.25
+            },
+            "reused_details": [
+                {
+                    "reused": "NATO on Sunday criticised Vladimir Putin for what it called his \"dangerous and irresponsible\" nuclear rhetoric, a day after the Russian president said he would station tactical nuclear weapons in Belarus.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6902517676353455
+                    },
+                    "reused_by_aic": [
+                        "NATO has criticised Russia's plans to base tactical nuclear weapons in Belarus as \"dangerous and irresponsible\" as Ukraine pushed for an emergency UN meeting to discuss the issue.",
+                        "The military alliance condemned the move after Russian President Vladimir Putin said Moscow plans to station the weapons in neighbouring Belarus.?",
+                        "In an interview, Putin argued that by deploying its tactical nuclear weapons in Belarus, Russia was following the lead of the United States, noting that the US has nuclear weapons based in Belgium, Germany, Greece, Italy, the Netherlands and Turkey."
+                    ]
+                },
+                {
+                    "reused": "Putin announced the move on Saturday and likened it to the U.S. stationing its weapons in Europe, while insisting that Russia would not violate its nuclear non-proliferation promises.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.4439160227775574
+                    },
+                    "reused_by_aic": [
+                        "In an interview, Putin argued that by deploying its tactical nuclear weapons in Belarus, Russia was following the lead of the United States, noting that the US has nuclear weapons based in Belgium, Germany, Greece, Italy, the Netherlands and Turkey.",
+                        "RUSSIA/UKRAINE CONFLICT While US downplayed the move, saying there are no indications Russia will use nuclear weapons?, NATO said Putin's remarks were misleading."
+                    ]
+                },
+                {
+                    "reused": "While Washington, the world's other nuclear superpower, played down concerns about Putin's announcement, NATO said the Russian president's non-proliferation pledge and his description of U.S. weapons deployment overseas were way off the mark.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.7069905400276184
+                    },
+                    "reused_by_aic": [
+                        "RUSSIA/UKRAINE CONFLICT While US downplayed the move, saying there are no indications Russia will use nuclear weapons?, NATO said Putin's remarks were misleading."
+                    ]
+                },
+                {
+                    "reused": "\"Russia's reference to NATO's nuclear sharing is totally misleading.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6186899542808533
+                    },
+                    "reused_by_aic": [
+                        "(Ostorozhno Novosti via AP)\n\"Russia's reference to NATO's nuclear sharing is totally misleading,\" Lungescu said, referring to Putin's claims that his move would merely mirror those of Western nations."
+                    ]
+                },
+                {
+                    "reused": "NATO allies act with full respect of their international commitments,\" a NATO spokesperson said in emailed comments to Reuters on Sunday.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6712687611579895
+                    },
+                    "reused_by_aic": [
+                        "\"NATO allies act with full respect of their international commitments."
+                    ]
+                },
+                {
+                    "reused": "\"Russia has consistently broken its arms control commitments, most recently suspending its participation in the New START Treaty,\" the unnamed spokesperson said.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6521589159965515
+                    },
+                    "reused_by_aic": [
+                        "Russia has consistently broken its arms control commitments, most recently suspending its participation in the New START Treaty,\" she said."
+                    ]
+                },
+                {
+                    "reused": "\"We have not seen any changes in Russia's nuclear posture that would lead us to adjust our own,\" the NATO spokesperson wrote.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6612886190414429
+                    },
+                    "reused_by_aic": [
+                        "We have not seen any changes in Russia's nuclear posture that would lead us to adjust our own,\" said NATO spokesperson Oana Lungescu."
+                    ]
+                },
+                {
+                    "reused": "Tactical nuclear weapons refer to those used for specific gains on a battlefield rather than those with the capacity to wipe out cities.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.37522751092910767
+                    },
+                    "reused_by_aic": [
+                        "Tactical nuclear weapons are intended for use on the battlefield, unlike more powerful, longer-range strategic nuclear weapons."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 115,
+            "article_label": "RIGHT",
+            "datetime": "26/03/2023 20:30:00",
+            "total_paragraphs": 7,
+            "total_reused_paragraphs": 6,
+            "reused_ratio": 0.32,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 1,
+                "CENTER": 5,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.16666666666666666,
+                "CENTER": 0.8333333333333334,
+                "RIGHT": 0.0
+            },
+            "reused_details": [
+                {
+                    "reused": "BRUSSELS (Reuters) - NATO on Sunday criticised Russia for its \"dangerous and irresponsible\" nuclear rhetoric, a day after Russian President Vladimir Putin said Russia would station tactical nuclear weapons in Belarus.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6859732270240784
+                    },
+                    "reused_by_aic": [
+                        "NATO has criticised Russia's plans to base tactical nuclear weapons in Belarus as \"dangerous and irresponsible\" as Ukraine pushed for an emergency UN meeting to discuss the issue.",
+                        "The military alliance condemned the move after Russian President Vladimir Putin said Moscow plans to station the weapons in neighbouring Belarus.?",
+                        "In an interview, Putin argued that by deploying its tactical nuclear weapons in Belarus, Russia was following the lead of the United States, noting that the US has nuclear weapons based in Belgium, Germany, Greece, Italy, the Netherlands and Turkey.",
+                        "RUSSIA/UKRAINE CONFLICT While US downplayed the move, saying there are no indications Russia will use nuclear weapons?, NATO said Putin's remarks were misleading."
+                    ]
+                },
+                {
+                    "reused": "\"NATO is vigilant, and we are closely monitoring the situation.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.652047872543335
+                    },
+                    "reused_by_aic": [
+                        "\"NATO is vigilant, and we are closely monitoring the situation."
+                    ]
+                },
+                {
+                    "reused": "We have not seen any changes in Russia's nuclear posture that would lead us to adjust our own,\" a NATO spokesperson said.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6502628326416016
+                    },
+                    "reused_by_aic": [
+                        "We have not seen any changes in Russia's nuclear posture that would lead us to adjust our own,\" said NATO spokesperson Oana Lungescu."
+                    ]
+                },
+                {
+                    "reused": "\"Russia's reference to NATO's nuclear sharing is totally misleading.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6186899542808533
+                    },
+                    "reused_by_aic": [
+                        "(Ostorozhno Novosti via AP)\n\"Russia's reference to NATO's nuclear sharing is totally misleading,\" Lungescu said, referring to Putin's claims that his move would merely mirror those of Western nations."
+                    ]
+                },
+                {
+                    "reused": "NATO allies act with full respect of their international commitments.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.538489043712616
+                    },
+                    "reused_by_aic": [
+                        "\"NATO allies act with full respect of their international commitments."
+                    ]
+                },
+                {
+                    "reused": "Russia has consistently broken its arms control commitments, most recently suspending its participation in the New START Treaty.\"",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6385266780853271
+                    },
+                    "reused_by_aic": [
+                        "Russia has consistently broken its arms control commitments, most recently suspending its participation in the New START Treaty,\" she said."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 116,
+            "article_label": "RIGHT",
+            "datetime": "26/03/2023 17:11:00",
+            "total_paragraphs": 7,
+            "total_reused_paragraphs": 6,
+            "reused_ratio": 0.32,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 1,
+                "CENTER": 3,
+                "RIGHT": 2
+            },
+            "reused_percentage": {
+                "LEFT": 0.16666666666666666,
+                "CENTER": 0.5,
+                "RIGHT": 0.3333333333333333
+            },
+            "reused_details": [
+                {
+                    "reused": "NATO on Sunday criticized Russia for its dangerous and irresponsible nuclear rhetoric, a day after Russian President Vladimir Putin said Russia would station tactical nuclear weapons in Belarus.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5670411586761475
+                    },
+                    "reused_by_aic": [
+                        "NATO has criticised Russia's plans to base tactical nuclear weapons in Belarus as \"dangerous and irresponsible\" as Ukraine pushed for an emergency UN meeting to discuss the issue.",
+                        "The military alliance condemned the move after Russian President Vladimir Putin said Moscow plans to station the weapons in neighbouring Belarus.?",
+                        "In an interview, Putin argued that by deploying its tactical nuclear weapons in Belarus, Russia was following the lead of the United States, noting that the US has nuclear weapons based in Belgium, Germany, Greece, Italy, the Netherlands and Turkey.",
+                        "RUSSIA/UKRAINE CONFLICT While US downplayed the move, saying there are no indications Russia will use nuclear weapons?, NATO said Putin's remarks were misleading."
+                    ]
+                },
+                {
+                    "reused": "NATO is vigilant, and we are closely monitoring the situation.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.3732854425907135
+                    },
+                    "reused_by_aic": [
+                        "\"NATO is vigilant, and we are closely monitoring the situation."
+                    ]
+                },
+                {
+                    "reused": "We have not seen any changes in Russia's nuclear posture that would lead us to adjust our own, a NATO spokesperson said.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5068961977958679
+                    },
+                    "reused_by_aic": [
+                        "We have not seen any changes in Russia's nuclear posture that would lead us to adjust our own,\" said NATO spokesperson Oana Lungescu."
+                    ]
+                },
+                {
+                    "reused": "Russia's reference to NATO's nuclear sharing is totally misleading.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6191481947898865
+                    },
+                    "reused_by_aic": [
+                        "(Ostorozhno Novosti via AP)\n\"Russia's reference to NATO's nuclear sharing is totally misleading,\" Lungescu said, referring to Putin's claims that his move would merely mirror those of Western nations."
+                    ]
+                },
+                {
+                    "reused": "NATO allies act with full respect of their international commitments.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.538489043712616
+                    },
+                    "reused_by_aic": [
+                        "\"NATO allies act with full respect of their international commitments."
+                    ]
+                },
+                {
+                    "reused": "Russia has consistently broken its arms control commitments, most recently suspending its participation in the New START Treaty.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.371609091758728
+                    },
+                    "reused_by_aic": [
+                        "Russia has consistently broken its arms control commitments, most recently suspending its participation in the New START Treaty,\" she said."
+                    ]
+                }
+            ]
+        }
+    ]
+}

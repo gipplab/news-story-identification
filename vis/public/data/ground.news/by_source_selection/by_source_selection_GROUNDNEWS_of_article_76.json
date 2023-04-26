@@ -1,0 +1,1640 @@
+{
+    "article_id": 76,
+    "article_datetime": "8/12/2022 12:04:49",
+    "article_label": "CENTER",
+    "article_total_paragraphs": 10,
+    "biased_by_these_sources": [
+        85
+    ],
+    "biased_labels": {
+        "LEFT": 0,
+        "CENTER": 1,
+        "RIGHT": 0
+    },
+    "is_biased": "No",
+    "earlier_articles": [
+        {
+            "article_id": 68,
+            "article_label": "LEFT",
+            "datetime": "8/12/2022 08:40:07",
+            "total_paragraphs": 27,
+            "total_reused_paragraphs": 8,
+            "reused_ratio": 0.8,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 3,
+                "CENTER": 3,
+                "RIGHT": 2
+            },
+            "reused_percentage": {
+                "LEFT": 0.375,
+                "CENTER": 0.375,
+                "RIGHT": 0.25
+            },
+            "reused_details": [
+                {
+                    "reused": "Spain lost to Morocco 3-0 in a penalty shootout after a scoreless draw in regular and extra time.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.3577764928340912
+                    },
+                    "reused_by_aic": [
+                        "The announcement comes two days after Spain lost to Morocco 3-0 in a penalty shootout after a scoreless draw in regular and extra time."
+                    ]
+                },
+                {
+                    "reused": "The Spanish soccer federation thanked Luis Enrique, but said it was time to 'start a new project' to keep the growth achieved by the coach in recent years.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.49917417764663696
+                    },
+                    "reused_by_aic": [
+                        "The federation thanked Luis Enrique but said it was time to 'start a new project' to keep the growth achieved by the coach in recent years."
+                    ]
+                },
+                {
+                    "reused": "Spain got off to a good start in Qatar, routing Costa Rica 7-0, but La Roja couldn't win again in its last three matches.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.44042903184890747
+                    },
+                    "reused_by_aic": [
+                        "Spain got off to a good start in Qatar, routing Costa Rica 7-0, but La Roja couldn't win again in its last three matches."
+                    ]
+                },
+                {
+                    "reused": "It drew 1-1 with Germany and lost 2-1 to Japan before being held by Morocco.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.3703662157058716
+                    },
+                    "reused_by_aic": [
+                        "It drew Germany 1-1 and lost 2-1 to Japan before being held by Morocco."
+                    ]
+                },
+                {
+                    "reused": "Luis Enrique took over the national team in 2018 to start revamping the squad after its elimination in the round of 16 of the World Cup in Russia.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.48675572872161865
+                    },
+                    "reused_by_aic": [
+                        "Luis Enrique took over the national team in 2018 to start revamping the squad after its elimination in the round of 16 of the World Cup in Russia."
+                    ]
+                },
+                {
+                    "reused": "He temporarily left because of the illness and eventual death of his young daughter, but returned in 2019.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.4562259316444397
+                    },
+                    "reused_by_aic": [
+                        "He temporarily left because of the illness and eventual death of his young daughter, but returned in 2019."
+                    ]
+                },
+                {
+                    "reused": "He helped Spain reach the last four of the Nations League twice, including this season and last year, when it lost the final to France.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.4779176712036133
+                    },
+                    "reused_by_aic": [
+                        "He helped Spain reach the last four of the Nations League twice, including this season and last year, when it lost the final to France.",
+                        "He also led Spain to the semifinals of the European Championship in 2020, losing to Italy in a penalty shootout."
+                    ]
+                },
+                {
+                    "reused": "He also led Spain to the semifinals of the European Championship last year, losing to Italy in a penalty shootout.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.4759400486946106
+                    },
+                    "reused_by_aic": [
+                        "He helped Spain reach the last four of the Nations League twice, including this season and last year, when it lost the final to France.",
+                        "He also led Spain to the semifinals of the European Championship in 2020, losing to Italy in a penalty shootout."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 69,
+            "article_label": "CENTER",
+            "datetime": "8/12/2022 00:32:36",
+            "total_paragraphs": 10,
+            "total_reused_paragraphs": 0,
+            "reused_ratio": 0.0,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 0,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0,
+                "CENTER": 0,
+                "RIGHT": 0
+            },
+            "reused_details": []
+        },
+        {
+            "article_id": 71,
+            "article_label": "LEFT",
+            "datetime": "8/12/2022 06:35:43",
+            "total_paragraphs": 28,
+            "total_reused_paragraphs": 8,
+            "reused_ratio": 0.8,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 3,
+                "CENTER": 3,
+                "RIGHT": 2
+            },
+            "reused_percentage": {
+                "LEFT": 0.375,
+                "CENTER": 0.375,
+                "RIGHT": 0.25
+            },
+            "reused_details": [
+                {
+                    "reused": "Spain lost to Morocco 3-0 in a penalty shootout after a scoreless draw in regular and extra time.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.3577764928340912
+                    },
+                    "reused_by_aic": [
+                        "The announcement comes two days after Spain lost to Morocco 3-0 in a penalty shootout after a scoreless draw in regular and extra time."
+                    ]
+                },
+                {
+                    "reused": "The Spanish soccer federation thanked Luis Enrique, but said it was time to 'start a new project' to keep the growth achieved by the coach in recent years.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.49917417764663696
+                    },
+                    "reused_by_aic": [
+                        "The federation thanked Luis Enrique but said it was time to 'start a new project' to keep the growth achieved by the coach in recent years."
+                    ]
+                },
+                {
+                    "reused": "Spain got off to a good start in Qatar, routing Costa Rica 7-0, but La Roja couldn't win again in its last three matches.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.44042903184890747
+                    },
+                    "reused_by_aic": [
+                        "Spain got off to a good start in Qatar, routing Costa Rica 7-0, but La Roja couldn't win again in its last three matches."
+                    ]
+                },
+                {
+                    "reused": "It drew 1-1 with Germany and lost 2-1 to Japan before being held by Morocco.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.3703662157058716
+                    },
+                    "reused_by_aic": [
+                        "It drew Germany 1-1 and lost 2-1 to Japan before being held by Morocco."
+                    ]
+                },
+                {
+                    "reused": "Luis Enrique took over the national team in 2018 to start revamping the squad after its elimination in the round of 16 of the World Cup in Russia.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.48675572872161865
+                    },
+                    "reused_by_aic": [
+                        "Luis Enrique took over the national team in 2018 to start revamping the squad after its elimination in the round of 16 of the World Cup in Russia."
+                    ]
+                },
+                {
+                    "reused": "He temporarily left because of the illness and eventual death of his young daughter, but returned in 2019.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.4562259316444397
+                    },
+                    "reused_by_aic": [
+                        "He temporarily left because of the illness and eventual death of his young daughter, but returned in 2019."
+                    ]
+                },
+                {
+                    "reused": "He helped Spain reach the last four of the Nations League twice, including this season and last year, when it lost the final to France.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.4779176712036133
+                    },
+                    "reused_by_aic": [
+                        "He helped Spain reach the last four of the Nations League twice, including this season and last year, when it lost the final to France.",
+                        "He also led Spain to the semifinals of the European Championship in 2020, losing to Italy in a penalty shootout."
+                    ]
+                },
+                {
+                    "reused": "He also led Spain to the semifinals of the European Championship last year, losing to Italy in a penalty shootout.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.4759400486946106
+                    },
+                    "reused_by_aic": [
+                        "He helped Spain reach the last four of the Nations League twice, including this season and last year, when it lost the final to France.",
+                        "He also led Spain to the semifinals of the European Championship in 2020, losing to Italy in a penalty shootout."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 74,
+            "article_label": "CENTER",
+            "datetime": "6/12/2022 05:19:31",
+            "total_paragraphs": 27,
+            "total_reused_paragraphs": 8,
+            "reused_ratio": 0.8,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 3,
+                "CENTER": 3,
+                "RIGHT": 2
+            },
+            "reused_percentage": {
+                "LEFT": 0.375,
+                "CENTER": 0.375,
+                "RIGHT": 0.25
+            },
+            "reused_details": [
+                {
+                    "reused": "Spain lost to Morocco 3-0 in a penalty shootout after a scoreless draw in regular and extra time.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.3577764928340912
+                    },
+                    "reused_by_aic": [
+                        "The announcement comes two days after Spain lost to Morocco 3-0 in a penalty shootout after a scoreless draw in regular and extra time."
+                    ]
+                },
+                {
+                    "reused": "The Spanish soccer federation thanked Luis Enrique, but said it was time to \"start a new project\" to keep the growth achieved by the coach in recent years.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6589546799659729
+                    },
+                    "reused_by_aic": [
+                        "The federation thanked Luis Enrique but said it was time to 'start a new project' to keep the growth achieved by the coach in recent years."
+                    ]
+                },
+                {
+                    "reused": "Spain got off to a good start in Qatar, routing Costa Rica 7-0, but La Roja couldn't win again in its last three matches.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.44042903184890747
+                    },
+                    "reused_by_aic": [
+                        "Spain got off to a good start in Qatar, routing Costa Rica 7-0, but La Roja couldn't win again in its last three matches."
+                    ]
+                },
+                {
+                    "reused": "It drew 1-1 with Germany and lost 2-1 to Japan before being held by Morocco.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.3703662157058716
+                    },
+                    "reused_by_aic": [
+                        "It drew Germany 1-1 and lost 2-1 to Japan before being held by Morocco."
+                    ]
+                },
+                {
+                    "reused": "Luis Enrique took over the national team in 2018 to start revamping the squad after its elimination in the round of 16 of the World Cup in Russia.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.48675572872161865
+                    },
+                    "reused_by_aic": [
+                        "Luis Enrique took over the national team in 2018 to start revamping the squad after its elimination in the round of 16 of the World Cup in Russia."
+                    ]
+                },
+                {
+                    "reused": "He temporarily left because of the illness and eventual death of his young daughter, but returned in 2019.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.4562259316444397
+                    },
+                    "reused_by_aic": [
+                        "He temporarily left because of the illness and eventual death of his young daughter, but returned in 2019."
+                    ]
+                },
+                {
+                    "reused": "He helped Spain reach the last four of the Nations League twice, including this season and last year, when it lost the final to France.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.4779176712036133
+                    },
+                    "reused_by_aic": [
+                        "He helped Spain reach the last four of the Nations League twice, including this season and last year, when it lost the final to France.",
+                        "He also led Spain to the semifinals of the European Championship in 2020, losing to Italy in a penalty shootout."
+                    ]
+                },
+                {
+                    "reused": "He also led Spain to the semifinals of the European Championship last year, losing to Italy in a penalty shootout.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.4759400486946106
+                    },
+                    "reused_by_aic": [
+                        "He helped Spain reach the last four of the Nations League twice, including this season and last year, when it lost the final to France.",
+                        "He also led Spain to the semifinals of the European Championship in 2020, losing to Italy in a penalty shootout."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 75,
+            "article_label": "CENTER",
+            "datetime": "8/12/2022 07:09:07",
+            "total_paragraphs": 8,
+            "total_reused_paragraphs": 1,
+            "reused_ratio": 0.1,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 1,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 1.0,
+                "RIGHT": 0.0
+            },
+            "reused_details": [
+                {
+                    "reused": "A \"new project\" will be formed and the RFEF said that \"we would like to thank Luis Enrique and his entire coaching staff\" in an official statement.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5979090929031372
+                    },
+                    "reused_by_aic": [
+                        "The federation thanked Luis Enrique but said it was time to 'start a new project' to keep the growth achieved by the coach in recent years."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 77,
+            "article_label": "LEFT",
+            "datetime": "8/12/2022 00:43:33",
+            "total_paragraphs": 11,
+            "total_reused_paragraphs": 4,
+            "reused_ratio": 0.4,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 2,
+                "CENTER": 1,
+                "RIGHT": 1
+            },
+            "reused_percentage": {
+                "LEFT": 0.5,
+                "CENTER": 0.25,
+                "RIGHT": 0.25
+            },
+            "reused_details": [
+                {
+                    "reused": "Yet the team had begun the tournament in style, crushing Costa Rica 7-0 before drawing with Germany and then losing to Japan, qualifying for the knockout phase on goal difference.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.5328927636146545
+                    },
+                    "reused_by_aic": [
+                        "Spain got off to a good start in Qatar, routing Costa Rica 7-0, but La Roja couldn't win again in its last three matches."
+                    ]
+                },
+                {
+                    "reused": "The federation pointed out that under Enrique, Spain had reached the final four of the UEFA Nations League twice out of three attempts ' last year they lost in the final to France ' and the semi-finals of Euro 2020, when they lost to the eventual winners Italy on penalties.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.4155816435813904
+                    },
+                    "reused_by_aic": [
+                        "He helped Spain reach the last four of the Nations League twice, including this season and last year, when it lost the final to France.",
+                        "He also led Spain to the semifinals of the European Championship in 2020, losing to Italy in a penalty shootout."
+                    ]
+                },
+                {
+                    "reused": "Luis Enrique took over the national team after the 2018 World Cup in Russia, revamping the squad after the team's elimination in the round of 16.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6817278861999512
+                    },
+                    "reused_by_aic": [
+                        "Luis Enrique took over the national team in 2018 to start revamping the squad after its elimination in the round of 16 of the World Cup in Russia."
+                    ]
+                },
+                {
+                    "reused": "He temporarily left because of the illness and eventual death of his young daughter, but returned in 2019.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.4562259316444397
+                    },
+                    "reused_by_aic": [
+                        "He temporarily left because of the illness and eventual death of his young daughter, but returned in 2019."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 78,
+            "article_label": "RIGHT",
+            "datetime": "8/12/2022 06:55:05",
+            "total_paragraphs": 15,
+            "total_reused_paragraphs": 1,
+            "reused_ratio": 0.1,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 0,
+                "RIGHT": 1
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 0.0,
+                "RIGHT": 1.0
+            },
+            "reused_details": [
+                {
+                    "reused": "In a surprising turn of events, Spain  lost to  in the penalty shootout 3-1.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.37245258688926697
+                    },
+                    "reused_by_aic": [
+                        "Spain got off to a good start in Qatar, routing Costa Rica 7-0, but La Roja couldn't win again in its last three matches."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 81,
+            "article_label": "LEFT",
+            "datetime": "8/12/2022 00:06:43",
+            "total_paragraphs": 17,
+            "total_reused_paragraphs": 3,
+            "reused_ratio": 0.3,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 2,
+                "RIGHT": 1
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 0.6666666666666666,
+                "RIGHT": 0.3333333333333333
+            },
+            "reused_details": [
+                {
+                    "reused": "Spain started their campaign in Qatar in style by hammering Costa Rica 7-0 and qualified for the knockout phase despite a shock 2-1 defeat to Japan.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.4401898980140686
+                    },
+                    "reused_by_aic": [
+                        "Spain got off to a good start in Qatar, routing Costa Rica 7-0, but La Roja couldn't win again in its last three matches."
+                    ]
+                },
+                {
+                    "reused": "They said they wanted to thank Luis Enrique and his staff for their work, but had decided to start a \"new project\".",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5935457944869995
+                    },
+                    "reused_by_aic": [
+                        "The federation thanked Luis Enrique but said it was time to 'start a new project' to keep the growth achieved by the coach in recent years."
+                    ]
+                },
+                {
+                    "reused": "Luis Enrique took over in 2018 after Spain's disappointing showing at the World Cup in Russia, and led La Roja to the semi-finals of Euro 2020, where they were also beaten on penalties, by Italy.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6960762143135071
+                    },
+                    "reused_by_aic": [
+                        "Luis Enrique took over the national team in 2018 to start revamping the squad after its elimination in the round of 16 of the World Cup in Russia."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 82,
+            "article_label": "RIGHT",
+            "datetime": "8/12/2022 04:09:58",
+            "total_paragraphs": 18,
+            "total_reused_paragraphs": 4,
+            "reused_ratio": 0.4,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 1,
+                "CENTER": 2,
+                "RIGHT": 1
+            },
+            "reused_percentage": {
+                "LEFT": 0.25,
+                "CENTER": 0.5,
+                "RIGHT": 0.25
+            },
+            "reused_details": [
+                {
+                    "reused": "Luis Enrique's sacking came two days after Spain lost to Morocco 3-0 in a penalty shootout after a scoreless draw in regular and extra time to get eliminated from World Cup.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6235528588294983
+                    },
+                    "reused_by_aic": [
+                        "The announcement comes two days after Spain lost to Morocco 3-0 in a penalty shootout after a scoreless draw in regular and extra time."
+                    ]
+                },
+                {
+                    "reused": "Spain started their campaign in Qatar in style by hammering Costa Rica 7-0 and qualified for the knockout phase despite a shock 2-1 defeat to Japan.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.4401898980140686
+                    },
+                    "reused_by_aic": [
+                        "Spain got off to a good start in Qatar, routing Costa Rica 7-0, but La Roja couldn't win again in its last three matches."
+                    ]
+                },
+                {
+                    "reused": "They said they wanted to thank Luis Enrique and his staff for their work, but had decided to start a 'new project'.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.7588716149330139
+                    },
+                    "reused_by_aic": [
+                        "The federation thanked Luis Enrique but said it was time to 'start a new project' to keep the growth achieved by the coach in recent years."
+                    ]
+                },
+                {
+                    "reused": "New project Luis Enrique took over in 2018 after Spain's disappointing showing at the World Cup in Russia, and led La Roja to the semi-finals of Euro 2020, where they were also beaten on penalties, by Italy.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.68663090467453
+                    },
+                    "reused_by_aic": [
+                        "Luis Enrique took over the national team in 2018 to start revamping the squad after its elimination in the round of 16 of the World Cup in Russia."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 83,
+            "article_label": "LEFT",
+            "datetime": "8/12/2022 06:22:39",
+            "total_paragraphs": 26,
+            "total_reused_paragraphs": 8,
+            "reused_ratio": 0.8,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 3,
+                "CENTER": 3,
+                "RIGHT": 2
+            },
+            "reused_percentage": {
+                "LEFT": 0.375,
+                "CENTER": 0.375,
+                "RIGHT": 0.25
+            },
+            "reused_details": [
+                {
+                    "reused": "Spain lost to Morocco 3-0 in a penalty shootout after a scoreless draw in regular and extra time.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.3577764928340912
+                    },
+                    "reused_by_aic": [
+                        "The announcement comes two days after Spain lost to Morocco 3-0 in a penalty shootout after a scoreless draw in regular and extra time."
+                    ]
+                },
+                {
+                    "reused": "The Spanish soccer federation thanked Luis Enrique, but said it was time to 'start a new project' to keep the growth achieved by the coach in recent years.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.49917417764663696
+                    },
+                    "reused_by_aic": [
+                        "The federation thanked Luis Enrique but said it was time to 'start a new project' to keep the growth achieved by the coach in recent years."
+                    ]
+                },
+                {
+                    "reused": "Spain got off to a good start in Qatar, routing Costa Rica 7-0, but La Roja couldn't win again in its last three matches.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.44042903184890747
+                    },
+                    "reused_by_aic": [
+                        "Spain got off to a good start in Qatar, routing Costa Rica 7-0, but La Roja couldn't win again in its last three matches."
+                    ]
+                },
+                {
+                    "reused": "It drew 1-1 with Germany and lost 2-1 to Japan before being held by Morocco.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.3703662157058716
+                    },
+                    "reused_by_aic": [
+                        "It drew Germany 1-1 and lost 2-1 to Japan before being held by Morocco."
+                    ]
+                },
+                {
+                    "reused": "Luis Enrique took over the national team in 2018 to start revamping the squad after its elimination in the round of 16 of the World Cup in Russia.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.48675572872161865
+                    },
+                    "reused_by_aic": [
+                        "Luis Enrique took over the national team in 2018 to start revamping the squad after its elimination in the round of 16 of the World Cup in Russia."
+                    ]
+                },
+                {
+                    "reused": "He temporarily left because of the illness and eventual death of his young daughter, but returned in 2019.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.4562259316444397
+                    },
+                    "reused_by_aic": [
+                        "He temporarily left because of the illness and eventual death of his young daughter, but returned in 2019."
+                    ]
+                },
+                {
+                    "reused": "He helped Spain reach the last four of the Nations League twice, including this season and last year, when it lost the final to France.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.4779176712036133
+                    },
+                    "reused_by_aic": [
+                        "He helped Spain reach the last four of the Nations League twice, including this season and last year, when it lost the final to France.",
+                        "He also led Spain to the semifinals of the European Championship in 2020, losing to Italy in a penalty shootout."
+                    ]
+                },
+                {
+                    "reused": "He also led Spain to the semifinals of the European Championship last year, losing to Italy in a penalty shootout.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.4759400486946106
+                    },
+                    "reused_by_aic": [
+                        "He helped Spain reach the last four of the Nations League twice, including this season and last year, when it lost the final to France.",
+                        "He also led Spain to the semifinals of the European Championship in 2020, losing to Italy in a penalty shootout."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 85,
+            "article_label": "RIGHT",
+            "datetime": "8/12/2022 11:55:22",
+            "total_paragraphs": 9,
+            "total_reused_paragraphs": 9,
+            "reused_ratio": 0.9,
+            "is_biased_to": "",
+            "reused_paragraphs_label": {
+                "LEFT": 3,
+                "CENTER": 5,
+                "RIGHT": 1
+            },
+            "reused_percentage": {
+                "LEFT": 0.3333333333333333,
+                "CENTER": 0.5555555555555556,
+                "RIGHT": 0.1111111111111111
+            },
+            "reused_details": [
+                {
+                    "reused": "Announcement comes two days after the Spanish team lost to the Atlas Lions 3-0 in a penalty shootout after a scoreless draw in regular and extra time The Spanish soccer federation said Thursday that Luis Enrique will not continue as coach of the men's national team following its elimination in the round of 16 of the World Cup.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5386603474617004
+                    },
+                    "reused_by_aic": [
+                        "Announcement comes two days after Spain lost to Morocco 3-0 in a penalty shootout Doha, December 8 The Spanish soccer federation said on Thursday that Luis Enrique will not continue as coach of the men's national team following its elimination in the round of 16 of the World Cup."
+                    ]
+                },
+                {
+                    "reused": "The announcement comes two days after Spain lost to Morocco 3-0 in a penalty shootout after a scoreless draw in regular and extra time.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.43279901146888733
+                    },
+                    "reused_by_aic": [
+                        "Announcement comes two days after Spain lost to Morocco 3-0 in a penalty shootout Doha, December 8 The Spanish soccer federation said on Thursday that Luis Enrique will not continue as coach of the men's national team following its elimination in the round of 16 of the World Cup.",
+                        "The announcement comes two days after Spain lost to Morocco 3-0 in a penalty shootout after a scoreless draw in regular and extra time."
+                    ]
+                },
+                {
+                    "reused": "The federation thanked Luis Enrique but said it was time to 'start a new project' to keep the growth achieved by the coach in recent years.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5561369061470032
+                    },
+                    "reused_by_aic": [
+                        "The federation thanked Luis Enrique but said it was time to 'start a new project' to keep the growth achieved by the coach in recent years."
+                    ]
+                },
+                {
+                    "reused": "Spain got off to a good start in Qatar, routing Costa Rica 7-0, but La Roja couldn't win again in its last three matches.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.44042903184890747
+                    },
+                    "reused_by_aic": [
+                        "Spain got off to a good start in Qatar, routing Costa Rica 7-0, but La Roja couldn't win again in its last three matches."
+                    ]
+                },
+                {
+                    "reused": "It drew Germany 1-1 and lost 2-1 to Japan before being held by Morocco.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.38097453117370605
+                    },
+                    "reused_by_aic": [
+                        "It drew Germany 1-1 and lost 2-1 to Japan before being held by Morocco."
+                    ]
+                },
+                {
+                    "reused": "Luis Enrique took over the national team in 2018 to start revamping the squad after its elimination in the round of 16 of the World Cup in Russia.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.48675572872161865
+                    },
+                    "reused_by_aic": [
+                        "Luis Enrique took over the national team in 2018 to start revamping the squad after its elimination in the round of 16 of the World Cup in Russia."
+                    ]
+                },
+                {
+                    "reused": "He temporarily left because of the illness and eventual death of his young daughter, but returned in 2019.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.4562259316444397
+                    },
+                    "reused_by_aic": [
+                        "He temporarily left because of the illness and eventual death of his young daughter, but returned in 2019."
+                    ]
+                },
+                {
+                    "reused": "He helped Spain reach the last four of the Nations League twice, including this season and last year, when it lost the final to France.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.4779176712036133
+                    },
+                    "reused_by_aic": [
+                        "He helped Spain reach the last four of the Nations League twice, including this season and last year, when it lost the final to France.",
+                        "He also led Spain to the semifinals of the European Championship in 2020, losing to Italy in a penalty shootout."
+                    ]
+                },
+                {
+                    "reused": "He also led Spain to the semifinals of the European Championship in 2020, losing to Italy in a penalty shootout.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.4148758053779602
+                    },
+                    "reused_by_aic": [
+                        "He helped Spain reach the last four of the Nations League twice, including this season and last year, when it lost the final to France.",
+                        "He also led Spain to the semifinals of the European Championship in 2020, losing to Italy in a penalty shootout."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 87,
+            "article_label": "LEFT",
+            "datetime": "8/12/2022 03:30:03",
+            "total_paragraphs": 11,
+            "total_reused_paragraphs": 3,
+            "reused_ratio": 0.3,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 2,
+                "RIGHT": 1
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 0.6666666666666666,
+                "RIGHT": 0.3333333333333333
+            },
+            "reused_details": [
+                {
+                    "reused": "The federation thanked Enrique but said it was time to 'start a new project'.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5380241870880127
+                    },
+                    "reused_by_aic": [
+                        "The federation thanked Luis Enrique but said it was time to 'start a new project' to keep the growth achieved by the coach in recent years."
+                    ]
+                },
+                {
+                    "reused": "Enrique took over in 2018 after Spain's disappointing Russia World Cup showing, and led La Roja to the semi-finals of Euro 2020, where they were also beaten on penalties by Italy.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6682835221290588
+                    },
+                    "reused_by_aic": [
+                        "Luis Enrique took over the national team in 2018 to start revamping the squad after its elimination in the round of 16 of the World Cup in Russia."
+                    ]
+                },
+                {
+                    "reused": "Spain got off to a good start in Qatar, routing Costa Rica 7-0, but La Roja couldn't win again in their last three matches, drawing 1-1 with Germany and losing 2-1 to Japan before being held by Morocco.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.4313074052333832
+                    },
+                    "reused_by_aic": [
+                        "Spain got off to a good start in Qatar, routing Costa Rica 7-0, but La Roja couldn't win again in its last three matches."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 89,
+            "article_label": "LEFT",
+            "datetime": "8/12/2022 01:53:32",
+            "total_paragraphs": 5,
+            "total_reused_paragraphs": 0,
+            "reused_ratio": 0.0,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 0,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0,
+                "CENTER": 0,
+                "RIGHT": 0
+            },
+            "reused_details": []
+        },
+        {
+            "article_id": 90,
+            "article_label": "RIGHT",
+            "datetime": "8/12/2022 07:55:03",
+            "total_paragraphs": 28,
+            "total_reused_paragraphs": 8,
+            "reused_ratio": 0.8,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 3,
+                "CENTER": 3,
+                "RIGHT": 2
+            },
+            "reused_percentage": {
+                "LEFT": 0.375,
+                "CENTER": 0.375,
+                "RIGHT": 0.25
+            },
+            "reused_details": [
+                {
+                    "reused": "Spain lost to Morocco 3-0 in a penalty shootout after a scoreless draw in regular and extra time.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.3577764928340912
+                    },
+                    "reused_by_aic": [
+                        "The announcement comes two days after Spain lost to Morocco 3-0 in a penalty shootout after a scoreless draw in regular and extra time."
+                    ]
+                },
+                {
+                    "reused": "The Spanish soccer federation thanked Luis Enrique, but said it was time to 'start a new project' to keep the growth achieved by the coach in recent years.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.49917417764663696
+                    },
+                    "reused_by_aic": [
+                        "The federation thanked Luis Enrique but said it was time to 'start a new project' to keep the growth achieved by the coach in recent years."
+                    ]
+                },
+                {
+                    "reused": "Spain got off to a good start in Qatar, routing Costa Rica 7-0, but La Roja couldn't win again in its last three matches.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.44042903184890747
+                    },
+                    "reused_by_aic": [
+                        "Spain got off to a good start in Qatar, routing Costa Rica 7-0, but La Roja couldn't win again in its last three matches."
+                    ]
+                },
+                {
+                    "reused": "It drew 1-1 with Germany and lost 2-1 to Japan before being held by Morocco.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.3703662157058716
+                    },
+                    "reused_by_aic": [
+                        "It drew Germany 1-1 and lost 2-1 to Japan before being held by Morocco."
+                    ]
+                },
+                {
+                    "reused": "Luis Enrique took over the national team in 2018 to start revamping the squad after its elimination in the round of 16 of the World Cup in Russia.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.48675572872161865
+                    },
+                    "reused_by_aic": [
+                        "Luis Enrique took over the national team in 2018 to start revamping the squad after its elimination in the round of 16 of the World Cup in Russia."
+                    ]
+                },
+                {
+                    "reused": "He temporarily left because of the illness and eventual death of his young daughter, but returned in 2019.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.4562259316444397
+                    },
+                    "reused_by_aic": [
+                        "He temporarily left because of the illness and eventual death of his young daughter, but returned in 2019."
+                    ]
+                },
+                {
+                    "reused": "He helped Spain reach the last four of the Nations League twice, including this season and last year, when it lost the final to France.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.4779176712036133
+                    },
+                    "reused_by_aic": [
+                        "He helped Spain reach the last four of the Nations League twice, including this season and last year, when it lost the final to France.",
+                        "He also led Spain to the semifinals of the European Championship in 2020, losing to Italy in a penalty shootout."
+                    ]
+                },
+                {
+                    "reused": "He also led Spain to the semifinals of the European Championship last year, losing to Italy in a penalty shootout.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.4759400486946106
+                    },
+                    "reused_by_aic": [
+                        "He helped Spain reach the last four of the Nations League twice, including this season and last year, when it lost the final to France.",
+                        "He also led Spain to the semifinals of the European Championship in 2020, losing to Italy in a penalty shootout."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 92,
+            "article_label": "LEFT",
+            "datetime": "8/12/2022 05:10:50",
+            "total_paragraphs": 26,
+            "total_reused_paragraphs": 8,
+            "reused_ratio": 0.8,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 3,
+                "CENTER": 3,
+                "RIGHT": 2
+            },
+            "reused_percentage": {
+                "LEFT": 0.375,
+                "CENTER": 0.375,
+                "RIGHT": 0.25
+            },
+            "reused_details": [
+                {
+                    "reused": "Spain lost to Morocco 3-0 in a penalty shootout after a scoreless draw in regular and extra time.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.3577764928340912
+                    },
+                    "reused_by_aic": [
+                        "The announcement comes two days after Spain lost to Morocco 3-0 in a penalty shootout after a scoreless draw in regular and extra time."
+                    ]
+                },
+                {
+                    "reused": "The Spanish soccer federation thanked Luis Enrique, but said it was time to 'start a new project' to keep the growth achieved by the coach in recent years.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.49917417764663696
+                    },
+                    "reused_by_aic": [
+                        "The federation thanked Luis Enrique but said it was time to 'start a new project' to keep the growth achieved by the coach in recent years."
+                    ]
+                },
+                {
+                    "reused": "Spain got off to a good start in Qatar, routing Costa Rica 7-0, but La Roja couldn't win again in its last three matches.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.44042903184890747
+                    },
+                    "reused_by_aic": [
+                        "Spain got off to a good start in Qatar, routing Costa Rica 7-0, but La Roja couldn't win again in its last three matches."
+                    ]
+                },
+                {
+                    "reused": "It drew 1-1 with Germany and lost 2-1 to Japan before being held by Morocco.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.3703662157058716
+                    },
+                    "reused_by_aic": [
+                        "It drew Germany 1-1 and lost 2-1 to Japan before being held by Morocco."
+                    ]
+                },
+                {
+                    "reused": "Luis Enrique took over the national team in 2018 to start revamping the squad after its elimination in the round of 16 of the World Cup in Russia.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.48675572872161865
+                    },
+                    "reused_by_aic": [
+                        "Luis Enrique took over the national team in 2018 to start revamping the squad after its elimination in the round of 16 of the World Cup in Russia."
+                    ]
+                },
+                {
+                    "reused": "He temporarily left because of the illness and eventual death of his young daughter, but returned in 2019.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.4562259316444397
+                    },
+                    "reused_by_aic": [
+                        "He temporarily left because of the illness and eventual death of his young daughter, but returned in 2019."
+                    ]
+                },
+                {
+                    "reused": "He helped Spain reach the last four of the Nations League twice, including this season and last year, when it lost the final to France.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.4779176712036133
+                    },
+                    "reused_by_aic": [
+                        "He helped Spain reach the last four of the Nations League twice, including this season and last year, when it lost the final to France.",
+                        "He also led Spain to the semifinals of the European Championship in 2020, losing to Italy in a penalty shootout."
+                    ]
+                },
+                {
+                    "reused": "He also led Spain to the semifinals of the European Championship last year, losing to Italy in a penalty shootout.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.4759400486946106
+                    },
+                    "reused_by_aic": [
+                        "He helped Spain reach the last four of the Nations League twice, including this season and last year, when it lost the final to France.",
+                        "He also led Spain to the semifinals of the European Championship in 2020, losing to Italy in a penalty shootout."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 93,
+            "article_label": "RIGHT",
+            "datetime": "8/12/2022 08:19:01",
+            "total_paragraphs": 11,
+            "total_reused_paragraphs": 0,
+            "reused_ratio": 0.0,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 0,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0,
+                "CENTER": 0,
+                "RIGHT": 0
+            },
+            "reused_details": []
+        },
+        {
+            "article_id": 96,
+            "article_label": "CENTER",
+            "datetime": "8/12/2022 02:51:05",
+            "total_paragraphs": 5,
+            "total_reused_paragraphs": 0,
+            "reused_ratio": 0.0,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 0,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0,
+                "CENTER": 0,
+                "RIGHT": 0
+            },
+            "reused_details": []
+        },
+        {
+            "article_id": 97,
+            "article_label": "RIGHT",
+            "datetime": "8/12/2022 09:49:11",
+            "total_paragraphs": 9,
+            "total_reused_paragraphs": 1,
+            "reused_ratio": 0.1,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 0,
+                "RIGHT": 1
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 0.0,
+                "RIGHT": 1.0
+            },
+            "reused_details": [
+                {
+                    "reused": "'The Asturian coach managed to give a new impetus to the national team since his arrival, in 2018, through a profound renovation that has consolidated a generational change in the team and in Spanish football.' That generational change - with the retirements of the remaining members of the squad that dominated European and world football from 2008 to 2012 - was not enough to save Enrique.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.47723904252052307
+                    },
+                    "reused_by_aic": [
+                        "Luis Enrique took over the national team in 2018 to start revamping the squad after its elimination in the round of 16 of the World Cup in Russia."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 101,
+            "article_label": "LEFT",
+            "datetime": "8/12/2022 03:07:18",
+            "total_paragraphs": 19,
+            "total_reused_paragraphs": 2,
+            "reused_ratio": 0.2,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 2,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 1.0,
+                "RIGHT": 0.0
+            },
+            "reused_details": [
+                {
+                    "reused": "Enrique, who guided Barcelona to Champions League glory in 2015, took charge of his country in 2018, shortly after Spain's exit from that year's World Cup.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6098008155822754
+                    },
+                    "reused_by_aic": [
+                        "Luis Enrique took over the national team in 2018 to start revamping the squad after its elimination in the round of 16 of the World Cup in Russia."
+                    ]
+                },
+                {
+                    "reused": "Spain also reached a Nations League final under his guidance but Enrique's future had been the subject of speculation for some time, with reports he was considering a return to club football after the World Cup.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5927949547767639
+                    },
+                    "reused_by_aic": [
+                        "He helped Spain reach the last four of the Nations League twice, including this season and last year, when it lost the final to France."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 102,
+            "article_label": "CENTER",
+            "datetime": "6/12/2022 16:08:55",
+            "total_paragraphs": 10,
+            "total_reused_paragraphs": 0,
+            "reused_ratio": 0.0,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 0,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0,
+                "CENTER": 0,
+                "RIGHT": 0
+            },
+            "reused_details": []
+        },
+        {
+            "article_id": 104,
+            "article_label": "CENTER",
+            "datetime": "18/2/2022 06:27:13",
+            "total_paragraphs": 28,
+            "total_reused_paragraphs": 8,
+            "reused_ratio": 0.8,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 3,
+                "CENTER": 3,
+                "RIGHT": 2
+            },
+            "reused_percentage": {
+                "LEFT": 0.375,
+                "CENTER": 0.375,
+                "RIGHT": 0.25
+            },
+            "reused_details": [
+                {
+                    "reused": "Spain lost to Morocco 3-0 in a penalty shootout after a scoreless draw in regular and extra time.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.3577764928340912
+                    },
+                    "reused_by_aic": [
+                        "The announcement comes two days after Spain lost to Morocco 3-0 in a penalty shootout after a scoreless draw in regular and extra time."
+                    ]
+                },
+                {
+                    "reused": "The Spanish soccer federation thanked Luis Enrique, but said it was time to 'start a new project' to keep the growth achieved by the coach in recent years.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.49917417764663696
+                    },
+                    "reused_by_aic": [
+                        "The federation thanked Luis Enrique but said it was time to 'start a new project' to keep the growth achieved by the coach in recent years."
+                    ]
+                },
+                {
+                    "reused": "Spain got off to a good start in Qatar, routing Costa Rica 7-0, but La Roja couldn't win again in its last three matches.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.44042903184890747
+                    },
+                    "reused_by_aic": [
+                        "Spain got off to a good start in Qatar, routing Costa Rica 7-0, but La Roja couldn't win again in its last three matches."
+                    ]
+                },
+                {
+                    "reused": "It drew 1-1 with Germany and lost 2-1 to Japan before being held by Morocco.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.3703662157058716
+                    },
+                    "reused_by_aic": [
+                        "It drew Germany 1-1 and lost 2-1 to Japan before being held by Morocco."
+                    ]
+                },
+                {
+                    "reused": "Luis Enrique took over the national team in 2018 to start revamping the squad after its elimination in the round of 16 of the World Cup in Russia.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.48675572872161865
+                    },
+                    "reused_by_aic": [
+                        "Luis Enrique took over the national team in 2018 to start revamping the squad after its elimination in the round of 16 of the World Cup in Russia."
+                    ]
+                },
+                {
+                    "reused": "He temporarily left because of the illness and eventual death of his young daughter, but returned in 2019.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.4562259316444397
+                    },
+                    "reused_by_aic": [
+                        "He temporarily left because of the illness and eventual death of his young daughter, but returned in 2019."
+                    ]
+                },
+                {
+                    "reused": "He helped Spain reach the last four of the Nations League twice, including this season and last year, when it lost the final to France.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.4779176712036133
+                    },
+                    "reused_by_aic": [
+                        "He helped Spain reach the last four of the Nations League twice, including this season and last year, when it lost the final to France.",
+                        "He also led Spain to the semifinals of the European Championship in 2020, losing to Italy in a penalty shootout."
+                    ]
+                },
+                {
+                    "reused": "He also led Spain to the semifinals of the European Championship last year, losing to Italy in a penalty shootout.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.4759400486946106
+                    },
+                    "reused_by_aic": [
+                        "He helped Spain reach the last four of the Nations League twice, including this season and last year, when it lost the final to France.",
+                        "He also led Spain to the semifinals of the European Championship in 2020, losing to Italy in a penalty shootout."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 105,
+            "article_label": "LEFT",
+            "datetime": "8/12/2022 05:54:15",
+            "total_paragraphs": 25,
+            "total_reused_paragraphs": 8,
+            "reused_ratio": 0.8,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 3,
+                "CENTER": 3,
+                "RIGHT": 2
+            },
+            "reused_percentage": {
+                "LEFT": 0.375,
+                "CENTER": 0.375,
+                "RIGHT": 0.25
+            },
+            "reused_details": [
+                {
+                    "reused": "Spain lost to Morocco 3-0 in a penalty shootout after a scoreless draw in regular and extra time.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.3577764928340912
+                    },
+                    "reused_by_aic": [
+                        "The announcement comes two days after Spain lost to Morocco 3-0 in a penalty shootout after a scoreless draw in regular and extra time."
+                    ]
+                },
+                {
+                    "reused": "The Spanish soccer federation thanked Luis Enrique, but said it was time to 'start a new project' to keep the growth achieved by the coach in recent years.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.49917417764663696
+                    },
+                    "reused_by_aic": [
+                        "The federation thanked Luis Enrique but said it was time to 'start a new project' to keep the growth achieved by the coach in recent years."
+                    ]
+                },
+                {
+                    "reused": "Spain got off to a good start in Qatar, routing Costa Rica 7-0, but La Roja couldn't win again in its last three matches.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.44042903184890747
+                    },
+                    "reused_by_aic": [
+                        "Spain got off to a good start in Qatar, routing Costa Rica 7-0, but La Roja couldn't win again in its last three matches."
+                    ]
+                },
+                {
+                    "reused": "It drew 1-1 with Germany and lost 2-1 to Japan before being held by Morocco.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.3703662157058716
+                    },
+                    "reused_by_aic": [
+                        "It drew Germany 1-1 and lost 2-1 to Japan before being held by Morocco."
+                    ]
+                },
+                {
+                    "reused": "Luis Enrique took over the national team in 2018 to start revamping the squad after its elimination in the round of 16 of the World Cup in Russia.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.48675572872161865
+                    },
+                    "reused_by_aic": [
+                        "Luis Enrique took over the national team in 2018 to start revamping the squad after its elimination in the round of 16 of the World Cup in Russia."
+                    ]
+                },
+                {
+                    "reused": "He temporarily left because of the illness and eventual death of his young daughter, but returned in 2019.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.4562259316444397
+                    },
+                    "reused_by_aic": [
+                        "He temporarily left because of the illness and eventual death of his young daughter, but returned in 2019."
+                    ]
+                },
+                {
+                    "reused": "He helped Spain reach the last four of the Nations League twice, including this season and last year, when it lost the final to France.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.4779176712036133
+                    },
+                    "reused_by_aic": [
+                        "He helped Spain reach the last four of the Nations League twice, including this season and last year, when it lost the final to France.",
+                        "He also led Spain to the semifinals of the European Championship in 2020, losing to Italy in a penalty shootout."
+                    ]
+                },
+                {
+                    "reused": "He also led Spain to the semifinals of the European Championship last year, losing to Italy in a penalty shootout.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.4759400486946106
+                    },
+                    "reused_by_aic": [
+                        "He helped Spain reach the last four of the Nations League twice, including this season and last year, when it lost the final to France.",
+                        "He also led Spain to the semifinals of the European Championship in 2020, losing to Italy in a penalty shootout."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 106,
+            "article_label": "LEFT",
+            "datetime": "8/12/2022 06:59:26",
+            "total_paragraphs": 28,
+            "total_reused_paragraphs": 8,
+            "reused_ratio": 0.8,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 3,
+                "CENTER": 3,
+                "RIGHT": 2
+            },
+            "reused_percentage": {
+                "LEFT": 0.375,
+                "CENTER": 0.375,
+                "RIGHT": 0.25
+            },
+            "reused_details": [
+                {
+                    "reused": "Spain lost to Morocco 3-0 in a penalty shootout after a scoreless draw in regular and extra time.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.3577764928340912
+                    },
+                    "reused_by_aic": [
+                        "The announcement comes two days after Spain lost to Morocco 3-0 in a penalty shootout after a scoreless draw in regular and extra time."
+                    ]
+                },
+                {
+                    "reused": "The Spanish soccer federation thanked Luis Enrique, but said it was time to \"start a new project\" to keep the growth achieved by the coach in recent years.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6589546799659729
+                    },
+                    "reused_by_aic": [
+                        "The federation thanked Luis Enrique but said it was time to 'start a new project' to keep the growth achieved by the coach in recent years."
+                    ]
+                },
+                {
+                    "reused": "Spain got off to a good start in Qatar, routing Costa Rica 7-0, but La Roja couldn't win again in its last three matches.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.44042903184890747
+                    },
+                    "reused_by_aic": [
+                        "Spain got off to a good start in Qatar, routing Costa Rica 7-0, but La Roja couldn't win again in its last three matches."
+                    ]
+                },
+                {
+                    "reused": "It drew 1-1 with Germany and lost 2-1 to Japan before being held by Morocco.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.3703662157058716
+                    },
+                    "reused_by_aic": [
+                        "It drew Germany 1-1 and lost 2-1 to Japan before being held by Morocco."
+                    ]
+                },
+                {
+                    "reused": "Luis Enrique took over the national team in 2018 to start revamping the squad after its elimination in the round of 16 of the World Cup in Russia.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.48675572872161865
+                    },
+                    "reused_by_aic": [
+                        "Luis Enrique took over the national team in 2018 to start revamping the squad after its elimination in the round of 16 of the World Cup in Russia."
+                    ]
+                },
+                {
+                    "reused": "He temporarily left because of the illness and eventual death of his young daughter, but returned in 2019.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.4562259316444397
+                    },
+                    "reused_by_aic": [
+                        "He temporarily left because of the illness and eventual death of his young daughter, but returned in 2019."
+                    ]
+                },
+                {
+                    "reused": "He helped Spain reach the last four of the Nations League twice, including this season and last year, when it lost the final to France.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.4779176712036133
+                    },
+                    "reused_by_aic": [
+                        "He helped Spain reach the last four of the Nations League twice, including this season and last year, when it lost the final to France.",
+                        "He also led Spain to the semifinals of the European Championship in 2020, losing to Italy in a penalty shootout."
+                    ]
+                },
+                {
+                    "reused": "He also led Spain to the semifinals of the European Championship last year, losing to Italy in a penalty shootout.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.4759400486946106
+                    },
+                    "reused_by_aic": [
+                        "He helped Spain reach the last four of the Nations League twice, including this season and last year, when it lost the final to France.",
+                        "He also led Spain to the semifinals of the European Championship in 2020, losing to Italy in a penalty shootout."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 107,
+            "article_label": "RIGHT",
+            "datetime": "8/12/2022 00:35:12",
+            "total_paragraphs": 15,
+            "total_reused_paragraphs": 3,
+            "reused_ratio": 0.3,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 2,
+                "RIGHT": 1
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 0.6666666666666666,
+                "RIGHT": 0.3333333333333333
+            },
+            "reused_details": [
+                {
+                    "reused": "He led La Roja to the semifinals of the Euro 2020 last year, where they lost on penalties to Italy, and to the 2020-21 Nations League final, where they were beaten by France.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.4656376838684082
+                    },
+                    "reused_by_aic": [
+                        "He also led Spain to the semifinals of the European Championship in 2020, losing to Italy in a penalty shootout."
+                    ]
+                },
+                {
+                    "reused": "Spain's loss to Morocco was their third straight tournament exit on penalties, having also suffered defeat by that method against hosts Russia in the 2018 World Cup last 16.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5763158202171326
+                    },
+                    "reused_by_aic": [
+                        "The announcement comes two days after Spain lost to Morocco 3-0 in a penalty shootout after a scoreless draw in regular and extra time."
+                    ]
+                },
+                {
+                    "reused": "However, a 2-1 loss to Japan saw them finish second in Group E and they could not overcome a Morocco side 15 places below them in the latest FIFA rankings.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.4355711042881012
+                    },
+                    "reused_by_aic": [
+                        "It drew Germany 1-1 and lost 2-1 to Japan before being held by Morocco."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 108,
+            "article_label": "LEFT",
+            "datetime": "8/12/2022 06:59:22",
+            "total_paragraphs": 35,
+            "total_reused_paragraphs": 2,
+            "reused_ratio": 0.2,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 1,
+                "RIGHT": 1
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 0.5,
+                "RIGHT": 0.5
+            },
+            "reused_details": [
+                {
+                    "reused": "Luis Enrique, 52, guided Spain to the semifinals of Euro 2020 and the final of the Nations League in 2021, and recently steered La Roja to the final four of the 2023 Nations League.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.4004445970058441
+                    },
+                    "reused_by_aic": [
+                        "He helped Spain reach the last four of the Nations League twice, including this season and last year, when it lost the final to France."
+                    ]
+                },
+                {
+                    "reused": "Spain could not have asked for a better start to the tournament than a 7-0 demolition of Costa Rica, the country's biggest ever World Cup win.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5474366545677185
+                    },
+                    "reused_by_aic": [
+                        "Spain got off to a good start in Qatar, routing Costa Rica 7-0, but La Roja couldn't win again in its last three matches."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 109,
+            "article_label": "LEFT",
+            "datetime": "8/12/2022 05:15:38",
+            "total_paragraphs": 16,
+            "total_reused_paragraphs": 1,
+            "reused_ratio": 0.1,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 1,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 1.0,
+                "RIGHT": 0.0
+            },
+            "reused_details": [
+                {
+                    "reused": "Luis Enrique will not continue as Spain's head coach following their World Cup exit this week.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6404160261154175
+                    },
+                    "reused_by_aic": [
+                        "Announcement comes two days after Spain lost to Morocco 3-0 in a penalty shootout Doha, December 8 The Spanish soccer federation said on Thursday that Luis Enrique will not continue as coach of the men's national team following its elimination in the round of 16 of the World Cup."
+                    ]
+                }
+            ]
+        }
+    ]
+}

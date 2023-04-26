@@ -1,0 +1,711 @@
+{
+    "article_id": 78,
+    "article_datetime": "8/12/2022 06:55:05",
+    "article_label": "RIGHT",
+    "article_total_paragraphs": 15,
+    "biased_by_these_sources": [],
+    "biased_labels": {
+        "LEFT": 0,
+        "CENTER": 0,
+        "RIGHT": 0
+    },
+    "is_biased": "No",
+    "earlier_articles": [
+        {
+            "article_id": 69,
+            "article_label": "CENTER",
+            "datetime": "8/12/2022 00:32:36",
+            "total_paragraphs": 10,
+            "total_reused_paragraphs": 1,
+            "reused_ratio": 0.07,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 1,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 1.0,
+                "RIGHT": 0.0
+            },
+            "reused_details": [
+                {
+                    "reused": "The RFEF would like to thank Luis Enrique and his entire coaching staff for the work done in the last few years.\"",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6276548504829407
+                    },
+                    "reused_by_aic": [
+                        "They thanked Enrique and his coaching staff for their hard work with the national team."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 71,
+            "article_label": "LEFT",
+            "datetime": "8/12/2022 06:35:43",
+            "total_paragraphs": 28,
+            "total_reused_paragraphs": 2,
+            "reused_ratio": 0.13,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 1,
+                "RIGHT": 1
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 0.5,
+                "RIGHT": 0.5
+            },
+            "reused_details": [
+                {
+                    "reused": "(AP Photo/Luca Bruno) DOHA, Qatar (AP) ' Luis Enrique was replaced by Luis de la Fuente as Spain's coach on Thursday, two days after the national team was eliminated in the round of 16 at the World Cup.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6984080076217651
+                    },
+                    "reused_by_aic": [
+                        "Luis Enrique , the Spanish head coach, has resigned from the national team following Spain's defeat in the Round of 16."
+                    ]
+                },
+                {
+                    "reused": "Spain lost to Morocco 3-0 in a penalty shootout after a scoreless draw in regular and extra time.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.3577764928340912
+                    },
+                    "reused_by_aic": [
+                        "In a surprising turn of events, Spain  lost to  in the penalty shootout 3-1."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 74,
+            "article_label": "CENTER",
+            "datetime": "6/12/2022 05:19:31",
+            "total_paragraphs": 27,
+            "total_reused_paragraphs": 2,
+            "reused_ratio": 0.13,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 1,
+                "RIGHT": 1
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 0.5,
+                "RIGHT": 0.5
+            },
+            "reused_details": [
+                {
+                    "reused": "DOHA, QATAR - Luis Enrique was replaced by Luis de la Fuente as Spain's coach on Thursday, two days after the national team was eliminated in the round of 16 at the World Cup.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6361551880836487
+                    },
+                    "reused_by_aic": [
+                        "Luis Enrique , the Spanish head coach, has resigned from the national team following Spain's defeat in the Round of 16."
+                    ]
+                },
+                {
+                    "reused": "Spain lost to Morocco 3-0 in a penalty shootout after a scoreless draw in regular and extra time.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.3577764928340912
+                    },
+                    "reused_by_aic": [
+                        "In a surprising turn of events, Spain  lost to  in the penalty shootout 3-1."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 77,
+            "article_label": "LEFT",
+            "datetime": "8/12/2022 00:43:33",
+            "total_paragraphs": 11,
+            "total_reused_paragraphs": 3,
+            "reused_ratio": 0.2,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 2,
+                "RIGHT": 1
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 0.6666666666666666,
+                "RIGHT": 0.3333333333333333
+            },
+            "reused_details": [
+                {
+                    "reused": "Luis Enrique has left his role as coach of Spain's national team after the country crashed out of the World Cup by losing on penalties to Morocco.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6539036631584167
+                    },
+                    "reused_by_aic": [
+                        "Luis Enrique , the Spanish head coach, has resigned from the national team following Spain's defeat in the Round of 16."
+                    ]
+                },
+                {
+                    "reused": "The Spanish Football Federation (RFEF) said in a statement that it \"would like to thank Luis Enrique and all his coaching staff for their work at the head of the senior national team over the last few years\".",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6410211324691772
+                    },
+                    "reused_by_aic": [
+                        "They thanked Enrique and his coaching staff for their hard work with the national team."
+                    ]
+                },
+                {
+                    "reused": "The federation pointed out that under Enrique, Spain had reached the final four of the UEFA Nations League twice out of three attempts ' last year they lost in the final to France ' and the semi-finals of Euro 2020, when they lost to the eventual winners Italy on penalties.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.4155816435813904
+                    },
+                    "reused_by_aic": [
+                        "In a surprising turn of events, Spain  lost to  in the penalty shootout 3-1.",
+                        "Despite their best efforts, Luis Enrique and his team could not qualify for the quarter-finals."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 81,
+            "article_label": "LEFT",
+            "datetime": "8/12/2022 00:06:43",
+            "total_paragraphs": 17,
+            "total_reused_paragraphs": 1,
+            "reused_ratio": 0.07,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 1,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 1.0,
+                "RIGHT": 0.0
+            },
+            "reused_details": [
+                {
+                    "reused": "\"I am very happy with the Spanish FA, the president and with (the sporting director),\" he said.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6644171476364136
+                    },
+                    "reused_by_aic": [
+                        "He is happy with the national team and the Spanish football federation."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 82,
+            "article_label": "RIGHT",
+            "datetime": "8/12/2022 04:09:58",
+            "total_paragraphs": 18,
+            "total_reused_paragraphs": 0,
+            "reused_ratio": 0.0,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 0,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0,
+                "CENTER": 0,
+                "RIGHT": 0
+            },
+            "reused_details": []
+        },
+        {
+            "article_id": 83,
+            "article_label": "LEFT",
+            "datetime": "8/12/2022 06:22:39",
+            "total_paragraphs": 26,
+            "total_reused_paragraphs": 2,
+            "reused_ratio": 0.13,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 1,
+                "RIGHT": 1
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 0.5,
+                "RIGHT": 0.5
+            },
+            "reused_details": [
+                {
+                    "reused": "(AP Photo/Luca Bruno) DOHA, Qatar (AP) ' Luis Enrique was replaced by Luis de la Fuente as Spain's coach on Thursday, two days after the national team was eliminated in the round of 16 at the World Cup.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6984080076217651
+                    },
+                    "reused_by_aic": [
+                        "Luis Enrique , the Spanish head coach, has resigned from the national team following Spain's defeat in the Round of 16."
+                    ]
+                },
+                {
+                    "reused": "Spain lost to Morocco 3-0 in a penalty shootout after a scoreless draw in regular and extra time.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.3577764928340912
+                    },
+                    "reused_by_aic": [
+                        "In a surprising turn of events, Spain  lost to  in the penalty shootout 3-1."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 87,
+            "article_label": "LEFT",
+            "datetime": "8/12/2022 03:30:03",
+            "total_paragraphs": 11,
+            "total_reused_paragraphs": 2,
+            "reused_ratio": 0.13,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 1,
+                "CENTER": 0,
+                "RIGHT": 1
+            },
+            "reused_percentage": {
+                "LEFT": 0.5,
+                "CENTER": 0.0,
+                "RIGHT": 0.5
+            },
+            "reused_details": [
+                {
+                    "reused": "Spain were beaten on penalties after a goalless draw on Tuesday in an upset result after failing to turn their dominance into a victory.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.4800519347190857
+                    },
+                    "reused_by_aic": [
+                        "In a surprising turn of events, Spain  lost to  in the penalty shootout 3-1."
+                    ]
+                },
+                {
+                    "reused": "Spain got off to a good start in Qatar, routing Costa Rica 7-0, but La Roja couldn't win again in their last three matches, drawing 1-1 with Germany and losing 2-1 to Japan before being held by Morocco.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.4313074052333832
+                    },
+                    "reused_by_aic": [
+                        "In a surprising turn of events, Spain  lost to  in the penalty shootout 3-1."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 89,
+            "article_label": "LEFT",
+            "datetime": "8/12/2022 01:53:32",
+            "total_paragraphs": 5,
+            "total_reused_paragraphs": 1,
+            "reused_ratio": 0.07,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 1,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 1.0,
+                "RIGHT": 0.0
+            },
+            "reused_details": [
+                {
+                    "reused": "Spain coach Luis Enrique has left his job after the country's elimination in the last-16 at the World Cup, the Spanish football federation said on Twitter on Thursday.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6398383975028992
+                    },
+                    "reused_by_aic": [
+                        "Luis Enrique , the Spanish head coach, has resigned from the national team following Spain's defeat in the Round of 16."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 92,
+            "article_label": "LEFT",
+            "datetime": "8/12/2022 05:10:50",
+            "total_paragraphs": 26,
+            "total_reused_paragraphs": 3,
+            "reused_ratio": 0.2,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 2,
+                "RIGHT": 1
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 0.6666666666666666,
+                "RIGHT": 0.3333333333333333
+            },
+            "reused_details": [
+                {
+                    "reused": "Luis Enrique has been replaced by Luis de la Fuente as Spain's coach after the national team was eliminated in the round of 16 at the World Cup Spain's head coach Luis Enrique reacts to supporters at the end of the World Cup round of 16 soccer match between Morocco and Spain, at the Education City Stadium in Al Rayyan, Qatar, Tuesday, Dec. 6, 2022.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6172313094139099
+                    },
+                    "reused_by_aic": [
+                        "Luis Enrique , the Spanish head coach, has resigned from the national team following Spain's defeat in the Round of 16."
+                    ]
+                },
+                {
+                    "reused": "(AP Photo/Martin Meissner) The Associated Press DOHA, Qatar -- Luis Enrique was replaced by Luis de la Fuente as Spain's coach on Thursday, two days after the national team was eliminated in the round of 16 at the World Cup.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6914379596710205
+                    },
+                    "reused_by_aic": [
+                        "Luis Enrique , the Spanish head coach, has resigned from the national team following Spain's defeat in the Round of 16."
+                    ]
+                },
+                {
+                    "reused": "Spain lost to Morocco 3-0 in a penalty shootout after a scoreless draw in regular and extra time.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.3577764928340912
+                    },
+                    "reused_by_aic": [
+                        "In a surprising turn of events, Spain  lost to  in the penalty shootout 3-1."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 96,
+            "article_label": "CENTER",
+            "datetime": "8/12/2022 02:51:05",
+            "total_paragraphs": 5,
+            "total_reused_paragraphs": 0,
+            "reused_ratio": 0.0,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 0,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0,
+                "CENTER": 0,
+                "RIGHT": 0
+            },
+            "reused_details": []
+        },
+        {
+            "article_id": 101,
+            "article_label": "LEFT",
+            "datetime": "8/12/2022 03:07:18",
+            "total_paragraphs": 19,
+            "total_reused_paragraphs": 2,
+            "reused_ratio": 0.13,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 2,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 1.0,
+                "RIGHT": 0.0
+            },
+            "reused_details": [
+                {
+                    "reused": "Spain suffered a disappointing last-16 exit at the World Cup after losing to Morocco on penalties on Tuesday.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5826372504234314
+                    },
+                    "reused_by_aic": [
+                        "In a surprising turn of events, Spain  lost to  in the penalty shootout 3-1."
+                    ]
+                },
+                {
+                    "reused": "Luis Enrique is to leave his post as Spain manager and be replaced by Under-21s boss Luis De La Fuente, the country's football federation has announced.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5275006890296936
+                    },
+                    "reused_by_aic": [
+                        "Luis Enrique , the Spanish head coach, has resigned from the national team following Spain's defeat in the Round of 16."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 102,
+            "article_label": "CENTER",
+            "datetime": "6/12/2022 16:08:55",
+            "total_paragraphs": 10,
+            "total_reused_paragraphs": 1,
+            "reused_ratio": 0.07,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 1,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 1.0,
+                "RIGHT": 0.0
+            },
+            "reused_details": [
+                {
+                    "reused": "The RFEF would like to thank Luis Enrique and his entire coaching staff for the work done in the last few years.\"",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6276548504829407
+                    },
+                    "reused_by_aic": [
+                        "They thanked Enrique and his coaching staff for their hard work with the national team."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 104,
+            "article_label": "CENTER",
+            "datetime": "18/2/2022 06:27:13",
+            "total_paragraphs": 28,
+            "total_reused_paragraphs": 2,
+            "reused_ratio": 0.13,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 1,
+                "RIGHT": 1
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 0.5,
+                "RIGHT": 0.5
+            },
+            "reused_details": [
+                {
+                    "reused": "(AP Photo/Luca Bruno) DOHA, Qatar (AP) ' Luis Enrique was replaced by Luis de la Fuente as Spain's coach on Thursday, two days after the national team was eliminated in the round of 16 at the World Cup.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6984080076217651
+                    },
+                    "reused_by_aic": [
+                        "Luis Enrique , the Spanish head coach, has resigned from the national team following Spain's defeat in the Round of 16."
+                    ]
+                },
+                {
+                    "reused": "Spain lost to Morocco 3-0 in a penalty shootout after a scoreless draw in regular and extra time.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.3577764928340912
+                    },
+                    "reused_by_aic": [
+                        "In a surprising turn of events, Spain  lost to  in the penalty shootout 3-1."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 105,
+            "article_label": "LEFT",
+            "datetime": "8/12/2022 05:54:15",
+            "total_paragraphs": 25,
+            "total_reused_paragraphs": 2,
+            "reused_ratio": 0.13,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 1,
+                "RIGHT": 1
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 0.5,
+                "RIGHT": 0.5
+            },
+            "reused_details": [
+                {
+                    "reused": "Spain lost to Morocco 3-0 in a penalty shootout after a scoreless draw in regular and extra time.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.3577764928340912
+                    },
+                    "reused_by_aic": [
+                        "In a surprising turn of events, Spain  lost to  in the penalty shootout 3-1."
+                    ]
+                },
+                {
+                    "reused": "Spain got off to a good start in Qatar, routing Costa Rica 7-0, but La Roja couldn't win again in its last three matches.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.44042903184890747
+                    },
+                    "reused_by_aic": [
+                        "In a surprising turn of events, Spain  lost to  in the penalty shootout 3-1."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 107,
+            "article_label": "RIGHT",
+            "datetime": "8/12/2022 00:35:12",
+            "total_paragraphs": 15,
+            "total_reused_paragraphs": 5,
+            "reused_ratio": 0.33,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 1,
+                "CENTER": 4,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.2,
+                "CENTER": 0.8,
+                "RIGHT": 0.0
+            },
+            "reused_details": [
+                {
+                    "reused": "His contract was due to expire at the end of the tournament in Qatar, and it was confirmed on Thursday he will not be staying on.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.571000874042511
+                    },
+                    "reused_by_aic": [
+                        "His contract was about to expire after the World Cup this winter."
+                    ]
+                },
+                {
+                    "reused": "Spain's loss to Morocco was their third straight tournament exit on penalties, having also suffered defeat by that method against hosts Russia in the 2018 World Cup last 16.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5763158202171326
+                    },
+                    "reused_by_aic": [
+                        "In a surprising turn of events, Spain  lost to  in the penalty shootout 3-1."
+                    ]
+                },
+                {
+                    "reused": "Spain's failure to score a single penalty in Tuesday's shootout made them just the second team to do so in World Cup history, after Switzerland against Ukraine in 2006.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6246914267539978
+                    },
+                    "reused_by_aic": [
+                        "In a surprising turn of events, Spain  lost to  in the penalty shootout 3-1."
+                    ]
+                },
+                {
+                    "reused": "\"The RFEF would like to thank Luis Enrique and his entire coaching staff at the helm of the absolute national team in recent years,\" the statement read.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6377153992652893
+                    },
+                    "reused_by_aic": [
+                        "They thanked Enrique and his coaching staff for their hard work with the national team."
+                    ]
+                },
+                {
+                    "reused": "The Spanish FA has announced that Luis Enrique would be replaced by Jose Luis de la Fuente as Spain's coach.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.631401002407074
+                    },
+                    "reused_by_aic": [
+                        "Luis Enrique , the Spanish head coach, has resigned from the national team following Spain's defeat in the Round of 16."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 109,
+            "article_label": "LEFT",
+            "datetime": "8/12/2022 05:15:38",
+            "total_paragraphs": 16,
+            "total_reused_paragraphs": 5,
+            "reused_ratio": 0.33,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 3,
+                "CENTER": 2,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.6,
+                "CENTER": 0.4,
+                "RIGHT": 0.0
+            },
+            "reused_details": [
+                {
+                    "reused": "The 52-year-old has been Spain's head coach since 2018 and his contract was due to expire after the World Cup this winter.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5075995326042175
+                    },
+                    "reused_by_aic": [
+                        "The 52-year-old has been Spain's coach since 2018."
+                    ]
+                },
+                {
+                    "reused": "Speaking about his future after Spain's World Cup exit, Luis Enrique said: 'I can't tell you.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.4926621615886688
+                    },
+                    "reused_by_aic": [
+                        "When asked about his future, Enrique replied that now is not the time to talk about his future."
+                    ]
+                },
+                {
+                    "reused": "'Now is not the time for me to talk about my future.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.4701882004737854
+                    },
+                    "reused_by_aic": [
+                        "When asked about his future, Enrique replied that now is not the time to talk about his future."
+                    ]
+                },
+                {
+                    "reused": "'Luis Enrique qualified for two Final Four of the UEFA Nations League, of the three he played as coach; and he reached the semifinals of Euro 2020 with his own stamp and through a defined style.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.4366794228553772
+                    },
+                    "reused_by_aic": [
+                        "As a coach, Enrique was able to qualify for two final four of the UEFA National League ."
+                    ]
+                },
+                {
+                    "reused": "'The RFEF energetically wishes Luis Enrique and his team the best of luck in their future professional projects.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.4101581573486328
+                    },
+                    "reused_by_aic": [
+                        "They thanked Enrique and his coaching staff for their hard work with the national team."
+                    ]
+                }
+            ]
+        }
+    ]
+}

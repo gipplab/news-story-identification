@@ -1,0 +1,1468 @@
+{
+    "article_id": 97,
+    "article_datetime": "8/12/2022 09:49:11",
+    "article_label": "RIGHT",
+    "article_total_paragraphs": 9,
+    "biased_by_these_sources": [],
+    "biased_labels": {
+        "LEFT": 0,
+        "CENTER": 0,
+        "RIGHT": 0
+    },
+    "is_biased": "No",
+    "earlier_articles": [
+        {
+            "article_id": 68,
+            "article_label": "LEFT",
+            "datetime": "8/12/2022 08:40:07",
+            "total_paragraphs": 27,
+            "total_reused_paragraphs": 4,
+            "reused_ratio": 0.44,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 4,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 1.0,
+                "RIGHT": 0.0
+            },
+            "reused_details": [
+                {
+                    "reused": "(AP Photo/Luca Bruno) DOHA, Qatar (AP) ' Luis Enrique was replaced by Luis de la Fuente as Spain's coach on Thursday, two days after the national team was eliminated in the round of 16 at the World Cup.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6984080076217651
+                    },
+                    "reused_by_aic": [
+                        "SPAIN coach Luis Enrique has been sacked after his country's World Cup flop.",
+                        "But just two days after Luis Enrique and his squad landed back in Madrid following their frustrations in the desert, the coach was handed his marching orders by Spanish FA chiefs."
+                    ]
+                },
+                {
+                    "reused": "The Spanish soccer federation thanked Luis Enrique, but said it was time to 'start a new project' to keep the growth achieved by the coach in recent years.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.49917417764663696
+                    },
+                    "reused_by_aic": [
+                        "In a statement issued by Madrid bosses, they said: 'The sports management of the RFEF (Spanish FA) has transferred to the president a report in which it is determined that a new project should start for the Spanish Soccer Team."
+                    ]
+                },
+                {
+                    "reused": "Other candidates who had been considered besides De la Fuente, who was Spain's under-21 coach, included former Belgium manager Roberto Mart'nez and former Athletic Bilbao coach Marcelino Garc'a Toral.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.4429316818714142
+                    },
+                    "reused_by_aic": [
+                        "His successor has been named as current under-21 coach Luis de la Fuente, who has been in charge of development and youth teams since 2013 and who won both the European under-19 and under-21 titles in that period."
+                    ]
+                },
+                {
+                    "reused": "Luis Enrique took over the national team in 2018 to start revamping the squad after its elimination in the round of 16 of the World Cup in Russia.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.48675572872161865
+                    },
+                    "reused_by_aic": [
+                        "'The Asturian coach managed to give a new impetus to the national team since his arrival, in 2018, through a profound renovation that has consolidated a generational change in the team and in Spanish football.' That generational change - with the retirements of the remaining members of the squad that dominated European and world football from 2008 to 2012 - was not enough to save Enrique."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 69,
+            "article_label": "CENTER",
+            "datetime": "8/12/2022 00:32:36",
+            "total_paragraphs": 10,
+            "total_reused_paragraphs": 5,
+            "reused_ratio": 0.56,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 4,
+                "RIGHT": 1
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 0.8,
+                "RIGHT": 0.2
+            },
+            "reused_details": [
+                {
+                    "reused": "Luis Enrique was sacked as Spain coach on Thursday after the team's elimination in the last-16 at the World Cup with the country's under-21 manager Luis de la Fuente named as his replacement by the Spanish football federation (RFEF).",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6420320868492126
+                    },
+                    "reused_by_aic": [
+                        "SPAIN coach Luis Enrique has been sacked after his country's World Cup flop."
+                    ]
+                },
+                {
+                    "reused": "\"The RFEF has chosen Luis de la Fuente as the new (Spain) coach,\" RFEF said in a statement.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6544445157051086
+                    },
+                    "reused_by_aic": [
+                        "His successor has been named as current under-21 coach Luis de la Fuente, who has been in charge of development and youth teams since 2013 and who won both the European under-19 and under-21 titles in that period."
+                    ]
+                },
+                {
+                    "reused": "\"The ... RFEF has delivered to the president a report in which it determined that a new project should start for the Spain national team, with the aim of continuing the growth achieved in recent years thanks to the work carried out by Luis Enrique (and the staff).",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6620570421218872
+                    },
+                    "reused_by_aic": [
+                        "In a statement issued by Madrid bosses, they said: 'The sports management of the RFEF (Spanish FA) has transferred to the president a report in which it is determined that a new project should start for the Spanish Soccer Team."
+                    ]
+                },
+                {
+                    "reused": "\"Both the RFEF president Luis Rubiales and sports director, Jose Francisco Molina have informed Luis Enrique of the decision.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6745920181274414
+                    },
+                    "reused_by_aic": [
+                        "'Both the president, Luis Rubiales, and the sports director, Jose Francisco Molina, have transmitted the decision to the coach."
+                    ]
+                },
+                {
+                    "reused": "De la Fuente, 61, joined the RFEF in 2013 as the under-15 manager having worked with players like Marco Asensio, goalkeeper Unai Simon, Eric Garcia, Pau Torres, Pedri, Carlos Soler and Dani Olmo when they were youngsters.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.44955986738204956
+                    },
+                    "reused_by_aic": [
+                        "His successor has been named as current under-21 coach Luis de la Fuente, who has been in charge of development and youth teams since 2013 and who won both the European under-19 and under-21 titles in that period."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 71,
+            "article_label": "LEFT",
+            "datetime": "8/12/2022 06:35:43",
+            "total_paragraphs": 28,
+            "total_reused_paragraphs": 5,
+            "reused_ratio": 0.56,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 5,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 1.0,
+                "RIGHT": 0.0
+            },
+            "reused_details": [
+                {
+                    "reused": "DOHA, Qatar (AP) ' Luis Enrique was replaced by Luis de la Fuente as Spain's coach on Thursday, two days after the national team was eliminated in the round of 16 at the World Cup .",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.646562933921814
+                    },
+                    "reused_by_aic": [
+                        "SPAIN coach Luis Enrique has been sacked after his country's World Cup flop."
+                    ]
+                },
+                {
+                    "reused": "(AP Photo/Luca Bruno) DOHA, Qatar (AP) ' Luis Enrique was replaced by Luis de la Fuente as Spain's coach on Thursday, two days after the national team was eliminated in the round of 16 at the World Cup.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6984080076217651
+                    },
+                    "reused_by_aic": [
+                        "SPAIN coach Luis Enrique has been sacked after his country's World Cup flop.",
+                        "But just two days after Luis Enrique and his squad landed back in Madrid following their frustrations in the desert, the coach was handed his marching orders by Spanish FA chiefs."
+                    ]
+                },
+                {
+                    "reused": "The Spanish soccer federation thanked Luis Enrique, but said it was time to 'start a new project' to keep the growth achieved by the coach in recent years.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.49917417764663696
+                    },
+                    "reused_by_aic": [
+                        "In a statement issued by Madrid bosses, they said: 'The sports management of the RFEF (Spanish FA) has transferred to the president a report in which it is determined that a new project should start for the Spanish Soccer Team."
+                    ]
+                },
+                {
+                    "reused": "Other candidates who had been considered besides De la Fuente, who was Spain's under-21 coach, included former Belgium manager Roberto Mart'nez and former Athletic Bilbao coach Marcelino Garc'a Toral.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.4429316818714142
+                    },
+                    "reused_by_aic": [
+                        "His successor has been named as current under-21 coach Luis de la Fuente, who has been in charge of development and youth teams since 2013 and who won both the European under-19 and under-21 titles in that period."
+                    ]
+                },
+                {
+                    "reused": "Luis Enrique took over the national team in 2018 to start revamping the squad after its elimination in the round of 16 of the World Cup in Russia.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.48675572872161865
+                    },
+                    "reused_by_aic": [
+                        "'The Asturian coach managed to give a new impetus to the national team since his arrival, in 2018, through a profound renovation that has consolidated a generational change in the team and in Spanish football.' That generational change - with the retirements of the remaining members of the squad that dominated European and world football from 2008 to 2012 - was not enough to save Enrique."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 74,
+            "article_label": "CENTER",
+            "datetime": "6/12/2022 05:19:31",
+            "total_paragraphs": 27,
+            "total_reused_paragraphs": 3,
+            "reused_ratio": 0.33,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 3,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 1.0,
+                "RIGHT": 0.0
+            },
+            "reused_details": [
+                {
+                    "reused": "DOHA, QATAR - Luis Enrique was replaced by Luis de la Fuente as Spain's coach on Thursday, two days after the national team was eliminated in the round of 16 at the World Cup.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6361551880836487
+                    },
+                    "reused_by_aic": [
+                        "SPAIN coach Luis Enrique has been sacked after his country's World Cup flop."
+                    ]
+                },
+                {
+                    "reused": "The 61-year-old De la Fuente, a former left back with Sevilla and Athletic Bilbao, helped Spain's under-19 squad win the European Championship in 2015, and the under-21 team win Euro 2019.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5690251588821411
+                    },
+                    "reused_by_aic": [
+                        "His successor has been named as current under-21 coach Luis de la Fuente, who has been in charge of development and youth teams since 2013 and who won both the European under-19 and under-21 titles in that period."
+                    ]
+                },
+                {
+                    "reused": "Luis Enrique took over the national team in 2018 to start revamping the squad after its elimination in the round of 16 of the World Cup in Russia.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.48675572872161865
+                    },
+                    "reused_by_aic": [
+                        "'The Asturian coach managed to give a new impetus to the national team since his arrival, in 2018, through a profound renovation that has consolidated a generational change in the team and in Spanish football.' That generational change - with the retirements of the remaining members of the squad that dominated European and world football from 2008 to 2012 - was not enough to save Enrique."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 75,
+            "article_label": "CENTER",
+            "datetime": "8/12/2022 07:09:07",
+            "total_paragraphs": 8,
+            "total_reused_paragraphs": 2,
+            "reused_ratio": 0.22,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 0,
+                "RIGHT": 2
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 0.0,
+                "RIGHT": 1.0
+            },
+            "reused_details": [
+                {
+                    "reused": "Luis Enrique is no longer head coach of the Spanish soccer team after their shock World Cup exit to Morocco.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.43675002455711365
+                    },
+                    "reused_by_aic": [
+                        "SPAIN coach Luis Enrique has been sacked after his country's World Cup flop."
+                    ]
+                },
+                {
+                    "reused": "De la Fuente has worked his way up through under-19, under-21, and under-23 roles in recent years with his main coaching experience at club level as short stint with Alaves back in 2011.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.3875831663608551
+                    },
+                    "reused_by_aic": [
+                        "His successor has been named as current under-21 coach Luis de la Fuente, who has been in charge of development and youth teams since 2013 and who won both the European under-19 and under-21 titles in that period."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 77,
+            "article_label": "LEFT",
+            "datetime": "8/12/2022 00:43:33",
+            "total_paragraphs": 11,
+            "total_reused_paragraphs": 4,
+            "reused_ratio": 0.44,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 3,
+                "RIGHT": 1
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 0.75,
+                "RIGHT": 0.25
+            },
+            "reused_details": [
+                {
+                    "reused": "Luis Enrique has left his role as coach of Spain's national team after the country crashed out of the World Cup by losing on penalties to Morocco.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6539036631584167
+                    },
+                    "reused_by_aic": [
+                        "SPAIN coach Luis Enrique has been sacked after his country's World Cup flop."
+                    ]
+                },
+                {
+                    "reused": "He will be succeeded by the manager of Spain's under-21 team, Luis de la Fuente.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5471748113632202
+                    },
+                    "reused_by_aic": [
+                        "His successor has been named as current under-21 coach Luis de la Fuente, who has been in charge of development and youth teams since 2013 and who won both the European under-19 and under-21 titles in that period."
+                    ]
+                },
+                {
+                    "reused": "\"The RFEF sports management has sent the president a report in which it is determined that a new project for the Spanish national football team should be started, with the aim of continuing the growth achieved in recent years thanks to the work carried out by Luis Enrique and his collaborators,\" it added.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6251189708709717
+                    },
+                    "reused_by_aic": [
+                        "In a statement issued by Madrid bosses, they said: 'The sports management of the RFEF (Spanish FA) has transferred to the president a report in which it is determined that a new project should start for the Spanish Soccer Team."
+                    ]
+                },
+                {
+                    "reused": "The federation pointed out that under Enrique, Spain had reached the final four of the UEFA Nations League twice out of three attempts ' last year they lost in the final to France ' and the semi-finals of Euro 2020, when they lost to the eventual winners Italy on penalties.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.4155816435813904
+                    },
+                    "reused_by_aic": [
+                        "Spain have now gone out of their last three tournaments on penalties, losing to Russia in 2018 and Italy in the Euro 2020 semi-finals with criticism that Enrique's teams controlled possession but lacked a cutting edge."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 78,
+            "article_label": "RIGHT",
+            "datetime": "8/12/2022 06:55:05",
+            "total_paragraphs": 15,
+            "total_reused_paragraphs": 1,
+            "reused_ratio": 0.11,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 0,
+                "RIGHT": 1
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 0.0,
+                "RIGHT": 1.0
+            },
+            "reused_details": [
+                {
+                    "reused": "In a surprising turn of events, Spain  lost to  in the penalty shootout 3-1.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.37245258688926697
+                    },
+                    "reused_by_aic": [
+                        "Spain have now gone out of their last three tournaments on penalties, losing to Russia in 2018 and Italy in the Euro 2020 semi-finals with criticism that Enrique's teams controlled possession but lacked a cutting edge."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 81,
+            "article_label": "LEFT",
+            "datetime": "8/12/2022 00:06:43",
+            "total_paragraphs": 17,
+            "total_reused_paragraphs": 4,
+            "reused_ratio": 0.44,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 3,
+                "RIGHT": 1
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 0.75,
+                "RIGHT": 0.25
+            },
+            "reused_details": [
+                {
+                    "reused": "Spain sacked coach Luis Enrique on Thursday after the 2010 champions were dumped out of the World Cup by Morocco at the last-16 stage, quickly naming his replacement as under-21s boss Luis de la Fuente.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.3763708174228668
+                    },
+                    "reused_by_aic": [
+                        "SPAIN coach Luis Enrique has been sacked after his country's World Cup flop."
+                    ]
+                },
+                {
+                    "reused": "\"Both the president, Luis Rubiales, and the sporting director, Jose Francisco Molina, have told the coach their decision,\" the RFEF (football association) said in a statement.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6594210863113403
+                    },
+                    "reused_by_aic": [
+                        "'Both the president, Luis Rubiales, and the sports director, Jose Francisco Molina, have transmitted the decision to the coach."
+                    ]
+                },
+                {
+                    "reused": "Shortly afterwards, the federation announced that De la Fuentes, who led Spain's men's team to the silver medal at last year's Olympics, was the new man in the hotseat.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6193628311157227
+                    },
+                    "reused_by_aic": [
+                        "His successor has been named as current under-21 coach Luis de la Fuente, who has been in charge of development and youth teams since 2013 and who won both the European under-19 and under-21 titles in that period."
+                    ]
+                },
+                {
+                    "reused": "Luis Enrique took over in 2018 after Spain's disappointing showing at the World Cup in Russia, and led La Roja to the semi-finals of Euro 2020, where they were also beaten on penalties, by Italy.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6960762143135071
+                    },
+                    "reused_by_aic": [
+                        "Spain have now gone out of their last three tournaments on penalties, losing to Russia in 2018 and Italy in the Euro 2020 semi-finals with criticism that Enrique's teams controlled possession but lacked a cutting edge."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 82,
+            "article_label": "RIGHT",
+            "datetime": "8/12/2022 04:09:58",
+            "total_paragraphs": 18,
+            "total_reused_paragraphs": 5,
+            "reused_ratio": 0.56,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 1,
+                "CENTER": 2,
+                "RIGHT": 2
+            },
+            "reused_percentage": {
+                "LEFT": 0.2,
+                "CENTER": 0.4,
+                "RIGHT": 0.4
+            },
+            "reused_details": [
+                {
+                    "reused": "Spain sacked coach Luis Enrique on Thursday after the 2010 champions were dumped out of the World Cup by Morocco at the last-16 stage, quickly naming his replacement as under-21s boss Luis de la Fuente.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.3763708174228668
+                    },
+                    "reused_by_aic": [
+                        "SPAIN coach Luis Enrique has been sacked after his country's World Cup flop."
+                    ]
+                },
+                {
+                    "reused": "'Both the president, Luis Rubiales, and the sporting director, Jose Francisco Molina, have told the coach their decision,' the RFEF (football association) said in a statement.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.448641836643219
+                    },
+                    "reused_by_aic": [
+                        "'Both the president, Luis Rubiales, and the sports director, Jose Francisco Molina, have transmitted the decision to the coach."
+                    ]
+                },
+                {
+                    "reused": "Shortly afterwards, the federation announced that De la Fuente, who led Spain's men's team to the silver medal at last year's Olympics, was the new man in the hot seat.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.622883141040802
+                    },
+                    "reused_by_aic": [
+                        "His successor has been named as current under-21 coach Luis de la Fuente, who has been in charge of development and youth teams since 2013 and who won both the European under-19 and under-21 titles in that period."
+                    ]
+                },
+                {
+                    "reused": "New project Luis Enrique took over in 2018 after Spain's disappointing showing at the World Cup in Russia, and led La Roja to the semi-finals of Euro 2020, where they were also beaten on penalties, by Italy.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.68663090467453
+                    },
+                    "reused_by_aic": [
+                        "SPAIN coach Luis Enrique has been sacked after his country's World Cup flop.",
+                        "'The Asturian coach managed to give a new impetus to the national team since his arrival, in 2018, through a profound renovation that has consolidated a generational change in the team and in Spanish football.' That generational change - with the retirements of the remaining members of the squad that dominated European and world football from 2008 to 2012 - was not enough to save Enrique.",
+                        "Spain have now gone out of their last three tournaments on penalties, losing to Russia in 2018 and Italy in the Euro 2020 semi-finals with criticism that Enrique's teams controlled possession but lacked a cutting edge."
+                    ]
+                },
+                {
+                    "reused": "De la Fuente will be officially presented on Monday as the new coach.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.44291648268699646
+                    },
+                    "reused_by_aic": [
+                        "His successor has been named as current under-21 coach Luis de la Fuente, who has been in charge of development and youth teams since 2013 and who won both the European under-19 and under-21 titles in that period."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 83,
+            "article_label": "LEFT",
+            "datetime": "8/12/2022 06:22:39",
+            "total_paragraphs": 26,
+            "total_reused_paragraphs": 4,
+            "reused_ratio": 0.44,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 4,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 1.0,
+                "RIGHT": 0.0
+            },
+            "reused_details": [
+                {
+                    "reused": "(AP Photo/Luca Bruno) DOHA, Qatar (AP) ' Luis Enrique was replaced by Luis de la Fuente as Spain's coach on Thursday, two days after the national team was eliminated in the round of 16 at the World Cup.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6984080076217651
+                    },
+                    "reused_by_aic": [
+                        "SPAIN coach Luis Enrique has been sacked after his country's World Cup flop.",
+                        "But just two days after Luis Enrique and his squad landed back in Madrid following their frustrations in the desert, the coach was handed his marching orders by Spanish FA chiefs."
+                    ]
+                },
+                {
+                    "reused": "The Spanish soccer federation thanked Luis Enrique, but said it was time to 'start a new project' to keep the growth achieved by the coach in recent years.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.49917417764663696
+                    },
+                    "reused_by_aic": [
+                        "In a statement issued by Madrid bosses, they said: 'The sports management of the RFEF (Spanish FA) has transferred to the president a report in which it is determined that a new project should start for the Spanish Soccer Team."
+                    ]
+                },
+                {
+                    "reused": "Other candidates who had been considered besides De la Fuente, who was Spain's under-21 coach, included former Belgium manager Roberto Mart'nez and former Athletic Bilbao coach Marcelino Garc'a Toral.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.4429316818714142
+                    },
+                    "reused_by_aic": [
+                        "His successor has been named as current under-21 coach Luis de la Fuente, who has been in charge of development and youth teams since 2013 and who won both the European under-19 and under-21 titles in that period."
+                    ]
+                },
+                {
+                    "reused": "Luis Enrique took over the national team in 2018 to start revamping the squad after its elimination in the round of 16 of the World Cup in Russia.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.48675572872161865
+                    },
+                    "reused_by_aic": [
+                        "'The Asturian coach managed to give a new impetus to the national team since his arrival, in 2018, through a profound renovation that has consolidated a generational change in the team and in Spanish football.' That generational change - with the retirements of the remaining members of the squad that dominated European and world football from 2008 to 2012 - was not enough to save Enrique."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 87,
+            "article_label": "LEFT",
+            "datetime": "8/12/2022 03:30:03",
+            "total_paragraphs": 11,
+            "total_reused_paragraphs": 4,
+            "reused_ratio": 0.44,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 4,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 1.0,
+                "RIGHT": 0.0
+            },
+            "reused_details": [
+                {
+                    "reused": "Coach Luis Enrique has been fired after Spain's defeat against Morocco in the World Cup Round of 16, the Spanish football federation announced on Thursday.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5955892205238342
+                    },
+                    "reused_by_aic": [
+                        "SPAIN coach Luis Enrique has been sacked after his country's World Cup flop."
+                    ]
+                },
+                {
+                    "reused": "He has been replaced by Spain's under-21 coach Jose Luis de la Fuente.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.44377726316452026
+                    },
+                    "reused_by_aic": [
+                        "His successor has been named as current under-21 coach Luis de la Fuente, who has been in charge of development and youth teams since 2013 and who won both the European under-19 and under-21 titles in that period."
+                    ]
+                },
+                {
+                    "reused": "\"Both the president, Luis Rubiales, and the sporting director, Jose Francisco Molina, have told the coach their decision,\" the Spanish FA said in a statement.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6413739919662476
+                    },
+                    "reused_by_aic": [
+                        "'Both the president, Luis Rubiales, and the sports director, Jose Francisco Molina, have transmitted the decision to the coach."
+                    ]
+                },
+                {
+                    "reused": "Enrique took over in 2018 after Spain's disappointing Russia World Cup showing, and led La Roja to the semi-finals of Euro 2020, where they were also beaten on penalties by Italy.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6682835221290588
+                    },
+                    "reused_by_aic": [
+                        "Spain have now gone out of their last three tournaments on penalties, losing to Russia in 2018 and Italy in the Euro 2020 semi-finals with criticism that Enrique's teams controlled possession but lacked a cutting edge."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 89,
+            "article_label": "LEFT",
+            "datetime": "8/12/2022 01:53:32",
+            "total_paragraphs": 5,
+            "total_reused_paragraphs": 0,
+            "reused_ratio": 0.0,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 0,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0,
+                "CENTER": 0,
+                "RIGHT": 0
+            },
+            "reused_details": []
+        },
+        {
+            "article_id": 90,
+            "article_label": "RIGHT",
+            "datetime": "8/12/2022 07:55:03",
+            "total_paragraphs": 28,
+            "total_reused_paragraphs": 5,
+            "reused_ratio": 0.56,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 5,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 1.0,
+                "RIGHT": 0.0
+            },
+            "reused_details": [
+                {
+                    "reused": "DOHA, Qatar (AP) ' Luis Enrique was replaced by Luis de la Fuente as Spain's coach on Thursday, two days after the national team was eliminated in the round of 16 at the World Cup .",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.646562933921814
+                    },
+                    "reused_by_aic": [
+                        "SPAIN coach Luis Enrique has been sacked after his country's World Cup flop."
+                    ]
+                },
+                {
+                    "reused": "(AP Photo/Luca Bruno) DOHA, Qatar (AP) ' Luis Enrique was replaced by Luis de la Fuente as Spain's coach on Thursday, two days after the national team was eliminated in the round of 16 at the World Cup.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6984080076217651
+                    },
+                    "reused_by_aic": [
+                        "SPAIN coach Luis Enrique has been sacked after his country's World Cup flop.",
+                        "But just two days after Luis Enrique and his squad landed back in Madrid following their frustrations in the desert, the coach was handed his marching orders by Spanish FA chiefs."
+                    ]
+                },
+                {
+                    "reused": "The Spanish soccer federation thanked Luis Enrique, but said it was time to 'start a new project' to keep the growth achieved by the coach in recent years.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.49917417764663696
+                    },
+                    "reused_by_aic": [
+                        "In a statement issued by Madrid bosses, they said: 'The sports management of the RFEF (Spanish FA) has transferred to the president a report in which it is determined that a new project should start for the Spanish Soccer Team."
+                    ]
+                },
+                {
+                    "reused": "Other candidates who had been considered besides De la Fuente, who was Spain's under-21 coach, included former Belgium manager Roberto Mart'nez and former Athletic Bilbao coach Marcelino Garc'a Toral.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.4429316818714142
+                    },
+                    "reused_by_aic": [
+                        "His successor has been named as current under-21 coach Luis de la Fuente, who has been in charge of development and youth teams since 2013 and who won both the European under-19 and under-21 titles in that period."
+                    ]
+                },
+                {
+                    "reused": "Luis Enrique took over the national team in 2018 to start revamping the squad after its elimination in the round of 16 of the World Cup in Russia.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.48675572872161865
+                    },
+                    "reused_by_aic": [
+                        "'The Asturian coach managed to give a new impetus to the national team since his arrival, in 2018, through a profound renovation that has consolidated a generational change in the team and in Spanish football.' That generational change - with the retirements of the remaining members of the squad that dominated European and world football from 2008 to 2012 - was not enough to save Enrique."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 92,
+            "article_label": "LEFT",
+            "datetime": "8/12/2022 05:10:50",
+            "total_paragraphs": 26,
+            "total_reused_paragraphs": 5,
+            "reused_ratio": 0.56,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 5,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 1.0,
+                "RIGHT": 0.0
+            },
+            "reused_details": [
+                {
+                    "reused": "Luis Enrique has been replaced by Luis de la Fuente as Spain's coach after the national team was eliminated in the round of 16 at the World Cup Spain's head coach Luis Enrique reacts to supporters at the end of the World Cup round of 16 soccer match between Morocco and Spain, at the Education City Stadium in Al Rayyan, Qatar, Tuesday, Dec. 6, 2022.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6172313094139099
+                    },
+                    "reused_by_aic": [
+                        "SPAIN coach Luis Enrique has been sacked after his country's World Cup flop.",
+                        "But just two days after Luis Enrique and his squad landed back in Madrid following their frustrations in the desert, the coach was handed his marching orders by Spanish FA chiefs."
+                    ]
+                },
+                {
+                    "reused": "(AP Photo/Martin Meissner) The Associated Press DOHA, Qatar -- Luis Enrique was replaced by Luis de la Fuente as Spain's coach on Thursday, two days after the national team was eliminated in the round of 16 at the World Cup.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6914379596710205
+                    },
+                    "reused_by_aic": [
+                        "SPAIN coach Luis Enrique has been sacked after his country's World Cup flop.",
+                        "But just two days after Luis Enrique and his squad landed back in Madrid following their frustrations in the desert, the coach was handed his marching orders by Spanish FA chiefs."
+                    ]
+                },
+                {
+                    "reused": "The Spanish soccer federation thanked Luis Enrique, but said it was time to 'start a new project' to keep the growth achieved by the coach in recent years.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.49917417764663696
+                    },
+                    "reused_by_aic": [
+                        "In a statement issued by Madrid bosses, they said: 'The sports management of the RFEF (Spanish FA) has transferred to the president a report in which it is determined that a new project should start for the Spanish Soccer Team."
+                    ]
+                },
+                {
+                    "reused": "Other candidates who had been considered besides De la Fuente, who was Spain's under-21 coach, included former Belgium manager Roberto Mart'nez and former Athletic Bilbao coach Marcelino Garc'a Toral.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.4429316818714142
+                    },
+                    "reused_by_aic": [
+                        "His successor has been named as current under-21 coach Luis de la Fuente, who has been in charge of development and youth teams since 2013 and who won both the European under-19 and under-21 titles in that period."
+                    ]
+                },
+                {
+                    "reused": "Luis Enrique took over the national team in 2018 to start revamping the squad after its elimination in the round of 16 of the World Cup in Russia.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.48675572872161865
+                    },
+                    "reused_by_aic": [
+                        "'The Asturian coach managed to give a new impetus to the national team since his arrival, in 2018, through a profound renovation that has consolidated a generational change in the team and in Spanish football.' That generational change - with the retirements of the remaining members of the squad that dominated European and world football from 2008 to 2012 - was not enough to save Enrique."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 93,
+            "article_label": "RIGHT",
+            "datetime": "8/12/2022 08:19:01",
+            "total_paragraphs": 11,
+            "total_reused_paragraphs": 5,
+            "reused_ratio": 0.56,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 4,
+                "RIGHT": 1
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 0.8,
+                "RIGHT": 0.2
+            },
+            "reused_details": [
+                {
+                    "reused": "DOHA (Reuters) - Luis Enrique was sacked as Spain coach on Thursday after the team's elimination in the last-16 at the World Cup with the country's under-21 manager Luis de la Fuente named as his replacement by the Spanish football federation (RFEF).",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6395044922828674
+                    },
+                    "reused_by_aic": [
+                        "SPAIN coach Luis Enrique has been sacked after his country's World Cup flop."
+                    ]
+                },
+                {
+                    "reused": "\"The RFEF has chosen Luis de la Fuente as the new (Spain) coach,\" RFEF said in a statement.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6544445157051086
+                    },
+                    "reused_by_aic": [
+                        "His successor has been named as current under-21 coach Luis de la Fuente, who has been in charge of development and youth teams since 2013 and who won both the European under-19 and under-21 titles in that period."
+                    ]
+                },
+                {
+                    "reused": "\"The ... RFEF has delivered to the president a report in which it determined that a new project should start for the Spain national team, with the aim of continuing the growth achieved in recent years thanks to the work carried out by Luis Enrique (and the staff).",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6620570421218872
+                    },
+                    "reused_by_aic": [
+                        "In a statement issued by Madrid bosses, they said: 'The sports management of the RFEF (Spanish FA) has transferred to the president a report in which it is determined that a new project should start for the Spanish Soccer Team."
+                    ]
+                },
+                {
+                    "reused": "\"Both the RFEF president Luis Rubiales and sports director, Jose Francisco Molina have informed Luis Enrique of the decision.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6745920181274414
+                    },
+                    "reused_by_aic": [
+                        "'Both the president, Luis Rubiales, and the sports director, Jose Francisco Molina, have transmitted the decision to the coach."
+                    ]
+                },
+                {
+                    "reused": "De la Fuente, 61, joined the RFEF in 2013 as the under-15 manager having worked with players like Marco Asensio, goalkeeper Unai Simon, Eric Garcia, Pau Torres, Pedri, Carlos Soler and Dani Olmo when they were youngsters.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.44955986738204956
+                    },
+                    "reused_by_aic": [
+                        "His successor has been named as current under-21 coach Luis de la Fuente, who has been in charge of development and youth teams since 2013 and who won both the European under-19 and under-21 titles in that period."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 96,
+            "article_label": "CENTER",
+            "datetime": "8/12/2022 02:51:05",
+            "total_paragraphs": 5,
+            "total_reused_paragraphs": 1,
+            "reused_ratio": 0.11,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 0,
+                "RIGHT": 1
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 0.0,
+                "RIGHT": 1.0
+            },
+            "reused_details": [
+                {
+                    "reused": "Spain were beaten on penalties by Morocco after a goalless draw on Tuesday in an upset result after failing to turn their dominance in the game into a victory  DOHA - Spain coach Luis Enrique has left his job after the country's elimination in the last-16 at the World Cup, the Spanish football federation said on Twitter on Thursday.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.46364662051200867
+                    },
+                    "reused_by_aic": [
+                        "Spain have now gone out of their last three tournaments on penalties, losing to Russia in 2018 and Italy in the Euro 2020 semi-finals with criticism that Enrique's teams controlled possession but lacked a cutting edge."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 101,
+            "article_label": "LEFT",
+            "datetime": "8/12/2022 03:07:18",
+            "total_paragraphs": 19,
+            "total_reused_paragraphs": 5,
+            "reused_ratio": 0.56,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 4,
+                "RIGHT": 1
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 0.8,
+                "RIGHT": 0.2
+            },
+            "reused_details": [
+                {
+                    "reused": "Luis Enrique is to leave his post as Spain manager and be replaced by Under-21s boss Luis De La Fuente, the country's football federation has announced.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5275006890296936
+                    },
+                    "reused_by_aic": [
+                        "SPAIN coach Luis Enrique has been sacked after his country's World Cup flop."
+                    ]
+                },
+                {
+                    "reused": "The first statement read: \"The sporting management of the RFEF has handed to the president a report in which it is determined a new project should start for the Spain national team, with the aim of continuing with the growth achieved in recent years thanks to the work of Luis Enrique and his coaches.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5858216881752014
+                    },
+                    "reused_by_aic": [
+                        "In a statement issued by Madrid bosses, they said: 'The sports management of the RFEF (Spanish FA) has transferred to the president a report in which it is determined that a new project should start for the Spanish Soccer Team."
+                    ]
+                },
+                {
+                    "reused": "\"Both the president, Luis Rubiales, and the sports director, Jose Francisco Molina, have transmitted the decision to the coach.\"",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6417462825775146
+                    },
+                    "reused_by_aic": [
+                        "'Both the president, Luis Rubiales, and the sports director, Jose Francisco Molina, have transmitted the decision to the coach."
+                    ]
+                },
+                {
+                    "reused": "In confirming his successor shortly afterwards, a second statement added: \"The RFEF has chosen Luis De La Fuente as the new national coach.\"",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6747066974639893
+                    },
+                    "reused_by_aic": [
+                        "His successor has been named as current under-21 coach Luis de la Fuente, who has been in charge of development and youth teams since 2013 and who won both the European under-19 and under-21 titles in that period."
+                    ]
+                },
+                {
+                    "reused": "De La Fuente oversaw Spain's success at the European Under-19 Championship in 2015 and has been Under-21s boss since 2018, winning another Euro crown in 2019.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.39545729756355286
+                    },
+                    "reused_by_aic": [
+                        "His successor has been named as current under-21 coach Luis de la Fuente, who has been in charge of development and youth teams since 2013 and who won both the European under-19 and under-21 titles in that period."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 102,
+            "article_label": "CENTER",
+            "datetime": "6/12/2022 16:08:55",
+            "total_paragraphs": 10,
+            "total_reused_paragraphs": 5,
+            "reused_ratio": 0.56,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 4,
+                "RIGHT": 1
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 0.8,
+                "RIGHT": 0.2
+            },
+            "reused_details": [
+                {
+                    "reused": "DOHA: Luis Enrique was sacked as Spain coach on Thursday after the team's elimination in the last-16 at the World Cup with the country's under-21 manager Luis de la Fuente named as his replacement by the Spanish football federation (RFEF).",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6607981324195862
+                    },
+                    "reused_by_aic": [
+                        "SPAIN coach Luis Enrique has been sacked after his country's World Cup flop."
+                    ]
+                },
+                {
+                    "reused": "\"The RFEF has chosen Luis de la Fuente as the new (Spain) coach,\" RFEF said in a statement.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6544445157051086
+                    },
+                    "reused_by_aic": [
+                        "His successor has been named as current under-21 coach Luis de la Fuente, who has been in charge of development and youth teams since 2013 and who won both the European under-19 and under-21 titles in that period."
+                    ]
+                },
+                {
+                    "reused": "\"The ... RFEF has delivered to the president a report in which it determined that a new project should start for the Spain national team, with the aim of continuing the growth achieved in recent years thanks to the work carried out by Luis Enrique (and the staff).",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6620570421218872
+                    },
+                    "reused_by_aic": [
+                        "In a statement issued by Madrid bosses, they said: 'The sports management of the RFEF (Spanish FA) has transferred to the president a report in which it is determined that a new project should start for the Spanish Soccer Team."
+                    ]
+                },
+                {
+                    "reused": "\"Both the RFEF president Luis Rubiales and sports director, Jose Francisco Molina have informed Luis Enrique of the decision.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6745920181274414
+                    },
+                    "reused_by_aic": [
+                        "'Both the president, Luis Rubiales, and the sports director, Jose Francisco Molina, have transmitted the decision to the coach."
+                    ]
+                },
+                {
+                    "reused": "De la Fuente, 61, joined the RFEF in 2013 as the under-15 manager having worked with players like Marco Asensio, goalkeeper Unai Simon, Eric Garcia, Pau Torres, Pedri, Carlos Soler and Dani Olmo when they were youngsters.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.44955986738204956
+                    },
+                    "reused_by_aic": [
+                        "His successor has been named as current under-21 coach Luis de la Fuente, who has been in charge of development and youth teams since 2013 and who won both the European under-19 and under-21 titles in that period."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 104,
+            "article_label": "CENTER",
+            "datetime": "18/2/2022 06:27:13",
+            "total_paragraphs": 28,
+            "total_reused_paragraphs": 5,
+            "reused_ratio": 0.56,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 5,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 1.0,
+                "RIGHT": 0.0
+            },
+            "reused_details": [
+                {
+                    "reused": "DOHA, Qatar (AP) ' Luis Enrique was replaced by Luis de la Fuente as Spain's coach on Thursday, two days after the national team was eliminated in the round of 16 at the World Cup .",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.646562933921814
+                    },
+                    "reused_by_aic": [
+                        "SPAIN coach Luis Enrique has been sacked after his country's World Cup flop."
+                    ]
+                },
+                {
+                    "reused": "(AP Photo/Luca Bruno) DOHA, Qatar (AP) ' Luis Enrique was replaced by Luis de la Fuente as Spain's coach on Thursday, two days after the national team was eliminated in the round of 16 at the World Cup.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6984080076217651
+                    },
+                    "reused_by_aic": [
+                        "SPAIN coach Luis Enrique has been sacked after his country's World Cup flop.",
+                        "But just two days after Luis Enrique and his squad landed back in Madrid following their frustrations in the desert, the coach was handed his marching orders by Spanish FA chiefs."
+                    ]
+                },
+                {
+                    "reused": "The Spanish soccer federation thanked Luis Enrique, but said it was time to 'start a new project' to keep the growth achieved by the coach in recent years.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.49917417764663696
+                    },
+                    "reused_by_aic": [
+                        "In a statement issued by Madrid bosses, they said: 'The sports management of the RFEF (Spanish FA) has transferred to the president a report in which it is determined that a new project should start for the Spanish Soccer Team."
+                    ]
+                },
+                {
+                    "reused": "Other candidates who had been considered besides De la Fuente, who was Spain's under-21 coach, included former Belgium manager Roberto Mart'nez and former Athletic Bilbao coach Marcelino Garc'a Toral.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.4429316818714142
+                    },
+                    "reused_by_aic": [
+                        "His successor has been named as current under-21 coach Luis de la Fuente, who has been in charge of development and youth teams since 2013 and who won both the European under-19 and under-21 titles in that period."
+                    ]
+                },
+                {
+                    "reused": "Luis Enrique took over the national team in 2018 to start revamping the squad after its elimination in the round of 16 of the World Cup in Russia.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.48675572872161865
+                    },
+                    "reused_by_aic": [
+                        "'The Asturian coach managed to give a new impetus to the national team since his arrival, in 2018, through a profound renovation that has consolidated a generational change in the team and in Spanish football.' That generational change - with the retirements of the remaining members of the squad that dominated European and world football from 2008 to 2012 - was not enough to save Enrique."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 105,
+            "article_label": "LEFT",
+            "datetime": "8/12/2022 05:54:15",
+            "total_paragraphs": 25,
+            "total_reused_paragraphs": 4,
+            "reused_ratio": 0.44,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 4,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 1.0,
+                "RIGHT": 0.0
+            },
+            "reused_details": [
+                {
+                    "reused": "DOHA, Qatar (AP) ' Luis Enrique was replaced by Luis de la Fuente as Spain's coach on Thursday, two days after the national team was eliminated in the round of 16 at the World Cup.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.646562933921814
+                    },
+                    "reused_by_aic": [
+                        "SPAIN coach Luis Enrique has been sacked after his country's World Cup flop."
+                    ]
+                },
+                {
+                    "reused": "The Spanish soccer federation thanked Luis Enrique, but said it was time to 'start a new project' to keep the growth achieved by the coach in recent years.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.49917417764663696
+                    },
+                    "reused_by_aic": [
+                        "In a statement issued by Madrid bosses, they said: 'The sports management of the RFEF (Spanish FA) has transferred to the president a report in which it is determined that a new project should start for the Spanish Soccer Team."
+                    ]
+                },
+                {
+                    "reused": "Other candidates who had been considered besides De la Fuente, who was Spain's under-21 coach, included former Belgium manager Roberto Mart'nez and former Athletic Bilbao coach Marcelino Garc'a Toral.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.4429316818714142
+                    },
+                    "reused_by_aic": [
+                        "His successor has been named as current under-21 coach Luis de la Fuente, who has been in charge of development and youth teams since 2013 and who won both the European under-19 and under-21 titles in that period."
+                    ]
+                },
+                {
+                    "reused": "Luis Enrique took over the national team in 2018 to start revamping the squad after its elimination in the round of 16 of the World Cup in Russia.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.48675572872161865
+                    },
+                    "reused_by_aic": [
+                        "'The Asturian coach managed to give a new impetus to the national team since his arrival, in 2018, through a profound renovation that has consolidated a generational change in the team and in Spanish football.' That generational change - with the retirements of the remaining members of the squad that dominated European and world football from 2008 to 2012 - was not enough to save Enrique."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 106,
+            "article_label": "LEFT",
+            "datetime": "8/12/2022 06:59:26",
+            "total_paragraphs": 28,
+            "total_reused_paragraphs": 4,
+            "reused_ratio": 0.44,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 4,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 1.0,
+                "RIGHT": 0.0
+            },
+            "reused_details": [
+                {
+                    "reused": "DOHA, Qatar ' Luis Enrique was replaced by Luis de la Fuente as Spain's coach on Thursday, two days after the national team was eliminated in the round of 16 at the World Cup.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6603662371635437
+                    },
+                    "reused_by_aic": [
+                        "SPAIN coach Luis Enrique has been sacked after his country's World Cup flop."
+                    ]
+                },
+                {
+                    "reused": "The 61-year-old De la Fuente, a former left back with Sevilla and Athletic Bilbao, helped Spain's under-19 squad win the European Championship in 2015, and the under-21 team win Euro 2019.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5690251588821411
+                    },
+                    "reused_by_aic": [
+                        "His successor has been named as current under-21 coach Luis de la Fuente, who has been in charge of development and youth teams since 2013 and who won both the European under-19 and under-21 titles in that period."
+                    ]
+                },
+                {
+                    "reused": "Other candidates who had been considered besides De la Fuente, who was Spain's under-21 coach, included former Belgium manager Roberto Mart'nez and former Athletic Bilbao coach Marcelino Garc'a Toral.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.4429316818714142
+                    },
+                    "reused_by_aic": [
+                        "His successor has been named as current under-21 coach Luis de la Fuente, who has been in charge of development and youth teams since 2013 and who won both the European under-19 and under-21 titles in that period."
+                    ]
+                },
+                {
+                    "reused": "Luis Enrique took over the national team in 2018 to start revamping the squad after its elimination in the round of 16 of the World Cup in Russia.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.48675572872161865
+                    },
+                    "reused_by_aic": [
+                        "'The Asturian coach managed to give a new impetus to the national team since his arrival, in 2018, through a profound renovation that has consolidated a generational change in the team and in Spanish football.' That generational change - with the retirements of the remaining members of the squad that dominated European and world football from 2008 to 2012 - was not enough to save Enrique."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 107,
+            "article_label": "RIGHT",
+            "datetime": "8/12/2022 00:35:12",
+            "total_paragraphs": 15,
+            "total_reused_paragraphs": 5,
+            "reused_ratio": 0.56,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 5,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 1.0,
+                "RIGHT": 0.0
+            },
+            "reused_details": [
+                {
+                    "reused": "Spain's loss to Morocco was their third straight tournament exit on penalties, having also suffered defeat by that method against hosts Russia in the 2018 World Cup last 16.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5763158202171326
+                    },
+                    "reused_by_aic": [
+                        "Spain have now gone out of their last three tournaments on penalties, losing to Russia in 2018 and Italy in the Euro 2020 semi-finals with criticism that Enrique's teams controlled possession but lacked a cutting edge."
+                    ]
+                },
+                {
+                    "reused": "According to a statement from the Royal Spanish Football Federation, \"Both the president, Luis Rubiales, and the sporting director, Jose Francisco Molina, have informed the coach of their decision.\"",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6796535849571228
+                    },
+                    "reused_by_aic": [
+                        "'Both the president, Luis Rubiales, and the sports director, Jose Francisco Molina, have transmitted the decision to the coach."
+                    ]
+                },
+                {
+                    "reused": "\"The sports management of the RFEF has transferred to the president a report in which it is determined that a new project should start for the Spanish soccer team.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6553748250007629
+                    },
+                    "reused_by_aic": [
+                        "In a statement issued by Madrid bosses, they said: 'The sports management of the RFEF (Spanish FA) has transferred to the president a report in which it is determined that a new project should start for the Spanish Soccer Team."
+                    ]
+                },
+                {
+                    "reused": "\"The aim is to continue with the growth achieved in recent years thanks to the work carried out by Luis Enrique and their collaborators.\"",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6701321005821228
+                    },
+                    "reused_by_aic": [
+                        "'The aim is continuing with the growth achieved in recent years thanks to the work carried out by Luis Enrique and their collaborators."
+                    ]
+                },
+                {
+                    "reused": "The Spanish FA has announced that Luis Enrique would be replaced by Jose Luis de la Fuente as Spain's coach.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.631401002407074
+                    },
+                    "reused_by_aic": [
+                        "But just two days after Luis Enrique and his squad landed back in Madrid following their frustrations in the desert, the coach was handed his marching orders by Spanish FA chiefs.",
+                        "His successor has been named as current under-21 coach Luis de la Fuente, who has been in charge of development and youth teams since 2013 and who won both the European under-19 and under-21 titles in that period."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 108,
+            "article_label": "LEFT",
+            "datetime": "8/12/2022 06:59:22",
+            "total_paragraphs": 35,
+            "total_reused_paragraphs": 4,
+            "reused_ratio": 0.44,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 4,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 1.0,
+                "RIGHT": 0.0
+            },
+            "reused_details": [
+                {
+                    "reused": "The Spanish FA announced that Luis Enrique would be replaced by Spain under-21 manager Luis de la Fuente.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.4160855710506439
+                    },
+                    "reused_by_aic": [
+                        "His successor has been named as current under-21 coach Luis de la Fuente, who has been in charge of development and youth teams since 2013 and who won both the European under-19 and under-21 titles in that period."
+                    ]
+                },
+                {
+                    "reused": "- Stream on ESPN+: LaLiga, Bundesliga, more (U.S.) \"The RFEF has chosen Luis de la Fuente as the new national coach.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6101087927818298
+                    },
+                    "reused_by_aic": [
+                        "His successor has been named as current under-21 coach Luis de la Fuente, who has been in charge of development and youth teams since 2013 and who won both the European under-19 and under-21 titles in that period."
+                    ]
+                },
+                {
+                    "reused": "The sporting director, Jose Francisco Molina, has transferred a report to the president, Luis Rubiales, in which he recommends the coach to lead the new chapter that begins after the World Cup in Qatar.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.4249214828014374
+                    },
+                    "reused_by_aic": [
+                        "'Both the president, Luis Rubiales, and the sports director, Jose Francisco Molina, have transmitted the decision to the coach."
+                    ]
+                },
+                {
+                    "reused": "Luis Enrique's time as Spain boss came to a frustrating end.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5310273170471191
+                    },
+                    "reused_by_aic": [
+                        "But just two days after Luis Enrique and his squad landed back in Madrid following their frustrations in the desert, the coach was handed his marching orders by Spanish FA chiefs."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 109,
+            "article_label": "LEFT",
+            "datetime": "8/12/2022 05:15:38",
+            "total_paragraphs": 16,
+            "total_reused_paragraphs": 5,
+            "reused_ratio": 0.56,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 1,
+                "CENTER": 3,
+                "RIGHT": 1
+            },
+            "reused_percentage": {
+                "LEFT": 0.2,
+                "CENTER": 0.6,
+                "RIGHT": 0.2
+            },
+            "reused_details": [
+                {
+                    "reused": "Spain were dumped out of the tournament in Qatar on Tuesday after a surprise defeat to Morocco on penalties in the last 16.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.530948281288147
+                    },
+                    "reused_by_aic": [
+                        "Spain have now gone out of their last three tournaments on penalties, losing to Russia in 2018 and Italy in the Euro 2020 semi-finals with criticism that Enrique's teams controlled possession but lacked a cutting edge."
+                    ]
+                },
+                {
+                    "reused": "Spain Under-21s head coach, Luis de la Fuente, has been appointed as Luis Enrique's replacement.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5280521512031555
+                    },
+                    "reused_by_aic": [
+                        "His successor has been named as current under-21 coach Luis de la Fuente, who has been in charge of development and youth teams since 2013 and who won both the European under-19 and under-21 titles in that period."
+                    ]
+                },
+                {
+                    "reused": "'The sports management of the RFEF has transferred to the president a report in which it is determined that a new project should start for the Spanish Soccer Team, with the aim of continuing with the growth achieved in recent years thanks to the work carried out by Luis Enrique and their collaborators.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.426675945520401
+                    },
+                    "reused_by_aic": [
+                        "In a statement issued by Madrid bosses, they said: 'The sports management of the RFEF (Spanish FA) has transferred to the president a report in which it is determined that a new project should start for the Spanish Soccer Team."
+                    ]
+                },
+                {
+                    "reused": "Both the president, Luis Rubiales , and the sports director, Jos' Francisco Molina , have transmitted the decision to the coach.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.4105306565761566
+                    },
+                    "reused_by_aic": [
+                        "'Both the president, Luis Rubiales, and the sports director, Jose Francisco Molina, have transmitted the decision to the coach."
+                    ]
+                },
+                {
+                    "reused": "'The Asturian coach managed to give a new impetus to the national team since his arrival, in 2018, through a profound renovation that has consolidated a generational change in the team and in Spanish football.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.3791656494140625
+                    },
+                    "reused_by_aic": [
+                        "'The Asturian coach managed to give a new impetus to the national team since his arrival, in 2018, through a profound renovation that has consolidated a generational change in the team and in Spanish football.' That generational change - with the retirements of the remaining members of the squad that dominated European and world football from 2008 to 2012 - was not enough to save Enrique."
+                    ]
+                }
+            ]
+        }
+    ]
+}

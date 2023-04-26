@@ -1,0 +1,107 @@
+{
+    "article_id": 27,
+    "article_datetime": "9/12/2022 02:06:10",
+    "article_label": "CENTER",
+    "article_total_paragraphs": 19,
+    "biased_by_these_sources": [],
+    "biased_labels": {
+        "LEFT": 0,
+        "CENTER": 0,
+        "RIGHT": 0
+    },
+    "is_biased": "No",
+    "earlier_articles": [
+        {
+            "article_id": 23,
+            "article_label": "LEFT",
+            "datetime": "9/12/2022 00:58:31",
+            "total_paragraphs": 59,
+            "total_reused_paragraphs": 0,
+            "reused_ratio": 0.0,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 0,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0,
+                "CENTER": 0,
+                "RIGHT": 0
+            },
+            "reused_details": []
+        },
+        {
+            "article_id": 47,
+            "article_label": "CENTER",
+            "datetime": "8/12/2022 15:28:35",
+            "total_paragraphs": 29,
+            "total_reused_paragraphs": 1,
+            "reused_ratio": 0.05,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 1,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 1.0,
+                "RIGHT": 0.0
+            },
+            "reused_details": [
+                {
+                    "reused": "BEIJING ' As mainland China relaxes many of its stringent Covid controls, analysts point out the country is far from a quick return to a pre-pandemic situation.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.4640621244907379
+                    },
+                    "reused_by_aic": [
+                        "The arrangements highlight how lingering anxieties created by Beijing's three-year 'zero-COVID' policy are likely to hamper a quick return to health for the world's second-largest economy, despite its pivot away from strict containment measures."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 49,
+            "article_label": "RIGHT",
+            "datetime": "8/12/2022 04:55:21",
+            "total_paragraphs": 54,
+            "total_reused_paragraphs": 2,
+            "reused_ratio": 0.11,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 1,
+                "RIGHT": 1
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 0.5,
+                "RIGHT": 0.5
+            },
+            "reused_details": [
+                {
+                    "reused": "'But Beijing is unlikely to return to the extended blanket lockdowns that crashed the economy earlier this year.' The changes suggest the ruling party is easing off its goal of preventing virus transmission, the basis of 'zero COVID,' but officials say that strategy still is in effect.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5531022548675537
+                    },
+                    "reused_by_aic": [
+                        "The arrangements highlight how lingering anxieties created by Beijing's three-year 'zero-COVID' policy are likely to hamper a quick return to health for the world's second-largest economy, despite its pivot away from strict containment measures."
+                    ]
+                },
+                {
+                    "reused": "___ AP news assistant Caroline Chen in Guangzhou, China, researcher Yu Bing in Beijing, and AP writers Kanis Leung in Hong Kong and Dake Kang in Beijing contributed to this report.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.38174012303352356
+                    },
+                    "reused_by_aic": [
+                        "(Reporting by Julie Zhu and Selena Li in Hong Kong, Ziyi Tang, Joe Cash and Kevin Huang in Beijing and Josh Horwitz in Shanghai; Editing by Sumeet Chatterjee and Kim Coghill)"
+                    ]
+                }
+            ]
+        }
+    ]
+}

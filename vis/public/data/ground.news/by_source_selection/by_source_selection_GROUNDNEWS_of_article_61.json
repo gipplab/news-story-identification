@@ -1,0 +1,260 @@
+{
+    "article_id": 61,
+    "article_datetime": "9/12/2022 07:25:02",
+    "article_label": "RIGHT",
+    "article_total_paragraphs": 10,
+    "biased_by_these_sources": [],
+    "biased_labels": {
+        "LEFT": 0,
+        "CENTER": 0,
+        "RIGHT": 0
+    },
+    "is_biased": "No",
+    "earlier_articles": [
+        {
+            "article_id": 57,
+            "article_label": "CENTER",
+            "datetime": "9/12/2022 05:43:22",
+            "total_paragraphs": 9,
+            "total_reused_paragraphs": 3,
+            "reused_ratio": 0.3,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 2,
+                "RIGHT": 1
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 0.6666666666666666,
+                "RIGHT": 0.3333333333333333
+            },
+            "reused_details": [
+                {
+                    "reused": "On Friday, Russian President Vladimir Putin said his nation is eyeing a cut to crude oil production in response to the Group of Seven Nations (G7) price cap on Russian crude, Bloomberg reported Friday.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5035085082054138
+                    },
+                    "reused_by_aic": [
+                        "Russia , the world's biggest exporter of energy, may cut oil production and will refuse to sell oil to any country which imposes the West's price cap on Russian oil, President Vladimir Putin  said on Friday."
+                    ]
+                },
+                {
+                    "reused": "The G7, which includes the U.S. and Australia, imposed a $60 per barrel price cap on seaborne Russian oil on Dec. 5 to target Moscows oil revenues which are helping fund its invasion of Ukraine.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.45747876167297363
+                    },
+                    "reused_by_aic": [
+                        "The Group of Seven and Australia last week agreed a $60 per barrel price cap on Russian seaborne crude oil after European Union members overcame resistance from Poland."
+                    ]
+                },
+                {
+                    "reused": "Putin told reporters on Russian state TV that Russia will consider cutting production due to the price cap and added that he would soon announce a presidential decree to further respond to G7s move, according to Bloomberg.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.3771994113922119
+                    },
+                    "reused_by_aic": [
+                        "Russia , the world's biggest exporter of energy, may cut oil production and will refuse to sell oil to any country which imposes the West's price cap on Russian oil, President Vladimir Putin  said on Friday."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 58,
+            "article_label": "RIGHT",
+            "datetime": "9/12/2022 02:18:58",
+            "total_paragraphs": 18,
+            "total_reused_paragraphs": 2,
+            "reused_ratio": 0.2,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 2,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 1.0,
+                "RIGHT": 0.0
+            },
+            "reused_details": [
+                {
+                    "reused": "(Bloomberg) -- Russia may cut its oil production in response to the G-7 cap on the price of its crude, President Vladimir Putin said.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5461919903755188
+                    },
+                    "reused_by_aic": [
+                        "Russia , the world's biggest exporter of energy, may cut oil production and will refuse to sell oil to any country which imposes the West's price cap on Russian oil, President Vladimir Putin  said on Friday."
+                    ]
+                },
+                {
+                    "reused": "(Bloomberg)  Russia may cut its oil production in response to the G-7 cap on the price of its crude, President Vladimir Putin said.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5778101682662964
+                    },
+                    "reused_by_aic": [
+                        "Russia , the world's biggest exporter of energy, may cut oil production and will refuse to sell oil to any country which imposes the West's price cap on Russian oil, President Vladimir Putin  said on Friday."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 59,
+            "article_label": "RIGHT",
+            "datetime": "9/12/2022 03:38:51",
+            "total_paragraphs": 25,
+            "total_reused_paragraphs": 1,
+            "reused_ratio": 0.1,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 1,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 1.0,
+                "RIGHT": 0.0
+            },
+            "reused_details": [
+                {
+                    "reused": "The efforts to cap oil prices will not harm Russia, President Vladimir Putin told reporters on Friday.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5184227228164673
+                    },
+                    "reused_by_aic": [
+                        "Putin also said Moscow would not lose out from the West's price cap and that the government's finances would hold up fine."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 62,
+            "article_label": "LEFT",
+            "datetime": "9/12/2022 06:02:17",
+            "total_paragraphs": 16,
+            "total_reused_paragraphs": 1,
+            "reused_ratio": 0.1,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 1,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 1.0,
+                "RIGHT": 0.0
+            },
+            "reused_details": [
+                {
+                    "reused": "Russia may cut its oil production in response to the G-7 cap on the price of its crude, President Vladimir Putin said.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5814248919487
+                    },
+                    "reused_by_aic": [
+                        "Russia , the world's biggest exporter of energy, may cut oil production and will refuse to sell oil to any country which imposes the West's price cap on Russian oil, President Vladimir Putin  said on Friday."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 63,
+            "article_label": "CENTER",
+            "datetime": "9/12/2022 05:00:29",
+            "total_paragraphs": 19,
+            "total_reused_paragraphs": 7,
+            "reused_ratio": 0.7,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 6,
+                "RIGHT": 1
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 0.8571428571428571,
+                "RIGHT": 0.14285714285714285
+            },
+            "reused_details": [
+                {
+                    "reused": "MOSCOW, Dec 9 (Reuters) - Russia, the world's biggest exporter of energy, could cut oil production and will refuse to sell oil to any country that imposes the West's \"stupid\" price cap on Russian oil, President Vladimir Putin said on Friday.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.66180819272995
+                    },
+                    "reused_by_aic": [
+                        "Russia , the world's biggest exporter of energy, may cut oil production and will refuse to sell oil to any country which imposes the West's price cap on Russian oil, President Vladimir Putin  said on Friday."
+                    ]
+                },
+                {
+                    "reused": "The Group of Seven major powers, the European Union and Australia last week agreed to a $60 per barrel price cap on Russian seaborne crude oil after EU members overcame resistance from Poland.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.4416438043117523
+                    },
+                    "reused_by_aic": [
+                        "The Group of Seven and Australia last week agreed a $60 per barrel price cap on Russian seaborne crude oil after European Union members overcame resistance from Poland."
+                    ]
+                },
+                {
+                    "reused": "\"As for our reaction, I have already said that we simply will not sell to those countries that make such decisions,\" Putin told reporters in the Kyrgyz capital, Bishkek.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.67826908826828
+                    },
+                    "reused_by_aic": [
+                        "\"As for our reaction, I have already said that we simply will not sell to those countries that make such decisions,\" Putin told reporters in Bishkek."
+                    ]
+                },
+                {
+                    "reused": "\"We will think, maybe, even about a possible, if necessary ... reduction in production.\"",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5995630621910095
+                    },
+                    "reused_by_aic": [
+                        "\"We will think, maybe even about the possible, if necessary... reduction in production.\""
+                    ]
+                },
+                {
+                    "reused": "Putin, who rules the world's second largest oil exporter after Saudi Arabia and the largest gas exporter, said Russia had a production agreement with other members of the OPEC+ oil producers' club, so such a drastic step was still only a possibility.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.42640557885169983
+                    },
+                    "reused_by_aic": [
+                        "Putin said that Russia had an agreement with OPEC+ about production so such a drastic step was still only a possibility."
+                    ]
+                },
+                {
+                    "reused": "\"We are thinking about this, there are no solutions yet.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6074994802474976
+                    },
+                    "reused_by_aic": [
+                        "\"We are thinking about this, there are no solutions yet."
+                    ]
+                },
+                {
+                    "reused": "And concrete steps will be outlined in a decree from the president of Russia that will be released in the next few days,\" Putin said.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6079473495483398
+                    },
+                    "reused_by_aic": [
+                        "And concrete steps will be outlined in the decree of the president of Russia, which will be released in the next few days,\" Putin said."
+                    ]
+                }
+            ]
+        }
+    ]
+}

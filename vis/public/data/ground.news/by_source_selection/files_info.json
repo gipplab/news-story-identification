@@ -1,0 +1,716 @@
+[
+    {
+        "topic_id": "0",
+        "network": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_network_topic_0.png",
+        "articles": [
+            {
+                "article_id": 0,
+                "article_title": "Russia Demanded Spy Serving Life Sentence In Germany Swapped In Exchange For Paul Whelan + (CENTER)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_0.json",
+                "chart": ""
+            },
+            {
+                "article_id": 2,
+                "article_title": "Russia demanded that a spy held in Germany be freed in exchange for Paul Whelan + (LEFT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_2.json",
+                "chart": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_2.png"
+            },
+            {
+                "article_id": 3,
+                "article_title": "Russia demanded a spy be freed in exchange for Paul Whelan + (RIGHT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_3.json",
+                "chart": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_3.png"
+            },
+            {
+                "article_id": 4,
+                "article_title": "Russia demanded a spy be freed in exchange for Paul Whelan + (LEFT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_4.json",
+                "chart": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_4.png"
+            },
+            {
+                "article_id": 5,
+                "article_title": "Russia demanded that a spy held in Germany be freed in exchange for Paul Whelan + (CENTER)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_5.json",
+                "chart": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_5.png"
+            },
+            {
+                "article_id": 6,
+                "article_title": "Russia demanded that a spy held in Germany be freed in exchange for Paul Whelan + (LEFT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_6.json",
+                "chart": ""
+            }
+        ]
+    },
+    {
+        "topic_id": "1",
+        "network": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_network_topic_1.png",
+        "articles": [
+            {
+                "article_id": 7,
+                "article_title": "Europe's ambitious green hydrogen pipeline to be ready by 2030 + (LEFT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_7.json",
+                "chart": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_7.png"
+            },
+            {
+                "article_id": 8,
+                "article_title": "France, Spain, Portugal to build hydrogen pipeline by 2030 + (RIGHT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_8.json",
+                "chart": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_8.png"
+            },
+            {
+                "article_id": 9,
+                "article_title": "France, Spain, Portugal to build hydrogen pipeline by 2030 + (LEFT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_9.json",
+                "chart": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_9.png"
+            },
+            {
+                "article_id": 10,
+                "article_title": "France, Spain, Portugal to build hydrogen pipeline by 2030 + (LEFT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_10.json",
+                "chart": ""
+            },
+            {
+                "article_id": 11,
+                "article_title": "France, Spain, Portugal to build hydrogen pipeline by 2030 + (CENTER)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_11.json",
+                "chart": ""
+            },
+            {
+                "article_id": 12,
+                "article_title": "France, Spain, Portugal to build hydrogen pipeline by 2030 + (CENTER)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_12.json",
+                "chart": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_12.png"
+            },
+            {
+                "article_id": 13,
+                "article_title": "France, Spain, Portugal to build hydrogen pipeline by 2030 + (CENTER)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_13.json",
+                "chart": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_13.png"
+            },
+            {
+                "article_id": 14,
+                "article_title": "Hydrogen pipeline between Spain and France to be ready 'by 2030' + (CENTER)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_14.json",
+                "chart": ""
+            },
+            {
+                "article_id": 15,
+                "article_title": "Hydrogen pipeline between Spain and France to cost $2.6 bln + (CENTER)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_15.json",
+                "chart": ""
+            },
+            {
+                "article_id": 16,
+                "article_title": "Hydrogen Pipeline Between Spain And France To Be Ready 'By 2030' + (CENTER)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_16.json",
+                "chart": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_16.png"
+            },
+            {
+                "article_id": 17,
+                "article_title": "France, Spain, Portugal to build hydrogen pipeline by 2030 + (CENTER)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_17.json",
+                "chart": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_17.png"
+            }
+        ]
+    },
+    {
+        "topic_id": "2",
+        "network": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_network_topic_2.png",
+        "articles": [
+            {
+                "article_id": 19,
+                "article_title": "China Struggles With COVID Infections After Loosening of \ufffdZero-COVID\ufffd Restrictions + (RIGHT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_19.json",
+                "chart": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_19.png"
+            },
+            {
+                "article_id": 20,
+                "article_title": "China struggles with COVID infections after controls ease + (CENTER)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_20.json",
+                "chart": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_20.png"
+            },
+            {
+                "article_id": 21,
+                "article_title": "China struggles with COVID infections after controls ease + (CENTER)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_21.json",
+                "chart": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_21.png"
+            },
+            {
+                "article_id": 22,
+                "article_title": "China struggles with COVID infections after controls ease + (CENTER)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_22.json",
+                "chart": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_22.png"
+            },
+            {
+                "article_id": 23,
+                "article_title": "China struggles with COVID infections after controls ease + (LEFT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_23.json",
+                "chart": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_23.png"
+            },
+            {
+                "article_id": 24,
+                "article_title": "China struggles with COVID-19 infections after controls ease + (CENTER)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_24.json",
+                "chart": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_24.png"
+            },
+            {
+                "article_id": 25,
+                "article_title": "China struggles with COVID infections after controls ease + (RIGHT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_25.json",
+                "chart": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_25.png"
+            },
+            {
+                "article_id": 26,
+                "article_title": "China struggles with COVID infections after controls ease + (LEFT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_26.json",
+                "chart": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_26.png"
+            },
+            {
+                "article_id": 27,
+                "article_title": "China regulators, state banks split staff as fears mount about new COVID outbreaks-sources + (CENTER)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_27.json",
+                "chart": ""
+            },
+            {
+                "article_id": 28,
+                "article_title": "China struggles with Covid infections after controls eased + (RIGHT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_28.json",
+                "chart": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_28.png"
+            },
+            {
+                "article_id": 29,
+                "article_title": "China struggles with Covid infections after controls eased + (LEFT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_29.json",
+                "chart": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_29.png"
+            },
+            {
+                "article_id": 30,
+                "article_title": "China struggles with Covid infections after curbs eased + (RIGHT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_30.json",
+                "chart": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_30.png"
+            },
+            {
+                "article_id": 31,
+                "article_title": "China struggles with fresh infections after zero-Covid restrictions ease + (RIGHT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_31.json",
+                "chart": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_31.png"
+            },
+            {
+                "article_id": 32,
+                "article_title": "COVID-19 cases rise in China as anti-virus controls ease + (RIGHT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_32.json",
+                "chart": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_32.png"
+            },
+            {
+                "article_id": 33,
+                "article_title": "China Struggles With Rise in COVID Cases After Government Eases Anti-Virus Restrictions + (CENTER)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_33.json",
+                "chart": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_33.png"
+            },
+            {
+                "article_id": 34,
+                "article_title": "China struggles with COVID infections after controls ease + (LEFT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_34.json",
+                "chart": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_34.png"
+            },
+            {
+                "article_id": 35,
+                "article_title": "China struggles with COVID infections after controls ease + (RIGHT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_35.json",
+                "chart": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_35.png"
+            },
+            {
+                "article_id": 36,
+                "article_title": "China struggles with COVID infections after controls ease + (LEFT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_36.json",
+                "chart": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_36.png"
+            },
+            {
+                "article_id": 37,
+                "article_title": "China struggles with COVID infections after controls ease + (LEFT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_37.json",
+                "chart": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_37.png"
+            },
+            {
+                "article_id": 38,
+                "article_title": "China struggles with COVID infections after controls ease + (CENTER)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_38.json",
+                "chart": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_38.png"
+            },
+            {
+                "article_id": 39,
+                "article_title": "China struggles with COVID infections after controls ease + (CENTER)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_39.json",
+                "chart": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_39.png"
+            },
+            {
+                "article_id": 40,
+                "article_title": "China struggles with COVID infections after controls ease + (CENTER)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_40.json",
+                "chart": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_40.png"
+            },
+            {
+                "article_id": 41,
+                "article_title": "China struggles with COVID infections after controls ease + (CENTER)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_41.json",
+                "chart": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_41.png"
+            },
+            {
+                "article_id": 42,
+                "article_title": "China struggles with COVID infections after controls ease + (CENTER)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_42.json",
+                "chart": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_42.png"
+            },
+            {
+                "article_id": 43,
+                "article_title": "China struggles with COVID infections after controls ease + (CENTER)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_43.json",
+                "chart": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_43.png"
+            },
+            {
+                "article_id": 44,
+                "article_title": "End of 'zero-COVID' threatens to overwhelm China with infections + (CENTER)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_44.json",
+                "chart": ""
+            },
+            {
+                "article_id": 45,
+                "article_title": "China struggles with COVID infections after controls ease + (RIGHT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_45.json",
+                "chart": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_45.png"
+            },
+            {
+                "article_id": 46,
+                "article_title": "China struggles with COVID infections after controls ease + (CENTER)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_46.json",
+                "chart": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_46.png"
+            },
+            {
+                "article_id": 47,
+                "article_title": "What to expect next as China relaxes Covid controls + (CENTER)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_47.json",
+                "chart": ""
+            },
+            {
+                "article_id": 48,
+                "article_title": "China struggles with COVID infections after controls ease + (LEFT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_48.json",
+                "chart": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_48.png"
+            },
+            {
+                "article_id": 49,
+                "article_title": "China struggles with COVID infections after controls ease + (RIGHT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_49.json",
+                "chart": ""
+            }
+        ]
+    },
+    {
+        "topic_id": "3",
+        "network": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_network_topic_3.png",
+        "articles": [
+            {
+                "article_id": 50,
+                "article_title": "Russia may cut oil production over West's price cap: Putin\r\nRead more At: \r\nhttps://www.aninews.in/news/world/europe/russia-may-cut-oil-production-over-wests-price-cap-putin20221209231627/?utm_source=ground.news&utm_medium=referral + (RIGHT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_50.json",
+                "chart": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_50.png"
+            },
+            {
+                "article_id": 51,
+                "article_title": "Putin threatens Russia could cut oil output over West\ufffds price cap + (RIGHT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_51.json",
+                "chart": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_51.png"
+            },
+            {
+                "article_id": 52,
+                "article_title": "Putin threatens oil production cuts over price cap + (CENTER)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_52.json",
+                "chart": ""
+            },
+            {
+                "article_id": 53,
+                "article_title": "Russia may cut oil output in response to G-7 price cap, Putin says + (CENTER)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_53.json",
+                "chart": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_53.png"
+            },
+            {
+                "article_id": 57,
+                "article_title": "Putin Eyes Slashing Oil Production Following G7 Price Cap + (CENTER)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_57.json",
+                "chart": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_57.png"
+            },
+            {
+                "article_id": 55,
+                "article_title": "Putin threatens production cuts over oil price cap + (LEFT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_55.json",
+                "chart": ""
+            },
+            {
+                "article_id": 56,
+                "article_title": "Putin calls oil price cap 'stupid,' and says Russia is considering slashing oil production in response + (LEFT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_56.json",
+                "chart": ""
+            },
+            {
+                "article_id": 57,
+                "article_title": "Russia may cut oil production over West's price cap: Putin + (CENTER)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_57.json",
+                "chart": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_57.png"
+            },
+            {
+                "article_id": 58,
+                "article_title": "Russia May Cut Oil Output in Response to G-7 Price Cap, Putin Says + (RIGHT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_58.json",
+                "chart": ""
+            },
+            {
+                "article_id": 59,
+                "article_title": "Russia will not suffer losses because of oil price cap \ufffd Putin + (RIGHT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_59.json",
+                "chart": ""
+            },
+            {
+                "article_id": 60,
+                "article_title": "Putin says Russia may cut its oil output in response to G-7 price cap + (RIGHT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_60.json",
+                "chart": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_60.png"
+            },
+            {
+                "article_id": 61,
+                "article_title": "Putin says Russia may cut oil production over West's price cap + (RIGHT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_61.json",
+                "chart": ""
+            },
+            {
+                "article_id": 62,
+                "article_title": "Vladimir Putin warns of possible production cuts over $60 oil price cap + (LEFT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_62.json",
+                "chart": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_62.png"
+            },
+            {
+                "article_id": 63,
+                "article_title": "Putin says Russia could cut oil production over 'stupid' price cap + (CENTER)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_63.json",
+                "chart": ""
+            },
+            {
+                "article_id": 64,
+                "article_title": "Putin Says Russia Could Cut Oil Production Over West's 'Stupid' Price Cap + (CENTER)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_64.json",
+                "chart": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_64.png"
+            }
+        ]
+    },
+    {
+        "topic_id": "4",
+        "network": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_network_topic_4.png",
+        "articles": [
+            {
+                "article_id": 65,
+                "article_title": "Spain sack Luis Enrique after World Cup flop + (RIGHT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_65.json",
+                "chart": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_65.png"
+            },
+            {
+                "article_id": 66,
+                "article_title": "FIFA World Cup 2022: Gavi pens emotional message to Luis Enrique after Spain exit + (RIGHT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_66.json",
+                "chart": ""
+            },
+            {
+                "article_id": 67,
+                "article_title": "Spain replace coach Luis Enrique after early World Cup exit + (CENTER)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_67.json",
+                "chart": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_67.png"
+            },
+            {
+                "article_id": 68,
+                "article_title": "Luis Enrique replaced as Spain coach after World Cup exit + (LEFT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_68.json",
+                "chart": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_68.png"
+            },
+            {
+                "article_id": 69,
+                "article_title": "Spain coach Luis Enrique fired after FIFA World Cup debacle, Luis de la Fuente takes over + (CENTER)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_69.json",
+                "chart": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_69.png"
+            },
+            {
+                "article_id": 70,
+                "article_title": "Luis Enrique replaced as Spain coach after World Cup exit + (RIGHT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_70.json",
+                "chart": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_70.png"
+            },
+            {
+                "article_id": 71,
+                "article_title": "Luis Enrique replaced as Spain coach after World Cup exit + (LEFT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_71.json",
+                "chart": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_71.png"
+            },
+            {
+                "article_id": 72,
+                "article_title": "Luis Enrique replaced as Spain coach after World Cup exit + (CENTER)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_72.json",
+                "chart": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_72.png"
+            },
+            {
+                "article_id": 73,
+                "article_title": "Luis Enrique replaced as Spain coach after World Cup exit + (RIGHT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_73.json",
+                "chart": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_73.png"
+            },
+            {
+                "article_id": 74,
+                "article_title": "Luis Enrique replaced as Spain head coach after World Cup exit + (CENTER)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_74.json",
+                "chart": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_74.png"
+            },
+            {
+                "article_id": 75,
+                "article_title": "2022 World Cup: Luis Enrique out as Spain coach after shock Morocco elimination, Luis de la Fuente takes over + (CENTER)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_75.json",
+                "chart": ""
+            },
+            {
+                "article_id": 76,
+                "article_title": "Luis Enrique out as Spain coach after World Cup elimination + (CENTER)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_76.json",
+                "chart": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_76.png"
+            },
+            {
+                "article_id": 77,
+                "article_title": "Spain coach Luis Enrique leaves role after shock World Cup exit at hands of Morocco  + (LEFT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_77.json",
+                "chart": ""
+            },
+            {
+                "article_id": 78,
+                "article_title": "Luis Enrique steps down as head coach after Spain's FIFA World Cup 2022 loss against Morocco + (RIGHT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_78.json",
+                "chart": ""
+            },
+            {
+                "article_id": 79,
+                "article_title": "Spain sack Luis Enrique after World Cup flop + (RIGHT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_79.json",
+                "chart": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_79.png"
+            },
+            {
+                "article_id": 80,
+                "article_title": "Spain sack Luis Enrique after World Cup flop, announce Luis de la Fuente as new coach + (CENTER)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_80.json",
+                "chart": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_80.png"
+            },
+            {
+                "article_id": 81,
+                "article_title": "Spain sack Luis Enrique after World Cup flop + (LEFT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_81.json",
+                "chart": ""
+            },
+            {
+                "article_id": 82,
+                "article_title": "FIFA World Cup: Luis Enrique sacked as Spain coach, Luis de la Fuente named as replacement + (RIGHT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_82.json",
+                "chart": ""
+            },
+            {
+                "article_id": 83,
+                "article_title": "Luis Enrique replaced as Spain coach after World Cup exit + (LEFT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_83.json",
+                "chart": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_83.png"
+            },
+            {
+                "article_id": 84,
+                "article_title": "Soccer-Spain coach Luis Enrique fired, De la Fuente takes over + (RIGHT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_84.json",
+                "chart": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_84.png"
+            },
+            {
+                "article_id": 85,
+                "article_title": "Luis Enrique out as Spain coach after losing to Morocco in World Cup knockout round + (RIGHT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_85.json",
+                "chart": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_85.png"
+            },
+            {
+                "article_id": 86,
+                "article_title": "Fifa World Cup: Luis de la Fuente replaces Luis Enrique as Spain coach after round of 16 loss + (LEFT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_86.json",
+                "chart": ""
+            },
+            {
+                "article_id": 87,
+                "article_title": "Spain sack coach Luis Enrique after Morocco World Cup defeat + (LEFT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_87.json",
+                "chart": ""
+            },
+            {
+                "article_id": 88,
+                "article_title": "Spain sack coach Luis Enrique after Morocco World Cup loss + (RIGHT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_88.json",
+                "chart": ""
+            },
+            {
+                "article_id": 89,
+                "article_title": "Spain coach Luis Enrique departs after FIFA World Cup exit + (LEFT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_89.json",
+                "chart": ""
+            },
+            {
+                "article_id": 90,
+                "article_title": "Luis Enrique replaced as Spain coach after World Cup exit + (RIGHT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_90.json",
+                "chart": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_90.png"
+            },
+            {
+                "article_id": 91,
+                "article_title": "Luis Enrique leaves Spain job with Luis de la Fuente set to replace him + (LEFT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_91.json",
+                "chart": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_91.png"
+            },
+            {
+                "article_id": 92,
+                "article_title": "Luis Enrique replaced as Spain coach after World Cup exit + (LEFT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_92.json",
+                "chart": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_92.png"
+            },
+            {
+                "article_id": 93,
+                "article_title": "Soccer-Spain coach Luis Enrique fired, De la Fuente takes over + (RIGHT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_93.json",
+                "chart": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_93.png"
+            },
+            {
+                "article_id": 95,
+                "article_title": "Luis Enrique Sacked After Spain's Exit From FIFA World Cup 2022 + (RIGHT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_95.json",
+                "chart": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_95.png"
+            },
+            {
+                "article_id": 96,
+                "article_title": "Spain coach Luis Enrique departs after World Cup exit + (CENTER)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_96.json",
+                "chart": ""
+            },
+            {
+                "article_id": 97,
+                "article_title": "LU ARE A GONER Luis Enrique SACKED as Spain manager after shock World Cup last-16 exit to Morocco with new boss announced moments later + (RIGHT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_97.json",
+                "chart": ""
+            },
+            {
+                "article_id": 98,
+                "article_title": "Luis Enrique sacked by Spain after early World Cup exit as U21s boss Luis de la Fuente takes coaching reins + (RIGHT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_98.json",
+                "chart": ""
+            },
+            {
+                "article_id": 99,
+                "article_title": "Spain coach Luis Enrique out after shock FIFA World Cup exit + (LEFT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_99.json",
+                "chart": ""
+            },
+            {
+                "article_id": 100,
+                "article_title": "LUIS ENRIQUE LEAVES SPAIN AS MANAGER AFTER WORLD CUP LAST-16 DEFEAT TO MOROCCO, REPLACED BY LUIS DE LA FUENTE + (CENTER)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_100.json",
+                "chart": ""
+            },
+            {
+                "article_id": 101,
+                "article_title": "Luis Enrique sacked by Spain, replaced by De La Fuente + (LEFT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_101.json",
+                "chart": ""
+            },
+            {
+                "article_id": 102,
+                "article_title": "Spain coach Luis Enrique fired, De la Fuente takes over + (CENTER)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_102.json",
+                "chart": ""
+            },
+            {
+                "article_id": 104,
+                "article_title": "Luis Enrique replaced as Spain coach after World Cup exit + (CENTER)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_104.json",
+                "chart": ""
+            },
+            {
+                "article_id": 105,
+                "article_title": "Luis Enrique replaced as Spain coach after World Cup exit + (LEFT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_105.json",
+                "chart": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_105.png"
+            },
+            {
+                "article_id": 106,
+                "article_title": "Luis Enrique replaced as Spain coach after World Cup exit + (LEFT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_106.json",
+                "chart": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_106.png"
+            },
+            {
+                "article_id": 107,
+                "article_title": "Spain boss Luis Enrique sacked following World Cup exit + (RIGHT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_107.json",
+                "chart": ""
+            },
+            {
+                "article_id": 108,
+                "article_title": "Luis Enrique leaves post as Spain boss following shock World Cup exit + (LEFT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_108.json",
+                "chart": ""
+            },
+            {
+                "article_id": 109,
+                "article_title": "Luis Enrique steps aside as Spain head coach after World Cup exit + (LEFT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_109.json",
+                "chart": ""
+            },
+            {
+                "article_id": 110,
+                "article_title": "Spain fires manager Luis Enrique after upset loss to Morocco + (CENTER)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_110.json",
+                "chart": ""
+            }
+        ]
+    },
+    {
+        "topic_id": "5",
+        "network": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_network_topic_5.png",
+        "articles": [
+            {
+                "article_id": 111,
+                "article_title": "NATO criticises Russia for 'dangerous and irresponsible' nuclear move + (RIGHT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_111.json",
+                "chart": ""
+            },
+            {
+                "article_id": 112,
+                "article_title": "Russia's nuclear rhetoric is dangerous and irresponsible, says Nato + (RIGHT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_112.json",
+                "chart": ""
+            },
+            {
+                "article_id": 113,
+                "article_title": "Russia\u2019s nuclear rhetoric is dangerous and irresponsible, Nato says + (RIGHT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_113.json",
+                "chart": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_113.png"
+            },
+            {
+                "article_id": 114,
+                "article_title": "NATO criticises Putin for 'dangerous and irresponsible' nuclear rhetoric + (RIGHT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_114.json",
+                "chart": ""
+            },
+            {
+                "article_id": 115,
+                "article_title": "Russia's nuclear rhetoric is dangerous and irresponsible, NATO says + (RIGHT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_115.json",
+                "chart": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_115.png"
+            },
+            {
+                "article_id": 116,
+                "article_title": "NATO criticizes Russia\u2019s nuclear rhetoric as \u2018dangerous and irresponsible\u2019 + (RIGHT)",
+                "analyzed": "./././data/ground.news/by_source_selection/by_source_selection_GROUNDNEWS_of_article_116.json",
+                "chart": ""
+            }
+        ]
+    }
+]

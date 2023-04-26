@@ -1,0 +1,534 @@
+{
+    "article_id": 53,
+    "article_datetime": "9/12/2022 08:46:10",
+    "article_label": "CENTER",
+    "article_total_paragraphs": 16,
+    "biased_by_these_sources": [
+        58,
+        62
+    ],
+    "biased_labels": {
+        "LEFT": 2,
+        "CENTER": 0,
+        "RIGHT": 0
+    },
+    "is_biased": "Yes, to the LEFT",
+    "earlier_articles": [
+        {
+            "article_id": 57,
+            "article_label": "CENTER",
+            "datetime": "9/12/2022 05:43:22",
+            "total_paragraphs": 9,
+            "total_reused_paragraphs": 3,
+            "reused_ratio": 0.19,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 1,
+                "CENTER": 1,
+                "RIGHT": 1
+            },
+            "reused_percentage": {
+                "LEFT": 0.3333333333333333,
+                "CENTER": 0.3333333333333333,
+                "RIGHT": 0.3333333333333333
+            },
+            "reused_details": [
+                {
+                    "reused": "On Friday, Russian President Vladimir Putin said his nation is eyeing a cut to crude oil production in response to the Group of Seven Nations (G7) price cap on Russian crude, Bloomberg reported Friday.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5035085082054138
+                    },
+                    "reused_by_aic": [
+                        "Russia may cut its oil production in response to the G-7 cap on the price of its crude, President Vladimir Putin said.",
+                        "Russia may cut its oil production in response to the G-7 cap on the price of its crude, President Vladimir Putin said."
+                    ]
+                },
+                {
+                    "reused": "Putin told reporters on Russian state TV that Russia will consider cutting production due to the price cap and added that he would soon announce a presidential decree to further respond to G7s move, according to Bloomberg.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.3771994113922119
+                    },
+                    "reused_by_aic": [
+                        "Russia may cut its oil production in response to the G-7 cap on the price of its crude, President Vladimir Putin said.",
+                        "Russia may cut its oil production in response to the G-7 cap on the price of its crude, President Vladimir Putin said."
+                    ]
+                },
+                {
+                    "reused": "Im not saying now that this is a decision, but if necessary well think about possible production cuts, Putin said.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.5289372801780701
+                    },
+                    "reused_by_aic": [
+                        "Im not saying now that this is a decision, but if necessary well think about possible production cuts, Putin said."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 58,
+            "article_label": "RIGHT",
+            "datetime": "9/12/2022 02:18:58",
+            "total_paragraphs": 18,
+            "total_reused_paragraphs": 16,
+            "reused_ratio": 1.0,
+            "is_biased_to": "Yes, to the LEFT. Percentage: 43.75%",
+            "reused_paragraphs_label": {
+                "LEFT": 7,
+                "CENTER": 6,
+                "RIGHT": 3
+            },
+            "reused_percentage": {
+                "LEFT": 0.4375,
+                "CENTER": 0.375,
+                "RIGHT": 0.1875
+            },
+            "reused_details": [
+                {
+                    "reused": "(Bloomberg) -- Russia may cut its oil production in response to the G-7 cap on the price of its crude, President Vladimir Putin said.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5461919903755188
+                    },
+                    "reused_by_aic": [
+                        "Russia may cut its oil production in response to the G-7 cap on the price of its crude, President Vladimir Putin said.",
+                        "Russia may cut its oil production in response to the G-7 cap on the price of its crude, President Vladimir Putin said."
+                    ]
+                },
+                {
+                    "reused": "(Bloomberg)  Russia may cut its oil production in response to the G-7 cap on the price of its crude, President Vladimir Putin said.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5778101682662964
+                    },
+                    "reused_by_aic": [
+                        "Russia may cut its oil production in response to the G-7 cap on the price of its crude, President Vladimir Putin said.",
+                        "Russia may cut its oil production in response to the G-7 cap on the price of its crude, President Vladimir Putin said."
+                    ]
+                },
+                {
+                    "reused": "A decision on Moscows response will be announced in a presidential decree within the next several days, Putin told reporters in comments broadcast on state Rossiya 24 TV, providing no further details.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.426334023475647
+                    },
+                    "reused_by_aic": [
+                        "A decision on Moscows response will be announced in a presidential decree within the next several days, Putin told reporters in comments broadcast on state Rossiya 24 TV, providing no further details."
+                    ]
+                },
+                {
+                    "reused": "Im not saying now that this is a decision, but if necessary well think about possible production cuts, Putin said.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.5289372801780701
+                    },
+                    "reused_by_aic": [
+                        "Im not saying now that this is a decision, but if necessary well think about possible production cuts, Putin said."
+                    ]
+                },
+                {
+                    "reused": "I have already said that we simply wont sell oil to those countries that participate in a price cap.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.49899885058403015
+                    },
+                    "reused_by_aic": [
+                        "I have already said that we simply wont sell oil to those countries that participate in a price cap."
+                    ]
+                },
+                {
+                    "reused": "After months of planning and negotiations, the biggest tranche of international sanctions on Russian oil took effect on Monday.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.43259620666503906
+                    },
+                    "reused_by_aic": [
+                        "After months of planning and negotiations, the biggest tranche of international sanctions on Russian oil took effect on Monday."
+                    ]
+                },
+                {
+                    "reused": "The European Union banned almost all seaborne imports of the countrys crude oil, and the G-7 agreed that anyone wanting to access key services that the bloc provides  especially insurance  will have to pay less than $60 a barrel.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.5461494326591492
+                    },
+                    "reused_by_aic": [
+                        "The European Union banned almost all seaborne imports of the countrys crude oil, and the G-7 agreed that anyone wanting to access key services that the bloc provides  especially insurance  will have to pay less than $60 a barrel."
+                    ]
+                },
+                {
+                    "reused": "Advertisement 3 Article content There are still enormous unanswered questions that will shape the impact of the measures on the oil market, including the depth of non-European insurance markets, the appetite of some tanker owners to participate in trade with Russia, and exactly how effective enforcement of the cap can be.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.442516565322876
+                    },
+                    "reused_by_aic": [
+                        "There are still enormous unanswered questions that will shape the impact of the measures on the oil market, including the depth of non-European insurance markets, the appetite of some tanker owners to participate in trade with Russia, and exactly how effective enforcement of the cap can be."
+                    ]
+                },
+                {
+                    "reused": "Whatever Russia does there are no good options, Ben Harris, assistant secretary for economic policy at the US Treasury, said earlier this week.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.5130940079689026
+                    },
+                    "reused_by_aic": [
+                        "Whatever Russia does there are no good options, Ben Harris, assistant secretary for economic policy at the US Treasury, said earlier this week."
+                    ]
+                },
+                {
+                    "reused": "Any supply disruption not hurts their partners, but also really hurts their pocketbooks. Production, Revenue Russia has said the effects of the price cap on oil production will be limited.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.38757622241973877
+                    },
+                    "reused_by_aic": [
+                        "Any supply disruption not only hurts their partners, but also really hurts their pocketbooks. Production, Revenue Russia has said the effects of the price cap on oil production will be limited.",
+                        "The price cap wont have any negative consequences on Russias revenue as the $60 a barrel threshold introduced by western countries corresponds to the prices at which we sell today, Putin said."
+                    ]
+                },
+                {
+                    "reused": "Any volatility in the nations output wont be higher than the fluctuations in spring, First Deputy Energy Minister Pavel Sorokin said earlier this week.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.383385568857193
+                    },
+                    "reused_by_aic": [
+                        "Any volatility in the nations output wont be higher than the fluctuations in spring, First Deputy Energy Minister Pavel Sorokin said earlier this week."
+                    ]
+                },
+                {
+                    "reused": "Advertisement 4 Article content In April, two months into the invasion of Ukraine, Russia pumped an average of around 10.05 million barrels a day, down from 11.08 million a day in February, according to industry data seen by Bloomberg.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.4324585497379303
+                    },
+                    "reused_by_aic": [
+                        "In April, two months into the invasion of Ukraine, Russia pumped an average of around 10.05 million barrels a day, down from 11.08 million a day in February, according to industry data seen by Bloomberg."
+                    ]
+                },
+                {
+                    "reused": "Output then started to recover, reaching an eight-month high in November.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.42605724930763245
+                    },
+                    "reused_by_aic": [
+                        "Output then started to recover, reaching an eight-month high in November."
+                    ]
+                },
+                {
+                    "reused": "Read: Oil Price Cap Is No Game-changer for Putins Wartime Budget The price cap wont have any negative consequences on Russias revenue as the $60 a barrel threshold introduced by western countries corresponds to the prices at which we sell today, Putin said.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.40629464387893677
+                    },
+                    "reused_by_aic": [
+                        "The price cap wont have any negative consequences on Russias revenue as the $60 a barrel threshold introduced by western countries corresponds to the prices at which we sell today, Putin said."
+                    ]
+                },
+                {
+                    "reused": "We already sell at about these prices, so dont worry about the budget. Russias flagship Urals crude thats exported from the Baltic port of Primorsk was assessed at $41.59 a barrel on Thursday, according to data from Argus Media, whose figures the Russian government has used to calculate export duties.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.6503984928131104
+                    },
+                    "reused_by_aic": [
+                        "We already sell at about these prices, so dont worry about the budget. Russias flagship Urals crude thats exported from the Baltic port of Primorsk was assessed at $41.59 a barrel on Thursday, according to data from Argus Media, whose figures the Russian government has used to calculate export duties."
+                    ]
+                },
+                {
+                    "reused": "However, the price of Russias ESPO crude blend in Asia is holding well above the western cap, trading at $67.11 a barrel on Thursday, Argus data show.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.45836132764816284
+                    },
+                    "reused_by_aic": [
+                        "However, the price of Russias ESPO crude blend in Asia is holding well above the western cap, trading at $67.11 a barrel on Thursday, Argus data show."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 59,
+            "article_label": "RIGHT",
+            "datetime": "9/12/2022 03:38:51",
+            "total_paragraphs": 25,
+            "total_reused_paragraphs": 1,
+            "reused_ratio": 0.06,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 1,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 1.0,
+                "RIGHT": 0.0
+            },
+            "reused_details": [
+                {
+                    "reused": "The efforts to cap oil prices will not harm Russia, President Vladimir Putin told reporters on Friday.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5184227228164673
+                    },
+                    "reused_by_aic": [
+                        "Russia may cut its oil production in response to the G-7 cap on the price of its crude, President Vladimir Putin said.",
+                        "Russia may cut its oil production in response to the G-7 cap on the price of its crude, President Vladimir Putin said."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 61,
+            "article_label": "RIGHT",
+            "datetime": "9/12/2022 07:25:02",
+            "total_paragraphs": 10,
+            "total_reused_paragraphs": 1,
+            "reused_ratio": 0.06,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 1,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 1.0,
+                "RIGHT": 0.0
+            },
+            "reused_details": [
+                {
+                    "reused": "Russia , the world's biggest exporter of energy, may cut oil production and will refuse to sell oil to any country which imposes the West's price cap on Russian oil, President Vladimir Putin  said on Friday.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5974770784378052
+                    },
+                    "reused_by_aic": [
+                        "Russia may cut its oil production in response to the G-7 cap on the price of its crude, President Vladimir Putin said.",
+                        "Russia may cut its oil production in response to the G-7 cap on the price of its crude, President Vladimir Putin said."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 62,
+            "article_label": "LEFT",
+            "datetime": "9/12/2022 06:02:17",
+            "total_paragraphs": 16,
+            "total_reused_paragraphs": 15,
+            "reused_ratio": 0.94,
+            "is_biased_to": "Yes, to the LEFT. Percentage: 46.67%",
+            "reused_paragraphs_label": {
+                "LEFT": 7,
+                "CENTER": 6,
+                "RIGHT": 2
+            },
+            "reused_percentage": {
+                "LEFT": 0.4666666666666667,
+                "CENTER": 0.4,
+                "RIGHT": 0.13333333333333333
+            },
+            "reused_details": [
+                {
+                    "reused": "Russia may cut its oil production in response to the G-7 cap on the price of its crude, President Vladimir Putin said.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5814248919487
+                    },
+                    "reused_by_aic": [
+                        "Russia may cut its oil production in response to the G-7 cap on the price of its crude, President Vladimir Putin said.",
+                        "Russia may cut its oil production in response to the G-7 cap on the price of its crude, President Vladimir Putin said."
+                    ]
+                },
+                {
+                    "reused": "A decision on Moscows response will be announced in a presidential decree within the next several days, Putin told reporters in comments broadcast on state Rossiya 24 TV, providing no further details.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.426334023475647
+                    },
+                    "reused_by_aic": [
+                        "A decision on Moscows response will be announced in a presidential decree within the next several days, Putin told reporters in comments broadcast on state Rossiya 24 TV, providing no further details."
+                    ]
+                },
+                {
+                    "reused": "Im not saying now that this is a decision, but if necessary well think about possible production cuts, Putin said.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.5289372801780701
+                    },
+                    "reused_by_aic": [
+                        "Im not saying now that this is a decision, but if necessary well think about possible production cuts, Putin said."
+                    ]
+                },
+                {
+                    "reused": "I have already said that we simply wont sell oil to those countries that participate in a price cap.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.49899885058403015
+                    },
+                    "reused_by_aic": [
+                        "I have already said that we simply wont sell oil to those countries that participate in a price cap."
+                    ]
+                },
+                {
+                    "reused": "After months of planning and negotiations, the biggest tranche of international sanctions on Russian oil took effect on Monday.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.43259620666503906
+                    },
+                    "reused_by_aic": [
+                        "After months of planning and negotiations, the biggest tranche of international sanctions on Russian oil took effect on Monday."
+                    ]
+                },
+                {
+                    "reused": "The European Union banned almost all seaborne imports of the countrys crude oil, and the G-7 agreed that anyone wanting to access key services that the bloc provides  especially insurance  will have to pay less than $60 a barrel.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.5461494326591492
+                    },
+                    "reused_by_aic": [
+                        "The European Union banned almost all seaborne imports of the countrys crude oil, and the G-7 agreed that anyone wanting to access key services that the bloc provides  especially insurance  will have to pay less than $60 a barrel."
+                    ]
+                },
+                {
+                    "reused": "There are still enormous unanswered questions that will shape the impact of the measures on the oil market, including the depth of non-European insurance markets, the appetite of some tanker owners to participate in trade with Russia, and exactly how effective enforcement of the cap can be.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.46468329429626465
+                    },
+                    "reused_by_aic": [
+                        "There are still enormous unanswered questions that will shape the impact of the measures on the oil market, including the depth of non-European insurance markets, the appetite of some tanker owners to participate in trade with Russia, and exactly how effective enforcement of the cap can be."
+                    ]
+                },
+                {
+                    "reused": "Whatever Russia does there are no good options, Ben Harris, assistant secretary for economic policy at the US Treasury, said earlier this week.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.5130940079689026
+                    },
+                    "reused_by_aic": [
+                        "Whatever Russia does there are no good options, Ben Harris, assistant secretary for economic policy at the US Treasury, said earlier this week."
+                    ]
+                },
+                {
+                    "reused": "Any supply disruption not hurts their partners, but also really hurts their pocketbooks. Production, Revenue Russia has said the effects of the price cap on oil production will be limited.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.38757622241973877
+                    },
+                    "reused_by_aic": [
+                        "Any supply disruption not only hurts their partners, but also really hurts their pocketbooks. Production, Revenue Russia has said the effects of the price cap on oil production will be limited.",
+                        "The price cap wont have any negative consequences on Russias revenue as the $60 a barrel threshold introduced by western countries corresponds to the prices at which we sell today, Putin said."
+                    ]
+                },
+                {
+                    "reused": "Any volatility in the nations output wont be higher than the fluctuations in spring, First Deputy Energy Minister Pavel Sorokin said earlier this week.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.383385568857193
+                    },
+                    "reused_by_aic": [
+                        "Any volatility in the nations output wont be higher than the fluctuations in spring, First Deputy Energy Minister Pavel Sorokin said earlier this week."
+                    ]
+                },
+                {
+                    "reused": "In April, two months into the invasion of Ukraine, Russia pumped an average of around 10.05 million barrels a day, down from 11.08 million a day in February, according to industry data seen by Bloomberg.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6119648218154907
+                    },
+                    "reused_by_aic": [
+                        "In April, two months into the invasion of Ukraine, Russia pumped an average of around 10.05 million barrels a day, down from 11.08 million a day in February, according to industry data seen by Bloomberg."
+                    ]
+                },
+                {
+                    "reused": "Output then started to recover, reaching an eight-month high in November.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.42605724930763245
+                    },
+                    "reused_by_aic": [
+                        "Output then started to recover, reaching an eight-month high in November."
+                    ]
+                },
+                {
+                    "reused": "The price cap wont have any negative consequences on Russias revenue as the $60 a barrel threshold introduced by western countries corresponds to the prices at which we sell today, Putin said.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.4007629156112671
+                    },
+                    "reused_by_aic": [
+                        "The price cap wont have any negative consequences on Russias revenue as the $60 a barrel threshold introduced by western countries corresponds to the prices at which we sell today, Putin said."
+                    ]
+                },
+                {
+                    "reused": "We already sell at about these prices, so dont worry about the budget. Russias flagship Urals crude thats exported from the Baltic port of Primorsk was assessed at $41.59 a barrel on Thursday, according to data from Argus Media, whose figures the Russian government has used to calculate export duties.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.6503984928131104
+                    },
+                    "reused_by_aic": [
+                        "We already sell at about these prices, so dont worry about the budget. Russias flagship Urals crude thats exported from the Baltic port of Primorsk was assessed at $41.59 a barrel on Thursday, according to data from Argus Media, whose figures the Russian government has used to calculate export duties."
+                    ]
+                },
+                {
+                    "reused": "However, the price of Russias ESPO crude blend in Asia is holding well above the western cap, trading at $67.11 a barrel on Thursday, Argus data show.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.45836132764816284
+                    },
+                    "reused_by_aic": [
+                        "However, the price of Russias ESPO crude blend in Asia is holding well above the western cap, trading at $67.11 a barrel on Thursday, Argus data show."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 63,
+            "article_label": "CENTER",
+            "datetime": "9/12/2022 05:00:29",
+            "total_paragraphs": 19,
+            "total_reused_paragraphs": 2,
+            "reused_ratio": 0.12,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 1,
+                "CENTER": 1,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.5,
+                "CENTER": 0.5,
+                "RIGHT": 0.0
+            },
+            "reused_details": [
+                {
+                    "reused": "MOSCOW, Dec 9 (Reuters) - Russia, the world's biggest exporter of energy, could cut oil production and will refuse to sell oil to any country that imposes the West's \"stupid\" price cap on Russian oil, President Vladimir Putin said on Friday.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.66180819272995
+                    },
+                    "reused_by_aic": [
+                        "Russia may cut its oil production in response to the G-7 cap on the price of its crude, President Vladimir Putin said.",
+                        "Russia may cut its oil production in response to the G-7 cap on the price of its crude, President Vladimir Putin said."
+                    ]
+                },
+                {
+                    "reused": "The price for Urals blend crude on Friday was around $53 per barrel, according to Reuters data.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.3667682707309723
+                    },
+                    "reused_by_aic": [
+                        "However, the price of Russias ESPO crude blend in Asia is holding well above the western cap, trading at $67.11 a barrel on Thursday, Argus data show."
+                    ]
+                }
+            ]
+        }
+    ]
+}

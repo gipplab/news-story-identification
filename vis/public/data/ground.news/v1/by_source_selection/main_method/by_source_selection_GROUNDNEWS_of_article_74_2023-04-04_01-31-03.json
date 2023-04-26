@@ -1,0 +1,36 @@
+{
+    "article_id": 74,
+    "article_datetime": "6/12/2022 05:19:31",
+    "article_label": "CENTER",
+    "article_total_paragraphs": 27,
+    "biased_by_these_sources": [
+        104
+    ],
+    "biased_labels": {
+        "LEFT": 1,
+        "CENTER": 0,
+        "RIGHT": 0
+    },
+    "is_biased": "Yes, to the LEFT",
+    "earlier_articles": [
+        {
+            "article_id": 104,
+            "article_label": "CENTER",
+            "datetime": "18/2/2022 06:27:13",
+            "total_paragraphs": 28,
+            "total_reused_paragraphs": 27,
+            "reused_ratio": 1.0,
+            "is_biased_to": "Yes, to the LEFT. Percentage: 51.85%",
+            "reused_paragraphs_label": {
+                "LEFT": 14,
+                "CENTER": 13,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.5185185185185185,
+                "CENTER": 0.48148148148148145,
+                "RIGHT": 0.0
+            }
+        }
+    ]
+}

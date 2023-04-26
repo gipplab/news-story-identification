@@ -1,0 +1,425 @@
+{
+    "article_id": 56,
+    "article_datetime": "9/12/2022 19:51:07",
+    "article_label": "LEFT",
+    "article_total_paragraphs": 11,
+    "biased_by_these_sources": [],
+    "biased_labels": {
+        "LEFT": 0,
+        "CENTER": 0,
+        "RIGHT": 0
+    },
+    "is_biased": "No",
+    "earlier_articles": [
+        {
+            "article_id": 50,
+            "article_label": "RIGHT",
+            "datetime": "9/12/2022 11:23:07",
+            "total_paragraphs": 1,
+            "total_reused_paragraphs": 0,
+            "reused_ratio": 0.0,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 0,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0,
+                "CENTER": 0,
+                "RIGHT": 0
+            },
+            "reused_details": []
+        },
+        {
+            "article_id": 53,
+            "article_label": "CENTER",
+            "datetime": "9/12/2022 08:46:10",
+            "total_paragraphs": 16,
+            "total_reused_paragraphs": 3,
+            "reused_ratio": 0.27,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 3,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 1.0,
+                "RIGHT": 0.0
+            },
+            "reused_details": [
+                {
+                    "reused": "Russia may cut its oil production in response to the G-7 cap on the price of its crude, President Vladimir Putin said.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5814248919487
+                    },
+                    "reused_by_aic": [
+                        "Russia will consider slashing its oil output in retaliation to the G7 and European Union's price cap, according to President Vladimir Putin."
+                    ]
+                },
+                {
+                    "reused": "Russia may cut its oil production in response to the G-7 cap on the price of its crude, President Vladimir Putin said.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5814248919487
+                    },
+                    "reused_by_aic": [
+                        "Russia will consider slashing its oil output in retaliation to the G7 and European Union's price cap, according to President Vladimir Putin."
+                    ]
+                },
+                {
+                    "reused": "The price cap wont have any negative consequences on Russias revenue as the $60 a barrel threshold introduced by western countries corresponds to the prices at which we sell today, Putin said.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.4007629156112671
+                    },
+                    "reused_by_aic": [
+                        "Putin added that Russia's finances wouldn't be hit by the new measures and the West's implementation of a price cap was \"stupid,\" Reuters reported."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 57,
+            "article_label": "CENTER",
+            "datetime": "9/12/2022 05:43:22",
+            "total_paragraphs": 9,
+            "total_reused_paragraphs": 1,
+            "reused_ratio": 0.09,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 1,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 1.0,
+                "RIGHT": 0.0
+            },
+            "reused_details": [
+                {
+                    "reused": "The G7, which includes the U.S. and Australia, imposed a $60 per barrel price cap on seaborne Russian oil on Dec. 5 to target Moscows oil revenues which are helping fund its invasion of Ukraine.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.45747876167297363
+                    },
+                    "reused_by_aic": [
+                        "On Monday, the EU's embargo on seaborne Russian oil imports took effect, along with a $60-a-barrel price cap on Moscow's crude that is meant to prevent a supply shock and limit Putin's energy revenue.",
+                        "Companies that abide by the price cap will be able to use European shipping and insurance services to send oil to Asia, where some countries have been snapping up Russian oil at hefty discounts since the invasion of Ukraine."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 55,
+            "article_label": "LEFT",
+            "datetime": "9/12/2022 18:22:08",
+            "total_paragraphs": 7,
+            "total_reused_paragraphs": 1,
+            "reused_ratio": 0.09,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 1,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 1.0,
+                "RIGHT": 0.0
+            },
+            "reused_details": [
+                {
+                    "reused": "\"We will consider a possible reduction in production if necessary,\" Putin told reporters in Kyrgyzstan's capital Bishkek following a regional summit.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.672626793384552
+                    },
+                    "reused_by_aic": [
+                        "\"We will think, maybe even about the possible, if necessary  reduction in production,\" he said at a press event on Friday."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 57,
+            "article_label": "CENTER",
+            "datetime": "9/12/2022 17:41:55",
+            "total_paragraphs": 10,
+            "total_reused_paragraphs": 3,
+            "reused_ratio": 0.27,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 3,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 1.0,
+                "RIGHT": 0.0
+            },
+            "reused_details": [
+                {
+                    "reused": "\"We will think, maybe even about the possible, if necessary ... reduction in production.\"",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5742699503898621
+                    },
+                    "reused_by_aic": [
+                        "\"We will think, maybe even about the possible, if necessary  reduction in production,\" he said at a press event on Friday."
+                    ]
+                },
+                {
+                    "reused": "Putin also said Moscow would not lose out from the West's price cap and that the government's finances would hold up fine.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6267340779304504
+                    },
+                    "reused_by_aic": [
+                        "Putin added that Russia's finances wouldn't be hit by the new measures and the West's implementation of a price cap was \"stupid,\" Reuters reported."
+                    ]
+                },
+                {
+                    "reused": "He said the West's move was \"stupid\" and that energy prices would \"skyrocket\" for those who imposed the caps.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.660901665687561
+                    },
+                    "reused_by_aic": [
+                        "He also warned energy prices would \"skyrocket\" for any countries that participated in the price cap."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 58,
+            "article_label": "RIGHT",
+            "datetime": "9/12/2022 02:18:58",
+            "total_paragraphs": 18,
+            "total_reused_paragraphs": 0,
+            "reused_ratio": 0.0,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 0,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0,
+                "CENTER": 0,
+                "RIGHT": 0
+            },
+            "reused_details": []
+        },
+        {
+            "article_id": 59,
+            "article_label": "RIGHT",
+            "datetime": "9/12/2022 03:38:51",
+            "total_paragraphs": 25,
+            "total_reused_paragraphs": 2,
+            "reused_ratio": 0.18,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 2,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 1.0,
+                "RIGHT": 0.0
+            },
+            "reused_details": [
+                {
+                    "reused": "The efforts to cap oil prices will not harm Russia, President Vladimir Putin told reporters on Friday.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5184227228164673
+                    },
+                    "reused_by_aic": [
+                        "Putin added that Russia's finances wouldn't be hit by the new measures and the West's implementation of a price cap was \"stupid,\" Reuters reported."
+                    ]
+                },
+                {
+                    "reused": "At the same time, Putin dismissed the possibility that the price cap would cause problems for the Russian budget.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.4132363200187683
+                    },
+                    "reused_by_aic": [
+                        "Putin added that Russia's finances wouldn't be hit by the new measures and the West's implementation of a price cap was \"stupid,\" Reuters reported."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 61,
+            "article_label": "RIGHT",
+            "datetime": "9/12/2022 07:25:02",
+            "total_paragraphs": 10,
+            "total_reused_paragraphs": 3,
+            "reused_ratio": 0.27,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 3,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 1.0,
+                "RIGHT": 0.0
+            },
+            "reused_details": [
+                {
+                    "reused": "\"We will think, maybe even about the possible, if necessary... reduction in production.\"",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5742699503898621
+                    },
+                    "reused_by_aic": [
+                        "\"We will think, maybe even about the possible, if necessary  reduction in production,\" he said at a press event on Friday."
+                    ]
+                },
+                {
+                    "reused": "Putin also said Moscow would not lose out from the West's price cap and that the government's finances would hold up fine.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6267340779304504
+                    },
+                    "reused_by_aic": [
+                        "Putin added that Russia's finances wouldn't be hit by the new measures and the West's implementation of a price cap was \"stupid,\" Reuters reported."
+                    ]
+                },
+                {
+                    "reused": "He said the West's move was \"stupid\" and that energy prices would \"skyrocket\" for those who imposed the caps.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.660901665687561
+                    },
+                    "reused_by_aic": [
+                        "He also warned energy prices would \"skyrocket\" for any countries that participated in the price cap."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 62,
+            "article_label": "LEFT",
+            "datetime": "9/12/2022 06:02:17",
+            "total_paragraphs": 16,
+            "total_reused_paragraphs": 3,
+            "reused_ratio": 0.27,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 3,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 1.0,
+                "RIGHT": 0.0
+            },
+            "reused_details": [
+                {
+                    "reused": "\"We will consider a possible reduction in production if necessary,\" Putin told reporters at a press conference in Kyrgyzstan's capital Bishkek following a regional summit.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6899808645248413
+                    },
+                    "reused_by_aic": [
+                        "\"We will think, maybe even about the possible, if necessary  reduction in production,\" he said at a press event on Friday."
+                    ]
+                },
+                {
+                    "reused": "Russia may cut its oil production in response to the G-7 cap on the price of its crude, President Vladimir Putin said.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5814248919487
+                    },
+                    "reused_by_aic": [
+                        "Russia will consider slashing its oil output in retaliation to the G7 and European Union's price cap, according to President Vladimir Putin."
+                    ]
+                },
+                {
+                    "reused": "The price cap wont have any negative consequences on Russias revenue as the $60 a barrel threshold introduced by western countries corresponds to the prices at which we sell today, Putin said.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.4007629156112671
+                    },
+                    "reused_by_aic": [
+                        "Putin added that Russia's finances wouldn't be hit by the new measures and the West's implementation of a price cap was \"stupid,\" Reuters reported."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 63,
+            "article_label": "CENTER",
+            "datetime": "9/12/2022 05:00:29",
+            "total_paragraphs": 19,
+            "total_reused_paragraphs": 1,
+            "reused_ratio": 0.09,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 1,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 1.0,
+                "RIGHT": 0.0
+            },
+            "reused_details": [
+                {
+                    "reused": "\"We will think, maybe, even about a possible, if necessary ... reduction in production.\"",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5995630621910095
+                    },
+                    "reused_by_aic": [
+                        "\"We will think, maybe even about the possible, if necessary  reduction in production,\" he said at a press event on Friday."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 64,
+            "article_label": "CENTER",
+            "datetime": "9/12/2022 14:07:59",
+            "total_paragraphs": 17,
+            "total_reused_paragraphs": 1,
+            "reused_ratio": 0.09,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 1,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 1.0,
+                "RIGHT": 0.0
+            },
+            "reused_details": [
+                {
+                    "reused": "\"We will think, maybe, even about a possible, if necessary ... reduction in production.\"",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5995630621910095
+                    },
+                    "reused_by_aic": [
+                        "\"We will think, maybe even about the possible, if necessary  reduction in production,\" he said at a press event on Friday."
+                    ]
+                }
+            ]
+        }
+    ]
+}

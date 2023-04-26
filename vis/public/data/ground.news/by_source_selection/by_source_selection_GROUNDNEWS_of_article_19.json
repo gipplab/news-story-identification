@@ -1,0 +1,1782 @@
+{
+    "article_id": 19,
+    "article_datetime": "9/12/2022 14:15:00",
+    "article_label": "RIGHT",
+    "article_total_paragraphs": 16,
+    "biased_by_these_sources": [
+        20,
+        35,
+        36,
+        40,
+        41
+    ],
+    "biased_labels": {
+        "LEFT": 0,
+        "CENTER": 5,
+        "RIGHT": 0
+    },
+    "is_biased": "No",
+    "earlier_articles": [
+        {
+            "article_id": 20,
+            "article_label": "CENTER",
+            "datetime": "9/12/2022 10:43:04",
+            "total_paragraphs": 53,
+            "total_reused_paragraphs": 13,
+            "reused_ratio": 0.81,
+            "is_biased_to": "",
+            "reused_paragraphs_label": {
+                "LEFT": 1,
+                "CENTER": 10,
+                "RIGHT": 2
+            },
+            "reused_percentage": {
+                "LEFT": 0.07692307692307693,
+                "CENTER": 0.7692307692307693,
+                "RIGHT": 0.15384615384615385
+            },
+            "reused_details": [
+                {
+                    "reused": "China began implementing a more relaxed version of its strict 'zero COVID' policy on Thursday amid steps to restore normal life, but also trepidation over a possible broader outbreak once controls are eased.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.525510311126709
+                    },
+                    "reused_by_aic": [
+                        "China Struggles With COVID, Infections After Loosening of , 'Zero-COVID' Restrictions."
+                    ]
+                },
+                {
+                    "reused": "(AP Photo/Ng Han Guan) BEIJING (AP) ' A rash of COVID-19 cases in schools and businesses were reported Friday in areas across China after the ruling Communist Party loosened anti-virus rules as it tries to reverse a deepening economic slump.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.4997350871562958
+                    },
+                    "reused_by_aic": [
+                        "China Struggles With COVID, Infections After Loosening of , 'Zero-COVID' Restrictions."
+                    ]
+                },
+                {
+                    "reused": "That was part of dramatic changes aimed at gradually emerging from 'zero COVID' restrictions that have confined millions of people to their homes and sparked protests and demands for President Xi Jinping to resign.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.46012556552886963
+                    },
+                    "reused_by_aic": [
+                        "China's \"Zero COVID\" policy had confined millions of people to their homes and sparked protests and calls for President Xi Jinping to step down.",
+                        "China's \"Zero COVID\" policy had confined millions of people to their homes and sparked protests and calls for President Xi Jinping to step down."
+                    ]
+                },
+                {
+                    "reused": "'There's very few people coming in because there's so many cases,' said Gang Xueping, a waitress in a Beijing restaurant.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.614124059677124
+                    },
+                    "reused_by_aic": [
+                        "Nobody's used to this yet, Gang Xueping, waitress in a Beijing restaurant, via ABC."
+                    ]
+                },
+                {
+                    "reused": "'The country's just opened up.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5209954380989075
+                    },
+                    "reused_by_aic": [
+                        "The country's just opened up."
+                    ]
+                },
+                {
+                    "reused": "The first one or two months is definitely going to be serious.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.38077712059020996
+                    },
+                    "reused_by_aic": [
+                        "The first one or two months is definitely going to be serious."
+                    ]
+                },
+                {
+                    "reused": "Nobody's used to this yet.' In other cities, social media users said coworkers or classmates were ill and some businesses had closed due to a lack of staff.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6050567030906677
+                    },
+                    "reused_by_aic": [
+                        "On social media, people were reporting coworkers and classmates that were ill and some businesses that had closed due to a lack of staff who contracted COVID."
+                    ]
+                },
+                {
+                    "reused": "The reports echo the experience of the United States, Europe and other countries that have struggled with outbreaks while trying to restore business activity.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.4652520418167114
+                    },
+                    "reused_by_aic": [
+                        "ABC reports that the situation echoes similar experiences in the United States, Europe and other countries trying to restore business activity."
+                    ]
+                },
+                {
+                    "reused": "But they are a jarring change for China, where 'zero COVID,' which aims to isolate every case, disrupted daily life and depressed economic activity but kept infection rates low.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.4306323528289795
+                    },
+                    "reused_by_aic": [
+                        "China Struggles With COVID, Infections After Loosening of , 'Zero-COVID' Restrictions."
+                    ]
+                },
+                {
+                    "reused": "'Relaxing COVID controls will lead to greater outbreaks,' Neil Thomas and Laura Gloudeman of Eurasia Group said in a report.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.3696788549423218
+                    },
+                    "reused_by_aic": [
+                        "China Struggles With COVID, Infections After Loosening of , 'Zero-COVID' Restrictions."
+                    ]
+                },
+                {
+                    "reused": "Restrictions probably must stay in place at least through mid-2023, public health experts and economists say.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5947515368461609
+                    },
+                    "reused_by_aic": [
+                        "According to experts and economists, restrictions will most likely remain in place until at least mid-2023."
+                    ]
+                },
+                {
+                    "reused": "On Friday, the government reported 16,797 new cases, including 13,160 without symptoms.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.3920453190803528
+                    },
+                    "reused_by_aic": [
+                        "On December 9, the government reported 16,797 new cases, which included 13,160 people without symptoms."
+                    ]
+                },
+                {
+                    "reused": "That was down about one-fifth from the previous day and less than half of last week's daily peak above 40,000.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.4467562437057495
+                    },
+                    "reused_by_aic": [
+                        "That number was down about one-fifth from December 8 and less than half of last week's high above 40,000."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 23,
+            "article_label": "LEFT",
+            "datetime": "9/12/2022 00:58:31",
+            "total_paragraphs": 59,
+            "total_reused_paragraphs": 12,
+            "reused_ratio": 0.75,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 2,
+                "CENTER": 9,
+                "RIGHT": 1
+            },
+            "reused_percentage": {
+                "LEFT": 0.16666666666666666,
+                "CENTER": 0.75,
+                "RIGHT": 0.08333333333333333
+            },
+            "reused_details": [
+                {
+                    "reused": "China began implementing a more relaxed version of its strict \"zero-COVID\" policy on Thursday amid steps to restore normal life, but also trepidation over a possible broader outbreak once controls are eased.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6921811103820801
+                    },
+                    "reused_by_aic": [
+                        "China Struggles With COVID, Infections After Loosening of , 'Zero-COVID' Restrictions."
+                    ]
+                },
+                {
+                    "reused": "That was part of dramatic changes aimed at gradually emerging from \"zero-COVID\" restrictions that have confined millions of people to their homes and sparked protests and demands for President Xi Jinping to resign.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6921102404594421
+                    },
+                    "reused_by_aic": [
+                        "China's \"Zero COVID\" policy had confined millions of people to their homes and sparked protests and calls for President Xi Jinping to step down.",
+                        "China's \"Zero COVID\" policy had confined millions of people to their homes and sparked protests and calls for President Xi Jinping to step down."
+                    ]
+                },
+                {
+                    "reused": "\"There's very few people coming in because there's so many cases,\" said Gang Xueping, a waitress in a Beijing restaurant.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6919307112693787
+                    },
+                    "reused_by_aic": [
+                        "There's very few people coming in because there's so many cases."
+                    ]
+                },
+                {
+                    "reused": "\"The country's just opened up.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6306650042533875
+                    },
+                    "reused_by_aic": [
+                        "The country's just opened up."
+                    ]
+                },
+                {
+                    "reused": "The first one or two months is definitely going to be serious.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.38077712059020996
+                    },
+                    "reused_by_aic": [
+                        "The first one or two months is definitely going to be serious."
+                    ]
+                },
+                {
+                    "reused": "In other cities, social media users said coworkers or classmates were ill and some businesses had closed due to a lack of staff.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.36607760190963745
+                    },
+                    "reused_by_aic": [
+                        "On social media, people were reporting coworkers and classmates that were ill and some businesses that had closed due to a lack of staff who contracted COVID."
+                    ]
+                },
+                {
+                    "reused": "The reports echo the experience of the United States, Europe and other countries that have struggled with outbreaks while trying to restore business activity.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.4652520418167114
+                    },
+                    "reused_by_aic": [
+                        "ABC reports that the situation echoes similar experiences in the United States, Europe and other countries trying to restore business activity."
+                    ]
+                },
+                {
+                    "reused": "But they are a jarring change for China, where \"zero-COVID,\" which aims to isolate every case, disrupted daily life and depressed economic activity but kept infection rates low.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6762294173240662
+                    },
+                    "reused_by_aic": [
+                        "China Struggles With COVID, Infections After Loosening of , 'Zero-COVID' Restrictions.",
+                        "China's \"Zero COVID\" policy had confined millions of people to their homes and sparked protests and calls for President Xi Jinping to step down.",
+                        "China's \"Zero COVID\" policy had confined millions of people to their homes and sparked protests and calls for President Xi Jinping to step down."
+                    ]
+                },
+                {
+                    "reused": "Restrictions probably must stay in place at least through mid-2023, public health experts and economists say.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5947515368461609
+                    },
+                    "reused_by_aic": [
+                        "According to experts and economists, restrictions will most likely remain in place until at least mid-2023."
+                    ]
+                },
+                {
+                    "reused": "On Friday, the government reported 16,797 new cases, including 13,160 without symptoms.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.3920453190803528
+                    },
+                    "reused_by_aic": [
+                        "On December 9, the government reported 16,797 new cases, which included 13,160 people without symptoms."
+                    ]
+                },
+                {
+                    "reused": "That was down about one-fifth from the previous day and less than half of last week's daily peak above 40,000.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.4467562437057495
+                    },
+                    "reused_by_aic": [
+                        "That number was down about one-fifth from December 8 and less than half of last week's high above 40,000."
+                    ]
+                },
+                {
+                    "reused": "China began implementing a more relaxed version of its strict \"zero-COVID\" policy on Thursday amid steps to restore normal life, but also trepidation over a possible broader outbreak once controls are eased.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6921811103820801
+                    },
+                    "reused_by_aic": [
+                        "China Struggles With COVID, Infections After Loosening of , 'Zero-COVID' Restrictions."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 24,
+            "article_label": "CENTER",
+            "datetime": "9/12/2022 06:17:07",
+            "total_paragraphs": 55,
+            "total_reused_paragraphs": 11,
+            "reused_ratio": 0.69,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 2,
+                "CENTER": 7,
+                "RIGHT": 2
+            },
+            "reused_percentage": {
+                "LEFT": 0.18181818181818182,
+                "CENTER": 0.6363636363636364,
+                "RIGHT": 0.18181818181818182
+            },
+            "reused_details": [
+                {
+                    "reused": "BEIJING - A rash of COVID-19 cases in schools and businesses were reported Friday in areas across China after the ruling Communist Party loosened anti-virus rules as it tries to reverse a deepening economic slump.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.4178166389465332
+                    },
+                    "reused_by_aic": [
+                        "China Struggles With COVID, Infections After Loosening of , 'Zero-COVID' Restrictions."
+                    ]
+                },
+                {
+                    "reused": "That was part of dramatic changes aimed at gradually emerging from \"zero COVID\" restrictions that have confined millions of people to their homes and sparked protests and demands for President Xi Jinping to resign.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6874160170555115
+                    },
+                    "reused_by_aic": [
+                        "China's \"Zero COVID\" policy had confined millions of people to their homes and sparked protests and calls for President Xi Jinping to step down.",
+                        "China's \"Zero COVID\" policy had confined millions of people to their homes and sparked protests and calls for President Xi Jinping to step down."
+                    ]
+                },
+                {
+                    "reused": "\"There's very few people coming in because there's so many cases,\" said Gang Xueping, a waitress in a Beijing restaurant.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6919307112693787
+                    },
+                    "reused_by_aic": [
+                        "There's very few people coming in because there's so many cases."
+                    ]
+                },
+                {
+                    "reused": "\"The country's just opened up.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6306650042533875
+                    },
+                    "reused_by_aic": [
+                        "The country's just opened up."
+                    ]
+                },
+                {
+                    "reused": "The first one or two months is definitely going to be serious.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.38077712059020996
+                    },
+                    "reused_by_aic": [
+                        "The first one or two months is definitely going to be serious."
+                    ]
+                },
+                {
+                    "reused": "In other cities, social media users said co-workers or classmates were ill and some businesses had closed due to a lack of staff.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.4846181273460388
+                    },
+                    "reused_by_aic": [
+                        "On social media, people were reporting coworkers and classmates that were ill and some businesses that had closed due to a lack of staff who contracted COVID."
+                    ]
+                },
+                {
+                    "reused": "The reports echo the experience of the United States, Europe and other countries that have struggled with outbreaks while trying to restore business activity.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.4652520418167114
+                    },
+                    "reused_by_aic": [
+                        "ABC reports that the situation echoes similar experiences in the United States, Europe and other countries trying to restore business activity."
+                    ]
+                },
+                {
+                    "reused": "But they are a jarring change for China, where \"zero COVID,\" which aims to isolate every case, disrupted daily life and depressed economic activity but kept infection rates low.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6830852627754211
+                    },
+                    "reused_by_aic": [
+                        "China Struggles With COVID, Infections After Loosening of , 'Zero-COVID' Restrictions.",
+                        "China's \"Zero COVID\" policy had confined millions of people to their homes and sparked protests and calls for President Xi Jinping to step down.",
+                        "China's \"Zero COVID\" policy had confined millions of people to their homes and sparked protests and calls for President Xi Jinping to step down."
+                    ]
+                },
+                {
+                    "reused": "Restrictions probably must stay in place at least through mid-2023, public health experts and economists say.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5947515368461609
+                    },
+                    "reused_by_aic": [
+                        "According to experts and economists, restrictions will most likely remain in place until at least mid-2023."
+                    ]
+                },
+                {
+                    "reused": "On Friday, the government reported 16,797 new cases, including 13,160 without symptoms.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.3920453190803528
+                    },
+                    "reused_by_aic": [
+                        "On December 9, the government reported 16,797 new cases, which included 13,160 people without symptoms."
+                    ]
+                },
+                {
+                    "reused": "That was down about one-fifth from the previous day and less than half of last week's daily peak above 40,000.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.4467562437057495
+                    },
+                    "reused_by_aic": [
+                        "That number was down about one-fifth from December 8 and less than half of last week's high above 40,000."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 25,
+            "article_label": "RIGHT",
+            "datetime": "9/12/2022 08:11:13",
+            "total_paragraphs": 51,
+            "total_reused_paragraphs": 11,
+            "reused_ratio": 0.69,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 1,
+                "CENTER": 8,
+                "RIGHT": 2
+            },
+            "reused_percentage": {
+                "LEFT": 0.09090909090909091,
+                "CENTER": 0.7272727272727273,
+                "RIGHT": 0.18181818181818182
+            },
+            "reused_details": [
+                {
+                    "reused": "That was part of dramatic changes aimed at gradually emerging from 'zero COVID' restrictions that have confined millions of people to their homes and sparked protests and demands for President Xi Jinping to resign.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.46012556552886963
+                    },
+                    "reused_by_aic": [
+                        "China's \"Zero COVID\" policy had confined millions of people to their homes and sparked protests and calls for President Xi Jinping to step down.",
+                        "China's \"Zero COVID\" policy had confined millions of people to their homes and sparked protests and calls for President Xi Jinping to step down."
+                    ]
+                },
+                {
+                    "reused": "'There's very few people coming in because there's so many cases,' said Gang Xueping, a waitress in a Beijing restaurant.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.614124059677124
+                    },
+                    "reused_by_aic": [
+                        "Nobody's used to this yet, Gang Xueping, waitress in a Beijing restaurant, via ABC."
+                    ]
+                },
+                {
+                    "reused": "'The country's just opened up.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5209954380989075
+                    },
+                    "reused_by_aic": [
+                        "The country's just opened up."
+                    ]
+                },
+                {
+                    "reused": "The first one or two months is definitely going to be serious.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.38077712059020996
+                    },
+                    "reused_by_aic": [
+                        "The first one or two months is definitely going to be serious."
+                    ]
+                },
+                {
+                    "reused": "Nobody's used to this yet.' In other cities, social media users said coworkers or classmates were ill and some businesses had closed due to a lack of staff.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6050567030906677
+                    },
+                    "reused_by_aic": [
+                        "On social media, people were reporting coworkers and classmates that were ill and some businesses that had closed due to a lack of staff who contracted COVID."
+                    ]
+                },
+                {
+                    "reused": "The reports echo the experience of the United States, Europe and other countries that have struggled with outbreaks while trying to restore business activity.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.4652520418167114
+                    },
+                    "reused_by_aic": [
+                        "ABC reports that the situation echoes similar experiences in the United States, Europe and other countries trying to restore business activity."
+                    ]
+                },
+                {
+                    "reused": "But they are a jarring change for China, where 'zero COVID,' which aims to isolate every case, disrupted daily life and depressed economic activity but kept infection rates low.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.4306323528289795
+                    },
+                    "reused_by_aic": [
+                        "China Struggles With COVID, Infections After Loosening of , 'Zero-COVID' Restrictions."
+                    ]
+                },
+                {
+                    "reused": "'Relaxing COVID controls will lead to greater outbreaks,' Neil Thomas and Laura Gloudeman of Eurasia Group said in a report.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.3696788549423218
+                    },
+                    "reused_by_aic": [
+                        "China Struggles With COVID, Infections After Loosening of , 'Zero-COVID' Restrictions."
+                    ]
+                },
+                {
+                    "reused": "Restrictions probably must stay in place at least through mid-2023, public health experts and economists say.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5947515368461609
+                    },
+                    "reused_by_aic": [
+                        "According to experts and economists, restrictions will most likely remain in place until at least mid-2023."
+                    ]
+                },
+                {
+                    "reused": "On Friday, the government reported 16,797 new cases, including 13,160 without symptoms.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.3920453190803528
+                    },
+                    "reused_by_aic": [
+                        "On December 9, the government reported 16,797 new cases, which included 13,160 people without symptoms."
+                    ]
+                },
+                {
+                    "reused": "That was down about one-fifth from the previous day and less than half of last week's daily peak above 40,000.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.4467562437057495
+                    },
+                    "reused_by_aic": [
+                        "That number was down about one-fifth from December 8 and less than half of last week's high above 40,000."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 27,
+            "article_label": "CENTER",
+            "datetime": "9/12/2022 02:06:10",
+            "total_paragraphs": 19,
+            "total_reused_paragraphs": 0,
+            "reused_ratio": 0.0,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 0,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0,
+                "CENTER": 0,
+                "RIGHT": 0
+            },
+            "reused_details": []
+        },
+        {
+            "article_id": 29,
+            "article_label": "LEFT",
+            "datetime": "9/12/2022 10:51:36",
+            "total_paragraphs": 22,
+            "total_reused_paragraphs": 6,
+            "reused_ratio": 0.38,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 2,
+                "CENTER": 2,
+                "RIGHT": 2
+            },
+            "reused_percentage": {
+                "LEFT": 0.3333333333333333,
+                "CENTER": 0.3333333333333333,
+                "RIGHT": 0.3333333333333333
+            },
+            "reused_details": [
+                {
+                    "reused": "A surge of Covid-19 cases in schools and businesses has been reported by social media users across China after the ruling Communist Party loosened anti-virus rules in a bid to reverse a deepening economic slump.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.42775651812553406
+                    },
+                    "reused_by_aic": [
+                        "China Struggles With COVID, Infections After Loosening of , 'Zero-COVID' Restrictions."
+                    ]
+                },
+                {
+                    "reused": "Social media users in Beijing and other cities said co-workers or classmates were ill and some businesses closed due to lack of staff.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.5100800395011902
+                    },
+                    "reused_by_aic": [
+                        "On social media, people were reporting coworkers and classmates that were ill and some businesses that had closed due to a lack of staff who contracted COVID."
+                    ]
+                },
+                {
+                    "reused": "But they are a jarring change for China, where the policy of 'zero-Covid', which aims to isolate every case, disrupted daily life and depressed economic activity but kept infection rates low.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.4347093999385834
+                    },
+                    "reused_by_aic": [
+                        "China Struggles With COVID, Infections After Loosening of , 'Zero-COVID' Restrictions."
+                    ]
+                },
+                {
+                    "reused": "Restrictions probably must stay in place at least through mid-2023, public health experts and economists say.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5947515368461609
+                    },
+                    "reused_by_aic": [
+                        "According to experts and economists, restrictions will most likely remain in place until at least mid-2023."
+                    ]
+                },
+                {
+                    "reused": "On Friday, the government reported 16,797 new cases, including 13,160 without symptoms.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.3920453190803528
+                    },
+                    "reused_by_aic": [
+                        "On December 9, the government reported 16,797 new cases, which included 13,160 people without symptoms."
+                    ]
+                },
+                {
+                    "reused": "That was down about one-fifth from the previous day and less than half of last week's daily peak above 40,000.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.4467562437057495
+                    },
+                    "reused_by_aic": [
+                        "That number was down about one-fifth from December 8 and less than half of last week's high above 40,000."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 30,
+            "article_label": "RIGHT",
+            "datetime": "9/12/2022 14:03:10",
+            "total_paragraphs": 49,
+            "total_reused_paragraphs": 7,
+            "reused_ratio": 0.44,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 2,
+                "CENTER": 5,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.2857142857142857,
+                "CENTER": 0.7142857142857143,
+                "RIGHT": 0.0
+            },
+            "reused_details": [
+                {
+                    "reused": "That was part of dramatic changes aimed at gradually emerging from \"zero-COVID\" restrictions that have confined millions of people to their homes and sparked protests and demands for President Xi Jinping to resign.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6921102404594421
+                    },
+                    "reused_by_aic": [
+                        "China's \"Zero COVID\" policy had confined millions of people to their homes and sparked protests and calls for President Xi Jinping to step down.",
+                        "China's \"Zero COVID\" policy had confined millions of people to their homes and sparked protests and calls for President Xi Jinping to step down."
+                    ]
+                },
+                {
+                    "reused": "Social media users in Beijing and other cities said coworkers or classmates were ill and some businesses closed due to lack of staff.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.4044479429721832
+                    },
+                    "reused_by_aic": [
+                        "On social media, people were reporting coworkers and classmates that were ill and some businesses that had closed due to a lack of staff who contracted COVID."
+                    ]
+                },
+                {
+                    "reused": "The reports echo the experience of the United States, Europe and other economies that have struggled with outbreaks while trying to restore business activity.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.4729093015193939
+                    },
+                    "reused_by_aic": [
+                        "ABC reports that the situation echoes similar experiences in the United States, Europe and other countries trying to restore business activity."
+                    ]
+                },
+                {
+                    "reused": "But they are a jarring change for China, where \"zero COVID,\" which aims to isolate every case, disrupted daily life and depressed economic activity but kept infection rates low.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6830852627754211
+                    },
+                    "reused_by_aic": [
+                        "China Struggles With COVID, Infections After Loosening of , 'Zero-COVID' Restrictions.",
+                        "China's \"Zero COVID\" policy had confined millions of people to their homes and sparked protests and calls for President Xi Jinping to step down.",
+                        "China's \"Zero COVID\" policy had confined millions of people to their homes and sparked protests and calls for President Xi Jinping to step down."
+                    ]
+                },
+                {
+                    "reused": "Restrictions probably must stay in place at least through mid-2023, public health experts and economists say.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5947515368461609
+                    },
+                    "reused_by_aic": [
+                        "According to experts and economists, restrictions will most likely remain in place until at least mid-2023."
+                    ]
+                },
+                {
+                    "reused": "On Friday, the government reported 16,797 new cases, including 13,160 without symptoms.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.3920453190803528
+                    },
+                    "reused_by_aic": [
+                        "On December 9, the government reported 16,797 new cases, which included 13,160 people without symptoms."
+                    ]
+                },
+                {
+                    "reused": "That was down about one-fifth from the previous day and less than half of last week's daily peak above 40,000.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.4467562437057495
+                    },
+                    "reused_by_aic": [
+                        "That number was down about one-fifth from December 8 and less than half of last week's high above 40,000."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 35,
+            "article_label": "RIGHT",
+            "datetime": "9/12/2022 07:44:17",
+            "total_paragraphs": 55,
+            "total_reused_paragraphs": 14,
+            "reused_ratio": 0.88,
+            "is_biased_to": "",
+            "reused_paragraphs_label": {
+                "LEFT": 1,
+                "CENTER": 10,
+                "RIGHT": 3
+            },
+            "reused_percentage": {
+                "LEFT": 0.07142857142857142,
+                "CENTER": 0.7142857142857143,
+                "RIGHT": 0.21428571428571427
+            },
+            "reused_details": [
+                {
+                    "reused": "BEIJING (AP) ' A rash of COVID-19 cases in schools and businesses were reported Friday in areas across China after the ruling Communist Party loosened anti-virus rules as it tries to reverse a deepening economic slump.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.37375980615615845
+                    },
+                    "reused_by_aic": [
+                        "China Struggles With COVID, Infections After Loosening of , 'Zero-COVID' Restrictions."
+                    ]
+                },
+                {
+                    "reused": "China began implementing a more relaxed version of its strict \"zero COVID\" policy on Thursday amid steps to restore normal life, but also trepidation over a possible broader outbreak once controls are eased.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6931166648864746
+                    },
+                    "reused_by_aic": [
+                        "China Struggles With COVID, Infections After Loosening of , 'Zero-COVID' Restrictions."
+                    ]
+                },
+                {
+                    "reused": "(AP Photo/Ng Han Guan)\r\nBEIJING (AP) ' A rash of COVID-19 cases in schools and businesses were reported Friday in areas across China after the ruling Communist Party loosened anti-virus rules as it tries to reverse a deepening economic slump.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.4997350871562958
+                    },
+                    "reused_by_aic": [
+                        "China Struggles With COVID, Infections After Loosening of , 'Zero-COVID' Restrictions."
+                    ]
+                },
+                {
+                    "reused": "That was part of dramatic changes aimed at gradually emerging from 'zero COVID' restrictions that have confined millions of people to their homes and sparked protests and demands for President Xi Jinping to resign.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.46012556552886963
+                    },
+                    "reused_by_aic": [
+                        "China's \"Zero COVID\" policy had confined millions of people to their homes and sparked protests and calls for President Xi Jinping to step down.",
+                        "China's \"Zero COVID\" policy had confined millions of people to their homes and sparked protests and calls for President Xi Jinping to step down."
+                    ]
+                },
+                {
+                    "reused": "'There's very few people coming in because there's so many cases,' said Gang Xueping, a waitress in a Beijing restaurant.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.614124059677124
+                    },
+                    "reused_by_aic": [
+                        "Nobody's used to this yet, Gang Xueping, waitress in a Beijing restaurant, via ABC."
+                    ]
+                },
+                {
+                    "reused": "'The country's just opened up.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5209954380989075
+                    },
+                    "reused_by_aic": [
+                        "The country's just opened up."
+                    ]
+                },
+                {
+                    "reused": "The first one or two months is definitely going to be serious.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.38077712059020996
+                    },
+                    "reused_by_aic": [
+                        "The first one or two months is definitely going to be serious."
+                    ]
+                },
+                {
+                    "reused": "Nobody's used to this yet.' In other cities, social media users said coworkers or classmates were ill and some businesses had closed due to a lack of staff.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6050567030906677
+                    },
+                    "reused_by_aic": [
+                        "On social media, people were reporting coworkers and classmates that were ill and some businesses that had closed due to a lack of staff who contracted COVID."
+                    ]
+                },
+                {
+                    "reused": "The reports echo the experience of the United States, Europe and other countries that have struggled with outbreaks while trying to restore business activity.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.4652520418167114
+                    },
+                    "reused_by_aic": [
+                        "ABC reports that the situation echoes similar experiences in the United States, Europe and other countries trying to restore business activity."
+                    ]
+                },
+                {
+                    "reused": "But they are a jarring change for China, where 'zero COVID,' which aims to isolate every case, disrupted daily life and depressed economic activity but kept infection rates low.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.4306323528289795
+                    },
+                    "reused_by_aic": [
+                        "China Struggles With COVID, Infections After Loosening of , 'Zero-COVID' Restrictions."
+                    ]
+                },
+                {
+                    "reused": "'Relaxing COVID controls will lead to greater outbreaks,' Neil Thomas and Laura Gloudeman of Eurasia Group said in a report.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.3696788549423218
+                    },
+                    "reused_by_aic": [
+                        "China Struggles With COVID, Infections After Loosening of , 'Zero-COVID' Restrictions."
+                    ]
+                },
+                {
+                    "reused": "Restrictions probably must stay in place at least through mid-2023, public health experts and economists say.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5947515368461609
+                    },
+                    "reused_by_aic": [
+                        "According to experts and economists, restrictions will most likely remain in place until at least mid-2023."
+                    ]
+                },
+                {
+                    "reused": "On Friday, the government reported 16,797 new cases, including 13,160 without symptoms.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.3920453190803528
+                    },
+                    "reused_by_aic": [
+                        "On December 9, the government reported 16,797 new cases, which included 13,160 people without symptoms."
+                    ]
+                },
+                {
+                    "reused": "That was down about one-fifth from the previous day and less than half of last week's daily peak above 40,000.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.4467562437057495
+                    },
+                    "reused_by_aic": [
+                        "That number was down about one-fifth from December 8 and less than half of last week's high above 40,000."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 36,
+            "article_label": "LEFT",
+            "datetime": "9/12/2022 07:35:47",
+            "total_paragraphs": 55,
+            "total_reused_paragraphs": 14,
+            "reused_ratio": 0.88,
+            "is_biased_to": "",
+            "reused_paragraphs_label": {
+                "LEFT": 1,
+                "CENTER": 10,
+                "RIGHT": 3
+            },
+            "reused_percentage": {
+                "LEFT": 0.07142857142857142,
+                "CENTER": 0.7142857142857143,
+                "RIGHT": 0.21428571428571427
+            },
+            "reused_details": [
+                {
+                    "reused": "BEIJING (AP) ' A rash of COVID-19 cases in schools and businesses were reported Friday in areas across China after the ruling Communist Party loosened anti-virus rules as it tries to reverse a deepening economic slump.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.37375980615615845
+                    },
+                    "reused_by_aic": [
+                        "China Struggles With COVID, Infections After Loosening of , 'Zero-COVID' Restrictions."
+                    ]
+                },
+                {
+                    "reused": "China began implementing a more relaxed version of its strict \"zero COVID\" policy on Thursday amid steps to restore normal life, but also trepidation over a possible broader outbreak once controls are eased.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6931166648864746
+                    },
+                    "reused_by_aic": [
+                        "China Struggles With COVID, Infections After Loosening of , 'Zero-COVID' Restrictions."
+                    ]
+                },
+                {
+                    "reused": "(AP Photo/Ng Han Guan)\r\nBEIJING (AP) ' A rash of COVID-19 cases in schools and businesses were reported Friday in areas across China after the ruling Communist Party loosened anti-virus rules as it tries to reverse a deepening economic slump.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.4997350871562958
+                    },
+                    "reused_by_aic": [
+                        "China Struggles With COVID, Infections After Loosening of , 'Zero-COVID' Restrictions."
+                    ]
+                },
+                {
+                    "reused": "That was part of dramatic changes aimed at gradually emerging from 'zero COVID' restrictions that have confined millions of people to their homes and sparked protests and demands for President Xi Jinping to resign.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.46012556552886963
+                    },
+                    "reused_by_aic": [
+                        "China's \"Zero COVID\" policy had confined millions of people to their homes and sparked protests and calls for President Xi Jinping to step down.",
+                        "China's \"Zero COVID\" policy had confined millions of people to their homes and sparked protests and calls for President Xi Jinping to step down."
+                    ]
+                },
+                {
+                    "reused": "'There's very few people coming in because there's so many cases,' said Gang Xueping, a waitress in a Beijing restaurant.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.614124059677124
+                    },
+                    "reused_by_aic": [
+                        "Nobody's used to this yet, Gang Xueping, waitress in a Beijing restaurant, via ABC."
+                    ]
+                },
+                {
+                    "reused": "'The country's just opened up.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5209954380989075
+                    },
+                    "reused_by_aic": [
+                        "The country's just opened up."
+                    ]
+                },
+                {
+                    "reused": "The first one or two months is definitely going to be serious.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.38077712059020996
+                    },
+                    "reused_by_aic": [
+                        "The first one or two months is definitely going to be serious."
+                    ]
+                },
+                {
+                    "reused": "Nobody's used to this yet.' In other cities, social media users said coworkers or classmates were ill and some businesses had closed due to a lack of staff.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6050567030906677
+                    },
+                    "reused_by_aic": [
+                        "On social media, people were reporting coworkers and classmates that were ill and some businesses that had closed due to a lack of staff who contracted COVID."
+                    ]
+                },
+                {
+                    "reused": "The reports echo the experience of the United States, Europe and other countries that have struggled with outbreaks while trying to restore business activity.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.4652520418167114
+                    },
+                    "reused_by_aic": [
+                        "ABC reports that the situation echoes similar experiences in the United States, Europe and other countries trying to restore business activity."
+                    ]
+                },
+                {
+                    "reused": "But they are a jarring change for China, where 'zero COVID,' which aims to isolate every case, disrupted daily life and depressed economic activity but kept infection rates low.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.4306323528289795
+                    },
+                    "reused_by_aic": [
+                        "China Struggles With COVID, Infections After Loosening of , 'Zero-COVID' Restrictions."
+                    ]
+                },
+                {
+                    "reused": "'Relaxing COVID controls will lead to greater outbreaks,' Neil Thomas and Laura Gloudeman of Eurasia Group said in a report.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.3696788549423218
+                    },
+                    "reused_by_aic": [
+                        "China Struggles With COVID, Infections After Loosening of , 'Zero-COVID' Restrictions."
+                    ]
+                },
+                {
+                    "reused": "Restrictions probably must stay in place at least through mid-2023, public health experts and economists say.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5947515368461609
+                    },
+                    "reused_by_aic": [
+                        "According to experts and economists, restrictions will most likely remain in place until at least mid-2023."
+                    ]
+                },
+                {
+                    "reused": "On Friday, the government reported 16,797 new cases, including 13,160 without symptoms.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.3920453190803528
+                    },
+                    "reused_by_aic": [
+                        "On December 9, the government reported 16,797 new cases, which included 13,160 people without symptoms."
+                    ]
+                },
+                {
+                    "reused": "That was down about one-fifth from the previous day and less than half of last week's daily peak above 40,000.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.4467562437057495
+                    },
+                    "reused_by_aic": [
+                        "That number was down about one-fifth from December 8 and less than half of last week's high above 40,000."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 40,
+            "article_label": "CENTER",
+            "datetime": "9/12/2022 10:05:36",
+            "total_paragraphs": 54,
+            "total_reused_paragraphs": 13,
+            "reused_ratio": 0.81,
+            "is_biased_to": "",
+            "reused_paragraphs_label": {
+                "LEFT": 1,
+                "CENTER": 10,
+                "RIGHT": 2
+            },
+            "reused_percentage": {
+                "LEFT": 0.07692307692307693,
+                "CENTER": 0.7692307692307693,
+                "RIGHT": 0.15384615384615385
+            },
+            "reused_details": [
+                {
+                    "reused": "China began implementing a more relaxed version of its strict \"zero COVID\" policy on Thursday amid steps to restore normal life, but also trepidation over a possible broader outbreak once controls are eased.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6931166648864746
+                    },
+                    "reused_by_aic": [
+                        "China Struggles With COVID, Infections After Loosening of , 'Zero-COVID' Restrictions."
+                    ]
+                },
+                {
+                    "reused": "(AP Photo/Ng Han Guan) BEIJING ' A rash of COVID-19 cases in schools and businesses were reported Friday in areas across China after the ruling Communist Party loosened anti-virus rules as it tries to reverse a deepening economic slump.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5755668878555298
+                    },
+                    "reused_by_aic": [
+                        "China Struggles With COVID, Infections After Loosening of , 'Zero-COVID' Restrictions."
+                    ]
+                },
+                {
+                    "reused": "That was part of dramatic changes aimed at gradually emerging from 'zero COVID' restrictions that have confined millions of people to their homes and sparked protests and demands for President Xi Jinping to resign.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.46012556552886963
+                    },
+                    "reused_by_aic": [
+                        "China's \"Zero COVID\" policy had confined millions of people to their homes and sparked protests and calls for President Xi Jinping to step down.",
+                        "China's \"Zero COVID\" policy had confined millions of people to their homes and sparked protests and calls for President Xi Jinping to step down."
+                    ]
+                },
+                {
+                    "reused": "'There's very few people coming in because there's so many cases,' said Gang Xueping, a waitress in a Beijing restaurant.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.614124059677124
+                    },
+                    "reused_by_aic": [
+                        "Nobody's used to this yet, Gang Xueping, waitress in a Beijing restaurant, via ABC."
+                    ]
+                },
+                {
+                    "reused": "'The country's just opened up.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5209954380989075
+                    },
+                    "reused_by_aic": [
+                        "The country's just opened up."
+                    ]
+                },
+                {
+                    "reused": "The first one or two months is definitely going to be serious.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.38077712059020996
+                    },
+                    "reused_by_aic": [
+                        "The first one or two months is definitely going to be serious."
+                    ]
+                },
+                {
+                    "reused": "Nobody's used to this yet.' In other cities, social media users said coworkers or classmates were ill and some businesses had closed due to a lack of staff.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6050567030906677
+                    },
+                    "reused_by_aic": [
+                        "On social media, people were reporting coworkers and classmates that were ill and some businesses that had closed due to a lack of staff who contracted COVID."
+                    ]
+                },
+                {
+                    "reused": "The reports echo the experience of the United States, Europe and other countries that have struggled with outbreaks while trying to restore business activity.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.4652520418167114
+                    },
+                    "reused_by_aic": [
+                        "ABC reports that the situation echoes similar experiences in the United States, Europe and other countries trying to restore business activity."
+                    ]
+                },
+                {
+                    "reused": "But they are a jarring change for China, where 'zero COVID,' which aims to isolate every case, disrupted daily life and depressed economic activity but kept infection rates low.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.4306323528289795
+                    },
+                    "reused_by_aic": [
+                        "China Struggles With COVID, Infections After Loosening of , 'Zero-COVID' Restrictions."
+                    ]
+                },
+                {
+                    "reused": "'Relaxing COVID controls will lead to greater outbreaks,' Neil Thomas and Laura Gloudeman of Eurasia Group said in a report.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.3696788549423218
+                    },
+                    "reused_by_aic": [
+                        "China Struggles With COVID, Infections After Loosening of , 'Zero-COVID' Restrictions."
+                    ]
+                },
+                {
+                    "reused": "Restrictions probably must stay in place at least through mid-2023, public health experts and economists say.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5947515368461609
+                    },
+                    "reused_by_aic": [
+                        "According to experts and economists, restrictions will most likely remain in place until at least mid-2023."
+                    ]
+                },
+                {
+                    "reused": "On Friday, the government reported 16,797 new cases, including 13,160 without symptoms.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.3920453190803528
+                    },
+                    "reused_by_aic": [
+                        "On December 9, the government reported 16,797 new cases, which included 13,160 people without symptoms."
+                    ]
+                },
+                {
+                    "reused": "That was down about one-fifth from the previous day and less than half of last week's daily peak above 40,000.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.4467562437057495
+                    },
+                    "reused_by_aic": [
+                        "That number was down about one-fifth from December 8 and less than half of last week's high above 40,000."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 41,
+            "article_label": "CENTER",
+            "datetime": "9/12/2022 09:04:28",
+            "total_paragraphs": 54,
+            "total_reused_paragraphs": 13,
+            "reused_ratio": 0.81,
+            "is_biased_to": "",
+            "reused_paragraphs_label": {
+                "LEFT": 1,
+                "CENTER": 10,
+                "RIGHT": 2
+            },
+            "reused_percentage": {
+                "LEFT": 0.07692307692307693,
+                "CENTER": 0.7692307692307693,
+                "RIGHT": 0.15384615384615385
+            },
+            "reused_details": [
+                {
+                    "reused": "China began implementing a more relaxed version of its strict \"zero COVID\" policy on Thursday amid steps to restore normal life, but also trepidation over a possible broader outbreak once controls are eased.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6931166648864746
+                    },
+                    "reused_by_aic": [
+                        "China Struggles With COVID, Infections After Loosening of , 'Zero-COVID' Restrictions."
+                    ]
+                },
+                {
+                    "reused": "(AP Photo/Ng Han Guan) BEIJING ' A rash of COVID-19 cases in schools and businesses were reported Friday in areas across China after the ruling Communist Party loosened anti-virus rules as it tries to reverse a deepening economic slump.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5755668878555298
+                    },
+                    "reused_by_aic": [
+                        "China Struggles With COVID, Infections After Loosening of , 'Zero-COVID' Restrictions."
+                    ]
+                },
+                {
+                    "reused": "That was part of dramatic changes aimed at gradually emerging from 'zero COVID' restrictions that have confined millions of people to their homes and sparked protests and demands for President Xi Jinping to resign.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.46012556552886963
+                    },
+                    "reused_by_aic": [
+                        "China's \"Zero COVID\" policy had confined millions of people to their homes and sparked protests and calls for President Xi Jinping to step down.",
+                        "China's \"Zero COVID\" policy had confined millions of people to their homes and sparked protests and calls for President Xi Jinping to step down."
+                    ]
+                },
+                {
+                    "reused": "'There's very few people coming in because there's so many cases,' said Gang Xueping, a waitress in a Beijing restaurant.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.614124059677124
+                    },
+                    "reused_by_aic": [
+                        "Nobody's used to this yet, Gang Xueping, waitress in a Beijing restaurant, via ABC."
+                    ]
+                },
+                {
+                    "reused": "'The country's just opened up.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5209954380989075
+                    },
+                    "reused_by_aic": [
+                        "The country's just opened up."
+                    ]
+                },
+                {
+                    "reused": "The first one or two months is definitely going to be serious.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.38077712059020996
+                    },
+                    "reused_by_aic": [
+                        "The first one or two months is definitely going to be serious."
+                    ]
+                },
+                {
+                    "reused": "Nobody's used to this yet.' In other cities, social media users said coworkers or classmates were ill and some businesses had closed due to a lack of staff.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6050567030906677
+                    },
+                    "reused_by_aic": [
+                        "On social media, people were reporting coworkers and classmates that were ill and some businesses that had closed due to a lack of staff who contracted COVID."
+                    ]
+                },
+                {
+                    "reused": "The reports echo the experience of the United States, Europe and other countries that have struggled with outbreaks while trying to restore business activity.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.4652520418167114
+                    },
+                    "reused_by_aic": [
+                        "ABC reports that the situation echoes similar experiences in the United States, Europe and other countries trying to restore business activity."
+                    ]
+                },
+                {
+                    "reused": "But they are a jarring change for China, where 'zero COVID,' which aims to isolate every case, disrupted daily life and depressed economic activity but kept infection rates low.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.4306323528289795
+                    },
+                    "reused_by_aic": [
+                        "China Struggles With COVID, Infections After Loosening of , 'Zero-COVID' Restrictions."
+                    ]
+                },
+                {
+                    "reused": "'Relaxing COVID controls will lead to greater outbreaks,' Neil Thomas and Laura Gloudeman of Eurasia Group said in a report.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.3696788549423218
+                    },
+                    "reused_by_aic": [
+                        "China Struggles With COVID, Infections After Loosening of , 'Zero-COVID' Restrictions."
+                    ]
+                },
+                {
+                    "reused": "Restrictions probably must stay in place at least through mid-2023, public health experts and economists say.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5947515368461609
+                    },
+                    "reused_by_aic": [
+                        "According to experts and economists, restrictions will most likely remain in place until at least mid-2023."
+                    ]
+                },
+                {
+                    "reused": "On Friday, the government reported 16,797 new cases, including 13,160 without symptoms.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.3920453190803528
+                    },
+                    "reused_by_aic": [
+                        "On December 9, the government reported 16,797 new cases, which included 13,160 people without symptoms."
+                    ]
+                },
+                {
+                    "reused": "That was down about one-fifth from the previous day and less than half of last week's daily peak above 40,000.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.4467562437057495
+                    },
+                    "reused_by_aic": [
+                        "That number was down about one-fifth from December 8 and less than half of last week's high above 40,000."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 46,
+            "article_label": "CENTER",
+            "datetime": "9/12/2022 11:10:32",
+            "total_paragraphs": 51,
+            "total_reused_paragraphs": 12,
+            "reused_ratio": 0.75,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 1,
+                "CENTER": 8,
+                "RIGHT": 3
+            },
+            "reused_percentage": {
+                "LEFT": 0.08333333333333333,
+                "CENTER": 0.6666666666666666,
+                "RIGHT": 0.25
+            },
+            "reused_details": [
+                {
+                    "reused": "BEIJING (AP) ' A rash of COVID-19 cases in schools and businesses were reported Friday in areas across China after the ruling Communist Party loosened anti-virus rules as it tries to reverse a deepening economic slump.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.37375980615615845
+                    },
+                    "reused_by_aic": [
+                        "China Struggles With COVID, Infections After Loosening of , 'Zero-COVID' Restrictions."
+                    ]
+                },
+                {
+                    "reused": "That was part of dramatic changes aimed at gradually emerging from 'zero COVID' restrictions that have confined millions of people to their homes and sparked protests and demands for President Xi Jinping to resign.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.46012556552886963
+                    },
+                    "reused_by_aic": [
+                        "China's \"Zero COVID\" policy had confined millions of people to their homes and sparked protests and calls for President Xi Jinping to step down.",
+                        "China's \"Zero COVID\" policy had confined millions of people to their homes and sparked protests and calls for President Xi Jinping to step down."
+                    ]
+                },
+                {
+                    "reused": "'There's very few people coming in because there's so many cases,' said Gang Xueping, a waitress in a Beijing restaurant.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.614124059677124
+                    },
+                    "reused_by_aic": [
+                        "Nobody's used to this yet, Gang Xueping, waitress in a Beijing restaurant, via ABC."
+                    ]
+                },
+                {
+                    "reused": "'The country's just opened up.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5209954380989075
+                    },
+                    "reused_by_aic": [
+                        "The country's just opened up."
+                    ]
+                },
+                {
+                    "reused": "The first one or two months is definitely going to be serious.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.38077712059020996
+                    },
+                    "reused_by_aic": [
+                        "The first one or two months is definitely going to be serious."
+                    ]
+                },
+                {
+                    "reused": "Nobody's used to this yet.' In other cities, social media users said coworkers or classmates were ill and some businesses had closed due to a lack of staff.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6050567030906677
+                    },
+                    "reused_by_aic": [
+                        "On social media, people were reporting coworkers and classmates that were ill and some businesses that had closed due to a lack of staff who contracted COVID."
+                    ]
+                },
+                {
+                    "reused": "The reports echo the experience of the United States, Europe and other countries that have struggled with outbreaks while trying to restore business activity.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.4652520418167114
+                    },
+                    "reused_by_aic": [
+                        "ABC reports that the situation echoes similar experiences in the United States, Europe and other countries trying to restore business activity."
+                    ]
+                },
+                {
+                    "reused": "But they are a jarring change for China, where 'zero COVID,' which aims to isolate every case, disrupted daily life and depressed economic activity but kept infection rates low.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.4306323528289795
+                    },
+                    "reused_by_aic": [
+                        "China Struggles With COVID, Infections After Loosening of , 'Zero-COVID' Restrictions."
+                    ]
+                },
+                {
+                    "reused": "'Relaxing COVID controls will lead to greater outbreaks,' Neil Thomas and Laura Gloudeman of Eurasia Group said in a report.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.3696788549423218
+                    },
+                    "reused_by_aic": [
+                        "China Struggles With COVID, Infections After Loosening of , 'Zero-COVID' Restrictions."
+                    ]
+                },
+                {
+                    "reused": "Restrictions probably must stay in place at least through mid-2023, public health experts and economists say.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5947515368461609
+                    },
+                    "reused_by_aic": [
+                        "According to experts and economists, restrictions will most likely remain in place until at least mid-2023."
+                    ]
+                },
+                {
+                    "reused": "On Friday, the government reported 16,797 new cases, including 13,160 without symptoms.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.3920453190803528
+                    },
+                    "reused_by_aic": [
+                        "On December 9, the government reported 16,797 new cases, which included 13,160 people without symptoms."
+                    ]
+                },
+                {
+                    "reused": "That was down about one-fifth from the previous day and less than half of last week's daily peak above 40,000.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.4467562437057495
+                    },
+                    "reused_by_aic": [
+                        "That number was down about one-fifth from December 8 and less than half of last week's high above 40,000."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 47,
+            "article_label": "CENTER",
+            "datetime": "8/12/2022 15:28:35",
+            "total_paragraphs": 29,
+            "total_reused_paragraphs": 1,
+            "reused_ratio": 0.06,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 1,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 1.0,
+                "RIGHT": 0.0
+            },
+            "reused_details": [
+                {
+                    "reused": "That means there may be a surge in Covid infections, and China's policy will never go back, Pang said.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.45786234736442566
+                    },
+                    "reused_by_aic": [
+                        "China Struggles With COVID, Infections After Loosening of , 'Zero-COVID' Restrictions."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 48,
+            "article_label": "LEFT",
+            "datetime": "9/12/2022 07:02:07",
+            "total_paragraphs": 38,
+            "total_reused_paragraphs": 4,
+            "reused_ratio": 0.25,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 1,
+                "CENTER": 3,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.25,
+                "CENTER": 0.75,
+                "RIGHT": 0.0
+            },
+            "reused_details": [
+                {
+                    "reused": "'Relaxing COVID controls will lead to greater outbreaks,' Neil Thomas and Laura Gloudeman of Eurasia Group said in a report.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.3696788549423218
+                    },
+                    "reused_by_aic": [
+                        "China Struggles With COVID, Infections After Loosening of , 'Zero-COVID' Restrictions."
+                    ]
+                },
+                {
+                    "reused": "Restrictions probably must stay in place at least through mid-2023, public health experts and economists say.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5947515368461609
+                    },
+                    "reused_by_aic": [
+                        "According to experts and economists, restrictions will most likely remain in place until at least mid-2023."
+                    ]
+                },
+                {
+                    "reused": "On Friday, the government reported 16,797 new cases, including 13,160 without symptoms.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.3920453190803528
+                    },
+                    "reused_by_aic": [
+                        "On December 9, the government reported 16,797 new cases, which included 13,160 people without symptoms."
+                    ]
+                },
+                {
+                    "reused": "That was down about one-fifth from the previous day and less than half of last week's daily peak above 40,000.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.4467562437057495
+                    },
+                    "reused_by_aic": [
+                        "That number was down about one-fifth from December 8 and less than half of last week's high above 40,000."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 49,
+            "article_label": "RIGHT",
+            "datetime": "8/12/2022 04:55:21",
+            "total_paragraphs": 54,
+            "total_reused_paragraphs": 12,
+            "reused_ratio": 0.75,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 1,
+                "CENTER": 8,
+                "RIGHT": 3
+            },
+            "reused_percentage": {
+                "LEFT": 0.08333333333333333,
+                "CENTER": 0.6666666666666666,
+                "RIGHT": 0.25
+            },
+            "reused_details": [
+                {
+                    "reused": "BEIJING (AP) ' A rash of COVID-19 cases in schools and businesses were reported Friday in areas across China after the ruling Communist Party loosened anti-virus rules as it tries to reverse a deepening economic slump.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.37375980615615845
+                    },
+                    "reused_by_aic": [
+                        "China Struggles With COVID, Infections After Loosening of , 'Zero-COVID' Restrictions."
+                    ]
+                },
+                {
+                    "reused": "That was part of dramatic changes aimed at gradually emerging from 'zero COVID' restrictions that have confined millions of people to their homes and sparked protests and demands for President Xi Jinping to resign.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.46012556552886963
+                    },
+                    "reused_by_aic": [
+                        "China's \"Zero COVID\" policy had confined millions of people to their homes and sparked protests and calls for President Xi Jinping to step down.",
+                        "China's \"Zero COVID\" policy had confined millions of people to their homes and sparked protests and calls for President Xi Jinping to step down."
+                    ]
+                },
+                {
+                    "reused": "'There's very few people coming in because there's so many cases,' said Gang Xueping, a waitress in a Beijing restaurant.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.614124059677124
+                    },
+                    "reused_by_aic": [
+                        "Nobody's used to this yet, Gang Xueping, waitress in a Beijing restaurant, via ABC."
+                    ]
+                },
+                {
+                    "reused": "'The country's just opened up.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5209954380989075
+                    },
+                    "reused_by_aic": [
+                        "The country's just opened up."
+                    ]
+                },
+                {
+                    "reused": "The first one or two months is definitely going to be serious.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.38077712059020996
+                    },
+                    "reused_by_aic": [
+                        "The first one or two months is definitely going to be serious."
+                    ]
+                },
+                {
+                    "reused": "Nobody's used to this yet.' In other cities, social media users said coworkers or classmates were ill and some businesses had closed due to a lack of staff.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6050567030906677
+                    },
+                    "reused_by_aic": [
+                        "On social media, people were reporting coworkers and classmates that were ill and some businesses that had closed due to a lack of staff who contracted COVID."
+                    ]
+                },
+                {
+                    "reused": "The reports echo the experience of the United States, Europe and other countries that have struggled with outbreaks while trying to restore business activity.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.4652520418167114
+                    },
+                    "reused_by_aic": [
+                        "ABC reports that the situation echoes similar experiences in the United States, Europe and other countries trying to restore business activity."
+                    ]
+                },
+                {
+                    "reused": "But they are a jarring change for China, where 'zero COVID,' which aims to isolate every case, disrupted daily life and depressed economic activity but kept infection rates low.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.4306323528289795
+                    },
+                    "reused_by_aic": [
+                        "China Struggles With COVID, Infections After Loosening of , 'Zero-COVID' Restrictions."
+                    ]
+                },
+                {
+                    "reused": "'Relaxing COVID controls will lead to greater outbreaks,' Neil Thomas and Laura Gloudeman of Eurasia Group said in a report.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.3696788549423218
+                    },
+                    "reused_by_aic": [
+                        "China Struggles With COVID, Infections After Loosening of , 'Zero-COVID' Restrictions."
+                    ]
+                },
+                {
+                    "reused": "Restrictions probably must stay in place at least through mid-2023, public health experts and economists say.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5947515368461609
+                    },
+                    "reused_by_aic": [
+                        "According to experts and economists, restrictions will most likely remain in place until at least mid-2023."
+                    ]
+                },
+                {
+                    "reused": "On Friday, the government reported 16,797 new cases, including 13,160 without symptoms.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.3920453190803528
+                    },
+                    "reused_by_aic": [
+                        "On December 9, the government reported 16,797 new cases, which included 13,160 people without symptoms."
+                    ]
+                },
+                {
+                    "reused": "That was down about one-fifth from the previous day and less than half of last week's daily peak above 40,000.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.4467562437057495
+                    },
+                    "reused_by_aic": [
+                        "That number was down about one-fifth from December 8 and less than half of last week's high above 40,000."
+                    ]
+                }
+            ]
+        }
+    ]
+}

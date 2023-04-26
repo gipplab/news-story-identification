@@ -1,0 +1,66 @@
+{
+    "article_id": 47,
+    "article_datetime": "8/12/2022 15:28:35",
+    "article_label": "CENTER",
+    "article_total_paragraphs": 29,
+    "biased_by_these_sources": [],
+    "biased_labels": {
+        "LEFT": 0,
+        "CENTER": 0,
+        "RIGHT": 0
+    },
+    "is_biased": "No",
+    "earlier_articles": [
+        {
+            "article_id": 49,
+            "article_label": "RIGHT",
+            "datetime": "8/12/2022 04:55:21",
+            "total_paragraphs": 54,
+            "total_reused_paragraphs": 3,
+            "reused_ratio": 0.1,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 1,
+                "RIGHT": 2
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 0.3333333333333333,
+                "RIGHT": 0.6666666666666666
+            },
+            "reused_details": [
+                {
+                    "reused": "But they are a jarring change for China, where 'zero COVID,' which aims to isolate every case, disrupted daily life and depressed economic activity but kept infection rates low.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.4306323528289795
+                    },
+                    "reused_by_aic": [
+                        "That means there may be a surge in Covid infections, and China's policy will never go back, Pang said."
+                    ]
+                },
+                {
+                    "reused": "'But Beijing is unlikely to return to the extended blanket lockdowns that crashed the economy earlier this year.' The changes suggest the ruling party is easing off its goal of preventing virus transmission, the basis of 'zero COVID,' but officials say that strategy still is in effect.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5531022548675537
+                    },
+                    "reused_by_aic": [
+                        "BEIJING ' As mainland China relaxes many of its stringent Covid controls, analysts point out the country is far from a quick return to a pre-pandemic situation."
+                    ]
+                },
+                {
+                    "reused": "More changes announced Wednesday allow people with mild COVID-19 cases to isolate at home instead of going to a quarantine center that some complained were crowded and unsanitary.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.40383392572402954
+                    },
+                    "reused_by_aic": [
+                        "National authorities announced sweeping changes on Wednesday to make it easier to travel domestically, keep businesses operating and allow Covid patients to quarantine at home."
+                    ]
+                }
+            ]
+        }
+    ]
+}

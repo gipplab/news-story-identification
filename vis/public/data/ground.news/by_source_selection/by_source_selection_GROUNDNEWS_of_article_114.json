@@ -1,0 +1,87 @@
+{
+    "article_id": 114,
+    "article_datetime": "26/03/2023 19:12:00",
+    "article_label": "RIGHT",
+    "article_total_paragraphs": 35,
+    "biased_by_these_sources": [],
+    "biased_labels": {
+        "LEFT": 0,
+        "CENTER": 0,
+        "RIGHT": 0
+    },
+    "is_biased": "No",
+    "earlier_articles": [
+        {
+            "article_id": 116,
+            "article_label": "RIGHT",
+            "datetime": "26/03/2023 17:11:00",
+            "total_paragraphs": 7,
+            "total_reused_paragraphs": 5,
+            "reused_ratio": 0.14,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 1,
+                "CENTER": 3,
+                "RIGHT": 1
+            },
+            "reused_percentage": {
+                "LEFT": 0.2,
+                "CENTER": 0.6,
+                "RIGHT": 0.2
+            },
+            "reused_details": [
+                {
+                    "reused": "NATO on Sunday criticized Russia for its dangerous and irresponsible nuclear rhetoric, a day after Russian President Vladimir Putin said Russia would station tactical nuclear weapons in Belarus.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5670411586761475
+                    },
+                    "reused_by_aic": [
+                        "NATO on Sunday criticised Vladimir Putin for what it called his \"dangerous and irresponsible\" nuclear rhetoric, a day after the Russian president said he would station tactical nuclear weapons in Belarus."
+                    ]
+                },
+                {
+                    "reused": "We have not seen any changes in Russia's nuclear posture that would lead us to adjust our own, a NATO spokesperson said.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5068961977958679
+                    },
+                    "reused_by_aic": [
+                        "Washington appeared to see no change in the potential for Moscow to use nuclear weapons in the war in Ukraine, and it and NATO said the news would not affect their own nuclear position.",
+                        "\"We have not seen any changes in Russia's nuclear posture that would lead us to adjust our own,\" the NATO spokesperson wrote."
+                    ]
+                },
+                {
+                    "reused": "Russia's reference to NATO's nuclear sharing is totally misleading.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6191481947898865
+                    },
+                    "reused_by_aic": [
+                        "\"Russia's reference to NATO's nuclear sharing is totally misleading."
+                    ]
+                },
+                {
+                    "reused": "NATO allies act with full respect of their international commitments.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.538489043712616
+                    },
+                    "reused_by_aic": [
+                        "NATO allies act with full respect of their international commitments,\" a NATO spokesperson said in emailed comments to Reuters on Sunday."
+                    ]
+                },
+                {
+                    "reused": "Russia has consistently broken its arms control commitments, most recently suspending its participation in the New START Treaty.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.371609091758728
+                    },
+                    "reused_by_aic": [
+                        "\"Russia has consistently broken its arms control commitments, most recently suspending its participation in the New START Treaty,\" the unnamed spokesperson said."
+                    ]
+                }
+            ]
+        }
+    ]
+}

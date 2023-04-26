@@ -1,0 +1,74 @@
+{
+    "article_id": 13,
+    "article_datetime": "9/12/2022 13:37:14",
+    "article_label": "CENTER",
+    "article_total_paragraphs": 5,
+    "biased_by_these_sources": [
+        10
+    ],
+    "biased_labels": {
+        "LEFT": 1,
+        "CENTER": 0,
+        "RIGHT": 0
+    },
+    "is_biased": "Yes, to the LEFT",
+    "earlier_articles": [
+        {
+            "article_id": 10,
+            "article_label": "LEFT",
+            "datetime": "9/12/2022 05:20:13",
+            "total_paragraphs": 7,
+            "total_reused_paragraphs": 5,
+            "reused_ratio": 1.0,
+            "is_biased_to": "Yes, to the LEFT. Percentage: 60.00%",
+            "reused_paragraphs_label": {
+                "LEFT": 3,
+                "CENTER": 2,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.6,
+                "CENTER": 0.4,
+                "RIGHT": 0.0
+            }
+        },
+        {
+            "article_id": 14,
+            "article_label": "CENTER",
+            "datetime": "9/12/2022 12:32:22",
+            "total_paragraphs": 19,
+            "total_reused_paragraphs": 2,
+            "reused_ratio": 0.4,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 1,
+                "CENTER": 1,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.5,
+                "CENTER": 0.5,
+                "RIGHT": 0.0
+            }
+        },
+        {
+            "article_id": 15,
+            "article_label": "CENTER",
+            "datetime": "9/12/2022 03:41:23",
+            "total_paragraphs": 23,
+            "total_reused_paragraphs": 2,
+            "reused_ratio": 0.4,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 2,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 1.0,
+                "RIGHT": 0.0
+            }
+        }
+    ]
+}

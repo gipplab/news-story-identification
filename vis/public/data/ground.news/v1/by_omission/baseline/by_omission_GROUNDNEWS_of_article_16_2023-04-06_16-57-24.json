@@ -1,0 +1,132 @@
+{
+    "article_id": 16,
+    "article_datetime": "9/12/2022 14:29:11",
+    "article_label": "CENTER",
+    "article_total_paragraphs": 19,
+    "earlier_articles": [
+        {
+            "article_id": 10,
+            "label": "LEFT",
+            "datetime": "9/12/2022 05:20:13",
+            "total_paragraphs": 7,
+            "total_reused_paragraphs": 2,
+            "reused_ratio": 0.11,
+            "is_biased_by_source_selection": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 1,
+                "CENTER": 1,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.5,
+                "CENTER": 0.5,
+                "RIGHT": 0.0
+            },
+            "is_biased_by_omission": "No",
+            "total_non-reused_paragraphs": 131,
+            "non-reused_paragraphs_label": {
+                "LEFT": 56,
+                "CENTER": 75,
+                "RIGHT": 0
+            },
+            "non-reused_percentage": {
+                "LEFT": 0.42748091603053434,
+                "CENTER": 0.5725190839694656,
+                "RIGHT": 0.0
+            }
+        },
+        {
+            "article_id": 13,
+            "label": "CENTER",
+            "datetime": "9/12/2022 13:37:14",
+            "total_paragraphs": 5,
+            "total_reused_paragraphs": 2,
+            "reused_ratio": 0.11,
+            "is_biased_by_source_selection": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 1,
+                "CENTER": 1,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.5,
+                "CENTER": 0.5,
+                "RIGHT": 0.0
+            },
+            "is_biased_by_omission": "No",
+            "total_non-reused_paragraphs": 93,
+            "non-reused_paragraphs_label": {
+                "LEFT": 75,
+                "CENTER": 18,
+                "RIGHT": 0
+            },
+            "non-reused_percentage": {
+                "LEFT": 0.8064516129032258,
+                "CENTER": 0.1935483870967742,
+                "RIGHT": 0.0
+            }
+        },
+        {
+            "article_id": 14,
+            "label": "CENTER",
+            "datetime": "9/12/2022 12:32:22",
+            "total_paragraphs": 19,
+            "total_reused_paragraphs": 19,
+            "reused_ratio": 1.0,
+            "is_biased_by_source_selection": "Yes, to the LEFT. Percentage: 73.68%",
+            "reused_paragraphs_label": {
+                "LEFT": 14,
+                "CENTER": 5,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.7368421052631579,
+                "CENTER": 0.2631578947368421,
+                "RIGHT": 0.0
+            },
+            "is_biased_by_omission": "No",
+            "total_non-reused_paragraphs": 342,
+            "non-reused_paragraphs_label": {
+                "LEFT": 252,
+                "CENTER": 90,
+                "RIGHT": 0
+            },
+            "non-reused_percentage": {
+                "LEFT": 0.7368421052631579,
+                "CENTER": 0.2631578947368421,
+                "RIGHT": 0.0
+            }
+        },
+        {
+            "article_id": 15,
+            "label": "CENTER",
+            "datetime": "9/12/2022 03:41:23",
+            "total_paragraphs": 23,
+            "total_reused_paragraphs": 4,
+            "reused_ratio": 0.21,
+            "is_biased_by_source_selection": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 1,
+                "CENTER": 3,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.25,
+                "CENTER": 0.75,
+                "RIGHT": 0.0
+            },
+            "is_biased_by_omission": "No",
+            "total_non-reused_paragraphs": 433,
+            "non-reused_paragraphs_label": {
+                "LEFT": 94,
+                "CENTER": 339,
+                "RIGHT": 0
+            },
+            "non-reused_percentage": {
+                "LEFT": 0.21709006928406466,
+                "CENTER": 0.7829099307159353,
+                "RIGHT": 0.0
+            }
+        }
+    ]
+}

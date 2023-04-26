@@ -1,0 +1,14 @@
+{
+    "article_id": 104,
+    "article_datetime": "18/2/2022 06:27:13",
+    "article_label": "CENTER",
+    "article_total_paragraphs": 0,
+    "biased_by_these_sources": [],
+    "biased_labels": {
+        "LEFT": 0,
+        "CENTER": 0,
+        "RIGHT": 0
+    },
+    "is_biased": "This is the earliest article",
+    "earlier_articles": []
+}

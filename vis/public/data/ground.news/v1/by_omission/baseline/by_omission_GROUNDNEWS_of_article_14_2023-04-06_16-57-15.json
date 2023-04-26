@@ -1,0 +1,70 @@
+{
+    "article_id": 14,
+    "article_datetime": "9/12/2022 12:32:22",
+    "article_label": "CENTER",
+    "article_total_paragraphs": 19,
+    "earlier_articles": [
+        {
+            "article_id": 10,
+            "label": "LEFT",
+            "datetime": "9/12/2022 05:20:13",
+            "total_paragraphs": 7,
+            "total_reused_paragraphs": 2,
+            "reused_ratio": 0.11,
+            "is_biased_by_source_selection": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 1,
+                "CENTER": 1,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.5,
+                "CENTER": 0.5,
+                "RIGHT": 0.0
+            },
+            "is_biased_by_omission": "No",
+            "total_non-reused_paragraphs": 131,
+            "non-reused_paragraphs_label": {
+                "LEFT": 56,
+                "CENTER": 75,
+                "RIGHT": 0
+            },
+            "non-reused_percentage": {
+                "LEFT": 0.42748091603053434,
+                "CENTER": 0.5725190839694656,
+                "RIGHT": 0.0
+            }
+        },
+        {
+            "article_id": 15,
+            "label": "CENTER",
+            "datetime": "9/12/2022 03:41:23",
+            "total_paragraphs": 23,
+            "total_reused_paragraphs": 4,
+            "reused_ratio": 0.21,
+            "is_biased_by_source_selection": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 1,
+                "CENTER": 3,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.25,
+                "CENTER": 0.75,
+                "RIGHT": 0.0
+            },
+            "is_biased_by_omission": "No",
+            "total_non-reused_paragraphs": 433,
+            "non-reused_paragraphs_label": {
+                "LEFT": 94,
+                "CENTER": 339,
+                "RIGHT": 0
+            },
+            "non-reused_percentage": {
+                "LEFT": 0.21709006928406466,
+                "CENTER": 0.7829099307159353,
+                "RIGHT": 0.0
+            }
+        }
+    ]
+}

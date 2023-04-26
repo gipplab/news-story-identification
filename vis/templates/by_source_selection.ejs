@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <%- include('./head'); %>
+  </head>
+  <body class="container-fluid">
+    <header><%- include('./header'); %></header>
+
+    <h3>
+      Interactive visualization - Analysis of media bias by source selection
+    </h3>
+    <% if(locals.topic) { %> <% if(locals.article_id) { %>
+    <h6>
+      Analysis of topic <%= topic["topic_id"] %> - article <%= article_id %>
+    </h6>
+    <% } else { %>
+    <h6>Analysis of topic <%= topic["topic_id"] %></h6>
+
+    <% } %>
+    <div class="container-fluid">
+      <!-- Header -->
+      <div class="row">
+        <div class="col-sm-4 box-header" style="background-color: #f8f9fa">
+          <h6>Plagiarism map</h6>
+        </div>
+        <div class="col-sm-4 box-header" style="background-color: #f8f9fa">
+          <h6>ID | Headline</h6>
+        </div>
+        <div class="col-sm-4 box-header" style="background-color: #f8f9fa">
+          <h6>Classified reused sentences/paragraphs proportion</h6>
+        </div>
+      </div>
+
+      <!-- Content -->
+      <div class="row">
+        <!-- Plagiarism map -->
+        <div class="col-sm-4">
+          <img
+            class="hover-shadow"
+            style="width: 100%; height: 100%"
+            src="/<%= topic['network']%>"
+            onclick="openModal()"
+          />
+        </div>
+        <!-- ID | HEadline -->
+        <div class="col-sm-4">
+          <ul>
+            <% for(var i = 0; i < articles.length ; i++) { %>
+            <li>
+              <%= articles[i]['article_id']%> |
+              <a
+                href="/by_source_selection/<%= topic['topic_id'] %>/<%= articles[i]['article_id']%>"
+                ><%= articles[i]['article_title'] %></a
+              >
+            </li>
+            <% } %>
+          </ul>
+        </div>
+        <!-- Stacked bar chart -->
+        <div class="col-sm-4">
+          <% if(locals.queried_article && locals.queried_article.length !== "")
+          { %>
+          <img
+            class="hover-shadow"
+            style="width: 100%; height: 90%"
+            src="/<%= queried_article['chart']%>"
+            onclick="openModal()"
+          />
+          <% if(locals.is_biased) { %>
+          <div style="text-align: center">
+            Biased by source selection: <strong><%= is_biased %></strong>
+          </div>
+          <% } %> <% } else { %>
+          <div>
+            Possibly an earliest article or the article is not plagiarized at
+            all
+          </div>
+          <% }%>
+        </div>
+      </div>
+
+      <div class="row">
+        <!-- Table -->
+        <div class="col-sm-12" style="background-color: #f8f9fa">
+          <% if(locals.earlier_article_id) { %>
+          <h6>Reused article details</h6>
+          <ul>
+            <li><h6>Id: <%= earlier_article_id %></h6></li>
+            <li>
+              <h6>
+                Reused ratio: <%= parseFloat(reused_ratio * 100).toFixed(0) %>%
+              </h6>
+            </li>
+            <li>
+              <h6>
+                Left ratio: <%= parseFloat(label_ratio['LEFT'] * 100).toFixed(1)
+                %>%
+              </h6>
+            </li>
+            <li>
+              <h6>
+                Center ratio: <%= parseFloat(label_ratio['CENTER'] *
+                100).toFixed(1) %>%
+              </h6>
+            </li>
+            <li>
+              <h6>
+                Right ratio: <%= parseFloat(label_ratio['RIGHT'] *
+                100).toFixed(1) %>%
+              </h6>
+            </li>
+            <li>
+              <h6>Biased to this article: <%= is_biased_to %></h6>
+            </li>
+          </ul>
+          <% } else { %>
+          <h6>Reused article details</h6>
+          <% } %>
+          <div class="row">
+            <div class="col-sm-1">
+              <h6>Available earlier articles</h6>
+              <% if(locals.earlier_articles) { %> <% for(var i = 0; i <
+              earlier_articles.length ; i++) { %>
+              <div>
+                <a
+                  href="/by_source_selection/<%= topic['topic_id'] %>/<%= article_id %>/<%= earlier_articles[i]['article_id'] %>"
+                  >Article <%= earlier_articles[i]['article_id']%></a
+                >
+              </div>
+              <% } %> <% } %>
+            </div>
+            <div class="col-sm-11">
+              <% if(locals.ea) { %>
+              <table class="table table-striped table-bordered">
+                <thead>
+                  <tr>
+                    <th>Classified Polarity</th>
+                    <th>Reused text</th>
+                    <th>
+                      Original text <% if(locals.aic_label) { %>
+                      <p style="display: inline" class="<%= aic_label %>">
+                        (<%= aic_label %>)
+                      </p>
+                      <% } %>
+                    </th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <% for(var i = 0 ; i < ea.length ; i++) { %>
+                  <tr>
+                    <div class="row">
+                      <td class="col-sm-2 <%= ea[i]['label']['label'] %>">
+                        <%= ea[i]['label']['label'] %>
+                      </td>
+                      <td class="col-sm-5"><%= ea[i]['reused'] %></td>
+                      <td class="col-sm-5">
+                        <% if(ea[i]['reused_by_aic']) { %>
+                        <ul>
+                          <% for(var j = 0 ; j < ea[i]['reused_by_aic'].length ;
+                          j++) { %>
+                          <li><%= ea[i]['reused_by_aic'][j] %></li>
+                          <% } %>
+                        </ul>
+                        <% } %>
+                      </td>
+                    </div>
+                  </tr>
+                  <% } %>
+                </tbody>
+              </table>
+
+              <% } %>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <% } else { %>
+    <h3>Available analyzed topics</h3>
+    <ul>
+      <% for(var i = 0; i < data.length ; i++) { %>
+      <li>
+        Topic
+        <a href="/by_source_selection/<%= data[i]['topic_id'] %>"
+          ><%= data[i]["topic_id"]%></a
+        >
+      </li>
+
+      <% } %>
+    </ul>
+    <% } %>
+  </body>
+</html>

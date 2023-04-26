@@ -1,0 +1,646 @@
+{
+    "article_id": 17,
+    "article_datetime": "9/12/2022 19:40:41",
+    "article_label": "CENTER",
+    "article_total_paragraphs": 15,
+    "biased_by_these_sources": [
+        11
+    ],
+    "biased_labels": {
+        "LEFT": 0,
+        "CENTER": 0,
+        "RIGHT": 1
+    },
+    "is_biased": "Yes, to the RIGHT",
+    "earlier_articles": [
+        {
+            "article_id": 7,
+            "article_label": "LEFT",
+            "datetime": "9/12/2022 18:27:11",
+            "total_paragraphs": 19,
+            "total_reused_paragraphs": 4,
+            "reused_ratio": 0.27,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 3,
+                "RIGHT": 1
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 0.75,
+                "RIGHT": 0.25
+            },
+            "reused_details": [
+                {
+                    "reused": "The leaders of France, Spain and Portugal on Friday officially approved an ambitious underwater pipeline to bring green hydrogen from the Iberian Peninsula to the rest of Europe  The H2Med project, set to be completed by 2030 at a cost of about 2.5 billion ($2.6 billion), will help Europe make the transition from fossil fuels to cleaner energy.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.492610901594162
+                    },
+                    "reused_by_aic": [
+                        "ALICANTE, Spain (AP)  Spain, France and Portugal agreed Friday to build by 2030 a major undersea pipeline to transport hydrogen from the Iberian Peninsula to France and eventually the rest of Europe.",
+                        "Spanish Prime Minister Pedro Snchez said the pipeline, dubbed H2Med, will be able to convey some 2 million metric tons of hydrogen to France annually  10% of the EUs estimated hydrogen needs."
+                    ]
+                },
+                {
+                    "reused": "READ MORE Spain seeks EU cash to link up its 'energy island' The pipeline between Barcelona and Marseille will carry two million tonnes of hydrogen per year, or 10 per cent of European consumption, once it goes online, said Spanish Prime Minister Pedro Sanchez.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.4619895815849304
+                    },
+                    "reused_by_aic": [
+                        "ALICANTE, Spain (AP)  Spain, France and Portugal agreed Friday to build by 2030 a major undersea pipeline to transport hydrogen from the Iberian Peninsula to France and eventually the rest of Europe.",
+                        "Spanish Prime Minister Pedro Snchez said the pipeline, dubbed H2Med, will be able to convey some 2 million metric tons of hydrogen to France annually  10% of the EUs estimated hydrogen needs."
+                    ]
+                },
+                {
+                    "reused": "The project will cost around 2.5 billion, he said at a joint press conference with French President Emmanuel Macron and Portuguese Prime Minister Antonio Costa.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6112657785415649
+                    },
+                    "reused_by_aic": [
+                        "The project is expected to cost 2.5 billion euros ($2.6 billion)."
+                    ]
+                },
+                {
+                    "reused": "Initially, the idea was for the pipeline to carry gas from the Iberian Peninsula to central Europe, given Spain and Portugal's huge capacity for turning liquefied natural gas that arrives in tankers back into gas form.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5164971947669983
+                    },
+                    "reused_by_aic": [
+                        "ALICANTE, Spain (AP)  Spain, France and Portugal agreed Friday to build by 2030 a major undersea pipeline to transport hydrogen from the Iberian Peninsula to France and eventually the rest of Europe.",
+                        "The project will first connect two plants in northern Portugal and northern Spain and then involve a pipeline under the Mediterranean Sea from the northeastern Spanish port of Barcelona to Frances Marseille."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 10,
+            "article_label": "LEFT",
+            "datetime": "9/12/2022 05:20:13",
+            "total_paragraphs": 7,
+            "total_reused_paragraphs": 7,
+            "reused_ratio": 0.47,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 1,
+                "CENTER": 4,
+                "RIGHT": 2
+            },
+            "reused_percentage": {
+                "LEFT": 0.14285714285714285,
+                "CENTER": 0.5714285714285714,
+                "RIGHT": 0.2857142857142857
+            },
+            "reused_details": [
+                {
+                    "reused": "ALICANTE, Spain (AP)  Spain, France and Portugal agreed Friday to build by 2030 a major undersea pipeline to transport hydrogen from the Iberian Peninsula to France and eventually the rest of Europe.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.39630040526390076
+                    },
+                    "reused_by_aic": [
+                        "ALICANTE, Spain (AP)  Spain, France and Portugal agreed Friday to build by 2030 a major undersea pipeline to transport hydrogen from the Iberian Peninsula to France and eventually the rest of Europe.",
+                        "Spanish Prime Minister Pedro Snchez said the pipeline, dubbed H2Med, will be able to convey some 2 million metric tons of hydrogen to France annually  10% of the EUs estimated hydrogen needs.",
+                        "The project will first connect two plants in northern Portugal and northern Spain and then involve a pipeline under the Mediterranean Sea from the northeastern Spanish port of Barcelona to Frances Marseille."
+                    ]
+                },
+                {
+                    "reused": "The pipeline is aimed at making the European Unions energy supply more independent, a goal expedited by the Russian invasion of Ukraine last February that precipitated an energy crisis.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5066733360290527
+                    },
+                    "reused_by_aic": [
+                        "The pipeline is aimed at making the European Unions energy supply more independent, a goal expedited by the Russian invasion of Ukraine last February that precipitated an energy crisis."
+                    ]
+                },
+                {
+                    "reused": "Spanish Prime Minister Pedro Snchez said the pipeline, dubbed H2Med, will be able to convey some 2 million metric tons of hydrogen to France annually  10% of the EUs estimated hydrogen needs.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.40809428691864014
+                    },
+                    "reused_by_aic": [
+                        "ALICANTE, Spain (AP)  Spain, France and Portugal agreed Friday to build by 2030 a major undersea pipeline to transport hydrogen from the Iberian Peninsula to France and eventually the rest of Europe.",
+                        "Spanish Prime Minister Pedro Snchez said the pipeline, dubbed H2Med, will be able to convey some 2 million metric tons of hydrogen to France annually  10% of the EUs estimated hydrogen needs.",
+                        "French President Emmanuel Macron said H2Med, which replaces an earlier proposal to transport gas across the Pyrenees Mountains, will take a new path through the Mediterranean and rely on a technology of the future, which is hydrogen.  It will also probably allow later other European interconnections toward some other countries which will want to get that hydrogen, he added.",
+                        "He said that with the project, they aspire to be a benchmark not only in Europe, but also worldwide, in the field of hydrogen.  Spain and Portugal had initially wanted to pipe gas across land to France but Paris rejected that proposal."
+                    ]
+                },
+                {
+                    "reused": "The project is expected to cost 2.5 billion euros ($2.6 billion).",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.48529288172721863
+                    },
+                    "reused_by_aic": [
+                        "The project is expected to cost 2.5 billion euros ($2.6 billion)."
+                    ]
+                },
+                {
+                    "reused": "The announcement came after a meeting between Snchez, his French and Portuguese counterparts and European Commission President Ursula von der Leyen in the eastern Spanish city of Alicante.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5208733677864075
+                    },
+                    "reused_by_aic": [
+                        "The announcement came after a meeting between Snchez, his French and Portuguese counterparts and European Commission President Ursula von der Leyen in the eastern Spanish city of Alicante."
+                    ]
+                },
+                {
+                    "reused": "Today, the Iberian Peninsula is becoming a major European energy gateway to the world, Von der Leyen said at a joint press briefing.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.4058038592338562
+                    },
+                    "reused_by_aic": [
+                        "Today, the Iberian Peninsula is becoming a major European energy gateway to the world, Von der Leyen said at a joint press briefing."
+                    ]
+                },
+                {
+                    "reused": "French President Emmanuel Macron said H2Med, which replaces an earlier proposal to transport gas across the Pyrenees Mountains, will take a new path through the Mediterranean and rely on a technology of the future, which is hydrogen.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.4385871887207031
+                    },
+                    "reused_by_aic": [
+                        "Spanish Prime Minister Pedro Snchez said the pipeline, dubbed H2Med, will be able to convey some 2 million metric tons of hydrogen to France annually  10% of the EUs estimated hydrogen needs.",
+                        "French President Emmanuel Macron said H2Med, which replaces an earlier proposal to transport gas across the Pyrenees Mountains, will take a new path through the Mediterranean and rely on a technology of the future, which is hydrogen.  It will also probably allow later other European interconnections toward some other countries which will want to get that hydrogen, he added."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 11,
+            "article_label": "CENTER",
+            "datetime": "9/12/2022 15:50:09",
+            "total_paragraphs": 17,
+            "total_reused_paragraphs": 15,
+            "reused_ratio": 1.0,
+            "is_biased_to": "Yes, to the RIGHT. Percentage: 40.00%",
+            "reused_paragraphs_label": {
+                "LEFT": 4,
+                "CENTER": 5,
+                "RIGHT": 6
+            },
+            "reused_percentage": {
+                "LEFT": 0.26666666666666666,
+                "CENTER": 0.3333333333333333,
+                "RIGHT": 0.4
+            },
+            "reused_details": [
+                {
+                    "reused": "The H2Mad summit is to discuss a plan for an undersea pipeline that would eventually transport hydrogen and will connect the ports of Barcelona in Spain and Marseille in France.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.47293388843536377
+                    },
+                    "reused_by_aic": [
+                        "ALICANTE, Spain (AP)  Spain, France and Portugal agreed Friday to build by 2030 a major undersea pipeline to transport hydrogen from the Iberian Peninsula to France and eventually the rest of Europe.",
+                        "Spanish Prime Minister Pedro Snchez said the pipeline, dubbed H2Med, will be able to convey some 2 million metric tons of hydrogen to France annually  10% of the EUs estimated hydrogen needs.",
+                        "The project will first connect two plants in northern Portugal and northern Spain and then involve a pipeline under the Mediterranean Sea from the northeastern Spanish port of Barcelona to Frances Marseille."
+                    ]
+                },
+                {
+                    "reused": "(AP Photo/J.M Fernandez)  ALICANTE  Spain, France and Portugal agreed Friday to build by 2030 a major undersea pipeline to transport hydrogen from the Iberian Peninsula to France and eventually the rest of Europe.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.48833489418029785
+                    },
+                    "reused_by_aic": [
+                        "ALICANTE, Spain (AP)  Spain, France and Portugal agreed Friday to build by 2030 a major undersea pipeline to transport hydrogen from the Iberian Peninsula to France and eventually the rest of Europe.",
+                        "Spanish Prime Minister Pedro Snchez said the pipeline, dubbed H2Med, will be able to convey some 2 million metric tons of hydrogen to France annually  10% of the EUs estimated hydrogen needs.",
+                        "The project will first connect two plants in northern Portugal and northern Spain and then involve a pipeline under the Mediterranean Sea from the northeastern Spanish port of Barcelona to Frances Marseille."
+                    ]
+                },
+                {
+                    "reused": "The pipeline is aimed at making the European Union's energy supply more independent, a goal expedited by the Russian invasion of Ukraine last February that precipitated an energy crisis.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6400663256645203
+                    },
+                    "reused_by_aic": [
+                        "The pipeline is aimed at making the European Unions energy supply more independent, a goal expedited by the Russian invasion of Ukraine last February that precipitated an energy crisis."
+                    ]
+                },
+                {
+                    "reused": "Spanish Prime Minister Pedro Snchez said the pipeline, dubbed H2Med, will be able to convey some 2 million metric tons of hydrogen to France annually  10% of the EUs estimated hydrogen needs.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.40809428691864014
+                    },
+                    "reused_by_aic": [
+                        "ALICANTE, Spain (AP)  Spain, France and Portugal agreed Friday to build by 2030 a major undersea pipeline to transport hydrogen from the Iberian Peninsula to France and eventually the rest of Europe.",
+                        "Spanish Prime Minister Pedro Snchez said the pipeline, dubbed H2Med, will be able to convey some 2 million metric tons of hydrogen to France annually  10% of the EUs estimated hydrogen needs.",
+                        "French President Emmanuel Macron said H2Med, which replaces an earlier proposal to transport gas across the Pyrenees Mountains, will take a new path through the Mediterranean and rely on a technology of the future, which is hydrogen.  It will also probably allow later other European interconnections toward some other countries which will want to get that hydrogen, he added.",
+                        "He said that with the project, they aspire to be a benchmark not only in Europe, but also worldwide, in the field of hydrogen.  Spain and Portugal had initially wanted to pipe gas across land to France but Paris rejected that proposal."
+                    ]
+                },
+                {
+                    "reused": "The project is expected to cost 2.5 billion euros ($2.6 billion).",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.48529288172721863
+                    },
+                    "reused_by_aic": [
+                        "The project is expected to cost 2.5 billion euros ($2.6 billion)."
+                    ]
+                },
+                {
+                    "reused": "The announcement came after a meeting between Snchez, his French and Portuguese counterparts and European Commission President Ursula von der Leyen in the eastern Spanish city of Alicante.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5208733677864075
+                    },
+                    "reused_by_aic": [
+                        "The announcement came after a meeting between Snchez, his French and Portuguese counterparts and European Commission President Ursula von der Leyen in the eastern Spanish city of Alicante."
+                    ]
+                },
+                {
+                    "reused": "Today, the Iberian Peninsula is becoming a major European energy gateway to the world, Von der Leyen said at a joint press briefing.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.4058038592338562
+                    },
+                    "reused_by_aic": [
+                        "Today, the Iberian Peninsula is becoming a major European energy gateway to the world, Von der Leyen said at a joint press briefing."
+                    ]
+                },
+                {
+                    "reused": "French President Emmanuel Macron said H2Med, which replaces an earlier proposal to transport gas across the Pyrenees Mountains, will take a new path through the Mediterranean and rely on a technology of the future, which is hydrogen.  It will also probably allow later other European interconnections toward some other countries which will want to get that hydrogen, he added.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.4904360771179199
+                    },
+                    "reused_by_aic": [
+                        "Spanish Prime Minister Pedro Snchez said the pipeline, dubbed H2Med, will be able to convey some 2 million metric tons of hydrogen to France annually  10% of the EUs estimated hydrogen needs.",
+                        "French President Emmanuel Macron said H2Med, which replaces an earlier proposal to transport gas across the Pyrenees Mountains, will take a new path through the Mediterranean and rely on a technology of the future, which is hydrogen.  It will also probably allow later other European interconnections toward some other countries which will want to get that hydrogen, he added.",
+                        "He said that with the project, they aspire to be a benchmark not only in Europe, but also worldwide, in the field of hydrogen.  Spain and Portugal had initially wanted to pipe gas across land to France but Paris rejected that proposal."
+                    ]
+                },
+                {
+                    "reused": "Portugal, Spain and France struck a broad deal on the plan in October.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.5168628096580505
+                    },
+                    "reused_by_aic": [
+                        "Portugal, Spain and France struck a broad deal on the plan in October."
+                    ]
+                },
+                {
+                    "reused": "They hope to present it to the European Commission by Dec. 15 so it will be eligible for EU financing, which could represent as much as 50% of the cost.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.3872920870780945
+                    },
+                    "reused_by_aic": [
+                        "They hope to present it to the European Commission by Dec. 15 so it will be eligible for EU financing, which could represent as much as 50% of the cost."
+                    ]
+                },
+                {
+                    "reused": "The project will first connect two plants in northern Portugal and northern Spain and then involve a pipeline under the Mediterranean Sea from the northeastern Spanish port of Barcelona to Frances Marseille.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.3815969228744507
+                    },
+                    "reused_by_aic": [
+                        "ALICANTE, Spain (AP)  Spain, France and Portugal agreed Friday to build by 2030 a major undersea pipeline to transport hydrogen from the Iberian Peninsula to France and eventually the rest of Europe.",
+                        "The project will first connect two plants in northern Portugal and northern Spain and then involve a pipeline under the Mediterranean Sea from the northeastern Spanish port of Barcelona to Frances Marseille."
+                    ]
+                },
+                {
+                    "reused": "We are strengthening European Unions strategic autonomy and energy security at a moment when solidarity among Europeans is essential to reduce energy dependency on countries that use energy as a blackmailing tool, Snchez said, in reference to Russia and the gas crisis that has emerged since the war in Ukraine.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.4311663508415222
+                    },
+                    "reused_by_aic": [
+                        "We are strengthening European Unions strategic autonomy and energy security at a moment when solidarity among Europeans is essential to reduce energy dependency on countries that use energy as a blackmailing tool, Snchez said, in reference to Russia and the gas crisis that has emerged since the war in Ukraine."
+                    ]
+                },
+                {
+                    "reused": "He said that with the project, they aspire to be a benchmark not only in Europe, but also worldwide, in the field of hydrogen.  Spain and Portugal had initially wanted to pipe gas across land to France but Paris rejected that proposal.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.5555751323699951
+                    },
+                    "reused_by_aic": [
+                        "Spanish Prime Minister Pedro Snchez said the pipeline, dubbed H2Med, will be able to convey some 2 million metric tons of hydrogen to France annually  10% of the EUs estimated hydrogen needs.",
+                        "French President Emmanuel Macron said H2Med, which replaces an earlier proposal to transport gas across the Pyrenees Mountains, will take a new path through the Mediterranean and rely on a technology of the future, which is hydrogen.  It will also probably allow later other European interconnections toward some other countries which will want to get that hydrogen, he added.",
+                        "He said that with the project, they aspire to be a benchmark not only in Europe, but also worldwide, in the field of hydrogen.  Spain and Portugal had initially wanted to pipe gas across land to France but Paris rejected that proposal."
+                    ]
+                },
+                {
+                    "reused": "Hydrogen is a game-changer for Europe, said Von der Leyen.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.4007541835308075
+                    },
+                    "reused_by_aic": [
+                        "Hydrogen is a game-changer for Europe, said Von der Leyen."
+                    ]
+                },
+                {
+                    "reused": "She said the EU planned to produce 10 million metric tons of renewable hydrogen by 2030 and to import another 10 million tons.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.3625420331954956
+                    },
+                    "reused_by_aic": [
+                        "She said the EU planned to produce 10 million metric tons of renewable hydrogen by 2030 and to import another 10 million tons."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 13,
+            "article_label": "CENTER",
+            "datetime": "9/12/2022 13:37:14",
+            "total_paragraphs": 5,
+            "total_reused_paragraphs": 5,
+            "reused_ratio": 0.33,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 5,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 1.0,
+                "RIGHT": 0.0
+            },
+            "reused_details": [
+                {
+                    "reused": "By IAIN SULLIVAN Associated Press  ALICANTE, Spain (AP)  Spain, France and Portugal have agreed to build a major undersea pipeline to transport hydrogen from the Iberian Peninsula to France and Europe by 2030.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5312203168869019
+                    },
+                    "reused_by_aic": [
+                        "ALICANTE, Spain (AP)  Spain, France and Portugal agreed Friday to build by 2030 a major undersea pipeline to transport hydrogen from the Iberian Peninsula to France and eventually the rest of Europe.",
+                        "Spanish Prime Minister Pedro Snchez said the pipeline, dubbed H2Med, will be able to convey some 2 million metric tons of hydrogen to France annually  10% of the EUs estimated hydrogen needs.",
+                        "The project will first connect two plants in northern Portugal and northern Spain and then involve a pipeline under the Mediterranean Sea from the northeastern Spanish port of Barcelona to Frances Marseille."
+                    ]
+                },
+                {
+                    "reused": "The pipeline is aimed at making the European Union more energy independent, a goal expedited by the Russian invasion of Ukraine that precipitated an energy crisis.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5379341244697571
+                    },
+                    "reused_by_aic": [
+                        "The pipeline is aimed at making the European Unions energy supply more independent, a goal expedited by the Russian invasion of Ukraine last February that precipitated an energy crisis."
+                    ]
+                },
+                {
+                    "reused": "Spanish Prime Minister Pedro Snchez says the pipeline, dubbed H2Med, will be able to carry some 2 million tons of hydrogen to France annually, or 10% of the EUs estimated hydrogen needs.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.42232751846313477
+                    },
+                    "reused_by_aic": [
+                        "ALICANTE, Spain (AP)  Spain, France and Portugal agreed Friday to build by 2030 a major undersea pipeline to transport hydrogen from the Iberian Peninsula to France and eventually the rest of Europe.",
+                        "Spanish Prime Minister Pedro Snchez said the pipeline, dubbed H2Med, will be able to convey some 2 million metric tons of hydrogen to France annually  10% of the EUs estimated hydrogen needs.",
+                        "French President Emmanuel Macron said H2Med, which replaces an earlier proposal to transport gas across the Pyrenees Mountains, will take a new path through the Mediterranean and rely on a technology of the future, which is hydrogen.  It will also probably allow later other European interconnections toward some other countries which will want to get that hydrogen, he added.",
+                        "He said that with the project, they aspire to be a benchmark not only in Europe, but also worldwide, in the field of hydrogen.  Spain and Portugal had initially wanted to pipe gas across land to France but Paris rejected that proposal."
+                    ]
+                },
+                {
+                    "reused": "The project is expected to cost 2.5 billion euros ($2.6 billion).",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.48529288172721863
+                    },
+                    "reused_by_aic": [
+                        "The project is expected to cost 2.5 billion euros ($2.6 billion)."
+                    ]
+                },
+                {
+                    "reused": "The announcement was made after a meeting Friday between Snchez, his French and Portuguese counterparts and European Commission President Ursula von der Leyen.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5006461143493652
+                    },
+                    "reused_by_aic": [
+                        "The announcement came after a meeting between Snchez, his French and Portuguese counterparts and European Commission President Ursula von der Leyen in the eastern Spanish city of Alicante."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 14,
+            "article_label": "CENTER",
+            "datetime": "9/12/2022 12:32:22",
+            "total_paragraphs": 19,
+            "total_reused_paragraphs": 4,
+            "reused_ratio": 0.27,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 3,
+                "RIGHT": 1
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 0.75,
+                "RIGHT": 0.25
+            },
+            "reused_details": [
+                {
+                    "reused": "Alicante (Spain) (AFP)  An ambitious underwater pipeline to bring green hydrogen from the Iberian Peninsula to the rest of Europe will be completed by 2030 and will cost some 2.5 billion euros, the leaders of France, Spain and Portugal said Friday.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.4159875214099884
+                    },
+                    "reused_by_aic": [
+                        "ALICANTE, Spain (AP)  Spain, France and Portugal agreed Friday to build by 2030 a major undersea pipeline to transport hydrogen from the Iberian Peninsula to France and eventually the rest of Europe.",
+                        "Spanish Prime Minister Pedro Snchez said the pipeline, dubbed H2Med, will be able to convey some 2 million metric tons of hydrogen to France annually  10% of the EUs estimated hydrogen needs."
+                    ]
+                },
+                {
+                    "reused": "The pipeline between Barcelona and Marseille -- also known as BarMar -- will carry two million tonnes of hydrogen per year, or 10 percent of European consumption, once it goes online, said Spanish Prime Minister Pedro Sanchez.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5114250779151917
+                    },
+                    "reused_by_aic": [
+                        "ALICANTE, Spain (AP)  Spain, France and Portugal agreed Friday to build by 2030 a major undersea pipeline to transport hydrogen from the Iberian Peninsula to France and eventually the rest of Europe.",
+                        "Spanish Prime Minister Pedro Snchez said the pipeline, dubbed H2Med, will be able to convey some 2 million metric tons of hydrogen to France annually  10% of the EUs estimated hydrogen needs."
+                    ]
+                },
+                {
+                    "reused": "The project will cost around 2.5 billion euros ($2.6 billion), he said at a joint press conference with French President Emmanuel Macron and Portuguese Prime Minister Antonio Costa.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5680056810379028
+                    },
+                    "reused_by_aic": [
+                        "The project is expected to cost 2.5 billion euros ($2.6 billion)."
+                    ]
+                },
+                {
+                    "reused": "Initially, the idea was for the pipeline to carry gas from the Iberian peninsula to central Europe, given Spain and Portugal's huge capacity for turning liquefied natural gas (LNG) that arrives in tankers back into gas form.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5186236500740051
+                    },
+                    "reused_by_aic": [
+                        "ALICANTE, Spain (AP)  Spain, France and Portugal agreed Friday to build by 2030 a major undersea pipeline to transport hydrogen from the Iberian Peninsula to France and eventually the rest of Europe.",
+                        "The project will first connect two plants in northern Portugal and northern Spain and then involve a pipeline under the Mediterranean Sea from the northeastern Spanish port of Barcelona to Frances Marseille."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 15,
+            "article_label": "CENTER",
+            "datetime": "9/12/2022 03:41:23",
+            "total_paragraphs": 23,
+            "total_reused_paragraphs": 6,
+            "reused_ratio": 0.4,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 5,
+                "RIGHT": 1
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 0.8333333333333334,
+                "RIGHT": 0.16666666666666666
+            },
+            "reused_details": [
+                {
+                    "reused": "REUTERS/Violeta Santos Moura ALICANTE, Spain, Dec 9 (Reuters) - An underwater pipeline to carry green hydrogen between Spain and France will cost about 2.5 billion euros ($2.6 billion), Spanish Prime Minister Pedro Sanchez said on Friday, adding he hoped the European Union would partly fund the project.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5688053965568542
+                    },
+                    "reused_by_aic": [
+                        "ALICANTE, Spain (AP)  Spain, France and Portugal agreed Friday to build by 2030 a major undersea pipeline to transport hydrogen from the Iberian Peninsula to France and eventually the rest of Europe.",
+                        "Spanish Prime Minister Pedro Snchez said the pipeline, dubbed H2Med, will be able to convey some 2 million metric tons of hydrogen to France annually  10% of the EUs estimated hydrogen needs."
+                    ]
+                },
+                {
+                    "reused": "The corridor will make Iberia \"a major energy hub\" and form part of a \"European hydrogen backbone\" allowing the bloc to pump hydrogen across the continent as it seeks to produce 10 million tonnes of clean hydrogen a year and import a further 10 million tonnes by 2030, European Commission President Ursula von der Leyen said.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5808950662612915
+                    },
+                    "reused_by_aic": [
+                        "Today, the Iberian Peninsula is becoming a major European energy gateway to the world, Von der Leyen said at a joint press briefing."
+                    ]
+                },
+                {
+                    "reused": "\"Hydrogen is a game changer for Europe,\" von der Leyen said.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6640887260437012
+                    },
+                    "reused_by_aic": [
+                        "Hydrogen is a game-changer for Europe, said Von der Leyen."
+                    ]
+                },
+                {
+                    "reused": "French President Emmanuel Macron said the pipeline could also be used to send hydrogen produced in France from nuclear energy - so-called red hydrogen - in the opposite direction.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5836309194564819
+                    },
+                    "reused_by_aic": [
+                        "Spanish Prime Minister Pedro Snchez said the pipeline, dubbed H2Med, will be able to convey some 2 million metric tons of hydrogen to France annually  10% of the EUs estimated hydrogen needs."
+                    ]
+                },
+                {
+                    "reused": "The submarine pipeline was proposed in October as a substitute for the so-called MidCat gas pipeline project across the Pyrenees, which had been championed by Spain and Portugal who said it could relieve immediate pressure on gas supplies.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.456302672624588
+                    },
+                    "reused_by_aic": [
+                        "ALICANTE, Spain (AP)  Spain, France and Portugal agreed Friday to build by 2030 a major undersea pipeline to transport hydrogen from the Iberian Peninsula to France and eventually the rest of Europe."
+                    ]
+                },
+                {
+                    "reused": "The new underwater pipeline was originally proposed to carry some natural gas as well, but will now only carry hydrogen in order to meet EU funding criteria, Costa said.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.557120144367218
+                    },
+                    "reused_by_aic": [
+                        "Spanish Prime Minister Pedro Snchez said the pipeline, dubbed H2Med, will be able to convey some 2 million metric tons of hydrogen to France annually  10% of the EUs estimated hydrogen needs."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 16,
+            "article_label": "CENTER",
+            "datetime": "9/12/2022 14:29:11",
+            "total_paragraphs": 19,
+            "total_reused_paragraphs": 4,
+            "reused_ratio": 0.27,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 3,
+                "RIGHT": 1
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 0.75,
+                "RIGHT": 0.25
+            },
+            "reused_details": [
+                {
+                    "reused": "An ambitious underwater pipeline to bring green hydrogen from the Iberian Peninsula to the rest of Europe will be completed by 2030 and will cost some 2.5 billion euros, the leaders of France, Spain and Portugal said Friday.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.38449543714523315
+                    },
+                    "reused_by_aic": [
+                        "ALICANTE, Spain (AP)  Spain, France and Portugal agreed Friday to build by 2030 a major undersea pipeline to transport hydrogen from the Iberian Peninsula to France and eventually the rest of Europe."
+                    ]
+                },
+                {
+                    "reused": "The pipeline between Barcelona and Marseille -- also known as BarMar -- will carry two million tonnes of hydrogen per year, or 10 percent of European consumption, once it goes online, said Spanish Prime Minister Pedro Sanchez.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5114250779151917
+                    },
+                    "reused_by_aic": [
+                        "ALICANTE, Spain (AP)  Spain, France and Portugal agreed Friday to build by 2030 a major undersea pipeline to transport hydrogen from the Iberian Peninsula to France and eventually the rest of Europe.",
+                        "Spanish Prime Minister Pedro Snchez said the pipeline, dubbed H2Med, will be able to convey some 2 million metric tons of hydrogen to France annually  10% of the EUs estimated hydrogen needs."
+                    ]
+                },
+                {
+                    "reused": "The project will cost around 2.5 billion euros ($2.6 billion), he said at a joint press conference with French President Emmanuel Macron and Portuguese Prime Minister Antonio Costa.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5680056810379028
+                    },
+                    "reused_by_aic": [
+                        "The project is expected to cost 2.5 billion euros ($2.6 billion)."
+                    ]
+                },
+                {
+                    "reused": "Initially, the idea was for the pipeline to carry gas from the Iberian peninsula to central Europe, given Spain and Portugal's huge capacity for turning liquefied natural gas (LNG) that arrives in tankers back into gas form.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5186236500740051
+                    },
+                    "reused_by_aic": [
+                        "ALICANTE, Spain (AP)  Spain, France and Portugal agreed Friday to build by 2030 a major undersea pipeline to transport hydrogen from the Iberian Peninsula to France and eventually the rest of Europe.",
+                        "The project will first connect two plants in northern Portugal and northern Spain and then involve a pipeline under the Mediterranean Sea from the northeastern Spanish port of Barcelona to Frances Marseille."
+                    ]
+                }
+            ]
+        }
+    ]
+}

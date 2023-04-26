@@ -1,0 +1,280 @@
+{
+    "article_id": 50,
+    "article_datetime": "9/12/2022 11:23:07",
+    "article_label": "RIGHT",
+    "article_total_paragraphs": 1,
+    "biased_by_these_sources": [
+        53,
+        57,
+        58,
+        59,
+        61,
+        62,
+        63
+    ],
+    "biased_labels": {
+        "LEFT": 0,
+        "CENTER": 7,
+        "RIGHT": 0
+    },
+    "is_biased": "No",
+    "earlier_articles": [
+        {
+            "article_id": 53,
+            "article_label": "CENTER",
+            "datetime": "9/12/2022 08:46:10",
+            "total_paragraphs": 16,
+            "total_reused_paragraphs": 2,
+            "reused_ratio": 2.0,
+            "is_biased_to": "",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 2,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 1.0,
+                "RIGHT": 0.0
+            },
+            "reused_details": [
+                {
+                    "reused": "Russia may cut its oil production in response to the G-7 cap on the price of its crude, President Vladimir Putin said.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5814248919487
+                    },
+                    "reused_by_aic": [
+                        "Russia may cut oil production over West's price cap: Putin Read more At:  https://www.aninews.in/news/world/europe/russia-may-cut-oil-production-over-wests-price-cap-putin20221209231627/?utm_source=ground.news&utm_medium=referral"
+                    ]
+                },
+                {
+                    "reused": "Russia may cut its oil production in response to the G-7 cap on the price of its crude, President Vladimir Putin said.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5814248919487
+                    },
+                    "reused_by_aic": [
+                        "Russia may cut oil production over West's price cap: Putin Read more At:  https://www.aninews.in/news/world/europe/russia-may-cut-oil-production-over-wests-price-cap-putin20221209231627/?utm_source=ground.news&utm_medium=referral"
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 57,
+            "article_label": "CENTER",
+            "datetime": "9/12/2022 05:43:22",
+            "total_paragraphs": 9,
+            "total_reused_paragraphs": 2,
+            "reused_ratio": 2.0,
+            "is_biased_to": "",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 1,
+                "RIGHT": 1
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 0.5,
+                "RIGHT": 0.5
+            },
+            "reused_details": [
+                {
+                    "reused": "On Friday, Russian President Vladimir Putin said his nation is eyeing a cut to crude oil production in response to the Group of Seven Nations (G7) price cap on Russian crude, Bloomberg reported Friday.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5035085082054138
+                    },
+                    "reused_by_aic": [
+                        "Russia may cut oil production over West's price cap: Putin Read more At:  https://www.aninews.in/news/world/europe/russia-may-cut-oil-production-over-wests-price-cap-putin20221209231627/?utm_source=ground.news&utm_medium=referral"
+                    ]
+                },
+                {
+                    "reused": "Putin told reporters on Russian state TV that Russia will consider cutting production due to the price cap and added that he would soon announce a presidential decree to further respond to G7s move, according to Bloomberg.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.3771994113922119
+                    },
+                    "reused_by_aic": [
+                        "Russia may cut oil production over West's price cap: Putin Read more At:  https://www.aninews.in/news/world/europe/russia-may-cut-oil-production-over-wests-price-cap-putin20221209231627/?utm_source=ground.news&utm_medium=referral"
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 58,
+            "article_label": "RIGHT",
+            "datetime": "9/12/2022 02:18:58",
+            "total_paragraphs": 18,
+            "total_reused_paragraphs": 3,
+            "reused_ratio": 3.0,
+            "is_biased_to": "",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 2,
+                "RIGHT": 1
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 0.6666666666666666,
+                "RIGHT": 0.3333333333333333
+            },
+            "reused_details": [
+                {
+                    "reused": "(Bloomberg) -- Russia may cut its oil production in response to the G-7 cap on the price of its crude, President Vladimir Putin said.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5461919903755188
+                    },
+                    "reused_by_aic": [
+                        "Russia may cut oil production over West's price cap: Putin Read more At:  https://www.aninews.in/news/world/europe/russia-may-cut-oil-production-over-wests-price-cap-putin20221209231627/?utm_source=ground.news&utm_medium=referral"
+                    ]
+                },
+                {
+                    "reused": "(Bloomberg)  Russia may cut its oil production in response to the G-7 cap on the price of its crude, President Vladimir Putin said.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5778101682662964
+                    },
+                    "reused_by_aic": [
+                        "Russia may cut oil production over West's price cap: Putin Read more At:  https://www.aninews.in/news/world/europe/russia-may-cut-oil-production-over-wests-price-cap-putin20221209231627/?utm_source=ground.news&utm_medium=referral"
+                    ]
+                },
+                {
+                    "reused": "Read: Oil Price Cap Is No Game-changer for Putins Wartime Budget The price cap wont have any negative consequences on Russias revenue as the $60 a barrel threshold introduced by western countries corresponds to the prices at which we sell today, Putin said.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.40629464387893677
+                    },
+                    "reused_by_aic": [
+                        "Russia may cut oil production over West's price cap: Putin Read more At:  https://www.aninews.in/news/world/europe/russia-may-cut-oil-production-over-wests-price-cap-putin20221209231627/?utm_source=ground.news&utm_medium=referral"
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 59,
+            "article_label": "RIGHT",
+            "datetime": "9/12/2022 03:38:51",
+            "total_paragraphs": 25,
+            "total_reused_paragraphs": 1,
+            "reused_ratio": 1.0,
+            "is_biased_to": "",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 1,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 1.0,
+                "RIGHT": 0.0
+            },
+            "reused_details": [
+                {
+                    "reused": "The efforts to cap oil prices will not harm Russia, President Vladimir Putin told reporters on Friday.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5184227228164673
+                    },
+                    "reused_by_aic": [
+                        "Russia may cut oil production over West's price cap: Putin Read more At:  https://www.aninews.in/news/world/europe/russia-may-cut-oil-production-over-wests-price-cap-putin20221209231627/?utm_source=ground.news&utm_medium=referral"
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 61,
+            "article_label": "RIGHT",
+            "datetime": "9/12/2022 07:25:02",
+            "total_paragraphs": 10,
+            "total_reused_paragraphs": 1,
+            "reused_ratio": 1.0,
+            "is_biased_to": "",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 1,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 1.0,
+                "RIGHT": 0.0
+            },
+            "reused_details": [
+                {
+                    "reused": "Russia , the world's biggest exporter of energy, may cut oil production and will refuse to sell oil to any country which imposes the West's price cap on Russian oil, President Vladimir Putin  said on Friday.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5974770784378052
+                    },
+                    "reused_by_aic": [
+                        "Russia may cut oil production over West's price cap: Putin Read more At:  https://www.aninews.in/news/world/europe/russia-may-cut-oil-production-over-wests-price-cap-putin20221209231627/?utm_source=ground.news&utm_medium=referral"
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 62,
+            "article_label": "LEFT",
+            "datetime": "9/12/2022 06:02:17",
+            "total_paragraphs": 16,
+            "total_reused_paragraphs": 1,
+            "reused_ratio": 1.0,
+            "is_biased_to": "",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 1,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 1.0,
+                "RIGHT": 0.0
+            },
+            "reused_details": [
+                {
+                    "reused": "Russia may cut its oil production in response to the G-7 cap on the price of its crude, President Vladimir Putin said.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5814248919487
+                    },
+                    "reused_by_aic": [
+                        "Russia may cut oil production over West's price cap: Putin Read more At:  https://www.aninews.in/news/world/europe/russia-may-cut-oil-production-over-wests-price-cap-putin20221209231627/?utm_source=ground.news&utm_medium=referral"
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 63,
+            "article_label": "CENTER",
+            "datetime": "9/12/2022 05:00:29",
+            "total_paragraphs": 19,
+            "total_reused_paragraphs": 1,
+            "reused_ratio": 1.0,
+            "is_biased_to": "",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 1,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 1.0,
+                "RIGHT": 0.0
+            },
+            "reused_details": [
+                {
+                    "reused": "MOSCOW, Dec 9 (Reuters) - Russia, the world's biggest exporter of energy, could cut oil production and will refuse to sell oil to any country that imposes the West's \"stupid\" price cap on Russian oil, President Vladimir Putin said on Friday.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.66180819272995
+                    },
+                    "reused_by_aic": [
+                        "Russia may cut oil production over West's price cap: Putin Read more At:  https://www.aninews.in/news/world/europe/russia-may-cut-oil-production-over-wests-price-cap-putin20221209231627/?utm_source=ground.news&utm_medium=referral"
+                    ]
+                }
+            ]
+        }
+    ]
+}

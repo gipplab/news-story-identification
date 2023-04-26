@@ -1,0 +1,56 @@
+{
+    "article_id": 59,
+    "article_datetime": "9/12/2022 03:38:51",
+    "article_label": "RIGHT",
+    "article_total_paragraphs": 25,
+    "biased_by_these_sources": [],
+    "biased_labels": {
+        "LEFT": 0,
+        "CENTER": 0,
+        "RIGHT": 0
+    },
+    "is_biased": "No",
+    "earlier_articles": [
+        {
+            "article_id": 58,
+            "article_label": "RIGHT",
+            "datetime": "9/12/2022 02:18:58",
+            "total_paragraphs": 18,
+            "total_reused_paragraphs": 2,
+            "reused_ratio": 0.08,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 1,
+                "RIGHT": 1
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 0.5,
+                "RIGHT": 0.5
+            },
+            "reused_details": [
+                {
+                    "reused": "(Bloomberg)  Russia may cut its oil production in response to the G-7 cap on the price of its crude, President Vladimir Putin said.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5778101682662964
+                    },
+                    "reused_by_aic": [
+                        "The efforts to cap oil prices will not harm Russia, President Vladimir Putin told reporters on Friday."
+                    ]
+                },
+                {
+                    "reused": "Read: Oil Price Cap Is No Game-changer for Putins Wartime Budget The price cap wont have any negative consequences on Russias revenue as the $60 a barrel threshold introduced by western countries corresponds to the prices at which we sell today, Putin said.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.40629464387893677
+                    },
+                    "reused_by_aic": [
+                        "The efforts to cap oil prices will not harm Russia, President Vladimir Putin told reporters on Friday."
+                    ]
+                }
+            ]
+        }
+    ]
+}

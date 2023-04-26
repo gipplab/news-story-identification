@@ -1,0 +1,301 @@
+{
+    "article_id": 74,
+    "article_datetime": "6/12/2022 05:19:31",
+    "article_label": "CENTER",
+    "article_total_paragraphs": 27,
+    "biased_by_these_sources": [
+        104
+    ],
+    "biased_labels": {
+        "LEFT": 0,
+        "CENTER": 1,
+        "RIGHT": 0
+    },
+    "is_biased": "No",
+    "earlier_articles": [
+        {
+            "article_id": 104,
+            "article_label": "CENTER",
+            "datetime": "18/2/2022 06:27:13",
+            "total_paragraphs": 28,
+            "total_reused_paragraphs": 26,
+            "reused_ratio": 0.96,
+            "is_biased_to": "",
+            "reused_paragraphs_label": {
+                "LEFT": 7,
+                "CENTER": 11,
+                "RIGHT": 8
+            },
+            "reused_percentage": {
+                "LEFT": 0.2692307692307692,
+                "CENTER": 0.4230769230769231,
+                "RIGHT": 0.3076923076923077
+            },
+            "reused_details": [
+                {
+                    "reused": "DOHA, Qatar (AP) ' Luis Enrique was replaced by Luis de la Fuente as Spain's coach on Thursday, two days after the national team was eliminated in the round of 16 at the World Cup .",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.646562933921814
+                    },
+                    "reused_by_aic": [
+                        "DOHA, QATAR - Luis Enrique was replaced by Luis de la Fuente as Spain's coach on Thursday, two days after the national team was eliminated in the round of 16 at the World Cup."
+                    ]
+                },
+                {
+                    "reused": "(AP Photo/Luca Bruno) DOHA, Qatar (AP) ' Luis Enrique was replaced by Luis de la Fuente as Spain's coach on Thursday, two days after the national team was eliminated in the round of 16 at the World Cup.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6984080076217651
+                    },
+                    "reused_by_aic": [
+                        "DOHA, QATAR - Luis Enrique was replaced by Luis de la Fuente as Spain's coach on Thursday, two days after the national team was eliminated in the round of 16 at the World Cup."
+                    ]
+                },
+                {
+                    "reused": "Spain lost to Morocco 3-0 in a penalty shootout after a scoreless draw in regular and extra time.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.3577764928340912
+                    },
+                    "reused_by_aic": [
+                        "Spain lost to Morocco 3-0 in a penalty shootout after a scoreless draw in regular and extra time."
+                    ]
+                },
+                {
+                    "reused": "The Spanish soccer federation thanked Luis Enrique, but said it was time to 'start a new project' to keep the growth achieved by the coach in recent years.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.49917417764663696
+                    },
+                    "reused_by_aic": [
+                        "The Spanish soccer federation thanked Luis Enrique, but said it was time to \"start a new project\" to keep the growth achieved by the coach in recent years."
+                    ]
+                },
+                {
+                    "reused": "It said the change was made after a recommendation by its sporting officials.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.3968766927719116
+                    },
+                    "reused_by_aic": [
+                        "It said the change was made after a recommendation by its sporting officials."
+                    ]
+                },
+                {
+                    "reused": "Luis Enrique said he was thankful to his players while he was in charge, as well as to federation president Luis Rubiales.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.39409905672073364
+                    },
+                    "reused_by_aic": [
+                        "Luis Enrique said he was thankful to his players while he was in charge, as well as to federation president Luis Rubiales."
+                    ]
+                },
+                {
+                    "reused": "'I'm sorry I wasn't able to help more,' the outgoing coach said in a statement posted on Twitter and Instagram.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.4372614920139313
+                    },
+                    "reused_by_aic": [
+                        "\"I'm sorry I wasn't able to help more,\" the outgoing coach said in a statement posted on Twitter and Instagram."
+                    ]
+                },
+                {
+                    "reused": "'It was very special to be part of this.' He also thanked fans and called for their support to the new coach.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.42791464924812317
+                    },
+                    "reused_by_aic": [
+                        "He also thanked fans and called for their support to the new coach."
+                    ]
+                },
+                {
+                    "reused": "'What the national team needs is support, in all its meaning, so Luis de la Fuente can achieve the goals.' The 61-year-old De la Fuente, a former left back with Sevilla and Athletic Bilbao, helped Spain's under-19 squad win the European Championship in 2015, and the under-21 team win Euro 2019.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5046091079711914
+                    },
+                    "reused_by_aic": [
+                        "\"What the national team needs is support, in all its meaning, so Luis de la Fuente can achieve the goals.\"",
+                        "The 61-year-old De la Fuente, a former left back with Sevilla and Athletic Bilbao, helped Spain's under-19 squad win the European Championship in 2015, and the under-21 team win Euro 2019."
+                    ]
+                },
+                {
+                    "reused": "He also coached Spain's squad, which won a silver medal at the Tokyo Olympic Games.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5614112019538879
+                    },
+                    "reused_by_aic": [
+                        "He also coached Spain's squad, which won a silver medal at the Tokyo Olympic Games."
+                    ]
+                },
+                {
+                    "reused": "De la Fuente had coached the senior national team once, when youth players were used in a friendly against Lithuania because the main squad had to go into isolation because of the coronavirus.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.4104403257369995
+                    },
+                    "reused_by_aic": [
+                        "De la Fuente had coached the senior national team once, when youth players were used in a friendly against Lithuania because the main squad had to go into isolation because of the coronavirus."
+                    ]
+                },
+                {
+                    "reused": "Other candidates who had been considered besides De la Fuente, who was Spain's under-21 coach, included former Belgium manager Roberto Mart'nez and former Athletic Bilbao coach Marcelino Garc'a Toral.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.4429316818714142
+                    },
+                    "reused_by_aic": [
+                        "Other candidates who had been considered besides De la Fuente, who was Spain's under-21 coach, included former Belgium manager Roberto Martinez and former Athletic Bilbao coach Marcelino Garcia Toral."
+                    ]
+                },
+                {
+                    "reused": "Spain got off to a good start in Qatar, routing Costa Rica 7-0, but La Roja couldn't win again in its last three matches.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.44042903184890747
+                    },
+                    "reused_by_aic": [
+                        "Spain got off to a good start in Qatar, routing Costa Rica 7-0, but La Roja couldn't win again in its last three matches."
+                    ]
+                },
+                {
+                    "reused": "It drew 1-1 with Germany and lost 2-1 to Japan before being held by Morocco.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.3703662157058716
+                    },
+                    "reused_by_aic": [
+                        "It drew 1-1 with Germany and lost 2-1 to Japan before being held by Morocco."
+                    ]
+                },
+                {
+                    "reused": "Luis Enrique took over the national team in 2018 to start revamping the squad after its elimination in the round of 16 of the World Cup in Russia.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.48675572872161865
+                    },
+                    "reused_by_aic": [
+                        "Luis Enrique took over the national team in 2018 to start revamping the squad after its elimination in the round of 16 of the World Cup in Russia."
+                    ]
+                },
+                {
+                    "reused": "He temporarily left because of the illness and eventual death of his young daughter, but returned in 2019.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.4562259316444397
+                    },
+                    "reused_by_aic": [
+                        "He temporarily left because of the illness and eventual death of his young daughter, but returned in 2019."
+                    ]
+                },
+                {
+                    "reused": "He helped Spain reach the last four of the Nations League twice, including this season and last year, when it lost the final to France.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.4779176712036133
+                    },
+                    "reused_by_aic": [
+                        "He helped Spain reach the last four of the Nations League twice, including this season and last year, when it lost the final to France.",
+                        "He also led Spain to the semifinals of the European Championship last year, losing to Italy in a penalty shootout."
+                    ]
+                },
+                {
+                    "reused": "He also led Spain to the semifinals of the European Championship last year, losing to Italy in a penalty shootout.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.4759400486946106
+                    },
+                    "reused_by_aic": [
+                        "He helped Spain reach the last four of the Nations League twice, including this season and last year, when it lost the final to France.",
+                        "He also led Spain to the semifinals of the European Championship last year, losing to Italy in a penalty shootout."
+                    ]
+                },
+                {
+                    "reused": "Luis Enrique's contract ended after the World Cup.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6412932872772217
+                    },
+                    "reused_by_aic": [
+                        "Luis Enrique's contract ended after the World Cup."
+                    ]
+                },
+                {
+                    "reused": "The former Barcelona player and coach had said moments after the loss to Morocco that he would take some time to rest before starting talks with the federation about his future.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.4168795049190521
+                    },
+                    "reused_by_aic": [
+                        "The former Barcelona player and coach had said moments after the loss to Morocco that he would take some time to rest before starting talks with the federation about his future."
+                    ]
+                },
+                {
+                    "reused": "He said he would have liked to stay with the national team 'forever,' but knew that it might not be possible.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.4222961366176605
+                    },
+                    "reused_by_aic": [
+                        "He said he would have liked to stay with the national team \"forever,\" but knew that it might not be possible."
+                    ]
+                },
+                {
+                    "reused": "The 52-year-old Luis Enrique, not long ago seen as one of the most uptight coaches in soccer, had opened up at the World Cup, doing streaming sessions, going on bicycle rides and talking frankly about controversial issues.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.42087793350219727
+                    },
+                    "reused_by_aic": [
+                        "The 52-year-old Luis Enrique, not long ago seen as one of the most uptight coaches in soccer, had opened up at the World Cup, doing streaming sessions, going on bicycle rides and talking frankly about controversial issues."
+                    ]
+                },
+                {
+                    "reused": "The team's elimination in Qatar raised more questions about whether Spain should start overhauling its soccer philosophy and get rid of the 'tiki-taka' ball-possession style that has not produced results recently.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.604559063911438
+                    },
+                    "reused_by_aic": [
+                        "The team's elimination in Qatar raised more questions about whether Spain should start overhauling its soccer philosophy and get rid of the \"tiki-taka\" ball-possession style that has not produced results recently."
+                    ]
+                },
+                {
+                    "reused": "Luis Enrique had said he wasn't planning to relinquish the 'tiki-taka' if he remained as coach, and De la Fuente also is likely to keep it alive.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.4242786467075348
+                    },
+                    "reused_by_aic": [
+                        "Luis Enrique had said he wasn't planning to relinquish the \"tiki-taka\" if he remained as coach, and De la Fuente also is likely to keep it alive."
+                    ]
+                },
+                {
+                    "reused": "De la Fuente is expected to make his debut with the senior team when Spain resumes playing in qualifying for Euro 2024 in March next year.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.42894402146339417
+                    },
+                    "reused_by_aic": [
+                        "De la Fuente is expected to make his debut with the senior team when Spain resumes playing in qualifying for Euro 2024 in March next year."
+                    ]
+                },
+                {
+                    "reused": "The federation was also changing its sporting director.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.36762741208076477
+                    },
+                    "reused_by_aic": [
+                        "The federation was also changing its sporting director."
+                    ]
+                }
+            ]
+        }
+    ]
+}

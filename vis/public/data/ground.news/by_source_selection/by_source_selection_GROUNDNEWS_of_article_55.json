@@ -1,0 +1,495 @@
+{
+    "article_id": 55,
+    "article_datetime": "9/12/2022 18:22:08",
+    "article_label": "LEFT",
+    "article_total_paragraphs": 7,
+    "biased_by_these_sources": [],
+    "biased_labels": {
+        "LEFT": 0,
+        "CENTER": 0,
+        "RIGHT": 0
+    },
+    "is_biased": "No",
+    "earlier_articles": [
+        {
+            "article_id": 50,
+            "article_label": "RIGHT",
+            "datetime": "9/12/2022 11:23:07",
+            "total_paragraphs": 1,
+            "total_reused_paragraphs": 1,
+            "reused_ratio": 0.14,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 1,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 1.0,
+                "RIGHT": 0.0
+            },
+            "reused_details": [
+                {
+                    "reused": "Russia may cut oil production over West's price cap: Putin Read more At:  https://www.aninews.in/news/world/europe/russia-may-cut-oil-production-over-wests-price-cap-putin20221209231627/?utm_source=ground.news&utm_medium=referral",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5671676993370056
+                    },
+                    "reused_by_aic": [
+                        "President Vladimir Putin warned Friday that Russia could reduce oil production in response to a $60 price cap on its oil exports agreed by Western nations over Moscow's Ukraine offensive."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 53,
+            "article_label": "CENTER",
+            "datetime": "9/12/2022 08:46:10",
+            "total_paragraphs": 16,
+            "total_reused_paragraphs": 4,
+            "reused_ratio": 0.57,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 1,
+                "CENTER": 3,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.25,
+                "CENTER": 0.75,
+                "RIGHT": 0.0
+            },
+            "reused_details": [
+                {
+                    "reused": "Russia may cut its oil production in response to the G-7 cap on the price of its crude, President Vladimir Putin said.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5814248919487
+                    },
+                    "reused_by_aic": [
+                        "President Vladimir Putin warned Friday that Russia could reduce oil production in response to a $60 price cap on its oil exports agreed by Western nations over Moscow's Ukraine offensive."
+                    ]
+                },
+                {
+                    "reused": "Russia may cut its oil production in response to the G-7 cap on the price of its crude, President Vladimir Putin said.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5814248919487
+                    },
+                    "reused_by_aic": [
+                        "President Vladimir Putin warned Friday that Russia could reduce oil production in response to a $60 price cap on its oil exports agreed by Western nations over Moscow's Ukraine offensive."
+                    ]
+                },
+                {
+                    "reused": "The price cap wont have any negative consequences on Russias revenue as the $60 a barrel threshold introduced by western countries corresponds to the prices at which we sell today, Putin said.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.4007629156112671
+                    },
+                    "reused_by_aic": [
+                        "He said the price cap was a \"stupid decision\" that is \"harmful to global energy markets\" but \"isn't affecting\" Russia."
+                    ]
+                },
+                {
+                    "reused": "However, the price of Russias ESPO crude blend in Asia is holding well above the western cap, trading at $67.11 a barrel on Thursday, Argus data show.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.45836132764816284
+                    },
+                    "reused_by_aic": [
+                        "The market price of a barrel of Russian Urals crude is currently around $65 dollars, just slightly higher than the $60 cap agreed, suggesting the measure may have only a limited impact in the short term."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 57,
+            "article_label": "CENTER",
+            "datetime": "9/12/2022 05:43:22",
+            "total_paragraphs": 9,
+            "total_reused_paragraphs": 3,
+            "reused_ratio": 0.43,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 1,
+                "CENTER": 1,
+                "RIGHT": 1
+            },
+            "reused_percentage": {
+                "LEFT": 0.3333333333333333,
+                "CENTER": 0.3333333333333333,
+                "RIGHT": 0.3333333333333333
+            },
+            "reused_details": [
+                {
+                    "reused": "On Friday, Russian President Vladimir Putin said his nation is eyeing a cut to crude oil production in response to the Group of Seven Nations (G7) price cap on Russian crude, Bloomberg reported Friday.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5035085082054138
+                    },
+                    "reused_by_aic": [
+                        "President Vladimir Putin warned Friday that Russia could reduce oil production in response to a $60 price cap on its oil exports agreed by Western nations over Moscow's Ukraine offensive."
+                    ]
+                },
+                {
+                    "reused": "Putin told reporters on Russian state TV that Russia will consider cutting production due to the price cap and added that he would soon announce a presidential decree to further respond to G7s move, according to Bloomberg.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.3771994113922119
+                    },
+                    "reused_by_aic": [
+                        "President Vladimir Putin warned Friday that Russia could reduce oil production in response to a $60 price cap on its oil exports agreed by Western nations over Moscow's Ukraine offensive."
+                    ]
+                },
+                {
+                    "reused": "The average price of Urals crude, the Russian oil benchmark, is currently $53.23 per barrel, according to OilPrice.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.40509727597236633
+                    },
+                    "reused_by_aic": [
+                        "The market price of a barrel of Russian Urals crude is currently around $65 dollars, just slightly higher than the $60 cap agreed, suggesting the measure may have only a limited impact in the short term."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 57,
+            "article_label": "CENTER",
+            "datetime": "9/12/2022 17:41:55",
+            "total_paragraphs": 10,
+            "total_reused_paragraphs": 2,
+            "reused_ratio": 0.29,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 2,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 1.0,
+                "RIGHT": 0.0
+            },
+            "reused_details": [
+                {
+                    "reused": "MOSCOW: Russia, the world's biggest exporter of energy, may cut oil production and will refuse to sell oil to any country which imposes the West's price cap on Russian oil, President Vladimir Putin said on Friday (Dec 9).",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5604147911071777
+                    },
+                    "reused_by_aic": [
+                        "President Vladimir Putin warned Friday that Russia could reduce oil production in response to a $60 price cap on its oil exports agreed by Western nations over Moscow's Ukraine offensive."
+                    ]
+                },
+                {
+                    "reused": "He said Moscow was preparing a response, which would be announced in the coming days.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.42090973258018494
+                    },
+                    "reused_by_aic": [
+                        "He added that Moscow will announce retaliatory steps \"in the next few days\"."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 58,
+            "article_label": "RIGHT",
+            "datetime": "9/12/2022 02:18:58",
+            "total_paragraphs": 18,
+            "total_reused_paragraphs": 3,
+            "reused_ratio": 0.43,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 1,
+                "CENTER": 2,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.3333333333333333,
+                "CENTER": 0.6666666666666666,
+                "RIGHT": 0.0
+            },
+            "reused_details": [
+                {
+                    "reused": "(Bloomberg) -- Russia may cut its oil production in response to the G-7 cap on the price of its crude, President Vladimir Putin said.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5461919903755188
+                    },
+                    "reused_by_aic": [
+                        "President Vladimir Putin warned Friday that Russia could reduce oil production in response to a $60 price cap on its oil exports agreed by Western nations over Moscow's Ukraine offensive."
+                    ]
+                },
+                {
+                    "reused": "(Bloomberg)  Russia may cut its oil production in response to the G-7 cap on the price of its crude, President Vladimir Putin said.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5778101682662964
+                    },
+                    "reused_by_aic": [
+                        "President Vladimir Putin warned Friday that Russia could reduce oil production in response to a $60 price cap on its oil exports agreed by Western nations over Moscow's Ukraine offensive."
+                    ]
+                },
+                {
+                    "reused": "However, the price of Russias ESPO crude blend in Asia is holding well above the western cap, trading at $67.11 a barrel on Thursday, Argus data show.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.45836132764816284
+                    },
+                    "reused_by_aic": [
+                        "The market price of a barrel of Russian Urals crude is currently around $65 dollars, just slightly higher than the $60 cap agreed, suggesting the measure may have only a limited impact in the short term."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 59,
+            "article_label": "RIGHT",
+            "datetime": "9/12/2022 03:38:51",
+            "total_paragraphs": 25,
+            "total_reused_paragraphs": 2,
+            "reused_ratio": 0.29,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 2,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 1.0,
+                "RIGHT": 0.0
+            },
+            "reused_details": [
+                {
+                    "reused": "The efforts to cap oil prices will not harm Russia, President Vladimir Putin told reporters on Friday.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5184227228164673
+                    },
+                    "reused_by_aic": [
+                        "President Vladimir Putin warned Friday that Russia could reduce oil production in response to a $60 price cap on its oil exports agreed by Western nations over Moscow's Ukraine offensive."
+                    ]
+                },
+                {
+                    "reused": "He called the introduction of a price cap a harmful decision for world energy markets.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.4255260229110718
+                    },
+                    "reused_by_aic": [
+                        "He said the price cap was a \"stupid decision\" that is \"harmful to global energy markets\" but \"isn't affecting\" Russia."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 61,
+            "article_label": "RIGHT",
+            "datetime": "9/12/2022 07:25:02",
+            "total_paragraphs": 10,
+            "total_reused_paragraphs": 2,
+            "reused_ratio": 0.29,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 2,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 1.0,
+                "RIGHT": 0.0
+            },
+            "reused_details": [
+                {
+                    "reused": "Russia , the world's biggest exporter of energy, may cut oil production and will refuse to sell oil to any country which imposes the West's price cap on Russian oil, President Vladimir Putin  said on Friday.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5974770784378052
+                    },
+                    "reused_by_aic": [
+                        "President Vladimir Putin warned Friday that Russia could reduce oil production in response to a $60 price cap on its oil exports agreed by Western nations over Moscow's Ukraine offensive."
+                    ]
+                },
+                {
+                    "reused": "He said Moscow was preparing a response, which would be announced in the coming days.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.42090973258018494
+                    },
+                    "reused_by_aic": [
+                        "He added that Moscow will announce retaliatory steps \"in the next few days\"."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 62,
+            "article_label": "LEFT",
+            "datetime": "9/12/2022 06:02:17",
+            "total_paragraphs": 16,
+            "total_reused_paragraphs": 4,
+            "reused_ratio": 0.57,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 1,
+                "CENTER": 3,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.25,
+                "CENTER": 0.75,
+                "RIGHT": 0.0
+            },
+            "reused_details": [
+                {
+                    "reused": "\"We will consider a possible reduction in production if necessary,\" Putin told reporters at a press conference in Kyrgyzstan's capital Bishkek following a regional summit.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6899808645248413
+                    },
+                    "reused_by_aic": [
+                        "\"We will consider a possible reduction in production if necessary,\" Putin told reporters in Kyrgyzstan's capital Bishkek following a regional summit."
+                    ]
+                },
+                {
+                    "reused": "Russia may cut its oil production in response to the G-7 cap on the price of its crude, President Vladimir Putin said.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5814248919487
+                    },
+                    "reused_by_aic": [
+                        "President Vladimir Putin warned Friday that Russia could reduce oil production in response to a $60 price cap on its oil exports agreed by Western nations over Moscow's Ukraine offensive."
+                    ]
+                },
+                {
+                    "reused": "The price cap wont have any negative consequences on Russias revenue as the $60 a barrel threshold introduced by western countries corresponds to the prices at which we sell today, Putin said.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.4007629156112671
+                    },
+                    "reused_by_aic": [
+                        "He said the price cap was a \"stupid decision\" that is \"harmful to global energy markets\" but \"isn't affecting\" Russia."
+                    ]
+                },
+                {
+                    "reused": "However, the price of Russias ESPO crude blend in Asia is holding well above the western cap, trading at $67.11 a barrel on Thursday, Argus data show.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.45836132764816284
+                    },
+                    "reused_by_aic": [
+                        "The market price of a barrel of Russian Urals crude is currently around $65 dollars, just slightly higher than the $60 cap agreed, suggesting the measure may have only a limited impact in the short term."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 63,
+            "article_label": "CENTER",
+            "datetime": "9/12/2022 05:00:29",
+            "total_paragraphs": 19,
+            "total_reused_paragraphs": 3,
+            "reused_ratio": 0.43,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 1,
+                "CENTER": 2,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.3333333333333333,
+                "CENTER": 0.6666666666666666,
+                "RIGHT": 0.0
+            },
+            "reused_details": [
+                {
+                    "reused": "MOSCOW, Dec 9 (Reuters) - Russia, the world's biggest exporter of energy, could cut oil production and will refuse to sell oil to any country that imposes the West's \"stupid\" price cap on Russian oil, President Vladimir Putin said on Friday.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.66180819272995
+                    },
+                    "reused_by_aic": [
+                        "President Vladimir Putin warned Friday that Russia could reduce oil production in response to a $60 price cap on its oil exports agreed by Western nations over Moscow's Ukraine offensive."
+                    ]
+                },
+                {
+                    "reused": "\"We will think, maybe, even about a possible, if necessary ... reduction in production.\"",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5995630621910095
+                    },
+                    "reused_by_aic": [
+                        "\"We will consider a possible reduction in production if necessary,\" Putin told reporters in Kyrgyzstan's capital Bishkek following a regional summit."
+                    ]
+                },
+                {
+                    "reused": "The price for Urals blend crude on Friday was around $53 per barrel, according to Reuters data.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.3667682707309723
+                    },
+                    "reused_by_aic": [
+                        "The market price of a barrel of Russian Urals crude is currently around $65 dollars, just slightly higher than the $60 cap agreed, suggesting the measure may have only a limited impact in the short term."
+                    ]
+                }
+            ]
+        },
+        {
+            "article_id": 64,
+            "article_label": "CENTER",
+            "datetime": "9/12/2022 14:07:59",
+            "total_paragraphs": 17,
+            "total_reused_paragraphs": 3,
+            "reused_ratio": 0.43,
+            "is_biased_to": "No",
+            "reused_paragraphs_label": {
+                "LEFT": 1,
+                "CENTER": 2,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.3333333333333333,
+                "CENTER": 0.6666666666666666,
+                "RIGHT": 0.0
+            },
+            "reused_details": [
+                {
+                    "reused": "Russia, the world's biggest exporter of energy, could cut oil production and will refuse to sell oil to any country that imposes the West's \"stupid\" price cap on Russian oil, President Vladimir Putin said on Friday.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.678048849105835
+                    },
+                    "reused_by_aic": [
+                        "President Vladimir Putin warned Friday that Russia could reduce oil production in response to a $60 price cap on its oil exports agreed by Western nations over Moscow's Ukraine offensive."
+                    ]
+                },
+                {
+                    "reused": "\"We will think, maybe, even about a possible, if necessary ... reduction in production.\"",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5995630621910095
+                    },
+                    "reused_by_aic": [
+                        "\"We will consider a possible reduction in production if necessary,\" Putin told reporters in Kyrgyzstan's capital Bishkek following a regional summit."
+                    ]
+                },
+                {
+                    "reused": "The price for Urals blend crude on Friday was around $53 per barrel, according to Reuters data.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.3667682707309723
+                    },
+                    "reused_by_aic": [
+                        "The market price of a barrel of Russian Urals crude is currently around $65 dollars, just slightly higher than the $60 cap agreed, suggesting the measure may have only a limited impact in the short term."
+                    ]
+                }
+            ]
+        }
+    ]
+}

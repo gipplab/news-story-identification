@@ -1,0 +1,96 @@
+{
+    "article_id": 113,
+    "article_datetime": "26/03/2023 21:00:00",
+    "article_label": "RIGHT",
+    "article_total_paragraphs": 6,
+    "biased_by_these_sources": [
+        112.0,
+        114.0,
+        115.0,
+        116.0
+    ],
+    "biased_labels": {
+        "LEFT": 0,
+        "CENTER": 4,
+        "RIGHT": 0
+    },
+    "is_biased": "No",
+    "earlier_articles": [
+        {
+            "article_id": 112.0,
+            "article_label": "RIGHT",
+            "datetime": "26/03/2023 19:15:00",
+            "total_paragraphs": 16,
+            "total_reused_paragraphs": 7,
+            "reused_ratio": 1.17,
+            "is_biased_to": "Yes, to the CENTER. Percentage: 85.71%",
+            "reused_paragraphs_label": {
+                "LEFT": 1,
+                "CENTER": 6,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.14285714285714285,
+                "CENTER": 0.8571428571428571,
+                "RIGHT": 0.0
+            }
+        },
+        {
+            "article_id": 114.0,
+            "article_label": "RIGHT",
+            "datetime": "26/03/2023 19:12:00",
+            "total_paragraphs": 35,
+            "total_reused_paragraphs": 5,
+            "reused_ratio": 0.83,
+            "is_biased_to": "Yes, to the CENTER. Percentage: 100.00%",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 5,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 1.0,
+                "RIGHT": 0.0
+            }
+        },
+        {
+            "article_id": 115.0,
+            "article_label": "RIGHT",
+            "datetime": "26/03/2023 20:30:00",
+            "total_paragraphs": 7,
+            "total_reused_paragraphs": 5,
+            "reused_ratio": 0.83,
+            "is_biased_to": "Yes, to the CENTER. Percentage: 100.00%",
+            "reused_paragraphs_label": {
+                "LEFT": 0,
+                "CENTER": 5,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.0,
+                "CENTER": 1.0,
+                "RIGHT": 0.0
+            }
+        },
+        {
+            "article_id": 116.0,
+            "article_label": "RIGHT",
+            "datetime": "26/03/2023 17:11:00",
+            "total_paragraphs": 7,
+            "total_reused_paragraphs": 5,
+            "reused_ratio": 0.83,
+            "is_biased_to": "Yes, to the CENTER. Percentage: 80.00%",
+            "reused_paragraphs_label": {
+                "LEFT": 1,
+                "CENTER": 4,
+                "RIGHT": 0
+            },
+            "reused_percentage": {
+                "LEFT": 0.2,
+                "CENTER": 0.8,
+                "RIGHT": 0.0
+            }
+        }
+    ]
+}

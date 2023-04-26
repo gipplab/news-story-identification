@@ -1,0 +1,14 @@
+{
+    "article_id": 116,
+    "article_datetime": "26/03/2023 17:11:00",
+    "article_label": "RIGHT",
+    "article_total_paragraphs": 0,
+    "biased_by_these_sources": [],
+    "biased_labels": {
+        "LEFT": 0,
+        "CENTER": 0,
+        "RIGHT": 0
+    },
+    "is_biased": "This is the earliest article",
+    "earlier_articles": []
+}
