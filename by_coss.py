@@ -19,7 +19,7 @@ from modules.preprocessing import io
 #   paraphrase threshold: e.g 0.75, means if simscore of a sentence-pair is > 0.75 then this pair is plagiarized
 #   reused_threshold: e.g 0.8, means if more than 80% paragraphs/sentences from aic are plagizarized, then aic is plagiarized
 #   comission_bias_threshold: e.g 0.8, means if more than 80% of plagiarized paragraphs are slanted, than aic is bias by commission (to the slanted labal (L/R))
-def analyze_commission(df, features_collection, polarity_classifier, paraphrase_threshold=0.75, commission_bias_threshold=0.8, omission_bias_threshold=0.5, reused_threshold=0.5, folder=None, topic_name='Unknown'):
+def analyze_coss(df, features_collection, polarity_classifier, folder, paraphrase_threshold=0.75, commission_bias_threshold=0.8, omission_bias_threshold=0.5, reused_threshold=0.5, topic_name='Unknown'):
     node_list = []
     edges = []
     topic_info = {
@@ -47,6 +47,12 @@ def analyze_commission(df, features_collection, polarity_classifier, paraphrase_
             'is_earliest': False,
             'by_source_selection': {
                 'verdict': 'No',
+                'committed_articles': [],
+                'biased_source_label': {
+                    'LEFT': 0,
+                    'CENTER': 0,
+                    'RIGHT': 0
+                },
             },
             'by_commission': {
                 'verdict': 'No',
@@ -75,12 +81,12 @@ def analyze_commission(df, features_collection, polarity_classifier, paraphrase_
                     'RIGHT': 0
                 }
             },            
-            'biased_by_these_sources': [],
-            'biased_source_label': {
-                'LEFT': 0,
-                'CENTER': 0,
-                'RIGHT': 0
-            },
+            # 'biased_by_these_sources': [],
+            # 'biased_source_label': {
+            #     'LEFT': 0,
+            #     'CENTER': 0,
+            #     'RIGHT': 0
+            # },
             'is_biased_by_source_selection': "No",
             'earlier_articles': [],
         }
@@ -256,9 +262,7 @@ def analyze_commission(df, features_collection, polarity_classifier, paraphrase_
                 is_by_commission = f'Yes, to the {by_commission_max_reused_label} {"{:0.2%}".format(by_commission_max_reused_percent)}'
             results['by_commission']['verdict'] = is_by_commission
 
-            # By omission
-            ############################### NEW CODE
-
+            # By omission           
             if analyzed['ea_non_reused_ratio'] > omission_bias_threshold:
                 highestOmittedLabel = None
                 highestOmittedPercent = 0
@@ -268,27 +272,7 @@ def analyze_commission(df, features_collection, polarity_classifier, paraphrase_
                         highestOmittedLabel = label
                 if highestOmittedLabel == "CENTER":
                     results['by_omission']['omitted_articles'].append(analyzed['ea_id'])
-                    results['by_omission']['aic_non_reused_label'][analyzed['ea_label']] += 1
-
-            
-
-            ############################### OLD CODE
-
-            # results['aic_non_reused_paragraphs'] = aic_marked_nonreused.count(True)
-            # results['aic_non_reused_percent'] = results['aic_non_reused_paragraphs'] / results['aic_total_paragraphs']
-            # by_omission_max_non_reused_percent = 0
-            # by_omission_max_reused_label = None
-            # if results['aic_non_reused_paragraphs'] > 0:
-            #     for label in consts.Labels:
-            #         results['by_omission']['aic_non_reused_label_percent'][label] = results['by_omission']['aic_non_reused_label'][label] / results['aic_non_reused_paragraphs']
-            #         if results['by_omission']['aic_non_reused_label_percent'][label] > by_omission_max_non_reused_percent:
-            #             by_omission_max_non_reused_percent = results['by_omission']['aic_non_reused_label_percent'][label]
-            #             by_omission_max_reused_label = label
-            # is_by_omission = ''
-            # if results['aic_non_reused_percent'] > omission_bias_threshold and by_omission_max_reused_label == 'CENTER':
-            #     is_by_omission = f'Yes, CENTER proportion: {"{:0.2%}".format(by_omission_max_non_reused_percent)}'
-            # else:
-            #     is_by_omission = 'No'
+                    results['by_omission']['aic_non_reused_label'][analyzed['ea_label']] += 1            
             
             # By source selection
             if analyzed['ea_total_reused_paragraphs'] > 0:
@@ -306,11 +290,14 @@ def analyze_commission(df, features_collection, polarity_classifier, paraphrase_
                 if highest_label != 'CENTER':
                     is_by_source_selection = f'Yes, to the {highest_label}. Percentage: {"{:0.2%}".format(highest_percent)}'
                 analyzed['ea_by_source_selection'] = is_by_source_selection
-
-                results['biased_by_these_sources'].append(ea['id'])
-                results['biased_source_label'][highest_label] += 1
+                results['by_source_selection']['committed_articles'].append(ea['id'])
+                results['by_source_selection']['biased_source_label'][highest_label] += 1
             
             results['earlier_articles'].append(analyzed)
+
+        if is_earliest:
+            results['is_biased'] = 'This is the earliest article'
+            results['is_earliest'] = True
 
         # By omission conclusion
         is_by_omission = "No"
@@ -320,23 +307,21 @@ def analyze_commission(df, features_collection, polarity_classifier, paraphrase_
                 results['by_omission']['aic_non_reused_label_percent'][label] = round(results['by_omission']['aic_non_reused_label'][label] / len(results['by_omission']['omitted_articles']), 2)
         results['by_omission']['verdict'] = is_by_omission
         
-        if is_earliest:
-            results['is_biased'] = 'This is the earliest article'
-            results['is_earliest'] = True
-        if len(results['biased_by_these_sources']) > 0:
+        # By source selection conclusion
+        if len(results['by_source_selection']['committed_articles']) > 0:
             max_l = 0
             max_label = None
             for label in consts.Labels:
-                if results['biased_source_label'][label] > max_l:
-                    max_l = results['biased_source_label'][label] 
+                if results['by_source_selection']['biased_source_label'][label] > max_l:
+                    max_l = results['by_source_selection']['biased_source_label'][label] 
                     max_label = label
             if max_label != 'CENTER':
-                results['is_biased_by_source_selection'] = f"Yes, to the {max_label}"
+                results['by_source_selection']['verdict'] = f"Yes, to the {max_label}"
 
             #
             # Prepare edges for Directed graph
             #
-            for ea_id in results['biased_by_these_sources']:
+            for ea_id in results['by_source_selection']['committed_articles']:
                 edges.append((str(ea_id), str(aic_id)))
                 topic_info["graph"]["edges"].append({
                     "from": int(ea_id),
@@ -344,29 +329,27 @@ def analyze_commission(df, features_collection, polarity_classifier, paraphrase_
                     "value": analyzed['ea_reused_ratio'], 
                     "label": f'{"{:0.2%}".format(analyzed["ea_reused_ratio"])}',
                 })
-        results_folder = folder if folder != None else f'./{FOLDER}/by_commission' 
+        results_folder = folder if folder != None else f'./{FOLDER}/by_coss' 
         Path(results_folder).mkdir(parents=True, exist_ok=True)
         # datetime: _{datetime.now().strftime('%Y-%m-%d_%H-%M-%S')}
-        results_filename = f"./{results_folder}/by_commission_{DATASET}_of_article_{aic_id}.json"
-        chart_filename = f"./{results_folder}/by_commission_{DATASET}_of_article_{aic_id}.png"
+        results_filename = f"./{results_folder}/by_coss_{DATASET}_of_article_{aic_id}.json"
+        chart_filename = f"./{results_folder}/by_coss_{DATASET}_of_article_{aic_id}.png"
         topic_info['articles'].append({
             "article_id": aic_id,
             "article_title": f'{aic_title} + ({aic_label})',
             "analyzed": results_filename,
-            "chart": chart_filename if (len(results['biased_by_these_sources']) > 0) else ''
+            "chart": chart_filename if (len(results['by_source_selection']['committed_articles']) > 0) else ''
         })
         io.write_json(results_filename, results)
-        if len(results['biased_by_these_sources']) > 0:
-            
+        if len(results['by_source_selection']['committed_articles']) > 0:
             # STACKED BAR CHART
-            
             build_chart(results, chart_filename)
             
     # #
     # # BUILD DIRECTED GRAPH
     # #
     if len(node_list) and len(edges):
-        graph_filename = f"./{results_folder}/by_commission_{DATASET}_network_topic_{topic_name}.png"
+        graph_filename = f"./{results_folder}/by_coss_{DATASET}_network_topic_{topic_name}.png"
         graph_title = f'Plagiarism map among articles in topic {topic_name}'
         topic_info['network'] = graph_filename
         build_graph(node_list=node_list, edges=edges, filename=graph_filename, graph_title=graph_title)
@@ -452,8 +435,9 @@ if __name__ == "__main__":
             print(e)
             continue
         classifier = pipeline("text-classification", model=f'./model/{consts.polarity_classifier_path}')
-        file_info = analyze_commission(
+        file_info = analyze_coss(
             df=df, 
+            folder=f'./{FOLDER}/by_coss',
             features_collection=features, 
             polarity_classifier=classifier, 
             paraphrase_threshold=consts.paraphrase_threshold,
@@ -462,10 +446,10 @@ if __name__ == "__main__":
 
         files_info.append(file_info)
 
-    folder = f'./{FOLDER}/by_commission'
+    folder = f'./{FOLDER}/by_coss'
     io.write_json(f"./{folder}/files_info.json", files_info)
 
     if consts.openShell:
-        f.showToast("Bias by commission - Main")
+        f.showToast("Media Bias by COSS - Main")
         f.openShell()
         

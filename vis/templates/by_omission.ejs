@@ -1,1 +1,47 @@
-<%- include('./head'); %>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <%- include('./header'); %>
+  </head>
+  <body class="container-fluid">
+    <header><%- include('./navigation', { bias_name: "omission"}); %></header>
+    <% if(locals.topic) { %> 
+      
+      <div class="container-fluid">
+        <!-- Header -->
+        <%- include('./overview-table/header', { chart_title: "Omitted proportion"}); %>
+
+        <!-- Content -->
+        <div class="row">
+          <!-- Plagiarism map -->
+          <%- include('./overview-table/plagiarism_map'); %>
+          <!-- ID | HEadline -->
+          <%- include('./overview-table/articles_list', { keyword: "by_omission"}); %>
+          <!-- Stacked bar chart -->
+          <%- include('./overview-table/omission_stacked_bar_chart'); %>
+        </div>
+        
+        <div class="row">
+          <!-- Table -->
+          <div class="col-sm-12" style="background-color: #f8f9fa">
+            <% if(locals.earlier_article_details) { %>
+              <h4 style="text-align: center; padding: 10px;">Earlier article details</h4>
+              <%- include('./earlier-articles-details/omission-details/omission_details'); %>
+            <% } %>
+            <div class="row">
+              <div class="col-sm-1">
+                <h6>Available earlier articles</h6>
+                <%- include('./earlier-articles-details/available_earlier_articles', { keyword: "by_omission" }); %>
+              </div>
+              <div class="col-sm-11">
+                <%- include('./earlier-articles-details/omission-details/omission_details_table'); %>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    <% } else { %>
+      <%- include('./available_topics', { keyword: "by_omission"}); %>
+    <% } %>
+  </body>
+</html>

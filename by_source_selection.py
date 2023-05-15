@@ -9,7 +9,6 @@ import consts
 from consts import dataset
 from functions import openShell, read_data
 from modules.preprocessing import io
-import matplotlib.pyplot as plt
 import pandas as pd
 import networkx as nx
 import matplotlib.pyplot as plt
