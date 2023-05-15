@@ -1,0 +1,38 @@
+<% if(locals.ea) { %>
+    <table class="table table-striped table-bordered">
+        <thead>
+        <tr>
+            <th>Classified Polarity</th>
+            <th>Reused text</th>
+            <th>
+            Original text(s) <% if(locals.aic_label) { %>
+            <p style="display: inline" class="<%= aic_label %>">
+                (<%= aic_label %>)
+            </p>
+            <% } %>
+            </th>
+        </tr>
+        </thead>
+        <tbody>
+        <% for(var i = 0 ; i < ea.length ; i++) { %>
+        <tr>
+            <div class="row">
+            <td class="col-sm-2 <%= ea[i]['label']['label'] %>">
+                <%= ea[i]['label']['label'] %>
+            </td>
+            <td class="col-sm-5"><%= ea[i]['text'] %></td>
+            <td class="col-sm-5">
+                <% if(ea[i]['reused_by_aic']) { %>
+                <ul>
+                <% for(var j = 0 ; j < ea[i]['reused_by_aic'].length ; j++) { %>
+                <li><%= ea[i]['reused_by_aic'][j] %></li>
+                <% } %>
+                </ul>
+                <% } %>
+            </td>
+            </div>
+        </tr>
+        <% } %>
+        </tbody>
+    </table>
+<% } %>

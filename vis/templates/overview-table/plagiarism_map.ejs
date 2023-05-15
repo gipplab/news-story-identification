@@ -1,0 +1,32 @@
+<div class="col-sm-4" style="text-align: center;">
+    <div style="display: inline-block;">
+        <div style="display: inline-block; width: 50px; background-color: red; padding:5px; height: 10px;"></div>
+        <div style="display: inline-block; padding: 5px;">LEFT</div>
+    </div>
+    <div style="display: inline-block;">
+        <div style="display: inline-block; width: 50px; background-color: grey; padding:5px; height: 10px;"></div>
+        <div style="display: inline-block; padding: 5px;">CENTER</div>
+    </div>
+    <div style="display: inline-block;">
+        <div style="display: inline-block; width: 50px; background-color: blue; padding:5px; height: 10px;"></div>
+        <div style="display: inline-block; padding: 5px;">RIGHT</div>
+    </div>
+    <div id="plagiarism-map"></div>
+</div>
+
+<script type="text/javascript" src="https://unpkg.com/vis-network/standalone/umd/vis-network.min.js"></script>
+<script type="text/javascript">
+    var nodes = <%- JSON.stringify(nodes) %>
+    var edges = <%- JSON.stringify(edges) %>
+    var container = document.getElementById("plagiarism-map");
+    var data = {
+        nodes: nodes,
+        edges: edges,
+    };
+    var options = {
+    nodes: {
+        shape: "circle",
+    }
+    };
+    var network = new vis.Network(container, data, options);
+</script>

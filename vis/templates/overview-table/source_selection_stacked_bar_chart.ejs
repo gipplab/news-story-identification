@@ -1,0 +1,41 @@
+<div class="col-sm-4">
+    <% if(locals.is_earliest === false) { %>
+      <canvas id="stackedBar" width="400" height="400"></canvas>
+      <script>            
+        const ctx = document.getElementById('stackedBar');              
+        const cdata = {
+          labels: <%- JSON.stringify(stackedBarLabels) %>,
+          datasets: <%- JSON.stringify(stackedBarData) %>            
+        };
+        new Chart(ctx, {
+          type: 'bar',
+          data: cdata,
+          options: {
+            responsive: true,
+            scales: {
+              x: {
+                title: {
+                  text: 'Reused articles ids',
+                  display: true
+                },
+                stacked: true,
+                ticks: {                 
+                  color: <%- JSON.stringify(stackedBarTickColors) %>
+                },
+              },
+              y: {
+                stacked: true
+              }
+            }
+          }
+        });
+      </script> 
+      <div style="text-align: center">
+          Biased by source selection: <strong><%= by_source_selection.verdict %></strong>
+      </div>        
+    <% } else if(locals.is_earliest === true) { %>
+      <div style="text-align: center"> 
+        This is the earliest article
+      </div>
+    <% } %>
+</div>

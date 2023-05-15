@@ -1,0 +1,468 @@
+{
+    "aic_id": 112,
+    "aic_datetime": "26/03/2023 19:15:00",
+    "aic_label": "RIGHT",
+    "aic_total_paragraphs": 16,
+    "aic_reused_paragraphs": 11,
+    "aic_reused_percent": 0.6875,
+    "aic_non_reused_paragraphs": 0,
+    "aic_non_reused_percent": 0,
+    "is_earliest": false,
+    "by_source_selection": {
+        "verdict": "No",
+        "committed_articles": [
+            116
+        ],
+        "biased_source_label": {
+            "LEFT": 0,
+            "CENTER": 1,
+            "RIGHT": 0
+        }
+    },
+    "by_commission": {
+        "verdict": "",
+        "aic_reused_label": {
+            "LEFT": 3,
+            "CENTER": 7,
+            "RIGHT": 1
+        },
+        "aic_reused_label_percent": {
+            "LEFT": 0.2727272727272727,
+            "CENTER": 0.6363636363636364,
+            "RIGHT": 0.09090909090909091
+        }
+    },
+    "by_omission": {
+        "verdict": "Yes",
+        "omitted_articles": [
+            114
+        ],
+        "aic_non_reused_label": {
+            "LEFT": 0,
+            "CENTER": 0,
+            "RIGHT": 1
+        },
+        "aic_non_reused_label_percent": {
+            "LEFT": 0.0,
+            "CENTER": 0.0,
+            "RIGHT": 1.0
+        }
+    },
+    "is_biased_by_source_selection": "No",
+    "earlier_articles": [
+        {
+            "ea_id": 114,
+            "ea_label": "RIGHT",
+            "ea_datetime": "26/03/2023 19:12:00",
+            "ea_total_paragraphs": 35,
+            "ea_total_reused_paragraphs": 10,
+            "ea_reused_ratio": 0.29,
+            "ea_total_non_reused_paragraphs": 25,
+            "ea_non_reused_ratio": 0.7142857142857143,
+            "ea_by_source_selection": "No",
+            "ea_reused_label": {
+                "LEFT": 2,
+                "CENTER": 7,
+                "RIGHT": 1
+            },
+            "ea_reused_label_percent": {
+                "LEFT": 0.2,
+                "CENTER": 0.7,
+                "RIGHT": 0.1
+            },
+            "ea_non_reused_label": {
+                "LEFT": 4,
+                "CENTER": 16,
+                "RIGHT": 5
+            },
+            "ea_non_reused_label_percent": {
+                "LEFT": 0.16,
+                "CENTER": 0.64,
+                "RIGHT": 0.2
+            },
+            "ea_reused_details": [
+                {
+                    "text": "NATO on Sunday criticised Vladimir Putin for what it called his \"dangerous and irresponsible\" nuclear rhetoric, a day after the Russian president said he would station tactical nuclear weapons in Belarus.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6902517676353455
+                    },
+                    "reused_by_aic": [
+                        "(Photo: Reuters) By Reuters: The North Atlantic Treaty Organisation (Nato) on Sunday criticised Russia for its \"dangerous and irresponsible\" nuclear rhetoric, a day after Russian President Vladimir Putin said Russia would station tactical nuclear weapons in Belarus."
+                    ]
+                },
+                {
+                    "text": "Putin announced the move on Saturday and likened it to the U.S. stationing its weapons in Europe, while insisting that Russia would not violate its nuclear non-proliferation promises.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.4439159035682678
+                    },
+                    "reused_by_aic": [
+                        "Vladimir Putin made the announcement at a time of growing tensions with the West over the Ukraine war and as some Russian commentators speculate about possible nuclear strikes."
+                    ]
+                },
+                {
+                    "text": "\"Russia's reference to NATO's nuclear sharing is totally misleading.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.618689775466919
+                    },
+                    "reused_by_aic": [
+                        "\"Russia's reference to Nato's nuclear sharing is totally misleading."
+                    ]
+                },
+                {
+                    "text": "NATO allies act with full respect of their international commitments,\" a NATO spokesperson said in emailed comments to Reuters on Sunday.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6712689399719238
+                    },
+                    "reused_by_aic": [
+                        "Nato allies act with full respect of their international commitments."
+                    ]
+                },
+                {
+                    "text": "\"Russia has consistently broken its arms control commitments, most recently suspending its participation in the New START Treaty,\" the unnamed spokesperson said.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6521588563919067
+                    },
+                    "reused_by_aic": [
+                        "Russia has consistently broken its arms control commitments, most recently suspending its participation in the New START Treaty.\""
+                    ]
+                },
+                {
+                    "text": "Washington appeared to see no change in the potential for Moscow to use nuclear weapons in the war in Ukraine, and it and NATO said the news would not affect their own nuclear position.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.48095884919166565
+                    },
+                    "reused_by_aic": [
+                        "We have not seen any changes in Russia's nuclear posture that would lead us to adjust our own,\" a Nato spokesperson said."
+                    ]
+                },
+                {
+                    "text": "\"We have not seen any changes in Russia's nuclear posture that would lead us to adjust our own,\" the NATO spokesperson wrote.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6612885594367981
+                    },
+                    "reused_by_aic": [
+                        "We have not seen any changes in Russia's nuclear posture that would lead us to adjust our own,\" a Nato spokesperson said."
+                    ]
+                },
+                {
+                    "text": "It is unclear how many such weapons Russia has, given it is an area still shrouded in Cold War secrecy.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.5075399875640869
+                    },
+                    "reused_by_aic": [
+                        "It is unclear how many such weapons Russia has, given it is an area still shrouded in Cold War secrecy."
+                    ]
+                },
+                {
+                    "text": "While the Belarusian army has not formally fought in Ukraine, Minsk and Moscow have close military ties.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.58433598279953
+                    },
+                    "reused_by_aic": [
+                        "Russia and Belarus have a close military relationship and Minsk allowed Moscow to use Belarusian territory to send troops into Ukraine last year."
+                    ]
+                },
+                {
+                    "text": "Minsk allowed Moscow to use Belarusian territory to send troops into Ukraine last year.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.41178980469703674
+                    },
+                    "reused_by_aic": [
+                        "Russia and Belarus have a close military relationship and Minsk allowed Moscow to use Belarusian territory to send troops into Ukraine last year."
+                    ]
+                }
+            ],
+            "ea_non_reused_details": [
+                {
+                    "text": "Although the move was not unexpected, it is one of Russia's most pronounced nuclear signals since the beginning of its invasion of Ukraine 13 months ago, and Ukraine called for a meeting of the UN Security Council in response.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.3905908167362213
+                    }
+                },
+                {
+                    "text": "While Washington, the world's other nuclear superpower, played down concerns about Putin's announcement, NATO said the Russian president's non-proliferation pledge and his description of U.S. weapons deployment overseas were way off the mark.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.7069905996322632
+                    }
+                },
+                {
+                    "text": "New START caps the number of strategic nuclear warheads that the United States and Russia can deploy, and the deployment of land- and submarine-based missiles and bombers to deliver them.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.4582291543483734
+                    }
+                },
+                {
+                    "text": "A top security adviser to Ukrainian President Volodymyr Zelenskiy, Oleksiy Danilov, said Russia's plan would also destabilise Belarus, which he said had been taken \"hostage\" by Moscow.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6384726762771606
+                    }
+                },
+                {
+                    "text": "Experts said Russia's move was significant since it had until now been proud that unlike the United States, it did not deploy nuclear weapons outside its borders.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.40991324186325073
+                    }
+                },
+                {
+                    "text": "It may be the first time since the mid-1990s that it has done so.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.4086681306362152
+                    }
+                },
+                {
+                    "text": "Another senior Zelenskiy adviser on Sunday scoffed at Putin's plan, saying the Russian leader is \"too predictable\".",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6886440515518188
+                    }
+                },
+                {
+                    "text": "\"Making a statement about tactical nuclear weapons in Belarus, he admits that he is afraid of losing & all he can do is scare with tactics,\" Mykhailo Podolyak wrote on Twitter.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.7011608481407166
+                    }
+                },
+                {
+                    "text": "Tactical nuclear weapons refer to those used for specific gains on a battlefield rather than those with the capacity to wipe out cities.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.3752276599407196
+                    }
+                },
+                {
+                    "text": "UKRAINE URGES UNSC MEETING Ukraine's foreign ministry called for an extraordinary meeting of the U.N. Security Council after Putin's announcement, and it asked the international community to \"take decisive measures\" to prevent Russia's use of nuclear weapons.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6781401038169861
+                    }
+                },
+                {
+                    "text": "\"Russia once again confirms its chronic inability to be a responsible steward of nuclear weapons as a means of deterrence and prevention of war, not as a tool of threats and intimidation.\"",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6922396421432495
+                    }
+                },
+                {
+                    "text": "Analysts at the Washington-based Institute for the Study of War (ISW) said the risk of escalation to nuclear war \"remains extremely low\".",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6854779124259949
+                    }
+                },
+                {
+                    "text": "But the International Campaign to Abolish Nuclear Weapons called Putin's announcement an extremely dangerous escalation.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5389787554740906
+                    }
+                },
+                {
+                    "text": "\"In the context of the war in Ukraine, the likelihood of miscalculation or misinterpretation is extremely high.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6954230666160583
+                    }
+                },
+                {
+                    "text": "Sharing nuclear weapons makes the situation much worse and risks catastrophic humanitarian consequences,\" it said on Twitter.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6529183983802795
+                    }
+                },
+                {
+                    "text": "PUTIN DECRIES A WESTERN 'AXIS' Putin said Belarusian President Alexander Lukashenko had long requested the deployment.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.37568357586860657
+                    }
+                },
+                {
+                    "text": "There was no immediate reaction from Lukashenko.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.48938414454460144
+                    }
+                },
+                {
+                    "text": "Putin on Sunday also denied Moscow was creating a military alliance with Beijing and instead asserted that Western powers are building a new \"axis\" similar to the partnership between Germany and Japan during World War Two.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6482179760932922
+                    }
+                },
+                {
+                    "text": "This was a reprisal of a theme he has often used in his portrayal of the Ukraine war - that Moscow is fighting a Ukraine in the grip of supposed Nazis, abetted by Western powers menacing Russia.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.5014762282371521
+                    }
+                },
+                {
+                    "text": "Ukraine - which was part of the Soviet Union and itself suffered devastation at the hands of Hitler's forces - rejects those parallels as spurious pretexts for a war of conquest.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5144084692001343
+                    }
+                },
+                {
+                    "text": "On the battlefield, Russian forces hit military targets in Kharkiv, Donetsk, Zaporizhzhia and Kherson regions, causing significant Ukrainian casualties, Russia's defence ministry said on Sunday.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5509946942329407
+                    }
+                },
+                {
+                    "text": "Ukrainian presidential chief of staff Andriy Yermak said Russian forces had also destroyed two apartment buildings in a missile strike on the eastern city of Avdiivka in the Donetsk region.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.4283258318901062
+                    }
+                },
+                {
+                    "text": "He said there were no casualties.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.41032031178474426
+                    }
+                },
+                {
+                    "text": "Ukraine's General Staff said on Sunday Ukrainian forces had repelled 85 Russian attacks over the past 24 hours across the eastern front, including the Bakhmut area, the scene of brutal fighting in the last few months.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5653153657913208
+                    }
+                },
+                {
+                    "text": "Reuters could not immediately verify the battlefield reports.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5058343410491943
+                    }
+                }
+            ]
+        },
+        {
+            "ea_id": 116,
+            "ea_label": "RIGHT",
+            "ea_datetime": "26/03/2023 17:11:00",
+            "ea_total_paragraphs": 7,
+            "ea_total_reused_paragraphs": 6,
+            "ea_reused_ratio": 0.86,
+            "ea_total_non_reused_paragraphs": 1,
+            "ea_non_reused_ratio": 0.14285714285714285,
+            "ea_by_source_selection": "",
+            "ea_reused_label": {
+                "LEFT": 1,
+                "CENTER": 3,
+                "RIGHT": 2
+            },
+            "ea_reused_label_percent": {
+                "LEFT": 0.16666666666666666,
+                "CENTER": 0.5,
+                "RIGHT": 0.3333333333333333
+            },
+            "ea_non_reused_label": {
+                "LEFT": 0,
+                "CENTER": 1,
+                "RIGHT": 0
+            },
+            "ea_non_reused_label_percent": {
+                "LEFT": 0.0,
+                "CENTER": 1.0,
+                "RIGHT": 0.0
+            },
+            "ea_reused_details": [
+                {
+                    "text": "NATO on Sunday criticized Russia for its dangerous and irresponsible nuclear rhetoric, a day after Russian President Vladimir Putin said Russia would station tactical nuclear weapons in Belarus.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5670410990715027
+                    },
+                    "reused_by_aic": [
+                        "The Nato said it is monitoring the situation closely after Russian President Vladimir Putin said Moscow will station tactical nuclear weapons in Belarus, which has borders with three Nato members - Poland, Lithuania and Latvia.",
+                        "(Photo: Reuters) By Reuters: The North Atlantic Treaty Organisation (Nato) on Sunday criticised Russia for its \"dangerous and irresponsible\" nuclear rhetoric, a day after Russian President Vladimir Putin said Russia would station tactical nuclear weapons in Belarus.",
+                        "READ | Tensions on the rise at revered Kyiv monastery complex amid war, religious conflict Russia will station tactical nuclear weapons in neighbouring Belarus, President Vladimir Putin said on Saturday, marking the first time since the mid-1990s that Moscow will have based such arms outside the country."
+                    ]
+                },
+                {
+                    "text": "NATO is vigilant, and we are closely monitoring the situation.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.37328532338142395
+                    },
+                    "reused_by_aic": [
+                        "\"Nato is vigilant, and we are closely monitoring the situation."
+                    ]
+                },
+                {
+                    "text": "We have not seen any changes in Russia's nuclear posture that would lead us to adjust our own, a NATO spokesperson said.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5068963170051575
+                    },
+                    "reused_by_aic": [
+                        "We have not seen any changes in Russia's nuclear posture that would lead us to adjust our own,\" a Nato spokesperson said."
+                    ]
+                },
+                {
+                    "text": "Russia's reference to NATO's nuclear sharing is totally misleading.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6191481351852417
+                    },
+                    "reused_by_aic": [
+                        "\"Russia's reference to Nato's nuclear sharing is totally misleading."
+                    ]
+                },
+                {
+                    "text": "NATO allies act with full respect of their international commitments.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.5384891629219055
+                    },
+                    "reused_by_aic": [
+                        "Nato allies act with full respect of their international commitments."
+                    ]
+                },
+                {
+                    "text": "Russia has consistently broken its arms control commitments, most recently suspending its participation in the New START Treaty.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.37160903215408325
+                    },
+                    "reused_by_aic": [
+                        "Russia has consistently broken its arms control commitments, most recently suspending its participation in the New START Treaty.\""
+                    ]
+                }
+            ],
+            "ea_non_reused_details": [
+                {
+                    "text": "For the latest headlines, follow our Google News channel online or via the app.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5446296334266663
+                    }
+                }
+            ]
+        }
+    ]
+}

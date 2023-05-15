@@ -1,0 +1,22 @@
+<% if(locals.non_reused_details) { %>
+  <table class="table table-striped table-bordered">
+    <thead>
+      <tr>
+        <th>Classified Polarity</th>
+        <th>Non-reused text</th>
+      </tr>
+    </thead>
+    <tbody>
+      <% for(var i = 0 ; i < non_reused_details.length ; i++) { %>
+      <tr>
+        <div class="row">
+          <td class="col-sm-2 <%= non_reused_details[i]['label']['label'] %>">
+            <%= non_reused_details[i]['label']['label'] %>
+          </td>
+          <td class="col-sm-5"><%= non_reused_details[i]['text'] %></td>
+        </div>
+      </tr>
+      <% } %>
+    </tbody>
+  </table>
+<% } %>

@@ -1,0 +1,11 @@
+<h3>Available analyzed topics</h3>
+<ul>
+    <% for(var i = 0; i < data.length ; i++) { %>
+    <li>
+        Topic
+        <a href="/<%= keyword %>/<%= data[i]['topic_id'] %>"
+        ><%= data[i]["topic_id"]%></a
+        >
+    </li>
+    <% } %>
+</ul>

@@ -1,0 +1,50 @@
+{
+    "aic_id": 104,
+    "aic_datetime": "18/2/2022 06:27:13",
+    "aic_label": "CENTER",
+    "aic_total_paragraphs": 0,
+    "aic_reused_paragraphs": 0,
+    "aic_reused_percent": 0,
+    "aic_non_reused_paragraphs": 0,
+    "aic_non_reused_percent": 0,
+    "is_earliest": true,
+    "by_source_selection": {
+        "verdict": "No"
+    },
+    "by_commission": {
+        "verdict": "No",
+        "aic_reused_label": {
+            "LEFT": 0,
+            "CENTER": 0,
+            "RIGHT": 0
+        },
+        "aic_reused_label_percent": {
+            "LEFT": 0,
+            "CENTER": 0,
+            "RIGHT": 0
+        }
+    },
+    "by_omission": {
+        "verdict": "No",
+        "omitted_articles": [],
+        "aic_non_reused_label": {
+            "LEFT": 0,
+            "CENTER": 0,
+            "RIGHT": 0
+        },
+        "aic_non_reused_label_percent": {
+            "LEFT": 0,
+            "CENTER": 0,
+            "RIGHT": 0
+        }
+    },
+    "biased_by_these_sources": [],
+    "biased_source_label": {
+        "LEFT": 0,
+        "CENTER": 0,
+        "RIGHT": 0
+    },
+    "is_biased_by_source_selection": "No",
+    "earlier_articles": [],
+    "is_biased": "This is the earliest article"
+}

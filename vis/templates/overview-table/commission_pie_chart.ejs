@@ -1,0 +1,53 @@
+<div class="col-sm-4">
+    <% if(locals.by_commission) { %>
+        <canvas id="pieChart" width="400" height="400"></canvas>
+        <script>            
+            const ctx = document.getElementById('pieChart');
+            data = {
+                datasets: [{
+                    label: '',
+                    data: [
+                        <%= by_commission.aic_reused_label.LEFT %>, 
+                        <%= by_commission.aic_reused_label.CENTER %>, 
+                        <%= by_commission.aic_reused_label.RIGHT %>
+                    ],
+                    backgroundColor: ["red", "gray", "blue"]
+                }],
+                labels: [ 'LEFT', 'CENTER', 'RIGHT' ],
+            };
+            new Chart(ctx, {
+                type: 'pie',
+                data: data,
+                options: {
+                scales: {
+                    y: {
+                    beginAtZero: true
+                    }
+                },
+                plugins: {
+                    tooltip: {
+                    callbacks: {
+                        label: function(context) {
+                            var label = `# of sentences: ${context.parsed} (`;
+                            if(context.label === "LEFT") label += <%= (by_commission.aic_reused_label_percent.LEFT * 100).toFixed(2) %>;
+                            if(context.label === "CENTER") label += <%= (by_commission.aic_reused_label_percent.CENTER * 100).toFixed(2) %>;
+                            if(context.label === "RIGHT") label += <%= (by_commission.aic_reused_label_percent.RIGHT * 100).toFixed(2) %>;
+
+                            label += " %)"
+                            return label;
+                        }
+                    }
+                    }
+                }
+                }
+            });
+        </script> 
+        <div style="text-align: center">
+        Biased by commission: <strong><%= by_commission.verdict %></strong>
+        </div>        
+        <% } else { %>
+        <div style="text-align: center"> 
+            Possibly an earliest article or the article is not plagiarized at all
+        </div>
+    <% } %>
+</div>

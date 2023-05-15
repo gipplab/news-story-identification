@@ -1,0 +1,38 @@
+<div class="col-sm-12" style="background-color: #f8f9fa">
+    <% if(locals.earlier_article_id) { %>
+    <ul>
+      <li><h6>Id: <%= earlier_article_id %></h6></li>
+      <li>
+        <h6>
+          Reused ratio: <%= parseFloat(reused_ratio * 100).toFixed(0) %>%
+        </h6>
+      </li>
+      <li>
+        <h6>
+          Left ratio: <%= parseFloat(label_ratio['LEFT'] * 100).toFixed(1)
+          %>%
+        </h6>
+      </li>
+      <li>
+        <h6>
+          Center ratio: <%= parseFloat(label_ratio['CENTER'] *
+          100).toFixed(1) %>%
+        </h6>
+      </li>
+      <li>
+        <h6>
+          Right ratio: <%= parseFloat(label_ratio['RIGHT'] *
+          100).toFixed(1) %>%
+        </h6>
+      </li>
+    </ul>
+    <% } else { %>
+    <h6>Reused article details</h6>
+    <% } %>
+    <div class="row">
+      
+      <div class="col-sm-11">
+        
+      </div>
+    </div>
+</div>

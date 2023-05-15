@@ -1,0 +1,16 @@
+<div class="row">
+    <div class="col-sm-4 box-header" style="background-color: #f8f9fa">
+        <h6>Plagiarism map</h6>
+    </div>
+    <div class="col-sm-4 box-header" style="background-color: #f8f9fa">
+        <h6>ID | Headline</h6>
+    </div>
+    <div class="col-sm-4 box-header" style="background-color: #f8f9fa">
+        <% if(locals.queried_article) { %>
+        <h6><%= queried_article.article_id %> | <%= queried_article['article_title'] %></h6>
+        <% } %>
+        <% if(locals.chart_title) { %>
+            <h6><%= chart_title %></h6>
+        <% } %>
+    </div>
+</div>

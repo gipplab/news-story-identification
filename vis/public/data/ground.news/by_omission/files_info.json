@@ -1,0 +1,4731 @@
+[
+  {
+    "topic_id": "0",
+    "network": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_network_topic_0.png",
+    "graph": {
+      "nodes": [
+        {
+          "id": 0,
+          "label": "0",
+          "color": "gray"
+        },
+        {
+          "id": 2,
+          "label": "2",
+          "color": "red"
+        },
+        {
+          "id": 3,
+          "label": "3",
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "label": "4",
+          "color": "red"
+        },
+        {
+          "id": 5,
+          "label": "5",
+          "color": "gray"
+        },
+        {
+          "id": 6,
+          "label": "6",
+          "color": "red"
+        }
+      ],
+      "edges": [
+        {
+          "from": 6,
+          "to": 2,
+          "value": 0.92,
+          "label": "92.00%"
+        },
+        {
+          "from": 0,
+          "to": 3,
+          "value": 0.96,
+          "label": "96.00%"
+        },
+        {
+          "from": 2,
+          "to": 3,
+          "value": 0.96,
+          "label": "96.00%"
+        },
+        {
+          "from": 4,
+          "to": 3,
+          "value": 0.96,
+          "label": "96.00%"
+        },
+        {
+          "from": 6,
+          "to": 3,
+          "value": 0.96,
+          "label": "96.00%"
+        },
+        {
+          "from": 2,
+          "to": 4,
+          "value": 0.92,
+          "label": "92.00%"
+        },
+        {
+          "from": 6,
+          "to": 4,
+          "value": 0.92,
+          "label": "92.00%"
+        },
+        {
+          "from": 0,
+          "to": 5,
+          "value": 0.92,
+          "label": "92.00%"
+        },
+        {
+          "from": 2,
+          "to": 5,
+          "value": 0.92,
+          "label": "92.00%"
+        },
+        {
+          "from": 3,
+          "to": 5,
+          "value": 0.92,
+          "label": "92.00%"
+        },
+        {
+          "from": 4,
+          "to": 5,
+          "value": 0.92,
+          "label": "92.00%"
+        },
+        {
+          "from": 6,
+          "to": 5,
+          "value": 0.92,
+          "label": "92.00%"
+        }
+      ]
+    },
+    "articles": [
+      {
+        "article_id": 0,
+        "article_title": "Russia Demanded Spy Serving Life Sentence In Germany Swapped In Exchange For Paul Whelan + (CENTER)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_0.json",
+        "chart": ""
+      },
+      {
+        "article_id": 2,
+        "article_title": "Russia demanded that a spy held in Germany be freed in exchange for Paul Whelan + (LEFT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_2.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_2.png"
+      },
+      {
+        "article_id": 3,
+        "article_title": "Russia demanded a spy be freed in exchange for Paul Whelan + (RIGHT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_3.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_3.png"
+      },
+      {
+        "article_id": 4,
+        "article_title": "Russia demanded a spy be freed in exchange for Paul Whelan + (LEFT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_4.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_4.png"
+      },
+      {
+        "article_id": 5,
+        "article_title": "Russia demanded that a spy held in Germany be freed in exchange for Paul Whelan + (CENTER)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_5.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_5.png"
+      },
+      {
+        "article_id": 6,
+        "article_title": "Russia demanded that a spy held in Germany be freed in exchange for Paul Whelan + (LEFT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_6.json",
+        "chart": ""
+      }
+    ]
+  },
+  {
+    "topic_id": "1",
+    "network": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_network_topic_1.png",
+    "graph": {
+      "nodes": [
+        {
+          "id": 7,
+          "label": "7",
+          "color": "red"
+        },
+        {
+          "id": 8,
+          "label": "8",
+          "color": "blue"
+        },
+        {
+          "id": 9,
+          "label": "9",
+          "color": "red"
+        },
+        {
+          "id": 10,
+          "label": "10",
+          "color": "red"
+        },
+        {
+          "id": 11,
+          "label": "11",
+          "color": "gray"
+        },
+        {
+          "id": 12,
+          "label": "12",
+          "color": "gray"
+        },
+        {
+          "id": 13,
+          "label": "13",
+          "color": "gray"
+        },
+        {
+          "id": 14,
+          "label": "14",
+          "color": "gray"
+        },
+        {
+          "id": 15,
+          "label": "15",
+          "color": "gray"
+        },
+        {
+          "id": 16,
+          "label": "16",
+          "color": "gray"
+        },
+        {
+          "id": 17,
+          "label": "17",
+          "color": "gray"
+        }
+      ],
+      "edges": [
+        {
+          "from": 13,
+          "to": 7,
+          "value": 0.95,
+          "label": "95.00%"
+        },
+        {
+          "from": 14,
+          "to": 7,
+          "value": 0.95,
+          "label": "95.00%"
+        },
+        {
+          "from": 16,
+          "to": 7,
+          "value": 0.95,
+          "label": "95.00%"
+        },
+        {
+          "from": 9,
+          "to": 8,
+          "value": 1.0,
+          "label": "100.00%"
+        },
+        {
+          "from": 10,
+          "to": 8,
+          "value": 1.0,
+          "label": "100.00%"
+        },
+        {
+          "from": 11,
+          "to": 8,
+          "value": 1.0,
+          "label": "100.00%"
+        },
+        {
+          "from": 13,
+          "to": 8,
+          "value": 1.0,
+          "label": "100.00%"
+        },
+        {
+          "from": 17,
+          "to": 8,
+          "value": 1.0,
+          "label": "100.00%"
+        },
+        {
+          "from": 10,
+          "to": 9,
+          "value": 1.0,
+          "label": "100.00%"
+        },
+        {
+          "from": 11,
+          "to": 9,
+          "value": 1.0,
+          "label": "100.00%"
+        },
+        {
+          "from": 13,
+          "to": 9,
+          "value": 1.0,
+          "label": "100.00%"
+        },
+        {
+          "from": 17,
+          "to": 9,
+          "value": 1.0,
+          "label": "100.00%"
+        },
+        {
+          "from": 10,
+          "to": 11,
+          "value": 0.21,
+          "label": "21.00%"
+        },
+        {
+          "from": 13,
+          "to": 11,
+          "value": 0.21,
+          "label": "21.00%"
+        },
+        {
+          "from": 9,
+          "to": 12,
+          "value": 0.53,
+          "label": "53.00%"
+        },
+        {
+          "from": 10,
+          "to": 12,
+          "value": 0.53,
+          "label": "53.00%"
+        },
+        {
+          "from": 11,
+          "to": 12,
+          "value": 0.53,
+          "label": "53.00%"
+        },
+        {
+          "from": 13,
+          "to": 12,
+          "value": 0.53,
+          "label": "53.00%"
+        },
+        {
+          "from": 17,
+          "to": 12,
+          "value": 0.53,
+          "label": "53.00%"
+        },
+        {
+          "from": 10,
+          "to": 13,
+          "value": 0.17,
+          "label": "17.00%"
+        },
+        {
+          "from": 13,
+          "to": 16,
+          "value": 0.26,
+          "label": "26.00%"
+        },
+        {
+          "from": 14,
+          "to": 16,
+          "value": 0.26,
+          "label": "26.00%"
+        },
+        {
+          "from": 10,
+          "to": 17,
+          "value": 0.21,
+          "label": "21.00%"
+        },
+        {
+          "from": 11,
+          "to": 17,
+          "value": 0.21,
+          "label": "21.00%"
+        },
+        {
+          "from": 13,
+          "to": 17,
+          "value": 0.21,
+          "label": "21.00%"
+        }
+      ]
+    },
+    "articles": [
+      {
+        "article_id": 7,
+        "article_title": "Europe's ambitious green hydrogen pipeline to be ready by 2030 + (LEFT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_7.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_7.png"
+      },
+      {
+        "article_id": 8,
+        "article_title": "France, Spain, Portugal to build hydrogen pipeline by 2030 + (RIGHT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_8.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_8.png"
+      },
+      {
+        "article_id": 9,
+        "article_title": "France, Spain, Portugal to build hydrogen pipeline by 2030 + (LEFT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_9.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_9.png"
+      },
+      {
+        "article_id": 10,
+        "article_title": "France, Spain, Portugal to build hydrogen pipeline by 2030 + (LEFT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_10.json",
+        "chart": ""
+      },
+      {
+        "article_id": 11,
+        "article_title": "France, Spain, Portugal to build hydrogen pipeline by 2030 + (CENTER)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_11.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_11.png"
+      },
+      {
+        "article_id": 12,
+        "article_title": "France, Spain, Portugal to build hydrogen pipeline by 2030 + (CENTER)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_12.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_12.png"
+      },
+      {
+        "article_id": 13,
+        "article_title": "France, Spain, Portugal to build hydrogen pipeline by 2030 + (CENTER)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_13.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_13.png"
+      },
+      {
+        "article_id": 14,
+        "article_title": "Hydrogen pipeline between Spain and France to be ready 'by 2030' + (CENTER)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_14.json",
+        "chart": ""
+      },
+      {
+        "article_id": 15,
+        "article_title": "Hydrogen pipeline between Spain and France to cost $2.6 bln + (CENTER)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_15.json",
+        "chart": ""
+      },
+      {
+        "article_id": 16,
+        "article_title": "Hydrogen Pipeline Between Spain And France To Be Ready 'By 2030' + (CENTER)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_16.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_16.png"
+      },
+      {
+        "article_id": 17,
+        "article_title": "France, Spain, Portugal to build hydrogen pipeline by 2030 + (CENTER)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_17.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_17.png"
+      }
+    ]
+  },
+  {
+    "topic_id": "2",
+    "network": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_network_topic_2.png",
+    "graph": {
+      "nodes": [
+        {
+          "id": 19,
+          "label": "19",
+          "color": "blue"
+        },
+        {
+          "id": 20,
+          "label": "20",
+          "color": "gray"
+        },
+        {
+          "id": 21,
+          "label": "21",
+          "color": "gray"
+        },
+        {
+          "id": 22,
+          "label": "22",
+          "color": "gray"
+        },
+        {
+          "id": 23,
+          "label": "23",
+          "color": "red"
+        },
+        {
+          "id": 24,
+          "label": "24",
+          "color": "gray"
+        },
+        {
+          "id": 25,
+          "label": "25",
+          "color": "blue"
+        },
+        {
+          "id": 26,
+          "label": "26",
+          "color": "red"
+        },
+        {
+          "id": 27,
+          "label": "27",
+          "color": "gray"
+        },
+        {
+          "id": 28,
+          "label": "28",
+          "color": "blue"
+        },
+        {
+          "id": 29,
+          "label": "29",
+          "color": "red"
+        },
+        {
+          "id": 30,
+          "label": "30",
+          "color": "blue"
+        },
+        {
+          "id": 31,
+          "label": "31",
+          "color": "blue"
+        },
+        {
+          "id": 32,
+          "label": "32",
+          "color": "blue"
+        },
+        {
+          "id": 33,
+          "label": "33",
+          "color": "gray"
+        },
+        {
+          "id": 34,
+          "label": "34",
+          "color": "red"
+        },
+        {
+          "id": 35,
+          "label": "35",
+          "color": "blue"
+        },
+        {
+          "id": 36,
+          "label": "36",
+          "color": "red"
+        },
+        {
+          "id": 37,
+          "label": "37",
+          "color": "red"
+        },
+        {
+          "id": 38,
+          "label": "38",
+          "color": "gray"
+        },
+        {
+          "id": 39,
+          "label": "39",
+          "color": "gray"
+        },
+        {
+          "id": 40,
+          "label": "40",
+          "color": "gray"
+        },
+        {
+          "id": 41,
+          "label": "41",
+          "color": "gray"
+        },
+        {
+          "id": 42,
+          "label": "42",
+          "color": "gray"
+        },
+        {
+          "id": 43,
+          "label": "43",
+          "color": "gray"
+        },
+        {
+          "id": 44,
+          "label": "44",
+          "color": "gray"
+        },
+        {
+          "id": 45,
+          "label": "45",
+          "color": "blue"
+        },
+        {
+          "id": 46,
+          "label": "46",
+          "color": "gray"
+        },
+        {
+          "id": 47,
+          "label": "47",
+          "color": "gray"
+        },
+        {
+          "id": 48,
+          "label": "48",
+          "color": "red"
+        },
+        {
+          "id": 49,
+          "label": "49",
+          "color": "blue"
+        }
+      ],
+      "edges": [
+        {
+          "from": 23,
+          "to": 20,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 24,
+          "to": 20,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 25,
+          "to": 20,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 35,
+          "to": 20,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 36,
+          "to": 20,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 40,
+          "to": 20,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 41,
+          "to": 20,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 48,
+          "to": 20,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 49,
+          "to": 20,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 19,
+          "to": 21,
+          "value": 0.98,
+          "label": "98.00%"
+        },
+        {
+          "from": 20,
+          "to": 21,
+          "value": 0.98,
+          "label": "98.00%"
+        },
+        {
+          "from": 23,
+          "to": 21,
+          "value": 0.98,
+          "label": "98.00%"
+        },
+        {
+          "from": 24,
+          "to": 21,
+          "value": 0.98,
+          "label": "98.00%"
+        },
+        {
+          "from": 25,
+          "to": 21,
+          "value": 0.98,
+          "label": "98.00%"
+        },
+        {
+          "from": 29,
+          "to": 21,
+          "value": 0.98,
+          "label": "98.00%"
+        },
+        {
+          "from": 30,
+          "to": 21,
+          "value": 0.98,
+          "label": "98.00%"
+        },
+        {
+          "from": 32,
+          "to": 21,
+          "value": 0.98,
+          "label": "98.00%"
+        },
+        {
+          "from": 33,
+          "to": 21,
+          "value": 0.98,
+          "label": "98.00%"
+        },
+        {
+          "from": 34,
+          "to": 21,
+          "value": 0.98,
+          "label": "98.00%"
+        },
+        {
+          "from": 35,
+          "to": 21,
+          "value": 0.98,
+          "label": "98.00%"
+        },
+        {
+          "from": 36,
+          "to": 21,
+          "value": 0.98,
+          "label": "98.00%"
+        },
+        {
+          "from": 38,
+          "to": 21,
+          "value": 0.98,
+          "label": "98.00%"
+        },
+        {
+          "from": 39,
+          "to": 21,
+          "value": 0.98,
+          "label": "98.00%"
+        },
+        {
+          "from": 40,
+          "to": 21,
+          "value": 0.98,
+          "label": "98.00%"
+        },
+        {
+          "from": 41,
+          "to": 21,
+          "value": 0.98,
+          "label": "98.00%"
+        },
+        {
+          "from": 42,
+          "to": 21,
+          "value": 0.98,
+          "label": "98.00%"
+        },
+        {
+          "from": 46,
+          "to": 21,
+          "value": 0.98,
+          "label": "98.00%"
+        },
+        {
+          "from": 48,
+          "to": 21,
+          "value": 0.98,
+          "label": "98.00%"
+        },
+        {
+          "from": 49,
+          "to": 21,
+          "value": 0.98,
+          "label": "98.00%"
+        },
+        {
+          "from": 19,
+          "to": 22,
+          "value": 0.91,
+          "label": "91.00%"
+        },
+        {
+          "from": 20,
+          "to": 22,
+          "value": 0.91,
+          "label": "91.00%"
+        },
+        {
+          "from": 21,
+          "to": 22,
+          "value": 0.91,
+          "label": "91.00%"
+        },
+        {
+          "from": 23,
+          "to": 22,
+          "value": 0.91,
+          "label": "91.00%"
+        },
+        {
+          "from": 24,
+          "to": 22,
+          "value": 0.91,
+          "label": "91.00%"
+        },
+        {
+          "from": 25,
+          "to": 22,
+          "value": 0.91,
+          "label": "91.00%"
+        },
+        {
+          "from": 28,
+          "to": 22,
+          "value": 0.91,
+          "label": "91.00%"
+        },
+        {
+          "from": 29,
+          "to": 22,
+          "value": 0.91,
+          "label": "91.00%"
+        },
+        {
+          "from": 30,
+          "to": 22,
+          "value": 0.91,
+          "label": "91.00%"
+        },
+        {
+          "from": 31,
+          "to": 22,
+          "value": 0.91,
+          "label": "91.00%"
+        },
+        {
+          "from": 32,
+          "to": 22,
+          "value": 0.91,
+          "label": "91.00%"
+        },
+        {
+          "from": 33,
+          "to": 22,
+          "value": 0.91,
+          "label": "91.00%"
+        },
+        {
+          "from": 34,
+          "to": 22,
+          "value": 0.91,
+          "label": "91.00%"
+        },
+        {
+          "from": 35,
+          "to": 22,
+          "value": 0.91,
+          "label": "91.00%"
+        },
+        {
+          "from": 36,
+          "to": 22,
+          "value": 0.91,
+          "label": "91.00%"
+        },
+        {
+          "from": 37,
+          "to": 22,
+          "value": 0.91,
+          "label": "91.00%"
+        },
+        {
+          "from": 38,
+          "to": 22,
+          "value": 0.91,
+          "label": "91.00%"
+        },
+        {
+          "from": 39,
+          "to": 22,
+          "value": 0.91,
+          "label": "91.00%"
+        },
+        {
+          "from": 40,
+          "to": 22,
+          "value": 0.91,
+          "label": "91.00%"
+        },
+        {
+          "from": 41,
+          "to": 22,
+          "value": 0.91,
+          "label": "91.00%"
+        },
+        {
+          "from": 42,
+          "to": 22,
+          "value": 0.91,
+          "label": "91.00%"
+        },
+        {
+          "from": 43,
+          "to": 22,
+          "value": 0.91,
+          "label": "91.00%"
+        },
+        {
+          "from": 45,
+          "to": 22,
+          "value": 0.91,
+          "label": "91.00%"
+        },
+        {
+          "from": 46,
+          "to": 22,
+          "value": 0.91,
+          "label": "91.00%"
+        },
+        {
+          "from": 48,
+          "to": 22,
+          "value": 0.91,
+          "label": "91.00%"
+        },
+        {
+          "from": 49,
+          "to": 22,
+          "value": 0.91,
+          "label": "91.00%"
+        },
+        {
+          "from": 49,
+          "to": 23,
+          "value": 0.91,
+          "label": "91.00%"
+        },
+        {
+          "from": 23,
+          "to": 24,
+          "value": 0.93,
+          "label": "93.00%"
+        },
+        {
+          "from": 49,
+          "to": 24,
+          "value": 0.93,
+          "label": "93.00%"
+        },
+        {
+          "from": 23,
+          "to": 25,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 24,
+          "to": 25,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 35,
+          "to": 25,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 36,
+          "to": 25,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 48,
+          "to": 25,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 49,
+          "to": 25,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 19,
+          "to": 26,
+          "value": 0.93,
+          "label": "93.00%"
+        },
+        {
+          "from": 20,
+          "to": 26,
+          "value": 0.93,
+          "label": "93.00%"
+        },
+        {
+          "from": 21,
+          "to": 26,
+          "value": 0.93,
+          "label": "93.00%"
+        },
+        {
+          "from": 22,
+          "to": 26,
+          "value": 0.93,
+          "label": "93.00%"
+        },
+        {
+          "from": 23,
+          "to": 26,
+          "value": 0.93,
+          "label": "93.00%"
+        },
+        {
+          "from": 24,
+          "to": 26,
+          "value": 0.93,
+          "label": "93.00%"
+        },
+        {
+          "from": 25,
+          "to": 26,
+          "value": 0.93,
+          "label": "93.00%"
+        },
+        {
+          "from": 28,
+          "to": 26,
+          "value": 0.93,
+          "label": "93.00%"
+        },
+        {
+          "from": 29,
+          "to": 26,
+          "value": 0.93,
+          "label": "93.00%"
+        },
+        {
+          "from": 30,
+          "to": 26,
+          "value": 0.93,
+          "label": "93.00%"
+        },
+        {
+          "from": 31,
+          "to": 26,
+          "value": 0.93,
+          "label": "93.00%"
+        },
+        {
+          "from": 32,
+          "to": 26,
+          "value": 0.93,
+          "label": "93.00%"
+        },
+        {
+          "from": 33,
+          "to": 26,
+          "value": 0.93,
+          "label": "93.00%"
+        },
+        {
+          "from": 34,
+          "to": 26,
+          "value": 0.93,
+          "label": "93.00%"
+        },
+        {
+          "from": 35,
+          "to": 26,
+          "value": 0.93,
+          "label": "93.00%"
+        },
+        {
+          "from": 36,
+          "to": 26,
+          "value": 0.93,
+          "label": "93.00%"
+        },
+        {
+          "from": 37,
+          "to": 26,
+          "value": 0.93,
+          "label": "93.00%"
+        },
+        {
+          "from": 38,
+          "to": 26,
+          "value": 0.93,
+          "label": "93.00%"
+        },
+        {
+          "from": 39,
+          "to": 26,
+          "value": 0.93,
+          "label": "93.00%"
+        },
+        {
+          "from": 40,
+          "to": 26,
+          "value": 0.93,
+          "label": "93.00%"
+        },
+        {
+          "from": 41,
+          "to": 26,
+          "value": 0.93,
+          "label": "93.00%"
+        },
+        {
+          "from": 42,
+          "to": 26,
+          "value": 0.93,
+          "label": "93.00%"
+        },
+        {
+          "from": 43,
+          "to": 26,
+          "value": 0.93,
+          "label": "93.00%"
+        },
+        {
+          "from": 45,
+          "to": 26,
+          "value": 0.93,
+          "label": "93.00%"
+        },
+        {
+          "from": 46,
+          "to": 26,
+          "value": 0.93,
+          "label": "93.00%"
+        },
+        {
+          "from": 48,
+          "to": 26,
+          "value": 0.93,
+          "label": "93.00%"
+        },
+        {
+          "from": 49,
+          "to": 26,
+          "value": 0.93,
+          "label": "93.00%"
+        },
+        {
+          "from": 29,
+          "to": 28,
+          "value": 0.37,
+          "label": "37.00%"
+        },
+        {
+          "from": 20,
+          "to": 30,
+          "value": 0.87,
+          "label": "87.00%"
+        },
+        {
+          "from": 23,
+          "to": 30,
+          "value": 0.87,
+          "label": "87.00%"
+        },
+        {
+          "from": 24,
+          "to": 30,
+          "value": 0.87,
+          "label": "87.00%"
+        },
+        {
+          "from": 25,
+          "to": 30,
+          "value": 0.87,
+          "label": "87.00%"
+        },
+        {
+          "from": 29,
+          "to": 30,
+          "value": 0.87,
+          "label": "87.00%"
+        },
+        {
+          "from": 35,
+          "to": 30,
+          "value": 0.87,
+          "label": "87.00%"
+        },
+        {
+          "from": 36,
+          "to": 30,
+          "value": 0.87,
+          "label": "87.00%"
+        },
+        {
+          "from": 40,
+          "to": 30,
+          "value": 0.87,
+          "label": "87.00%"
+        },
+        {
+          "from": 41,
+          "to": 30,
+          "value": 0.87,
+          "label": "87.00%"
+        },
+        {
+          "from": 46,
+          "to": 30,
+          "value": 0.87,
+          "label": "87.00%"
+        },
+        {
+          "from": 48,
+          "to": 30,
+          "value": 0.87,
+          "label": "87.00%"
+        },
+        {
+          "from": 49,
+          "to": 30,
+          "value": 0.87,
+          "label": "87.00%"
+        },
+        {
+          "from": 20,
+          "to": 31,
+          "value": 0.85,
+          "label": "85.00%"
+        },
+        {
+          "from": 21,
+          "to": 31,
+          "value": 0.85,
+          "label": "85.00%"
+        },
+        {
+          "from": 23,
+          "to": 31,
+          "value": 0.85,
+          "label": "85.00%"
+        },
+        {
+          "from": 24,
+          "to": 31,
+          "value": 0.85,
+          "label": "85.00%"
+        },
+        {
+          "from": 25,
+          "to": 31,
+          "value": 0.85,
+          "label": "85.00%"
+        },
+        {
+          "from": 28,
+          "to": 31,
+          "value": 0.85,
+          "label": "85.00%"
+        },
+        {
+          "from": 29,
+          "to": 31,
+          "value": 0.85,
+          "label": "85.00%"
+        },
+        {
+          "from": 30,
+          "to": 31,
+          "value": 0.85,
+          "label": "85.00%"
+        },
+        {
+          "from": 32,
+          "to": 31,
+          "value": 0.85,
+          "label": "85.00%"
+        },
+        {
+          "from": 33,
+          "to": 31,
+          "value": 0.85,
+          "label": "85.00%"
+        },
+        {
+          "from": 34,
+          "to": 31,
+          "value": 0.85,
+          "label": "85.00%"
+        },
+        {
+          "from": 35,
+          "to": 31,
+          "value": 0.85,
+          "label": "85.00%"
+        },
+        {
+          "from": 36,
+          "to": 31,
+          "value": 0.85,
+          "label": "85.00%"
+        },
+        {
+          "from": 37,
+          "to": 31,
+          "value": 0.85,
+          "label": "85.00%"
+        },
+        {
+          "from": 38,
+          "to": 31,
+          "value": 0.85,
+          "label": "85.00%"
+        },
+        {
+          "from": 39,
+          "to": 31,
+          "value": 0.85,
+          "label": "85.00%"
+        },
+        {
+          "from": 40,
+          "to": 31,
+          "value": 0.85,
+          "label": "85.00%"
+        },
+        {
+          "from": 41,
+          "to": 31,
+          "value": 0.85,
+          "label": "85.00%"
+        },
+        {
+          "from": 42,
+          "to": 31,
+          "value": 0.85,
+          "label": "85.00%"
+        },
+        {
+          "from": 43,
+          "to": 31,
+          "value": 0.85,
+          "label": "85.00%"
+        },
+        {
+          "from": 45,
+          "to": 31,
+          "value": 0.85,
+          "label": "85.00%"
+        },
+        {
+          "from": 46,
+          "to": 31,
+          "value": 0.85,
+          "label": "85.00%"
+        },
+        {
+          "from": 48,
+          "to": 31,
+          "value": 0.85,
+          "label": "85.00%"
+        },
+        {
+          "from": 49,
+          "to": 31,
+          "value": 0.85,
+          "label": "85.00%"
+        },
+        {
+          "from": 20,
+          "to": 32,
+          "value": 0.87,
+          "label": "87.00%"
+        },
+        {
+          "from": 23,
+          "to": 32,
+          "value": 0.87,
+          "label": "87.00%"
+        },
+        {
+          "from": 24,
+          "to": 32,
+          "value": 0.87,
+          "label": "87.00%"
+        },
+        {
+          "from": 25,
+          "to": 32,
+          "value": 0.87,
+          "label": "87.00%"
+        },
+        {
+          "from": 29,
+          "to": 32,
+          "value": 0.87,
+          "label": "87.00%"
+        },
+        {
+          "from": 30,
+          "to": 32,
+          "value": 0.87,
+          "label": "87.00%"
+        },
+        {
+          "from": 33,
+          "to": 32,
+          "value": 0.87,
+          "label": "87.00%"
+        },
+        {
+          "from": 35,
+          "to": 32,
+          "value": 0.87,
+          "label": "87.00%"
+        },
+        {
+          "from": 36,
+          "to": 32,
+          "value": 0.87,
+          "label": "87.00%"
+        },
+        {
+          "from": 40,
+          "to": 32,
+          "value": 0.87,
+          "label": "87.00%"
+        },
+        {
+          "from": 41,
+          "to": 32,
+          "value": 0.87,
+          "label": "87.00%"
+        },
+        {
+          "from": 46,
+          "to": 32,
+          "value": 0.87,
+          "label": "87.00%"
+        },
+        {
+          "from": 48,
+          "to": 32,
+          "value": 0.87,
+          "label": "87.00%"
+        },
+        {
+          "from": 49,
+          "to": 32,
+          "value": 0.87,
+          "label": "87.00%"
+        },
+        {
+          "from": 20,
+          "to": 33,
+          "value": 0.87,
+          "label": "87.00%"
+        },
+        {
+          "from": 23,
+          "to": 33,
+          "value": 0.87,
+          "label": "87.00%"
+        },
+        {
+          "from": 24,
+          "to": 33,
+          "value": 0.87,
+          "label": "87.00%"
+        },
+        {
+          "from": 25,
+          "to": 33,
+          "value": 0.87,
+          "label": "87.00%"
+        },
+        {
+          "from": 29,
+          "to": 33,
+          "value": 0.87,
+          "label": "87.00%"
+        },
+        {
+          "from": 30,
+          "to": 33,
+          "value": 0.87,
+          "label": "87.00%"
+        },
+        {
+          "from": 35,
+          "to": 33,
+          "value": 0.87,
+          "label": "87.00%"
+        },
+        {
+          "from": 36,
+          "to": 33,
+          "value": 0.87,
+          "label": "87.00%"
+        },
+        {
+          "from": 40,
+          "to": 33,
+          "value": 0.87,
+          "label": "87.00%"
+        },
+        {
+          "from": 41,
+          "to": 33,
+          "value": 0.87,
+          "label": "87.00%"
+        },
+        {
+          "from": 46,
+          "to": 33,
+          "value": 0.87,
+          "label": "87.00%"
+        },
+        {
+          "from": 48,
+          "to": 33,
+          "value": 0.87,
+          "label": "87.00%"
+        },
+        {
+          "from": 49,
+          "to": 33,
+          "value": 0.87,
+          "label": "87.00%"
+        },
+        {
+          "from": 19,
+          "to": 34,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 20,
+          "to": 34,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 23,
+          "to": 34,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 24,
+          "to": 34,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 25,
+          "to": 34,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 29,
+          "to": 34,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 30,
+          "to": 34,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 32,
+          "to": 34,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 33,
+          "to": 34,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 35,
+          "to": 34,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 36,
+          "to": 34,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 40,
+          "to": 34,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 41,
+          "to": 34,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 46,
+          "to": 34,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 48,
+          "to": 34,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 49,
+          "to": 34,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 23,
+          "to": 35,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 24,
+          "to": 35,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 36,
+          "to": 35,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 48,
+          "to": 35,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 49,
+          "to": 35,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 23,
+          "to": 36,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 24,
+          "to": 36,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 48,
+          "to": 36,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 49,
+          "to": 36,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 19,
+          "to": 37,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 20,
+          "to": 37,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 21,
+          "to": 37,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 23,
+          "to": 37,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 24,
+          "to": 37,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 25,
+          "to": 37,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 28,
+          "to": 37,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 29,
+          "to": 37,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 30,
+          "to": 37,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 32,
+          "to": 37,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 33,
+          "to": 37,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 34,
+          "to": 37,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 35,
+          "to": 37,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 36,
+          "to": 37,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 38,
+          "to": 37,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 39,
+          "to": 37,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 40,
+          "to": 37,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 41,
+          "to": 37,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 42,
+          "to": 37,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 43,
+          "to": 37,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 45,
+          "to": 37,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 46,
+          "to": 37,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 48,
+          "to": 37,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 49,
+          "to": 37,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 19,
+          "to": 38,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 20,
+          "to": 38,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 23,
+          "to": 38,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 24,
+          "to": 38,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 25,
+          "to": 38,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 29,
+          "to": 38,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 30,
+          "to": 38,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 32,
+          "to": 38,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 33,
+          "to": 38,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 34,
+          "to": 38,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 35,
+          "to": 38,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 36,
+          "to": 38,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 39,
+          "to": 38,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 40,
+          "to": 38,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 41,
+          "to": 38,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 42,
+          "to": 38,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 46,
+          "to": 38,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 48,
+          "to": 38,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 49,
+          "to": 38,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 19,
+          "to": 39,
+          "value": 0.96,
+          "label": "96.00%"
+        },
+        {
+          "from": 20,
+          "to": 39,
+          "value": 0.96,
+          "label": "96.00%"
+        },
+        {
+          "from": 23,
+          "to": 39,
+          "value": 0.96,
+          "label": "96.00%"
+        },
+        {
+          "from": 24,
+          "to": 39,
+          "value": 0.96,
+          "label": "96.00%"
+        },
+        {
+          "from": 25,
+          "to": 39,
+          "value": 0.96,
+          "label": "96.00%"
+        },
+        {
+          "from": 29,
+          "to": 39,
+          "value": 0.96,
+          "label": "96.00%"
+        },
+        {
+          "from": 30,
+          "to": 39,
+          "value": 0.96,
+          "label": "96.00%"
+        },
+        {
+          "from": 32,
+          "to": 39,
+          "value": 0.96,
+          "label": "96.00%"
+        },
+        {
+          "from": 33,
+          "to": 39,
+          "value": 0.96,
+          "label": "96.00%"
+        },
+        {
+          "from": 34,
+          "to": 39,
+          "value": 0.96,
+          "label": "96.00%"
+        },
+        {
+          "from": 35,
+          "to": 39,
+          "value": 0.96,
+          "label": "96.00%"
+        },
+        {
+          "from": 36,
+          "to": 39,
+          "value": 0.96,
+          "label": "96.00%"
+        },
+        {
+          "from": 40,
+          "to": 39,
+          "value": 0.96,
+          "label": "96.00%"
+        },
+        {
+          "from": 41,
+          "to": 39,
+          "value": 0.96,
+          "label": "96.00%"
+        },
+        {
+          "from": 42,
+          "to": 39,
+          "value": 0.96,
+          "label": "96.00%"
+        },
+        {
+          "from": 46,
+          "to": 39,
+          "value": 0.96,
+          "label": "96.00%"
+        },
+        {
+          "from": 48,
+          "to": 39,
+          "value": 0.96,
+          "label": "96.00%"
+        },
+        {
+          "from": 49,
+          "to": 39,
+          "value": 0.96,
+          "label": "96.00%"
+        },
+        {
+          "from": 23,
+          "to": 40,
+          "value": 0.96,
+          "label": "96.00%"
+        },
+        {
+          "from": 24,
+          "to": 40,
+          "value": 0.96,
+          "label": "96.00%"
+        },
+        {
+          "from": 25,
+          "to": 40,
+          "value": 0.96,
+          "label": "96.00%"
+        },
+        {
+          "from": 35,
+          "to": 40,
+          "value": 0.96,
+          "label": "96.00%"
+        },
+        {
+          "from": 36,
+          "to": 40,
+          "value": 0.96,
+          "label": "96.00%"
+        },
+        {
+          "from": 41,
+          "to": 40,
+          "value": 0.96,
+          "label": "96.00%"
+        },
+        {
+          "from": 48,
+          "to": 40,
+          "value": 0.96,
+          "label": "96.00%"
+        },
+        {
+          "from": 49,
+          "to": 40,
+          "value": 0.96,
+          "label": "96.00%"
+        },
+        {
+          "from": 23,
+          "to": 41,
+          "value": 0.96,
+          "label": "96.00%"
+        },
+        {
+          "from": 24,
+          "to": 41,
+          "value": 0.96,
+          "label": "96.00%"
+        },
+        {
+          "from": 25,
+          "to": 41,
+          "value": 0.96,
+          "label": "96.00%"
+        },
+        {
+          "from": 35,
+          "to": 41,
+          "value": 0.96,
+          "label": "96.00%"
+        },
+        {
+          "from": 36,
+          "to": 41,
+          "value": 0.96,
+          "label": "96.00%"
+        },
+        {
+          "from": 48,
+          "to": 41,
+          "value": 0.96,
+          "label": "96.00%"
+        },
+        {
+          "from": 49,
+          "to": 41,
+          "value": 0.96,
+          "label": "96.00%"
+        },
+        {
+          "from": 19,
+          "to": 42,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 20,
+          "to": 42,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 23,
+          "to": 42,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 24,
+          "to": 42,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 25,
+          "to": 42,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 29,
+          "to": 42,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 30,
+          "to": 42,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 32,
+          "to": 42,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 33,
+          "to": 42,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 34,
+          "to": 42,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 35,
+          "to": 42,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 36,
+          "to": 42,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 40,
+          "to": 42,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 41,
+          "to": 42,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 46,
+          "to": 42,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 48,
+          "to": 42,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 49,
+          "to": 42,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 19,
+          "to": 43,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 20,
+          "to": 43,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 21,
+          "to": 43,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 23,
+          "to": 43,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 24,
+          "to": 43,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 25,
+          "to": 43,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 28,
+          "to": 43,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 29,
+          "to": 43,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 30,
+          "to": 43,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 32,
+          "to": 43,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 33,
+          "to": 43,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 34,
+          "to": 43,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 35,
+          "to": 43,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 36,
+          "to": 43,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 38,
+          "to": 43,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 39,
+          "to": 43,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 40,
+          "to": 43,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 41,
+          "to": 43,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 42,
+          "to": 43,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 45,
+          "to": 43,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 46,
+          "to": 43,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 48,
+          "to": 43,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 49,
+          "to": 43,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 19,
+          "to": 45,
+          "value": 0.39,
+          "label": "39.00%"
+        },
+        {
+          "from": 28,
+          "to": 45,
+          "value": 0.39,
+          "label": "39.00%"
+        },
+        {
+          "from": 29,
+          "to": 45,
+          "value": 0.39,
+          "label": "39.00%"
+        },
+        {
+          "from": 20,
+          "to": 46,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 23,
+          "to": 46,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 24,
+          "to": 46,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 25,
+          "to": 46,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 29,
+          "to": 46,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 35,
+          "to": 46,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 36,
+          "to": 46,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 40,
+          "to": 46,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 41,
+          "to": 46,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 48,
+          "to": 46,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 49,
+          "to": 46,
+          "value": 0.94,
+          "label": "94.00%"
+        },
+        {
+          "from": 23,
+          "to": 48,
+          "value": 0.74,
+          "label": "74.00%"
+        },
+        {
+          "from": 24,
+          "to": 48,
+          "value": 0.74,
+          "label": "74.00%"
+        },
+        {
+          "from": 49,
+          "to": 48,
+          "value": 0.74,
+          "label": "74.00%"
+        }
+      ]
+    },
+    "articles": [
+      {
+        "article_id": 19,
+        "article_title": "China Struggles With COVID Infections After Loosening of \ufffdZero-COVID\ufffd Restrictions + (RIGHT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_19.json",
+        "chart": ""
+      },
+      {
+        "article_id": 20,
+        "article_title": "China struggles with COVID infections after controls ease + (CENTER)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_20.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_20.png"
+      },
+      {
+        "article_id": 21,
+        "article_title": "China struggles with COVID infections after controls ease + (CENTER)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_21.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_21.png"
+      },
+      {
+        "article_id": 22,
+        "article_title": "China struggles with COVID infections after controls ease + (CENTER)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_22.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_22.png"
+      },
+      {
+        "article_id": 23,
+        "article_title": "China struggles with COVID infections after controls ease + (LEFT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_23.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_23.png"
+      },
+      {
+        "article_id": 24,
+        "article_title": "China struggles with COVID-19 infections after controls ease + (CENTER)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_24.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_24.png"
+      },
+      {
+        "article_id": 25,
+        "article_title": "China struggles with COVID infections after controls ease + (RIGHT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_25.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_25.png"
+      },
+      {
+        "article_id": 26,
+        "article_title": "China struggles with COVID infections after controls ease + (LEFT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_26.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_26.png"
+      },
+      {
+        "article_id": 27,
+        "article_title": "China regulators, state banks split staff as fears mount about new COVID outbreaks-sources + (CENTER)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_27.json",
+        "chart": ""
+      },
+      {
+        "article_id": 28,
+        "article_title": "China struggles with Covid infections after controls eased + (RIGHT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_28.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_28.png"
+      },
+      {
+        "article_id": 29,
+        "article_title": "China struggles with Covid infections after controls eased + (LEFT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_29.json",
+        "chart": ""
+      },
+      {
+        "article_id": 30,
+        "article_title": "China struggles with Covid infections after curbs eased + (RIGHT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_30.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_30.png"
+      },
+      {
+        "article_id": 31,
+        "article_title": "China struggles with fresh infections after zero-Covid restrictions ease + (RIGHT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_31.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_31.png"
+      },
+      {
+        "article_id": 32,
+        "article_title": "COVID-19 cases rise in China as anti-virus controls ease + (RIGHT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_32.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_32.png"
+      },
+      {
+        "article_id": 33,
+        "article_title": "China Struggles With Rise in COVID Cases After Government Eases Anti-Virus Restrictions + (CENTER)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_33.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_33.png"
+      },
+      {
+        "article_id": 34,
+        "article_title": "China struggles with COVID infections after controls ease + (LEFT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_34.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_34.png"
+      },
+      {
+        "article_id": 35,
+        "article_title": "China struggles with COVID infections after controls ease + (RIGHT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_35.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_35.png"
+      },
+      {
+        "article_id": 36,
+        "article_title": "China struggles with COVID infections after controls ease + (LEFT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_36.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_36.png"
+      },
+      {
+        "article_id": 37,
+        "article_title": "China struggles with COVID infections after controls ease + (LEFT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_37.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_37.png"
+      },
+      {
+        "article_id": 38,
+        "article_title": "China struggles with COVID infections after controls ease + (CENTER)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_38.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_38.png"
+      },
+      {
+        "article_id": 39,
+        "article_title": "China struggles with COVID infections after controls ease + (CENTER)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_39.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_39.png"
+      },
+      {
+        "article_id": 40,
+        "article_title": "China struggles with COVID infections after controls ease + (CENTER)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_40.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_40.png"
+      },
+      {
+        "article_id": 41,
+        "article_title": "China struggles with COVID infections after controls ease + (CENTER)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_41.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_41.png"
+      },
+      {
+        "article_id": 42,
+        "article_title": "China struggles with COVID infections after controls ease + (CENTER)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_42.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_42.png"
+      },
+      {
+        "article_id": 43,
+        "article_title": "China struggles with COVID infections after controls ease + (CENTER)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_43.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_43.png"
+      },
+      {
+        "article_id": 44,
+        "article_title": "End of 'zero-COVID' threatens to overwhelm China with infections + (CENTER)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_44.json",
+        "chart": ""
+      },
+      {
+        "article_id": 45,
+        "article_title": "China struggles with COVID infections after controls ease + (RIGHT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_45.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_45.png"
+      },
+      {
+        "article_id": 46,
+        "article_title": "China struggles with COVID infections after controls ease + (CENTER)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_46.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_46.png"
+      },
+      {
+        "article_id": 47,
+        "article_title": "What to expect next as China relaxes Covid controls + (CENTER)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_47.json",
+        "chart": ""
+      },
+      {
+        "article_id": 48,
+        "article_title": "China struggles with COVID infections after controls ease + (LEFT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_48.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_48.png"
+      },
+      {
+        "article_id": 49,
+        "article_title": "China struggles with COVID infections after controls ease + (RIGHT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_49.json",
+        "chart": ""
+      }
+    ]
+  },
+  {
+    "topic_id": "3",
+    "network": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_network_topic_3.png",
+    "graph": {
+      "nodes": [
+        {
+          "id": 50,
+          "label": "50",
+          "color": "blue"
+        },
+        {
+          "id": 51,
+          "label": "51",
+          "color": "blue"
+        },
+        {
+          "id": 52,
+          "label": "52",
+          "color": "gray"
+        },
+        {
+          "id": 53,
+          "label": "53",
+          "color": "gray"
+        },
+        {
+          "id": 57,
+          "label": "57",
+          "color": "gray"
+        },
+        {
+          "id": 55,
+          "label": "55",
+          "color": "red"
+        },
+        {
+          "id": 56,
+          "label": "56",
+          "color": "red"
+        },
+        {
+          "id": 57,
+          "label": "57",
+          "color": "gray"
+        },
+        {
+          "id": 58,
+          "label": "58",
+          "color": "blue"
+        },
+        {
+          "id": 59,
+          "label": "59",
+          "color": "blue"
+        },
+        {
+          "id": 60,
+          "label": "60",
+          "color": "blue"
+        },
+        {
+          "id": 61,
+          "label": "61",
+          "color": "blue"
+        },
+        {
+          "id": 62,
+          "label": "62",
+          "color": "red"
+        },
+        {
+          "id": 63,
+          "label": "63",
+          "color": "gray"
+        },
+        {
+          "id": 64,
+          "label": "64",
+          "color": "gray"
+        }
+      ],
+      "edges": [
+        {
+          "from": 50,
+          "to": 51,
+          "value": 0.88,
+          "label": "88.00%"
+        },
+        {
+          "from": 57,
+          "to": 51,
+          "value": 0.88,
+          "label": "88.00%"
+        },
+        {
+          "from": 61,
+          "to": 51,
+          "value": 0.88,
+          "label": "88.00%"
+        },
+        {
+          "from": 63,
+          "to": 51,
+          "value": 0.88,
+          "label": "88.00%"
+        },
+        {
+          "from": 64,
+          "to": 51,
+          "value": 0.88,
+          "label": "88.00%"
+        },
+        {
+          "from": 58,
+          "to": 53,
+          "value": 0.11,
+          "label": "11.00%"
+        },
+        {
+          "from": 62,
+          "to": 53,
+          "value": 0.11,
+          "label": "11.00%"
+        },
+        {
+          "from": 50,
+          "to": 57,
+          "value": 0.41,
+          "label": "41.00%"
+        },
+        {
+          "from": 61,
+          "to": 57,
+          "value": 0.41,
+          "label": "41.00%"
+        },
+        {
+          "from": 50,
+          "to": 55,
+          "value": 0.18,
+          "label": "18.00%"
+        },
+        {
+          "from": 50,
+          "to": 57,
+          "value": 0.41,
+          "label": "41.00%"
+        },
+        {
+          "from": 61,
+          "to": 57,
+          "value": 0.41,
+          "label": "41.00%"
+        },
+        {
+          "from": 50,
+          "to": 60,
+          "value": 0.06,
+          "label": "6.00%"
+        },
+        {
+          "from": 53,
+          "to": 60,
+          "value": 0.06,
+          "label": "6.00%"
+        },
+        {
+          "from": 58,
+          "to": 60,
+          "value": 0.06,
+          "label": "6.00%"
+        },
+        {
+          "from": 62,
+          "to": 60,
+          "value": 0.06,
+          "label": "6.00%"
+        },
+        {
+          "from": 58,
+          "to": 62,
+          "value": 0.11,
+          "label": "11.00%"
+        },
+        {
+          "from": 50,
+          "to": 64,
+          "value": 0.89,
+          "label": "89.00%"
+        },
+        {
+          "from": 61,
+          "to": 64,
+          "value": 0.89,
+          "label": "89.00%"
+        },
+        {
+          "from": 63,
+          "to": 64,
+          "value": 0.89,
+          "label": "89.00%"
+        }
+      ]
+    },
+    "articles": [
+      {
+        "article_id": 50,
+        "article_title": "Russia may cut oil production over West's price cap: Putin\r\nRead more At: \r\nhttps://www.aninews.in/news/world/europe/russia-may-cut-oil-production-over-wests-price-cap-putin20221209231627/?utm_source=ground.news&utm_medium=referral + (RIGHT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_50.json",
+        "chart": ""
+      },
+      {
+        "article_id": 51,
+        "article_title": "Putin threatens Russia could cut oil output over West\ufffds price cap + (RIGHT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_51.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_51.png"
+      },
+      {
+        "article_id": 52,
+        "article_title": "Putin threatens oil production cuts over price cap + (CENTER)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_52.json",
+        "chart": ""
+      },
+      {
+        "article_id": 53,
+        "article_title": "Russia may cut oil output in response to G-7 price cap, Putin says + (CENTER)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_53.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_53.png"
+      },
+      {
+        "article_id": 57,
+        "article_title": "Putin Eyes Slashing Oil Production Following G7 Price Cap + (CENTER)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_57.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_57.png"
+      },
+      {
+        "article_id": 55,
+        "article_title": "Putin threatens production cuts over oil price cap + (LEFT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_55.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_55.png"
+      },
+      {
+        "article_id": 56,
+        "article_title": "Putin calls oil price cap 'stupid,' and says Russia is considering slashing oil production in response + (LEFT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_56.json",
+        "chart": ""
+      },
+      {
+        "article_id": 57,
+        "article_title": "Russia may cut oil production over West's price cap: Putin + (CENTER)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_57.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_57.png"
+      },
+      {
+        "article_id": 58,
+        "article_title": "Russia May Cut Oil Output in Response to G-7 Price Cap, Putin Says + (RIGHT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_58.json",
+        "chart": ""
+      },
+      {
+        "article_id": 59,
+        "article_title": "Russia will not suffer losses because of oil price cap \ufffd Putin + (RIGHT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_59.json",
+        "chart": ""
+      },
+      {
+        "article_id": 60,
+        "article_title": "Putin says Russia may cut its oil output in response to G-7 price cap + (RIGHT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_60.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_60.png"
+      },
+      {
+        "article_id": 61,
+        "article_title": "Putin says Russia may cut oil production over West's price cap + (RIGHT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_61.json",
+        "chart": ""
+      },
+      {
+        "article_id": 62,
+        "article_title": "Vladimir Putin warns of possible production cuts over $60 oil price cap + (LEFT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_62.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_62.png"
+      },
+      {
+        "article_id": 63,
+        "article_title": "Putin says Russia could cut oil production over 'stupid' price cap + (CENTER)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_63.json",
+        "chart": ""
+      },
+      {
+        "article_id": 64,
+        "article_title": "Putin Says Russia Could Cut Oil Production Over West's 'Stupid' Price Cap + (CENTER)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_64.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_64.png"
+      }
+    ]
+  },
+  {
+    "topic_id": "4",
+    "network": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_network_topic_4.png",
+    "graph": {
+      "nodes": [
+        {
+          "id": 65,
+          "label": "65",
+          "color": "blue"
+        },
+        {
+          "id": 66,
+          "label": "66",
+          "color": "blue"
+        },
+        {
+          "id": 67,
+          "label": "67",
+          "color": "gray"
+        },
+        {
+          "id": 68,
+          "label": "68",
+          "color": "red"
+        },
+        {
+          "id": 69,
+          "label": "69",
+          "color": "gray"
+        },
+        {
+          "id": 70,
+          "label": "70",
+          "color": "blue"
+        },
+        {
+          "id": 71,
+          "label": "71",
+          "color": "red"
+        },
+        {
+          "id": 72,
+          "label": "72",
+          "color": "gray"
+        },
+        {
+          "id": 73,
+          "label": "73",
+          "color": "blue"
+        },
+        {
+          "id": 74,
+          "label": "74",
+          "color": "gray"
+        },
+        {
+          "id": 75,
+          "label": "75",
+          "color": "gray"
+        },
+        {
+          "id": 76,
+          "label": "76",
+          "color": "gray"
+        },
+        {
+          "id": 77,
+          "label": "77",
+          "color": "red"
+        },
+        {
+          "id": 78,
+          "label": "78",
+          "color": "blue"
+        },
+        {
+          "id": 79,
+          "label": "79",
+          "color": "blue"
+        },
+        {
+          "id": 80,
+          "label": "80",
+          "color": "gray"
+        },
+        {
+          "id": 81,
+          "label": "81",
+          "color": "red"
+        },
+        {
+          "id": 82,
+          "label": "82",
+          "color": "blue"
+        },
+        {
+          "id": 83,
+          "label": "83",
+          "color": "red"
+        },
+        {
+          "id": 84,
+          "label": "84",
+          "color": "blue"
+        },
+        {
+          "id": 85,
+          "label": "85",
+          "color": "blue"
+        },
+        {
+          "id": 86,
+          "label": "86",
+          "color": "red"
+        },
+        {
+          "id": 87,
+          "label": "87",
+          "color": "red"
+        },
+        {
+          "id": 88,
+          "label": "88",
+          "color": "blue"
+        },
+        {
+          "id": 89,
+          "label": "89",
+          "color": "red"
+        },
+        {
+          "id": 90,
+          "label": "90",
+          "color": "blue"
+        },
+        {
+          "id": 91,
+          "label": "91",
+          "color": "red"
+        },
+        {
+          "id": 92,
+          "label": "92",
+          "color": "red"
+        },
+        {
+          "id": 93,
+          "label": "93",
+          "color": "blue"
+        },
+        {
+          "id": 95,
+          "label": "95",
+          "color": "blue"
+        },
+        {
+          "id": 96,
+          "label": "96",
+          "color": "gray"
+        },
+        {
+          "id": 97,
+          "label": "97",
+          "color": "blue"
+        },
+        {
+          "id": 98,
+          "label": "98",
+          "color": "blue"
+        },
+        {
+          "id": 99,
+          "label": "99",
+          "color": "red"
+        },
+        {
+          "id": 100,
+          "label": "100",
+          "color": "gray"
+        },
+        {
+          "id": 101,
+          "label": "101",
+          "color": "red"
+        },
+        {
+          "id": 102,
+          "label": "102",
+          "color": "gray"
+        },
+        {
+          "id": 104,
+          "label": "104",
+          "color": "gray"
+        },
+        {
+          "id": 105,
+          "label": "105",
+          "color": "red"
+        },
+        {
+          "id": 106,
+          "label": "106",
+          "color": "red"
+        },
+        {
+          "id": 107,
+          "label": "107",
+          "color": "blue"
+        },
+        {
+          "id": 108,
+          "label": "108",
+          "color": "red"
+        },
+        {
+          "id": 109,
+          "label": "109",
+          "color": "red"
+        },
+        {
+          "id": 110,
+          "label": "110",
+          "color": "gray"
+        }
+      ],
+      "edges": [
+        {
+          "from": 79,
+          "to": 65,
+          "value": 0.16,
+          "label": "16.00%"
+        },
+        {
+          "from": 80,
+          "to": 65,
+          "value": 0.16,
+          "label": "16.00%"
+        },
+        {
+          "from": 81,
+          "to": 65,
+          "value": 0.16,
+          "label": "16.00%"
+        },
+        {
+          "from": 82,
+          "to": 65,
+          "value": 0.16,
+          "label": "16.00%"
+        },
+        {
+          "from": 86,
+          "to": 65,
+          "value": 0.16,
+          "label": "16.00%"
+        },
+        {
+          "from": 87,
+          "to": 65,
+          "value": 0.16,
+          "label": "16.00%"
+        },
+        {
+          "from": 68,
+          "to": 67,
+          "value": 0.12,
+          "label": "12.00%"
+        },
+        {
+          "from": 70,
+          "to": 67,
+          "value": 0.12,
+          "label": "12.00%"
+        },
+        {
+          "from": 71,
+          "to": 67,
+          "value": 0.12,
+          "label": "12.00%"
+        },
+        {
+          "from": 74,
+          "to": 67,
+          "value": 0.12,
+          "label": "12.00%"
+        },
+        {
+          "from": 76,
+          "to": 67,
+          "value": 0.12,
+          "label": "12.00%"
+        },
+        {
+          "from": 83,
+          "to": 67,
+          "value": 0.12,
+          "label": "12.00%"
+        },
+        {
+          "from": 85,
+          "to": 67,
+          "value": 0.12,
+          "label": "12.00%"
+        },
+        {
+          "from": 90,
+          "to": 67,
+          "value": 0.12,
+          "label": "12.00%"
+        },
+        {
+          "from": 92,
+          "to": 67,
+          "value": 0.12,
+          "label": "12.00%"
+        },
+        {
+          "from": 104,
+          "to": 67,
+          "value": 0.12,
+          "label": "12.00%"
+        },
+        {
+          "from": 105,
+          "to": 67,
+          "value": 0.12,
+          "label": "12.00%"
+        },
+        {
+          "from": 106,
+          "to": 67,
+          "value": 0.12,
+          "label": "12.00%"
+        },
+        {
+          "from": 71,
+          "to": 68,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 74,
+          "to": 68,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 75,
+          "to": 68,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 82,
+          "to": 68,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 83,
+          "to": 68,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 87,
+          "to": 68,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 89,
+          "to": 68,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 90,
+          "to": 68,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 92,
+          "to": 68,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 104,
+          "to": 68,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 105,
+          "to": 68,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 106,
+          "to": 68,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 102,
+          "to": 69,
+          "value": 0.14,
+          "label": "14.00%"
+        },
+        {
+          "from": 68,
+          "to": 70,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 71,
+          "to": 70,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 74,
+          "to": 70,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 76,
+          "to": 70,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 77,
+          "to": 70,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 82,
+          "to": 70,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 83,
+          "to": 70,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 85,
+          "to": 70,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 87,
+          "to": 70,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 89,
+          "to": 70,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 90,
+          "to": 70,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 92,
+          "to": 70,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 99,
+          "to": 70,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 104,
+          "to": 70,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 105,
+          "to": 70,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 106,
+          "to": 70,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 74,
+          "to": 71,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 82,
+          "to": 71,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 83,
+          "to": 71,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 87,
+          "to": 71,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 89,
+          "to": 71,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 92,
+          "to": 71,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 104,
+          "to": 71,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 105,
+          "to": 71,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 67,
+          "to": 72,
+          "value": 0.12,
+          "label": "12.00%"
+        },
+        {
+          "from": 68,
+          "to": 72,
+          "value": 0.12,
+          "label": "12.00%"
+        },
+        {
+          "from": 70,
+          "to": 72,
+          "value": 0.12,
+          "label": "12.00%"
+        },
+        {
+          "from": 71,
+          "to": 72,
+          "value": 0.12,
+          "label": "12.00%"
+        },
+        {
+          "from": 74,
+          "to": 72,
+          "value": 0.12,
+          "label": "12.00%"
+        },
+        {
+          "from": 76,
+          "to": 72,
+          "value": 0.12,
+          "label": "12.00%"
+        },
+        {
+          "from": 83,
+          "to": 72,
+          "value": 0.12,
+          "label": "12.00%"
+        },
+        {
+          "from": 85,
+          "to": 72,
+          "value": 0.12,
+          "label": "12.00%"
+        },
+        {
+          "from": 87,
+          "to": 72,
+          "value": 0.12,
+          "label": "12.00%"
+        },
+        {
+          "from": 89,
+          "to": 72,
+          "value": 0.12,
+          "label": "12.00%"
+        },
+        {
+          "from": 90,
+          "to": 72,
+          "value": 0.12,
+          "label": "12.00%"
+        },
+        {
+          "from": 92,
+          "to": 72,
+          "value": 0.12,
+          "label": "12.00%"
+        },
+        {
+          "from": 95,
+          "to": 72,
+          "value": 0.12,
+          "label": "12.00%"
+        },
+        {
+          "from": 97,
+          "to": 72,
+          "value": 0.12,
+          "label": "12.00%"
+        },
+        {
+          "from": 104,
+          "to": 72,
+          "value": 0.12,
+          "label": "12.00%"
+        },
+        {
+          "from": 105,
+          "to": 72,
+          "value": 0.12,
+          "label": "12.00%"
+        },
+        {
+          "from": 106,
+          "to": 72,
+          "value": 0.12,
+          "label": "12.00%"
+        },
+        {
+          "from": 104,
+          "to": 74,
+          "value": 0.93,
+          "label": "93.00%"
+        },
+        {
+          "from": 85,
+          "to": 76,
+          "value": 0.06,
+          "label": "6.00%"
+        },
+        {
+          "from": 81,
+          "to": 79,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 82,
+          "to": 79,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 87,
+          "to": 79,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 81,
+          "to": 80,
+          "value": 0.31,
+          "label": "31.00%"
+        },
+        {
+          "from": 86,
+          "to": 80,
+          "value": 0.31,
+          "label": "31.00%"
+        },
+        {
+          "from": 87,
+          "to": 80,
+          "value": 0.31,
+          "label": "31.00%"
+        },
+        {
+          "from": 88,
+          "to": 80,
+          "value": 0.31,
+          "label": "31.00%"
+        },
+        {
+          "from": 89,
+          "to": 80,
+          "value": 0.31,
+          "label": "31.00%"
+        },
+        {
+          "from": 69,
+          "to": 82,
+          "value": 0.47,
+          "label": "47.00%"
+        },
+        {
+          "from": 81,
+          "to": 82,
+          "value": 0.47,
+          "label": "47.00%"
+        },
+        {
+          "from": 87,
+          "to": 82,
+          "value": 0.47,
+          "label": "47.00%"
+        },
+        {
+          "from": 89,
+          "to": 82,
+          "value": 0.47,
+          "label": "47.00%"
+        },
+        {
+          "from": 96,
+          "to": 82,
+          "value": 0.47,
+          "label": "47.00%"
+        },
+        {
+          "from": 102,
+          "to": 82,
+          "value": 0.47,
+          "label": "47.00%"
+        },
+        {
+          "from": 74,
+          "to": 83,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 82,
+          "to": 83,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 87,
+          "to": 83,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 89,
+          "to": 83,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 92,
+          "to": 83,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 104,
+          "to": 83,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 105,
+          "to": 83,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 69,
+          "to": 84,
+          "value": 0.21,
+          "label": "21.00%"
+        },
+        {
+          "from": 87,
+          "to": 84,
+          "value": 0.21,
+          "label": "21.00%"
+        },
+        {
+          "from": 89,
+          "to": 84,
+          "value": 0.21,
+          "label": "21.00%"
+        },
+        {
+          "from": 93,
+          "to": 84,
+          "value": 0.21,
+          "label": "21.00%"
+        },
+        {
+          "from": 96,
+          "to": 84,
+          "value": 0.21,
+          "label": "21.00%"
+        },
+        {
+          "from": 102,
+          "to": 84,
+          "value": 0.21,
+          "label": "21.00%"
+        },
+        {
+          "from": 69,
+          "to": 86,
+          "value": 0.31,
+          "label": "31.00%"
+        },
+        {
+          "from": 77,
+          "to": 86,
+          "value": 0.31,
+          "label": "31.00%"
+        },
+        {
+          "from": 81,
+          "to": 86,
+          "value": 0.31,
+          "label": "31.00%"
+        },
+        {
+          "from": 87,
+          "to": 86,
+          "value": 0.31,
+          "label": "31.00%"
+        },
+        {
+          "from": 88,
+          "to": 86,
+          "value": 0.31,
+          "label": "31.00%"
+        },
+        {
+          "from": 93,
+          "to": 86,
+          "value": 0.31,
+          "label": "31.00%"
+        },
+        {
+          "from": 97,
+          "to": 86,
+          "value": 0.31,
+          "label": "31.00%"
+        },
+        {
+          "from": 102,
+          "to": 86,
+          "value": 0.31,
+          "label": "31.00%"
+        },
+        {
+          "from": 69,
+          "to": 87,
+          "value": 0.4,
+          "label": "40.00%"
+        },
+        {
+          "from": 89,
+          "to": 87,
+          "value": 0.4,
+          "label": "40.00%"
+        },
+        {
+          "from": 96,
+          "to": 87,
+          "value": 0.4,
+          "label": "40.00%"
+        },
+        {
+          "from": 102,
+          "to": 87,
+          "value": 0.4,
+          "label": "40.00%"
+        },
+        {
+          "from": 87,
+          "to": 88,
+          "value": 0.31,
+          "label": "31.00%"
+        },
+        {
+          "from": 89,
+          "to": 88,
+          "value": 0.31,
+          "label": "31.00%"
+        },
+        {
+          "from": 71,
+          "to": 90,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 74,
+          "to": 90,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 75,
+          "to": 90,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 82,
+          "to": 90,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 83,
+          "to": 90,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 87,
+          "to": 90,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 89,
+          "to": 90,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 92,
+          "to": 90,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 104,
+          "to": 90,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 105,
+          "to": 90,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 106,
+          "to": 90,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 69,
+          "to": 91,
+          "value": 0.31,
+          "label": "31.00%"
+        },
+        {
+          "from": 93,
+          "to": 91,
+          "value": 0.31,
+          "label": "31.00%"
+        },
+        {
+          "from": 101,
+          "to": 91,
+          "value": 0.31,
+          "label": "31.00%"
+        },
+        {
+          "from": 102,
+          "to": 91,
+          "value": 0.31,
+          "label": "31.00%"
+        },
+        {
+          "from": 74,
+          "to": 92,
+          "value": 0.33,
+          "label": "33.00%"
+        },
+        {
+          "from": 82,
+          "to": 92,
+          "value": 0.33,
+          "label": "33.00%"
+        },
+        {
+          "from": 87,
+          "to": 92,
+          "value": 0.33,
+          "label": "33.00%"
+        },
+        {
+          "from": 89,
+          "to": 92,
+          "value": 0.33,
+          "label": "33.00%"
+        },
+        {
+          "from": 104,
+          "to": 92,
+          "value": 0.33,
+          "label": "33.00%"
+        },
+        {
+          "from": 69,
+          "to": 93,
+          "value": 0.31,
+          "label": "31.00%"
+        },
+        {
+          "from": 87,
+          "to": 93,
+          "value": 0.31,
+          "label": "31.00%"
+        },
+        {
+          "from": 89,
+          "to": 93,
+          "value": 0.31,
+          "label": "31.00%"
+        },
+        {
+          "from": 96,
+          "to": 93,
+          "value": 0.31,
+          "label": "31.00%"
+        },
+        {
+          "from": 102,
+          "to": 93,
+          "value": 0.31,
+          "label": "31.00%"
+        },
+        {
+          "from": 107,
+          "to": 93,
+          "value": 0.31,
+          "label": "31.00%"
+        },
+        {
+          "from": 67,
+          "to": 95,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 68,
+          "to": 95,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 70,
+          "to": 95,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 71,
+          "to": 95,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 74,
+          "to": 95,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 76,
+          "to": 95,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 83,
+          "to": 95,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 85,
+          "to": 95,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 90,
+          "to": 95,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 92,
+          "to": 95,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 104,
+          "to": 95,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 105,
+          "to": 95,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 106,
+          "to": 95,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 89,
+          "to": 96,
+          "value": 0.27,
+          "label": "27.00%"
+        },
+        {
+          "from": 89,
+          "to": 99,
+          "value": 0.25,
+          "label": "25.00%"
+        },
+        {
+          "from": 69,
+          "to": 100,
+          "value": 0.25,
+          "label": "25.00%"
+        },
+        {
+          "from": 75,
+          "to": 100,
+          "value": 0.25,
+          "label": "25.00%"
+        },
+        {
+          "from": 89,
+          "to": 100,
+          "value": 0.25,
+          "label": "25.00%"
+        },
+        {
+          "from": 93,
+          "to": 100,
+          "value": 0.25,
+          "label": "25.00%"
+        },
+        {
+          "from": 96,
+          "to": 100,
+          "value": 0.25,
+          "label": "25.00%"
+        },
+        {
+          "from": 98,
+          "to": 100,
+          "value": 0.25,
+          "label": "25.00%"
+        },
+        {
+          "from": 102,
+          "to": 100,
+          "value": 0.25,
+          "label": "25.00%"
+        },
+        {
+          "from": 107,
+          "to": 100,
+          "value": 0.25,
+          "label": "25.00%"
+        },
+        {
+          "from": 69,
+          "to": 101,
+          "value": 0.4,
+          "label": "40.00%"
+        },
+        {
+          "from": 89,
+          "to": 101,
+          "value": 0.4,
+          "label": "40.00%"
+        },
+        {
+          "from": 96,
+          "to": 101,
+          "value": 0.4,
+          "label": "40.00%"
+        },
+        {
+          "from": 102,
+          "to": 101,
+          "value": 0.4,
+          "label": "40.00%"
+        },
+        {
+          "from": 74,
+          "to": 105,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 77,
+          "to": 105,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 82,
+          "to": 105,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 87,
+          "to": 105,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 89,
+          "to": 105,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 92,
+          "to": 105,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 104,
+          "to": 105,
+          "value": 0.19,
+          "label": "19.00%"
+        },
+        {
+          "from": 71,
+          "to": 106,
+          "value": 0.06,
+          "label": "6.00%"
+        },
+        {
+          "from": 74,
+          "to": 106,
+          "value": 0.06,
+          "label": "6.00%"
+        },
+        {
+          "from": 83,
+          "to": 106,
+          "value": 0.06,
+          "label": "6.00%"
+        },
+        {
+          "from": 87,
+          "to": 106,
+          "value": 0.06,
+          "label": "6.00%"
+        },
+        {
+          "from": 89,
+          "to": 106,
+          "value": 0.06,
+          "label": "6.00%"
+        },
+        {
+          "from": 92,
+          "to": 106,
+          "value": 0.06,
+          "label": "6.00%"
+        },
+        {
+          "from": 104,
+          "to": 106,
+          "value": 0.06,
+          "label": "6.00%"
+        },
+        {
+          "from": 105,
+          "to": 106,
+          "value": 0.06,
+          "label": "6.00%"
+        },
+        {
+          "from": 69,
+          "to": 107,
+          "value": 0.18,
+          "label": "18.00%"
+        },
+        {
+          "from": 102,
+          "to": 107,
+          "value": 0.18,
+          "label": "18.00%"
+        },
+        {
+          "from": 69,
+          "to": 109,
+          "value": 0.33,
+          "label": "33.00%"
+        },
+        {
+          "from": 87,
+          "to": 109,
+          "value": 0.33,
+          "label": "33.00%"
+        },
+        {
+          "from": 102,
+          "to": 109,
+          "value": 0.33,
+          "label": "33.00%"
+        },
+        {
+          "from": 89,
+          "to": 110,
+          "value": 0.31,
+          "label": "31.00%"
+        },
+        {
+          "from": 96,
+          "to": 110,
+          "value": 0.31,
+          "label": "31.00%"
+        },
+        {
+          "from": 99,
+          "to": 110,
+          "value": 0.31,
+          "label": "31.00%"
+        }
+      ]
+    },
+    "articles": [
+      {
+        "article_id": 65,
+        "article_title": "Spain sack Luis Enrique after World Cup flop + (RIGHT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_65.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_65.png"
+      },
+      {
+        "article_id": 66,
+        "article_title": "FIFA World Cup 2022: Gavi pens emotional message to Luis Enrique after Spain exit + (RIGHT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_66.json",
+        "chart": ""
+      },
+      {
+        "article_id": 67,
+        "article_title": "Spain replace coach Luis Enrique after early World Cup exit + (CENTER)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_67.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_67.png"
+      },
+      {
+        "article_id": 68,
+        "article_title": "Luis Enrique replaced as Spain coach after World Cup exit + (LEFT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_68.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_68.png"
+      },
+      {
+        "article_id": 69,
+        "article_title": "Spain coach Luis Enrique fired after FIFA World Cup debacle, Luis de la Fuente takes over + (CENTER)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_69.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_69.png"
+      },
+      {
+        "article_id": 70,
+        "article_title": "Luis Enrique replaced as Spain coach after World Cup exit + (RIGHT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_70.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_70.png"
+      },
+      {
+        "article_id": 71,
+        "article_title": "Luis Enrique replaced as Spain coach after World Cup exit + (LEFT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_71.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_71.png"
+      },
+      {
+        "article_id": 72,
+        "article_title": "Luis Enrique replaced as Spain coach after World Cup exit + (CENTER)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_72.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_72.png"
+      },
+      {
+        "article_id": 73,
+        "article_title": "Luis Enrique replaced as Spain coach after World Cup exit + (RIGHT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_73.json",
+        "chart": ""
+      },
+      {
+        "article_id": 74,
+        "article_title": "Luis Enrique replaced as Spain head coach after World Cup exit + (CENTER)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_74.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_74.png"
+      },
+      {
+        "article_id": 75,
+        "article_title": "2022 World Cup: Luis Enrique out as Spain coach after shock Morocco elimination, Luis de la Fuente takes over + (CENTER)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_75.json",
+        "chart": ""
+      },
+      {
+        "article_id": 76,
+        "article_title": "Luis Enrique out as Spain coach after World Cup elimination + (CENTER)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_76.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_76.png"
+      },
+      {
+        "article_id": 77,
+        "article_title": "Spain coach Luis Enrique leaves role after shock World Cup exit at hands of Morocco  + (LEFT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_77.json",
+        "chart": ""
+      },
+      {
+        "article_id": 78,
+        "article_title": "Luis Enrique steps down as head coach after Spain's FIFA World Cup 2022 loss against Morocco + (RIGHT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_78.json",
+        "chart": ""
+      },
+      {
+        "article_id": 79,
+        "article_title": "Spain sack Luis Enrique after World Cup flop + (RIGHT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_79.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_79.png"
+      },
+      {
+        "article_id": 80,
+        "article_title": "Spain sack Luis Enrique after World Cup flop, announce Luis de la Fuente as new coach + (CENTER)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_80.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_80.png"
+      },
+      {
+        "article_id": 81,
+        "article_title": "Spain sack Luis Enrique after World Cup flop + (LEFT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_81.json",
+        "chart": ""
+      },
+      {
+        "article_id": 82,
+        "article_title": "FIFA World Cup: Luis Enrique sacked as Spain coach, Luis de la Fuente named as replacement + (RIGHT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_82.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_82.png"
+      },
+      {
+        "article_id": 83,
+        "article_title": "Luis Enrique replaced as Spain coach after World Cup exit + (LEFT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_83.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_83.png"
+      },
+      {
+        "article_id": 84,
+        "article_title": "Soccer-Spain coach Luis Enrique fired, De la Fuente takes over + (RIGHT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_84.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_84.png"
+      },
+      {
+        "article_id": 85,
+        "article_title": "Luis Enrique out as Spain coach after losing to Morocco in World Cup knockout round + (RIGHT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_85.json",
+        "chart": ""
+      },
+      {
+        "article_id": 86,
+        "article_title": "Fifa World Cup: Luis de la Fuente replaces Luis Enrique as Spain coach after round of 16 loss + (LEFT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_86.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_86.png"
+      },
+      {
+        "article_id": 87,
+        "article_title": "Spain sack coach Luis Enrique after Morocco World Cup defeat + (LEFT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_87.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_87.png"
+      },
+      {
+        "article_id": 88,
+        "article_title": "Spain sack coach Luis Enrique after Morocco World Cup loss + (RIGHT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_88.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_88.png"
+      },
+      {
+        "article_id": 89,
+        "article_title": "Spain coach Luis Enrique departs after FIFA World Cup exit + (LEFT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_89.json",
+        "chart": ""
+      },
+      {
+        "article_id": 90,
+        "article_title": "Luis Enrique replaced as Spain coach after World Cup exit + (RIGHT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_90.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_90.png"
+      },
+      {
+        "article_id": 91,
+        "article_title": "Luis Enrique leaves Spain job with Luis de la Fuente set to replace him + (LEFT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_91.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_91.png"
+      },
+      {
+        "article_id": 92,
+        "article_title": "Luis Enrique replaced as Spain coach after World Cup exit + (LEFT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_92.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_92.png"
+      },
+      {
+        "article_id": 93,
+        "article_title": "Soccer-Spain coach Luis Enrique fired, De la Fuente takes over + (RIGHT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_93.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_93.png"
+      },
+      {
+        "article_id": 95,
+        "article_title": "Luis Enrique Sacked After Spain's Exit From FIFA World Cup 2022 + (RIGHT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_95.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_95.png"
+      },
+      {
+        "article_id": 96,
+        "article_title": "Spain coach Luis Enrique departs after World Cup exit + (CENTER)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_96.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_96.png"
+      },
+      {
+        "article_id": 97,
+        "article_title": "LU ARE A GONER Luis Enrique SACKED as Spain manager after shock World Cup last-16 exit to Morocco with new boss announced moments later + (RIGHT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_97.json",
+        "chart": ""
+      },
+      {
+        "article_id": 98,
+        "article_title": "Luis Enrique sacked by Spain after early World Cup exit as U21s boss Luis de la Fuente takes coaching reins + (RIGHT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_98.json",
+        "chart": ""
+      },
+      {
+        "article_id": 99,
+        "article_title": "Spain coach Luis Enrique out after shock FIFA World Cup exit + (LEFT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_99.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_99.png"
+      },
+      {
+        "article_id": 100,
+        "article_title": "LUIS ENRIQUE LEAVES SPAIN AS MANAGER AFTER WORLD CUP LAST-16 DEFEAT TO MOROCCO, REPLACED BY LUIS DE LA FUENTE + (CENTER)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_100.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_100.png"
+      },
+      {
+        "article_id": 101,
+        "article_title": "Luis Enrique sacked by Spain, replaced by De La Fuente + (LEFT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_101.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_101.png"
+      },
+      {
+        "article_id": 102,
+        "article_title": "Spain coach Luis Enrique fired, De la Fuente takes over + (CENTER)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_102.json",
+        "chart": ""
+      },
+      {
+        "article_id": 104,
+        "article_title": "Luis Enrique replaced as Spain coach after World Cup exit + (CENTER)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_104.json",
+        "chart": ""
+      },
+      {
+        "article_id": 105,
+        "article_title": "Luis Enrique replaced as Spain coach after World Cup exit + (LEFT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_105.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_105.png"
+      },
+      {
+        "article_id": 106,
+        "article_title": "Luis Enrique replaced as Spain coach after World Cup exit + (LEFT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_106.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_106.png"
+      },
+      {
+        "article_id": 107,
+        "article_title": "Spain boss Luis Enrique sacked following World Cup exit + (RIGHT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_107.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_107.png"
+      },
+      {
+        "article_id": 108,
+        "article_title": "Luis Enrique leaves post as Spain boss following shock World Cup exit + (LEFT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_108.json",
+        "chart": ""
+      },
+      {
+        "article_id": 109,
+        "article_title": "Luis Enrique steps aside as Spain head coach after World Cup exit + (LEFT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_109.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_109.png"
+      },
+      {
+        "article_id": 110,
+        "article_title": "Spain fires manager Luis Enrique after upset loss to Morocco + (CENTER)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_110.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_110.png"
+      }
+    ]
+  },
+  {
+    "topic_id": "5",
+    "network": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_network_topic_5.png",
+    "graph": {
+      "nodes": [
+        {
+          "id": 111,
+          "label": "111",
+          "color": "blue"
+        },
+        {
+          "id": 112,
+          "label": "112",
+          "color": "blue"
+        },
+        {
+          "id": 113,
+          "label": "113",
+          "color": "blue"
+        },
+        {
+          "id": 114,
+          "label": "114",
+          "color": "blue"
+        },
+        {
+          "id": 115,
+          "label": "115",
+          "color": "blue"
+        },
+        {
+          "id": 116,
+          "label": "116",
+          "color": "blue"
+        }
+      ],
+      "edges": [
+        {
+          "from": 113,
+          "to": 111,
+          "value": 0.86,
+          "label": "86.00%"
+        },
+        {
+          "from": 115,
+          "to": 111,
+          "value": 0.86,
+          "label": "86.00%"
+        },
+        {
+          "from": 116,
+          "to": 111,
+          "value": 0.86,
+          "label": "86.00%"
+        },
+        {
+          "from": 116,
+          "to": 112,
+          "value": 0.86,
+          "label": "86.00%"
+        },
+        {
+          "from": 115,
+          "to": 113,
+          "value": 0.86,
+          "label": "86.00%"
+        },
+        {
+          "from": 116,
+          "to": 113,
+          "value": 0.86,
+          "label": "86.00%"
+        },
+        {
+          "from": 116,
+          "to": 114,
+          "value": 0.71,
+          "label": "71.00%"
+        },
+        {
+          "from": 116,
+          "to": 115,
+          "value": 0.86,
+          "label": "86.00%"
+        }
+      ]
+    },
+    "articles": [
+      {
+        "article_id": 111,
+        "article_title": "NATO criticises Russia for 'dangerous and irresponsible' nuclear move + (RIGHT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_111.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_111.png"
+      },
+      {
+        "article_id": 112,
+        "article_title": "Russia's nuclear rhetoric is dangerous and irresponsible, says Nato + (RIGHT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_112.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_112.png"
+      },
+      {
+        "article_id": 113,
+        "article_title": "Russia\u2019s nuclear rhetoric is dangerous and irresponsible, Nato says + (RIGHT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_113.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_113.png"
+      },
+      {
+        "article_id": 114,
+        "article_title": "NATO criticises Putin for 'dangerous and irresponsible' nuclear rhetoric + (RIGHT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_114.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_114.png"
+      },
+      {
+        "article_id": 115,
+        "article_title": "Russia's nuclear rhetoric is dangerous and irresponsible, NATO says + (RIGHT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_115.json",
+        "chart": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_115.png"
+      },
+      {
+        "article_id": 116,
+        "article_title": "NATO criticizes Russia\u2019s nuclear rhetoric as \u2018dangerous and irresponsible\u2019 + (RIGHT)",
+        "analyzed": "./././data/ground.news/by_omission/by_omission_GROUNDNEWS_of_article_116.json",
+        "chart": ""
+      }
+    ]
+  }
+]

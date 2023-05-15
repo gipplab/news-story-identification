@@ -1,0 +1,29 @@
+<h6>Earlier article details</h6>
+<ul>
+    <li>
+        <h6>Id: <%= earlier_article_details['ea_id'] %></h6>
+    </li>
+    <li>
+        <h6>
+            Non-Reused ratio: <%= parseFloat(earlier_article_details["ea_non_reused_ratio"] * 100).toFixed(0) %>%
+        </h6>
+    </li>
+    <li>
+        <h6>
+            Non-reused-Left ratio: <%= parseFloat(earlier_article_details["ea_non_reused_label_percent"]["LEFT"] * 100).toFixed(1)
+            %>%
+        </h6>
+    </li>
+    <li>
+        <h6>
+            Non-reused-Center ratio: <%= parseFloat(earlier_article_details["ea_non_reused_label_percent"]['CENTER'] *
+            100).toFixed(1) %>%
+        </h6>
+    </li>
+    <li>
+        <h6>
+            Non-reused-Right ratio: <%= parseFloat(earlier_article_details["ea_non_reused_label_percent"]['RIGHT'] *
+            100).toFixed(1) %>%
+        </h6>
+    </li>
+</ul>

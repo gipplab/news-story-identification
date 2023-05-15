@@ -1,0 +1,10 @@
+<% if(locals.earlier_articles) { %> 
+    <% for(var i = 0; i < earlier_articles.length ; i++) { %>
+    <div>
+      <a
+        href="/<%= keyword %>/<%= topic['topic_id'] %>/<%= article_id %>/<%= earlier_articles[i]['ea_id'] %>"
+        >Article <%= earlier_articles[i]['ea_id']%></a
+      >
+    </div>
+    <% } %> 
+<% } %>

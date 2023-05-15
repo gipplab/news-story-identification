@@ -1,0 +1,28 @@
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <ul class="navbar-nav mr-auto">
+    <li class="nav-item">
+      <a class="nav-link" href="/">Home</a>
+    </li>
+    <li>
+      <a class="nav-link" href="/by_source_selection">By source selection</a>
+    </li>
+    <li>
+      <a class="nav-link" href="/by_commission"> By commission </a>
+    </li>
+    <li>
+      <a class="nav-link" href="/by_omission"> By omission </a>
+    </li>
+  </ul>
+</nav>
+<% if(locals.bias_name) { %>
+  <h3>Interactive visualization - Analysis of media bias by <%= bias_name %></h3>
+<% } %>
+<% if(locals.topic) { %> 
+  <% if(locals.article_id) { %>
+    <h6>
+      Analysis of topic <%= topic_id %> - article <%= article_id %>
+    </h6>
+  <% } else { %>
+    <h6>Analysis of topic <%= topic_id %></h6>
+  <% } %>
+<% } %>

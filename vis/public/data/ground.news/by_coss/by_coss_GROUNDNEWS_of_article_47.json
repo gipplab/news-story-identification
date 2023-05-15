@@ -1,0 +1,474 @@
+{
+    "aic_id": 47,
+    "aic_datetime": "8/12/2022 15:28:35",
+    "aic_label": "CENTER",
+    "aic_total_paragraphs": 29,
+    "aic_reused_paragraphs": 3,
+    "aic_reused_percent": 0.10344827586206896,
+    "aic_non_reused_paragraphs": 0,
+    "aic_non_reused_percent": 0,
+    "is_earliest": false,
+    "by_source_selection": {
+        "verdict": "No",
+        "committed_articles": [],
+        "biased_source_label": {
+            "LEFT": 0,
+            "CENTER": 0,
+            "RIGHT": 0
+        }
+    },
+    "by_commission": {
+        "verdict": "",
+        "aic_reused_label": {
+            "LEFT": 0,
+            "CENTER": 2,
+            "RIGHT": 1
+        },
+        "aic_reused_label_percent": {
+            "LEFT": 0.0,
+            "CENTER": 0.6666666666666666,
+            "RIGHT": 0.3333333333333333
+        }
+    },
+    "by_omission": {
+        "verdict": "Yes",
+        "omitted_articles": [
+            49
+        ],
+        "aic_non_reused_label": {
+            "LEFT": 0,
+            "CENTER": 0,
+            "RIGHT": 1
+        },
+        "aic_non_reused_label_percent": {
+            "LEFT": 0.0,
+            "CENTER": 0.0,
+            "RIGHT": 1.0
+        }
+    },
+    "is_biased_by_source_selection": "No",
+    "earlier_articles": [
+        {
+            "ea_id": 49,
+            "ea_label": "RIGHT",
+            "ea_datetime": "8/12/2022 04:55:21",
+            "ea_total_paragraphs": 54,
+            "ea_total_reused_paragraphs": 3,
+            "ea_reused_ratio": 0.06,
+            "ea_total_non_reused_paragraphs": 51,
+            "ea_non_reused_ratio": 0.9444444444444444,
+            "ea_by_source_selection": "No",
+            "ea_reused_label": {
+                "LEFT": 0,
+                "CENTER": 1,
+                "RIGHT": 2
+            },
+            "ea_reused_label_percent": {
+                "LEFT": 0.0,
+                "CENTER": 0.3333333333333333,
+                "RIGHT": 0.6666666666666666
+            },
+            "ea_non_reused_label": {
+                "LEFT": 14,
+                "CENTER": 22,
+                "RIGHT": 15
+            },
+            "ea_non_reused_label_percent": {
+                "LEFT": 0.27450980392156865,
+                "CENTER": 0.43137254901960786,
+                "RIGHT": 0.29411764705882354
+            },
+            "ea_reused_details": [
+                {
+                    "text": "But they are a jarring change for China, where 'zero COVID,' which aims to isolate every case, disrupted daily life and depressed economic activity but kept infection rates low.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.43063244223594666
+                    },
+                    "reused_by_aic": [
+                        "That means there may be a surge in Covid infections, and China's policy will never go back, Pang said."
+                    ]
+                },
+                {
+                    "text": "'But Beijing is unlikely to return to the extended blanket lockdowns that crashed the economy earlier this year.' The changes suggest the ruling party is easing off its goal of preventing virus transmission, the basis of 'zero COVID,' but officials say that strategy still is in effect.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5531025528907776
+                    },
+                    "reused_by_aic": [
+                        "BEIJING ' As mainland China relaxes many of its stringent Covid controls, analysts point out the country is far from a quick return to a pre-pandemic situation."
+                    ]
+                },
+                {
+                    "text": "More changes announced Wednesday allow people with mild COVID-19 cases to isolate at home instead of going to a quarantine center that some complained were crowded and unsanitary.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.40383389592170715
+                    },
+                    "reused_by_aic": [
+                        "National authorities announced sweeping changes on Wednesday to make it easier to travel domestically, keep businesses operating and allow Covid patients to quarantine at home."
+                    ]
+                }
+            ],
+            "ea_non_reused_details": [
+                {
+                    "text": "BEIJING (AP) ' A rash of COVID-19 cases in schools and businesses were reported Friday in areas across China after the ruling Communist Party loosened anti-virus rules as it tries to reverse a deepening economic slump.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.37375980615615845
+                    }
+                },
+                {
+                    "text": "While official data showed a fall in new cases, they no longer cover large parts of the population after the government on Wednesday ended mandatory testing for many people.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.34822171926498413
+                    }
+                },
+                {
+                    "text": "That was part of dramatic changes aimed at gradually emerging from 'zero COVID' restrictions that have confined millions of people to their homes and sparked protests and demands for President Xi Jinping to resign.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.46012529730796814
+                    }
+                },
+                {
+                    "text": "'There's very few people coming in because there's so many cases,' said Gang Xueping, a waitress in a Beijing restaurant.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6141240000724792
+                    }
+                },
+                {
+                    "text": "'The country's just opened up.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5209954380989075
+                    }
+                },
+                {
+                    "text": "The first one or two months is definitely going to be serious.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.3807770311832428
+                    }
+                },
+                {
+                    "text": "Nobody's used to this yet.' In other cities, social media users said coworkers or classmates were ill and some businesses had closed due to a lack of staff.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6050565242767334
+                    }
+                },
+                {
+                    "text": "It wasn't clear from those accounts, many of which couldn't be independently confirmed, how far above the official figure the total case numbers might be.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.4750276207923889
+                    }
+                },
+                {
+                    "text": "'I'm really speechless.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.45709747076034546
+                    }
+                },
+                {
+                    "text": "Half of the company's people are out sick, but they still won't let us all stay home,' said a post signed Tunnel Mouth on the popular Sina Weibo platform.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5505093336105347
+                    }
+                },
+                {
+                    "text": "The user gave no name and didn't respond to questions sent through the account, which said the user was in Beijing.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.3815138041973114
+                    }
+                },
+                {
+                    "text": "The reports echo the experience of the United States, Europe and other countries that have struggled with outbreaks while trying to restore business activity.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.4652523994445801
+                    }
+                },
+                {
+                    "text": "Xi's government began to loosen controls Nov. 11 after promising to reduce their cost and disruption.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.59957355260849
+                    }
+                },
+                {
+                    "text": "Imports tumbled 10.9% from a year ago in November in a sign of weak demand.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.4054258465766907
+                    }
+                },
+                {
+                    "text": "Auto sales fell 26.5% in October.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5961045622825623
+                    }
+                },
+                {
+                    "text": "'Relaxing COVID controls will lead to greater outbreaks,' Neil Thomas and Laura Gloudeman of Eurasia Group said in a report.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.3696788549423218
+                    }
+                },
+                {
+                    "text": "Restrictions probably must stay in place at least through mid-2023, public health experts and economists say.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5947514176368713
+                    }
+                },
+                {
+                    "text": "They say millions of elderly people need to be vaccinated, which will take months, and hospitals need to be strengthened to cope with a surge in cases.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.4030860364437103
+                    }
+                },
+                {
+                    "text": "Officials announced a vaccination campaign last week.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.451639860868454
+                    }
+                },
+                {
+                    "text": "On Friday, the government reported 16,797 new cases, including 13,160 without symptoms.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.3920450210571289
+                    }
+                },
+                {
+                    "text": "That was down about one-fifth from the previous day and less than half of last week's daily peak above 40,000.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.4467560946941376
+                    }
+                },
+                {
+                    "text": "That addressed a major irritant for the public.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.36935514211654663
+                    }
+                },
+                {
+                    "text": "A requirement for subway riders, supermarket shoppers and others to show negative virus tests also was dropped, though they still are needed for schools and hospitals.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.3885626792907715
+                    }
+                },
+                {
+                    "text": "A post signed Where Dreams Begin Under Starlight by a user in Dazhou, a southwestern city in Sichuan province, said all but five students in a public school class of 46 were infected.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6380634307861328
+                    }
+                },
+                {
+                    "text": "'It's really amazing that the school insists students go to school,' the user wrote.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6030487418174744
+                    }
+                },
+                {
+                    "text": "The user, contacted through the account, declined to give a name or other details.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.4198511838912964
+                    }
+                },
+                {
+                    "text": "The requirement for hundreds of millions of people to be tested as often as once a day in some areas over the past two years helped the government spot infections with no symptoms.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.36710888147354126
+                    }
+                },
+                {
+                    "text": "Ending that approach reduces the cost of monitoring employees and customers at offices, shops and other businesses.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.48225656151771545
+                    }
+                },
+                {
+                    "text": "But it increases the risk they might spread the virus.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.46943986415863037
+                    }
+                },
+                {
+                    "text": "This week's changes follow protests that erupted Nov. 25 in Shanghai, Beijing and other cities against the human cost of 'zero COVID.' It isn't clear whether any of the changes were a response to the protests, which died out following a security crackdown.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6266955137252808
+                    }
+                },
+                {
+                    "text": "The ruling party's Politburo on Wednesday declared stabilizing weak economic growth its priority, though leaders have said local officials still are expected to protect the public.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5954765677452087
+                    }
+                },
+                {
+                    "text": "'The re-pivot to growth and the exit from zero COVID are clear from the top level,' said Larry Hu and Yuxiao Zhang of Macquarie Group, an Australian bank, in a report.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.4167883098125458
+                    }
+                },
+                {
+                    "text": "However, they warned, 'uncertainties remain high,' including 'how disruptive the exit of zero COVID could be.' Party leaders stopped talking about the official 5.5% annual growth target after the economy shrank by 2.6% from the previous quarter in the three months ending in June.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.4874551594257355
+                    }
+                },
+                {
+                    "text": "That was after Shanghai and other industrial centers shut down for up to two months to fight outbreaks.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.4357312321662903
+                    }
+                },
+                {
+                    "text": "Private sector economists have cut forecasts of annual growth to as low as below 3%, which would be less than half of last year's 8.1% and among the weakest in decades.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.592542827129364
+                    }
+                },
+                {
+                    "text": "Social media posts suggested some cities might have outbreaks that weren't reflected in official figures.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.387889564037323
+                    }
+                },
+                {
+                    "text": "Posts dated Thursday by 18 people who said they were in Baoding, a city of 11 million southwest of Beijing, reported they tested positive using home kits or had fevers, sore throats and headaches.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.4794389307498932
+                    }
+                },
+                {
+                    "text": "Meanwhile, the Baoding city government reported no new cases since Tuesday.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.40177619457244873
+                    }
+                },
+                {
+                    "text": "Drugstores were mobbed by customers who bought medications to treat sore throats and headaches after rules were dropped that required pharmacists to report those purchases, prompting fears a customer might be forced into a quarantine center.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.39433056116104126
+                    }
+                },
+                {
+                    "text": "Also Friday, the market regulator announced prices of some medicines including Lianhua Qingwen, a traditional flu treatment, rose as much as 500% over the past month.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.35313722491264343
+                    }
+                },
+                {
+                    "text": "It said sellers might be punished for price gouging.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.5088212490081787
+                    }
+                },
+                {
+                    "text": "Lines formed outside hospitals, though it wasn't clear how many people wanted treatment for COVID-19 symptoms.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5363082885742188
+                    }
+                },
+                {
+                    "text": "People waited four to five hours to get into the fever clinic of Chaoyang Hospital in Beijing, according to a woman who answered the phone there and would give only her surname, Sun.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.7395522594451904
+                    }
+                },
+                {
+                    "text": "She said no virus test was required but patients had to show a smartphone 'health code' app that tracks their vaccine status and whether they have been to areas deemed at high risk of infection.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.517778754234314
+                    }
+                },
+                {
+                    "text": "Hong Kong, which enforces its own anti-virus strategy, has faced a similar rise in cases as the southern Chinese city tries to revive its struggling economy by loosening controls on travel and the opening hours of restaurants and pubs.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.3975614309310913
+                    }
+                },
+                {
+                    "text": "Hong Kong reported 75,000 new cases over the past week, up about 25% from the previous week.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.36462536454200745
+                    }
+                },
+                {
+                    "text": "But those don't include an unknown number of people who stay at home with COVID-19 symptoms and never report to the government.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.49461138248443604
+                    }
+                },
+                {
+                    "text": "___ AP news assistant Caroline Chen in Guangzhou, China, researcher Yu Bing in Beijing, and AP writers Kanis Leung in Hong Kong and Dake Kang in Beijing contributed to this report.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.38174012303352356
+                    }
+                },
+                {
+                    "text": "Copyright ' The Associated Press.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5195060968399048
+                    }
+                },
+                {
+                    "text": "All rights reserved.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.8110060095787048
+                    }
+                },
+                {
+                    "text": "This material may not be published, broadcast, rewritten or redistributed.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.5656464695930481
+                    }
+                }
+            ]
+        }
+    ]
+}

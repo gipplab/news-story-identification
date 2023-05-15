@@ -1,0 +1,13 @@
+<div class="col-sm-4">
+    <ul>
+      <% for(var i = 0; i < articles.length ; i++) { %>
+      <li>
+        <%= articles[i]['article_id']%> |
+        <a
+          href="/<%= keyword %>/<%= topic['topic_id'] %>/<%= articles[i]['article_id']%>"
+          ><%= articles[i]['article_title'] %></a
+        >
+      </li>
+      <% } %>
+    </ul>
+</div>

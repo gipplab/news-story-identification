@@ -1,0 +1,369 @@
+{
+    "aic_id": 14,
+    "aic_datetime": "9/12/2022 12:32:22",
+    "aic_label": "CENTER",
+    "aic_total_paragraphs": 19,
+    "aic_reused_paragraphs": 8,
+    "aic_reused_percent": 0.42105263157894735,
+    "aic_non_reused_paragraphs": 0,
+    "aic_non_reused_percent": 0,
+    "is_earliest": false,
+    "by_source_selection": {
+        "verdict": "No",
+        "committed_articles": [],
+        "biased_source_label": {
+            "LEFT": 0,
+            "CENTER": 0,
+            "RIGHT": 0
+        }
+    },
+    "by_commission": {
+        "verdict": "",
+        "aic_reused_label": {
+            "LEFT": 0,
+            "CENTER": 4,
+            "RIGHT": 4
+        },
+        "aic_reused_label_percent": {
+            "LEFT": 0.0,
+            "CENTER": 0.5,
+            "RIGHT": 0.5
+        }
+    },
+    "by_omission": {
+        "verdict": "Yes",
+        "omitted_articles": [
+            10,
+            15
+        ],
+        "aic_non_reused_label": {
+            "LEFT": 1,
+            "CENTER": 1,
+            "RIGHT": 0
+        },
+        "aic_non_reused_label_percent": {
+            "LEFT": 0.5,
+            "CENTER": 0.5,
+            "RIGHT": 0.0
+        }
+    },
+    "is_biased_by_source_selection": "No",
+    "earlier_articles": [
+        {
+            "ea_id": 10,
+            "ea_label": "LEFT",
+            "ea_datetime": "9/12/2022 05:20:13",
+            "ea_total_paragraphs": 7,
+            "ea_total_reused_paragraphs": 3,
+            "ea_reused_ratio": 0.43,
+            "ea_total_non_reused_paragraphs": 4,
+            "ea_non_reused_ratio": 0.5714285714285714,
+            "ea_by_source_selection": "No",
+            "ea_reused_label": {
+                "LEFT": 0,
+                "CENTER": 2,
+                "RIGHT": 1
+            },
+            "ea_reused_label_percent": {
+                "LEFT": 0.0,
+                "CENTER": 0.6666666666666666,
+                "RIGHT": 0.3333333333333333
+            },
+            "ea_non_reused_label": {
+                "LEFT": 1,
+                "CENTER": 2,
+                "RIGHT": 1
+            },
+            "ea_non_reused_label_percent": {
+                "LEFT": 0.25,
+                "CENTER": 0.5,
+                "RIGHT": 0.25
+            },
+            "ea_reused_details": [
+                {
+                    "text": "ALICANTE, Spain (AP)  Spain, France and Portugal agreed Friday to build by 2030 a major undersea pipeline to transport hydrogen from the Iberian Peninsula to France and eventually the rest of Europe.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.39630037546157837
+                    },
+                    "reused_by_aic": [
+                        "Alicante (Spain) (AFP)  An ambitious underwater pipeline to bring green hydrogen from the Iberian Peninsula to the rest of Europe will be completed by 2030 and will cost some 2.5 billion euros, the leaders of France, Spain and Portugal said Friday.",
+                        "The pipeline between Barcelona and Marseille -- also known as BarMar -- will carry two million tonnes of hydrogen per year, or 10 percent of European consumption, once it goes online, said Spanish Prime Minister Pedro Sanchez.",
+                        "Initially, the idea was for the pipeline to carry gas from the Iberian peninsula to central Europe, given Spain and Portugal's huge capacity for turning liquefied natural gas (LNG) that arrives in tankers back into gas form."
+                    ]
+                },
+                {
+                    "text": "Spanish Prime Minister Pedro Snchez said the pipeline, dubbed H2Med, will be able to convey some 2 million metric tons of hydrogen to France annually  10% of the EUs estimated hydrogen needs.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.4080941677093506
+                    },
+                    "reused_by_aic": [
+                        "Alicante (Spain) (AFP)  An ambitious underwater pipeline to bring green hydrogen from the Iberian Peninsula to the rest of Europe will be completed by 2030 and will cost some 2.5 billion euros, the leaders of France, Spain and Portugal said Friday.",
+                        "The pipeline between Barcelona and Marseille -- also known as BarMar -- will carry two million tonnes of hydrogen per year, or 10 percent of European consumption, once it goes online, said Spanish Prime Minister Pedro Sanchez."
+                    ]
+                },
+                {
+                    "text": "The project is expected to cost 2.5 billion euros ($2.6 billion).",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.48529288172721863
+                    },
+                    "reused_by_aic": [
+                        "The project will cost around 2.5 billion euros ($2.6 billion), he said at a joint press conference with French President Emmanuel Macron and Portuguese Prime Minister Antonio Costa."
+                    ]
+                }
+            ],
+            "ea_non_reused_details": [
+                {
+                    "text": "The pipeline is aimed at making the European Unions energy supply more independent, a goal expedited by the Russian invasion of Ukraine last February that precipitated an energy crisis.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5066732168197632
+                    }
+                },
+                {
+                    "text": "The announcement came after a meeting between Snchez, his French and Portuguese counterparts and European Commission President Ursula von der Leyen in the eastern Spanish city of Alicante.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5208733081817627
+                    }
+                },
+                {
+                    "text": "Today, the Iberian Peninsula is becoming a major European energy gateway to the world, Von der Leyen said at a joint press briefing.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.405803918838501
+                    }
+                },
+                {
+                    "text": "French President Emmanuel Macron said H2Med, which replaces an earlier proposal to transport gas across the Pyrenees Mountains, will take a new path through the Mediterranean and rely on a technology of the future, which is hydrogen.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.4385868310928345
+                    }
+                }
+            ]
+        },
+        {
+            "ea_id": 15,
+            "ea_label": "CENTER",
+            "ea_datetime": "9/12/2022 03:41:23",
+            "ea_total_paragraphs": 23,
+            "ea_total_reused_paragraphs": 7,
+            "ea_reused_ratio": 0.3,
+            "ea_total_non_reused_paragraphs": 16,
+            "ea_non_reused_ratio": 0.6956521739130435,
+            "ea_by_source_selection": "No",
+            "ea_reused_label": {
+                "LEFT": 1,
+                "CENTER": 4,
+                "RIGHT": 2
+            },
+            "ea_reused_label_percent": {
+                "LEFT": 0.14285714285714285,
+                "CENTER": 0.5714285714285714,
+                "RIGHT": 0.2857142857142857
+            },
+            "ea_non_reused_label": {
+                "LEFT": 1,
+                "CENTER": 14,
+                "RIGHT": 1
+            },
+            "ea_non_reused_label_percent": {
+                "LEFT": 0.0625,
+                "CENTER": 0.875,
+                "RIGHT": 0.0625
+            },
+            "ea_reused_details": [
+                {
+                    "text": "REUTERS/Violeta Santos Moura ALICANTE, Spain, Dec 9 (Reuters) - An underwater pipeline to carry green hydrogen between Spain and France will cost about 2.5 billion euros ($2.6 billion), Spanish Prime Minister Pedro Sanchez said on Friday, adding he hoped the European Union would partly fund the project.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5688055157661438
+                    },
+                    "reused_by_aic": [
+                        "Alicante (Spain) (AFP)  An ambitious underwater pipeline to bring green hydrogen from the Iberian Peninsula to the rest of Europe will be completed by 2030 and will cost some 2.5 billion euros, the leaders of France, Spain and Portugal said Friday.",
+                        "The pipeline between Barcelona and Marseille -- also known as BarMar -- will carry two million tonnes of hydrogen per year, or 10 percent of European consumption, once it goes online, said Spanish Prime Minister Pedro Sanchez."
+                    ]
+                },
+                {
+                    "text": "The pipeline between Barcelona and Marseille will have a capacity of 2 million tonnes a year and be ready by the end of the decade, Sanchez said at a summit of Mediterranean European Union leaders in the southeastern Spanish port city of Alicante.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.4453592002391815
+                    },
+                    "reused_by_aic": [
+                        "The pipeline between Barcelona and Marseille -- also known as BarMar -- will carry two million tonnes of hydrogen per year, or 10 percent of European consumption, once it goes online, said Spanish Prime Minister Pedro Sanchez."
+                    ]
+                },
+                {
+                    "text": "The corridor will make Iberia \"a major energy hub\" and form part of a \"European hydrogen backbone\" allowing the bloc to pump hydrogen across the continent as it seeks to produce 10 million tonnes of clean hydrogen a year and import a further 10 million tonnes by 2030, European Commission President Ursula von der Leyen said.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5808952450752258
+                    },
+                    "reused_by_aic": [
+                        "\"It is going to be the first major hydrogen corridor in the European Union,\" Sanchez said."
+                    ]
+                },
+                {
+                    "text": "Green hydrogen is made from electrolysers powered by renewable energy.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.4492581784725189
+                    },
+                    "reused_by_aic": [
+                        "The pipeline under the Mediterranean Sea will carry green hydrogen, which is made from water via electrolysis in a process using renewable energy."
+                    ]
+                },
+                {
+                    "text": "An additional pipeline connecting Spain and Portugal will cost 350 million euros, according to a document provided by Spain.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.4525338411331177
+                    },
+                    "reused_by_aic": [
+                        "Alicante (Spain) (AFP)  An ambitious underwater pipeline to bring green hydrogen from the Iberian Peninsula to the rest of Europe will be completed by 2030 and will cost some 2.5 billion euros, the leaders of France, Spain and Portugal said Friday."
+                    ]
+                },
+                {
+                    "text": "The submarine pipeline was proposed in October as a substitute for the so-called MidCat gas pipeline project across the Pyrenees, which had been championed by Spain and Portugal who said it could relieve immediate pressure on gas supplies.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.4563025236129761
+                    },
+                    "reused_by_aic": [
+                        "Announced at an EU summit in October, the pipeline offers an alternative to the defunct 2003 MidCat pipeline project which was to have carried gas across the Pyrenees from Spain to France.",
+                        "Initially, the idea was for the pipeline to carry gas from the Iberian peninsula to central Europe, given Spain and Portugal's huge capacity for turning liquefied natural gas (LNG) that arrives in tankers back into gas form."
+                    ]
+                },
+                {
+                    "text": "The new underwater pipeline was originally proposed to carry some natural gas as well, but will now only carry hydrogen in order to meet EU funding criteria, Costa said.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.557120144367218
+                    },
+                    "reused_by_aic": [
+                        "The pipeline under the Mediterranean Sea will carry green hydrogen, which is made from water via electrolysis in a process using renewable energy.",
+                        "But Portuguese Prime minister Antonio Costa stressed that the pipeline would only carry green hydrogen."
+                    ]
+                }
+            ],
+            "ea_non_reused_details": [
+                {
+                    "text": "Spain's Prime Minister Pedro Sanchez, French President Emmanuel Macron, Portuguese Prime Minister Antonio Costa and President of the European Commission Ursula von der Leyen pose for a group photo ahead of the Green Hydrogen Corridor Summit Barcelona-Marseille (H2MED), an annex event to the IX Euro-Mediterranean Summit (EU-MED9), in Alicante, Spain, December 9, 2022.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5135234594345093
+                    }
+                },
+                {
+                    "text": "The decision to pursue the project comes as an energy crisis caused by the war in Ukraine has accelerated European plans to bolster renewable energy as an alternative to Russian gas.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.41083669662475586
+                    }
+                },
+                {
+                    "text": "\"Hydrogen is a game changer for Europe,\" von der Leyen said.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6640886664390564
+                    }
+                },
+                {
+                    "text": "\"We want to make hydrogen a central part of our energy system in the transition to climate neutrality.\"",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.592532217502594
+                    }
+                },
+                {
+                    "text": "Portuguese Prime Minister Antonio Costa said the Iberian peninsula's abundance of sunshine and wind used for renewable energy would make producing the hydrogen competitive.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5932808518409729
+                    }
+                },
+                {
+                    "text": "French President Emmanuel Macron said the pipeline could also be used to send hydrogen produced in France from nuclear energy - so-called red hydrogen - in the opposite direction.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5836310386657715
+                    }
+                },
+                {
+                    "text": "Reuters reported earlier that the undersea part of the 455-kilometre (280-mile) pipeline would cost around 2 billion euros, rising to 3 billion depending on its route.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6455807685852051
+                    }
+                },
+                {
+                    "text": "The submarine section will be known as BarMar, while the entire hydrogen corridor connecting Spain and Portugal to France will be called H2MED, Sanchez confirmed.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.5619816184043884
+                    }
+                },
+                {
+                    "text": "Sanchez said France, Spain and Portugal would apply for EU funds to pay for up to 50% of H2MED's cost.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.511845588684082
+                    }
+                },
+                {
+                    "text": "The other half would be funded by the three countries' national grids, but the project also aims to attract private investment, Spanish government sources added.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5460682511329651
+                    }
+                },
+                {
+                    "text": "Paris opposed the plan, arguing that two existing pipelines across the Pyrenees which divide the Iberian Peninsula from France were already under-utilised.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.39804163575172424
+                    }
+                },
+                {
+                    "text": "Some observers are sceptical about H2MED's chances of success, with Faig Abbasov, shipping programme director at Transport & Environment, a Brussels-based NGO, labelling it \"window dressing\" to reduce political tensions raised by MidCat.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6556640863418579
+                    }
+                },
+                {
+                    "text": "\"If you already have an overland pipeline why build an undersea pipeline?\"",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6576495170593262
+                    }
+                },
+                {
+                    "text": "Abbasov said.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5756654739379883
+                    }
+                },
+                {
+                    "text": "\"Spain would be better off exporting by sea.\"",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5628821849822998
+                    }
+                },
+                {
+                    "text": "($1 = 0.9471 euros)",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.39352238178253174
+                    }
+                }
+            ]
+        }
+    ]
+}

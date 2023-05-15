@@ -1,0 +1,152 @@
+{
+    "aic_id": 114,
+    "aic_datetime": "26/03/2023 19:12:00",
+    "aic_label": "RIGHT",
+    "aic_total_paragraphs": 35,
+    "aic_reused_paragraphs": 6,
+    "aic_reused_percent": 0.17142857142857143,
+    "aic_non_reused_paragraphs": 0,
+    "aic_non_reused_percent": 0,
+    "is_earliest": false,
+    "by_source_selection": {
+        "verdict": "No",
+        "committed_articles": [
+            116
+        ],
+        "biased_source_label": {
+            "LEFT": 0,
+            "CENTER": 1,
+            "RIGHT": 0
+        }
+    },
+    "by_commission": {
+        "verdict": "",
+        "aic_reused_label": {
+            "LEFT": 1,
+            "CENTER": 5,
+            "RIGHT": 0
+        },
+        "aic_reused_label_percent": {
+            "LEFT": 0.16666666666666666,
+            "CENTER": 0.8333333333333334,
+            "RIGHT": 0.0
+        }
+    },
+    "by_omission": {
+        "verdict": "No",
+        "omitted_articles": [],
+        "aic_non_reused_label": {
+            "LEFT": 0,
+            "CENTER": 0,
+            "RIGHT": 0
+        },
+        "aic_non_reused_label_percent": {
+            "LEFT": 0,
+            "CENTER": 0,
+            "RIGHT": 0
+        }
+    },
+    "is_biased_by_source_selection": "No",
+    "earlier_articles": [
+        {
+            "ea_id": 116,
+            "ea_label": "RIGHT",
+            "ea_datetime": "26/03/2023 17:11:00",
+            "ea_total_paragraphs": 7,
+            "ea_total_reused_paragraphs": 5,
+            "ea_reused_ratio": 0.71,
+            "ea_total_non_reused_paragraphs": 2,
+            "ea_non_reused_ratio": 0.2857142857142857,
+            "ea_by_source_selection": "",
+            "ea_reused_label": {
+                "LEFT": 1,
+                "CENTER": 3,
+                "RIGHT": 1
+            },
+            "ea_reused_label_percent": {
+                "LEFT": 0.2,
+                "CENTER": 0.6,
+                "RIGHT": 0.2
+            },
+            "ea_non_reused_label": {
+                "LEFT": 0,
+                "CENTER": 1,
+                "RIGHT": 1
+            },
+            "ea_non_reused_label_percent": {
+                "LEFT": 0.0,
+                "CENTER": 0.5,
+                "RIGHT": 0.5
+            },
+            "ea_reused_details": [
+                {
+                    "text": "NATO on Sunday criticized Russia for its dangerous and irresponsible nuclear rhetoric, a day after Russian President Vladimir Putin said Russia would station tactical nuclear weapons in Belarus.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5670410990715027
+                    },
+                    "reused_by_aic": [
+                        "NATO on Sunday criticised Vladimir Putin for what it called his \"dangerous and irresponsible\" nuclear rhetoric, a day after the Russian president said he would station tactical nuclear weapons in Belarus."
+                    ]
+                },
+                {
+                    "text": "We have not seen any changes in Russia's nuclear posture that would lead us to adjust our own, a NATO spokesperson said.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5068963170051575
+                    },
+                    "reused_by_aic": [
+                        "Washington appeared to see no change in the potential for Moscow to use nuclear weapons in the war in Ukraine, and it and NATO said the news would not affect their own nuclear position.",
+                        "\"We have not seen any changes in Russia's nuclear posture that would lead us to adjust our own,\" the NATO spokesperson wrote."
+                    ]
+                },
+                {
+                    "text": "Russia's reference to NATO's nuclear sharing is totally misleading.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.6191481351852417
+                    },
+                    "reused_by_aic": [
+                        "\"Russia's reference to NATO's nuclear sharing is totally misleading."
+                    ]
+                },
+                {
+                    "text": "NATO allies act with full respect of their international commitments.",
+                    "label": {
+                        "label": "LEFT",
+                        "score": 0.5384891629219055
+                    },
+                    "reused_by_aic": [
+                        "NATO allies act with full respect of their international commitments,\" a NATO spokesperson said in emailed comments to Reuters on Sunday."
+                    ]
+                },
+                {
+                    "text": "Russia has consistently broken its arms control commitments, most recently suspending its participation in the New START Treaty.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.37160903215408325
+                    },
+                    "reused_by_aic": [
+                        "\"Russia has consistently broken its arms control commitments, most recently suspending its participation in the New START Treaty,\" the unnamed spokesperson said."
+                    ]
+                }
+            ],
+            "ea_non_reused_details": [
+                {
+                    "text": "NATO is vigilant, and we are closely monitoring the situation.",
+                    "label": {
+                        "label": "RIGHT",
+                        "score": 0.37328532338142395
+                    }
+                },
+                {
+                    "text": "For the latest headlines, follow our Google News channel online or via the app.",
+                    "label": {
+                        "label": "CENTER",
+                        "score": 0.5446296334266663
+                    }
+                }
+            ]
+        }
+    ]
+}
