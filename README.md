@@ -2,7 +2,7 @@
 
 This repository holds the source code of the master thesis title above.
 
-![alt text](https://github.com/gipplab/news-story-identification/github.jpg?raw=true)
+![alt text](./github.jpg?raw=true)
 
 # Step 0: Prerequisites
 
