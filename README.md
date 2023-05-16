@@ -45,15 +45,15 @@ Open the file `./consts.py`, find the variable `dataset` and create a new dictio
 
 ```
 dataset = {
-    'POLUSA': {
-        '300k': {
-            'FOLDER': './data/polusa_300k',
-            'FILES': ['data.csv']
+    'GROUNDNEWS': {
+        'one_topic': {
+            'FOLDER': './data/ground.news',
+            'FILES': ['./0/data.csv']
         },
         'Full': {
-            'FOLDER': './data/polusa/polusa_balanced',
-            'FILES':  ['2017_1.csv', '2017_2.csv', '2018_1.csv', '2018_2.csv', '2019_1.csv', '2019_2.csv']
-        },
+            'FOLDER': './data/ground.news',
+            'FILES': ['./0/data.csv', './1/data.csv', './2/data.csv', './3/data.csv', './4/data.csv', './5/data.csv']
+        }
     }
 }
 ```
@@ -61,7 +61,7 @@ dataset = {
 Open the file `./by_coss.py`, find the variables `DATASET` and `DATASET_VERSION` and update them with your dataset name and version of choice. Example:
 
 ```
-DATASET = 'POLUSA'
+DATASET = 'GROUNDNEWS'
 DATASET_VERSION = 'Full'
 ```
 
@@ -87,7 +87,7 @@ Install dependencies
 $ ./vis> npm install
 ```
 
-Copy your analysis results from the folder `./data/<your_dataset_path>/by_coss` to `./public/`
+Copy your analysis results from the folder `./data/<your_dataset_path>/by_coss` in Step 2 to `./public/`
 
 Open the file `./environments.js`, find the variable `dataFolder` and update with your new path which you've just copied your results to (keep the keyword `exports`). Example
 
