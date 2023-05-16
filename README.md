@@ -1,20 +1,20 @@
 # Towards identification of bias by source selection, commission and omission in a collection of news articles by identification of reused text fragments
 
-This repository holds the source code of the master thesis title above.
+This repository holds the source code of the master thesis title above. Screenshot:
 
 ![alt text](./github.jpg?raw=true)
 
 # Step 0: Prerequisites
 
-`Python 3.7.0+`
+`Python v3.7.0+`
 
-`Node.js v18.12.1`
+`Node.js v18.12.1+`
 
-`npm v8.19.2`
+`npm v8.19.2+`
 
 # Step 1: Dataset preparation
 
-Dataset is structured collection of news articles and grouped by a general topic in a CSV file. The file must have following fields:
+Dataset is collection of news articles of a specific topic and store as a row in a CSV file. Each row must have following fields:
 
 | Field       | Description                                       | Example                                                                                                                                                                                                                             |
 | ----------- | ------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -58,7 +58,7 @@ dataset = {
 }
 ```
 
-Open the file `./by_coss`, find the variables `DATASET` and `DATASET_VERSION` and update them with your dataset name and version of choice. Example:
+Open the file `./by_coss.py`, find the variables `DATASET` and `DATASET_VERSION` and update them with your dataset name and version of choice. Example:
 
 ```
 DATASET = 'POLUSA'
@@ -141,3 +141,15 @@ polarity_classification_configurations = {
 ```
 
 Explanations of the parameters: https://huggingface.co/docs/transformers/v4.29.1/en/main_classes/trainer#transformers.TrainingArguments
+
+Training dataset are structured exactly the same in <b>Step 1</b>.
+
+To specify the training dataset location, open the file `./polarity_classification_automodel.py`, find and update the variables `DATASET` and `DATASET_VERSION` similarly in <b>Step 2</b>.
+
+Run following command to start fine-tuning
+
+```
+$ python polarity_classification_automodel.py
+```
+
+Resulting model is stored under the folder `./model` or the location which is put in the variable `polarity_classification_configurations['output_dir']` above.
