@@ -2,7 +2,9 @@
 
 This repository holds the source code of the master thesis title above.
 
-# Step 0: Prerequisites:
+![alt text](https://github.com/gipplab/news-story-identification/github.jpg?raw=true)
+
+# Step 0: Prerequisites
 
 `Python 3.7.0+`
 
@@ -14,13 +16,13 @@ This repository holds the source code of the master thesis title above.
 
 Dataset is structured collection of news articles and grouped by a general topic in a CSV file. The file must have following fields:
 
-| Field       | Description                                       | Example                                                                                                                                                                                                                             |     |     |     |     |     |     |     |
-| ----------- | ------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- | --- | --- | --- | --- | --- | --- |
-| id          | Integer                                           | 1                                                                                                                                                                                                                                   |     |     |     |     |     |     |     |
-| title       | Article's headline                                | Russia Demanded Spy Serving Life Sentence In Germany Swapped In Exchange For Paul Whelan                                                                                                                                            |     |     |     |     |     |     |     |
-| text        | Article's main content                            | A report by CNN says that Russia demanded that Russian spy, Vadim Krasikov, be released along with Viktor Bout, a Russian arms dealer who was serving a 25-year sentence in the US, in exchange for Paul Whelan and Brittney Griner |     |     |     |     |     |     |     |
-| outlet_name | Outlet name (optional)                            | CNN                                                                                                                                                                                                                                 |     |     |     |     |     |     |     |
-| datetime    | Published date with format dd/MM/yyyy hh:mm       | 9/12/2022 11:12                                                                                                                                                                                                                     |     |     |     |     |     |     |     |
+| Field       | Description                                       | Example                                                                                                                                                                                                                             |
+| ----------- | ------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| id          | Integer                                           | 1                                                                                                                                                                                                                                   |
+| title       | Article's headline                                | Russia Demanded Spy Serving Life Sentence In Germany Swapped In Exchange For Paul Whelan                                                                                                                                            |
+| text        | Article's main content                            | A report by CNN says that Russia demanded that Russian spy, Vadim Krasikov, be released along with Viktor Bout, a Russian arms dealer who was serving a 25-year sentence in the US, in exchange for Paul Whelan and Brittney Griner |
+| outlet_name | Outlet name (optional)                            | CNN                                                                                                                                                                                                                                 |
+| datetime    | Published date with format dd/MM/yyyy hh:mm       | 9/12/2022 11:12                                                                                                                                                                                                                     |
 | label       | Polarity assigned by outlet (LEFT, CENTER, RIGHT) | CENTER                                                                                                                                                                                                                              |
 
 # Step 2: Analysis of bias by COSS
@@ -93,10 +95,49 @@ Open the file `./environments.js`, find the variable `dataFolder` and update wit
 exports.dataFolder = `./public/data/ground.news/by_coss/`;
 ```
 
-Run the following command and start viewing results
+Run the following command
 
 ```
 $ ./vis> node index.js
 ```
 
+Open your favorite browser and visit `http://localhost/` and start exploring results.
+
 # Other configurables
+
+## Change transformers models
+
+Path to the paraphrase identification and polarity classification models can be edited by opening the file `./consts.py`, find and edit the path for these two variables: `paraphrase_identifier_modelname` and `polarity_classifier_path`. The path can be a name to a huggingface model or in local folder.
+
+Example:
+
+```
+# Hugging Face model
+paraphrase_identifier_modelname = 'sentence-transformers/paraphrase-MiniLM-L3-v2'
+
+# Local folder
+polarity_classifier_path = './checkpoint-1130-paraphrase-albert-small-v2' #
+```
+
+## Fine tune Polarity classfication model
+
+The polarity classification model is fined-tune by either changing the pre-trained model in the variable `polarity_classifier_path` or edit training parameters, which is an object variable `polarity_classification_configurations` in the `./consts.py` file.
+Example:
+
+```
+polarity_classification_configurations = {
+    "modelname": paraphrase_identifier_modelname,
+    "output_dir": "model",
+    "learning_rate": 2e-5,
+    "per_device_train_batch_size": 16,
+    "per_device_eval_batch_size": 16,
+    "num_train_epochs": 2,
+    "weight_decay": 0.01,
+    "evaluation_strategy": "epoch",
+    "save_strategy": "epoch",
+    "load_best_model_at_end": True,
+    "push_to_hub": False,
+}
+```
+
+Explanations of the parameters: https://huggingface.co/docs/transformers/v4.29.1/en/main_classes/trainer#transformers.TrainingArguments
