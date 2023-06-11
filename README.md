@@ -1,6 +1,8 @@
 # Towards identification of bias by source selection, commission and omission in a collection of news articles by identification of reused text fragments
 
-This repository holds the source code of the master thesis title above. Screenshot:
+This repository holds the source code of the master thesis title above. [Click to Demo](https://bias-by-coss.herokuapp.com/).
+
+Screenshot:
 
 ![alt text](./github.jpg?raw=true)
 
