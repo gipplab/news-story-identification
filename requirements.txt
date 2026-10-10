@@ -1,7 +1,7 @@
 beautifulsoup4==4.11.1
 bertopic==0.14.1
 chatnoir_api==2.0.7
-datasets==2.7.1
+datasets==5.0.1
 gensim==4.2.0
 geopy==2.3.0
 Giveme5W1H==1.0.18
